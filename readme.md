@@ -15,7 +15,10 @@ MUNCH FIND! is a NextJs Productivity app that solves decision fatigue around foo
         - [result summary](/documentation/1.2.2%20User%20Requirements.md)
 - Final Submission
     1. [Design document](/documentation/2.1%20Design%20Document.md)
-    2. [Use Case / Storyboards](https://raw.githubusercontent.com/LuluHuman/munchfind/refs/heads/main/documentation/2.2%20Storyboard.html)
+    2. Use Case / Storyboards
+        - [Claude artifact](https://raw.githubusercontent.com/LuluHuman/munchfind/refs/heads/main/documentation/2.2%20Storyboard.html)  
+        - [Raw source code](https://raw.githubusercontent.com/LuluHuman/munchfind/refs/heads/main/documentation/2.2%20Storyboard.html)
+        - [Human storyboard](/documentation/images/storyboard-human.png)
     3. Gantt chart
     4. Project prototype
     5. Presentation slides
