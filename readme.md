@@ -14,7 +14,7 @@ MUNCH FIND! is a NextJs Productivity app that solves decision fatigue around foo
         * [Survey/interview questionnaire](/documentation/1.2.1%20Survey%20Questionare.md)
         * [result summary](/documentation/1.2.2%20User%20Requirements.md)
 * Final Submission
-    1. Design document
+    1. [Design document](/documentation/2.1%20Design%20Document.md)
     2. Use Case / Storyboards
     3. Gantt chart
     4. Project prototype
