@@ -6,8 +6,19 @@
 
 MUNCH FIND! is a NextJs Productivity app that solves decision fatigue around food choices. By choosing a random food for the user.
 
-# Documentation
-- [Proposal](/documentation/1.1.%20Proposal.md)
+# Documentation Tree
+
+* First Submission
+    1. [Software application proposal](/documentation/1.1.%20Proposal.md)
+    2.  Survey Questionare ans results
+        * [Survey/interview questionnaire](/documentation/1.2.1%20Survey%20Questionare.md)
+        * [result summary](/documentation/1.2.2%20User%20Requirements.md)
+* Final Submission
+    1. Design document
+    2. Use Case / Storyboards
+    3. Gantt chart
+    4. Project prototype
+    5. Presentation slides
 # Overview
 
 Munch Find\! is a mobile/web application that solves decision fatigue around food choices by randomly selecting a store and dish for the user, rather than presenting yet another list to scroll through. When a user can't decide what to eat, they simply open the app, apply optional filters such as budget, location, or dietary needs, and let the app choose for them. For groups, Munch Find\! offers a shared decision mode, where everyone joins a session and the app picks one option that the whole group commits to, removing the usual back-and-forth of "you choose" and the blame that follows a bad pick.
