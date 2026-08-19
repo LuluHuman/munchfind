@@ -1,10 +1,10 @@
 # MUNCH FIND!
+> [!NOTE]
+> * This is a collage project
+> * This app is mostly vibe coded
+> 
 
-```
-!!This is a school project!!
-```
-
-MUNCH FIND! is a NextJs Productivity app that solves decision fatigue around food choices. By choosing a random food for the user.
+MUNCH FIND! is a [Next.js](https://nextjs.org) Productivity app that solves decision fatigue around food choices. By choosing a random food for the user.
 
 # Documentation Tree
 
@@ -30,3 +30,19 @@ Munch Find\! is a mobile/web application that solves decision fatigue around foo
 The operational need behind this project is simple: existing food delivery platforms are built to maximise browsing, not to minimise it. They show users more choices, not fewer, which actively works against people who are tired, busy, or simply can't agree with the people they're eating with. There is currently no widely-used tool that removes the choice itself as the point of value, rather than adding to it.
 
 The expected outcome is a working prototype that demonstrates this core decision-removal mechanic, built and validated with real user input through survey and interview data. Success for this project means a functional prototype that a genuinely indecisive user, or a genuinely indecisive group, could open and use to solve the "what should we eat" problem in under a minute.
+
+# Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
