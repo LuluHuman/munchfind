@@ -1,69 +1,128 @@
-import Image from "next/image";
+"use client";
+
+import Box from "@mui/material/Box";
+import Button from "@mui/material/Button";
+import ToggleButton from "@mui/material/ToggleButton";
+import ToggleButtonGroup from "@mui/material/ToggleButtonGroup";
+import Typography from "@mui/material/Typography";
+import Link from "next/link";
+import { useState } from "react";
+import { Col, Row } from "@/components/Flex";
+import OutlinedCard from "@/components/OutlinedCard";
+import PageShell from "@/components/PageShell";
+import SummaryRow from "@/components/SummaryRow";
+
+type Mode = "solo" | "group";
+
+function handleCreateSession() { }
+function handleJoinSession() { }
 
 export default function Home() {
+  const [mode, setMode] = useState<Mode>("solo");
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+    <PageShell>
+      <Row align="center" justify="space-between">
+        <Typography variant="h2">MunchFind</Typography>
+        <ToggleButtonGroup
+          value={mode}
+          exclusive
+          size="small"
+          onChange={(_, next) => next && setMode(next)}
+          sx={{
+            bgcolor: "background.paper",
+            border: 1,
+            borderColor: "divider",
+            borderRadius: 3,  
+          }}
+        >
+          <ToggleButton value="solo" sx={{ border: 0, borderRadius: 2.5, px: 2 }}>
+            Solo
+          </ToggleButton>
+          <ToggleButton value="group" sx={{ border: 0, borderRadius: 2.5, px: 2 }}>
+            Group
+          </ToggleButton>
+        </ToggleButtonGroup>
+      </Row>
+
+      {mode === "solo" ? <SoloHome /> : <GroupHome />}
+    </PageShell>
+  );
+}
+
+function SoloHome() {
+  return (
+    <>
+      <Row justify="space-between">
+        <Typography variant="overline" color="text.secondary" sx={{ letterSpacing: 1.2 }}>
+          SG · Tampines
+        </Typography>
+        <Typography variant="overline" color="text.secondary" sx={{ letterSpacing: 1.2 }}>
+          17 in range
+        </Typography>
+      </Row>
+
+      <Box>
+        <Typography variant="h1" component="h1" sx={{ lineHeight: 1.15 }}>
+          Stop scrolling.
+          <br />
+          We pick.
+        </Typography>
+        <Typography
+          variant="body1"
+          color="text.secondary"
+          sx={{ fontStyle: "italic", mt: 1.5 }}
+        >
+          MunchFind does not hand you a list. Set your limits once, press the
+          button, and take the answer. One store, one dish, no negotiation.
+        </Typography>
+      </Box>
+
+      <Link href="/result" style={{ textDecoration: "none" }}>
+        <OutlinedCard
+          sx={{
+            textAlign: "center",
+            cursor: "pointer",
+            "&:hover": { bgcolor: "action.hover" },
+          }}
+        >
+          <Typography variant="h2" color="primary.main">
+            Decide for me →
+          </Typography>
+          <Typography variant="body2" color="text.secondary" sx={{ mt: 0.5 }}>
+            Any budget · Any cuisine · within 5km
+          </Typography>
+        </OutlinedCard>
+      </Link>
+
+      <Box sx={{ mt: "auto" }}>
+        <Link href="/filters" style={{ textDecoration: "none", color: "inherit" }}>
+          <SummaryRow label="Budget" value="Any" />
+          <SummaryRow label="Cuisine" value="Any" />
+          <SummaryRow label="Dietary" value="No restriction" />
+          <SummaryRow label="Within" value="5km" />
+        </Link>
+      </Box>
+    </>
+  );
+}
+
+function GroupHome() {
+  return (
+    <Col spacing={2} sx={{ flex: 1, justifyContent: "center", textAlign: "center" }}>
+      <Typography variant="h2">Decide together.</Typography>
+      <Typography variant="body1" color="text.secondary" sx={{ fontStyle: "italic" }}>
+        Everyone joins a session and gets the same random result — no
+        back-and-forth.
+      </Typography>
+      <Col spacing={1.5} sx={{ mt: 2 }}>
+        <Button variant="contained" size="large" onClick={handleCreateSession}>
+          Create session
+        </Button>
+        <Button variant="outlined" size="large" onClick={handleJoinSession}>
+          Join session
+        </Button>
+      </Col>
+    </Col>
   );
 }
