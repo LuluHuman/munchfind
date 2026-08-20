@@ -63,7 +63,8 @@ export default function ResultPage() {
             align="center"
             spacing={1}
             sx={{
-              bgcolor: "#F6E9D2",
+              bgcolor: (theme) => theme.palette.m3.primaryContainer,
+              color: (theme) => theme.palette.m3.onPrimaryContainer,
               border: 1,
               borderColor: "primary.main",
               borderRadius: 3,
