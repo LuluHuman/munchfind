@@ -6,11 +6,12 @@ import ToggleButton from "@mui/material/ToggleButton";
 import ToggleButtonGroup from "@mui/material/ToggleButtonGroup";
 import Typography from "@mui/material/Typography";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Col, Row } from "@/components/Flex";
 import OutlinedCard from "@/components/OutlinedCard";
 import PageShell from "@/components/PageShell";
 import SummaryRow from "@/components/SummaryRow";
+import { cuisineLabel, DEFAULT_FILTERS, dietaryLabel, readFilters } from "@/lib/filters";
 
 type Mode = "solo" | "group";
 
@@ -51,14 +52,51 @@ export default function Home() {
 }
 
 function SoloHome() {
+  const [filters, setFilters] = useState(DEFAULT_FILTERS);
+  const [location, setLocation] = useState<string | null>(null);
+  const [inRange, setInRange] = useState<number | null>(null);
+
+  useEffect(() => {
+    setFilters(readFilters());
+  }, []);
+
+  useEffect(() => {
+    fetch(`/api/restaurants/count?maxDistance=${filters.distance}`)
+      .then((res) => res.json())
+      .then((data: { count: number }) => setInRange(data.count))
+      .catch(() => setInRange(null));
+  }, [filters.distance]);
+
+  useEffect(() => {
+    if (!("geolocation" in navigator)) {
+      setLocation("Location unavailable");
+      return;
+    }
+
+    navigator.geolocation.getCurrentPosition(
+      ({ coords }) => {
+        fetch(`/api/location?lat=${coords.latitude}&lon=${coords.longitude}`)
+          .then((res) => res.json())
+          .then((data: { town: string | null; countryCode: string | null }) => {
+            setLocation([data.countryCode, data.town].filter(Boolean).join(" · ") || "Location unavailable");
+          })
+          .catch(() => setLocation("Location unavailable"));
+      },
+      () => setLocation("Location unavailable"),
+    );
+  }, []);
+
+  const cuisines = cuisineLabel(filters.cuisines);
+  const dietary = dietaryLabel(filters.dietary);
+
   return (
     <>
       <Row justify="space-between">
         <Typography variant="overline" color="text.secondary" sx={{ letterSpacing: 1.2 }}>
-          SG · Tampines
+          {location ?? "Locating…"}
         </Typography>
         <Typography variant="overline" color="text.secondary" sx={{ letterSpacing: 1.2 }}>
-          17 in range
+          {inRange === null ? "…" : inRange} in range
         </Typography>
       </Row>
 
@@ -90,17 +128,17 @@ function SoloHome() {
             Decide for me →
           </Typography>
           <Typography variant="body2" color="text.secondary" sx={{ mt: 0.5 }}>
-            Any budget · Any cuisine · within 5km
+            {filters.budget} budget · {cuisines} cuisine · within {filters.distance}km
           </Typography>
         </OutlinedCard>
       </Link>
 
       <Box sx={{ mt: "auto" }}>
         <Link href="/filters" style={{ textDecoration: "none", color: "inherit" }}>
-          <SummaryRow label="Budget" value="Any" />
-          <SummaryRow label="Cuisine" value="Any" />
-          <SummaryRow label="Dietary" value="No restriction" />
-          <SummaryRow label="Within" value="5km" />
+          <SummaryRow label="Budget" value={filters.budget} />
+          <SummaryRow label="Cuisine" value={cuisines} />
+          <SummaryRow label="Dietary" value={dietary} />
+          <SummaryRow label="Within" value={`${filters.distance}km`} />
         </Link>
       </Box>
     </>

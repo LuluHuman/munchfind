@@ -1,7 +1,7 @@
 # MUNCH FIND!
 > [!NOTE]
-> * This is a collage project
-> * This app is mostly vibe coded
+> * This is a prototype for a graded collage project
+> * This app is ~~entirely~~ mostly vibe coded using claude code
 > 
 
 MUNCH FIND! is a [Next.js](https://nextjs.org) Productivity app that solves decision fatigue around food choices. By choosing a random food for the user.
@@ -20,10 +20,17 @@ MUNCH FIND! is a [Next.js](https://nextjs.org) Productivity app that solves deci
         - [Raw source code](https://raw.githubusercontent.com/LuluHuman/munchfind/refs/heads/main/documentation/2.2%20Storyboard.html)
         - [Human storyboard](/documentation/images/storyboard-human.png)
     3. [Gantt chart](https://raw.githubusercontent.com/LuluHuman/munchfind/refs/heads/main/documentation/2.3%20Ghantt%20Chart.pdf)
-    4. Project prototype
+    4. Project prototype (basically this)
     5. Presentation slides
 
 # Overview
+
+> [!NOTE]
+> ### The cake is a lie
+> * Results dont show the distance relative to your location and is purely based on where the data was scraped.
+> * Dishes are AI suggested by claude and will definately not match (Old Chang Kee doesnt sell Korean chicken) and is purely for protorype purposes
+> * Geolocation is set to SG, Simei and does not reflect your actual location
+> 
 
 Munch Find\! is a mobile/web application that solves decision fatigue around food choices by randomly selecting a store and dish for the user, rather than presenting yet another list to scroll through. When a user can't decide what to eat, they simply open the app, apply optional filters such as budget, location, or dietary needs, and let the app choose for them. For groups, Munch Find\! offers a shared decision mode, where everyone joins a session and the app picks one option that the whole group commits to, removing the usual back-and-forth of "you choose" and the blame that follows a bad pick.
 
