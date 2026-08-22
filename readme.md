@@ -95,6 +95,8 @@ The repo already ships a built [munchfind.sqlite](/src/data/munchfind.sqlite), s
 npm run db:build
 ```
 
-# Documentation
+# ~~Documentation~~
 
-The prototype leans on real research, not just vibes &mdash; see the [Documentation Tree](#documentation-tree) above for the proposal, survey/interview data, design document, storyboards, and Gantt chart behind it.
+~~The prototype leans on real research, not just vibes &mdash; see the [Documentation Tree](#documentation-tree) above for the proposal, survey/interview data, design document, storyboards, and Gantt chart behind it.~~ 
+
+Claude, pergi zip sekarang
