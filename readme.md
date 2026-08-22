@@ -2,7 +2,7 @@
 > [!NOTE]
 > * This is a prototype for a graded collage project
 > * This app is ~~entirely~~ mostly vibe coded using claude code
-> 
+> * A small part of this readme is ai generated, the rest is 100% untouched human love
 
 MUNCH FIND! is a [Next.js](https://nextjs.org) Productivity app that solves decision fatigue around food choices. By choosing a random food for the user.
 
@@ -38,9 +38,45 @@ The operational need behind this project is simple: existing food delivery platf
 
 The expected outcome is a working prototype that demonstrates this core decision-removal mechanic, built and validated with real user input through survey and interview data. Success for this project means a functional prototype that a genuinely indecisive user, or a genuinely indecisive group, could open and use to solve the "what should we eat" problem in under a minute.
 
+# What's actually in the prototype
+
+- **Random pick engine** &mdash; land on the homepage, hit go, get one restaurant and one dish. No list, no scrolling.
+- **Optional filters** &mdash; narrow the pool by budget, cuisine, dietary restriction, and distance (`/filters`) before rolling. Filter choices persist in a cookie (`mf_filters`) so they stick between visits.
+- **Reroll cap** &mdash; rerolling a result is capped at 10 rolls per hour (tracked client-side via `localStorage`), so the app still nudges you toward committing instead of re-rolling forever. See [rolls.ts](/src/lib/rolls.ts).
+- **Result page** &mdash; `/result` calls the result API, shows the picked dish/restaurant, and lets you reroll within the cap.
+- **Seeded local dataset** &mdash; restaurant and dish data is scraped/compiled into JSON/CSV under [src/data/](/src/data/) and built into a local SQLite database ([munchfind.sqlite](/src/data/munchfind.sqlite)) via `npm run db:build` ([build-db.mjs](/scripts/build-db.mjs)).
+- **Small API surface** &mdash; `/api/result` (pick a dish given current filters), `/api/restaurants/count` (pool size for the current filters), `/api/location` (currently hardcoded to Simei, SG &mdash; see the disclaimer above).
+
+# Tech Stack
+
+- [Next.js](https://nextjs.org) 16 (App Router) + React 19 + TypeScript
+- [MUI](https://mui.com/material-ui/) with a custom Material 3 theme ([src/theme/](/src/theme/)) for the UI
+- Tailwind CSS 4 for the odds and ends
+- Node's built-in `node:sqlite` for the local restaurant/dish database, built from JSON/CSV source data via a script, not an ORM
+
 # Getting Started
 
-First, run the development server:
+First, Clone this thing
+```bash
+git clone https://github.com/LuluHuman/munchfind.git
+# or
+git clone git@github.com:LuluHuman/munchfind.git
+# or 
+gh repo clone LuluHuman/munchfind
+```
+
+Then install the dependencies this depends on 
+```bash
+npm i
+# or
+yarn i 
+# or
+pnpm i
+# or
+bun i
+```
+
+Lastly, run this development ahh server:
 
 ```bash
 npm run dev
@@ -52,4 +88,14 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see this monstrosity.
+
+The repo already ships a built [munchfind.sqlite](/src/data/munchfind.sqlite), so this is optional, but if you touch the source data under [src/data/](/src/data/) (the restaurant JSON or [dishes.csv](/src/data/dishes.csv)) you'll want to regenerate the database:
+
+```bash
+npm run db:build
+```
+
+# Documentation
+
+The prototype leans on real research, not just vibes &mdash; see the [Documentation Tree](#documentation-tree) above for the proposal, survey/interview data, design document, storyboards, and Gantt chart behind it.
