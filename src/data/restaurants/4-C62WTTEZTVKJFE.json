@@ -1,0 +1,1681 @@
+{
+    "ID": "4-C62WTTEZTVKJFE",
+    "name": "The Original Vadai - Century Square",
+    "cuisine": "Indian,Snack,Beverage,Chicken Dish",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C62WTTEZTVKJFE/hero/4e3a1d0618cd41b7972730597a6e7f49_1758079109509454847.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:00am-8:00pm",
+        "mon": "11:00am-8:00pm",
+        "tue": "11:00am-8:00pm",
+        "wed": "11:00am-8:00pm",
+        "thu": "11:00am-8:00pm",
+        "fri": "11:00am-8:00pm",
+        "sat": "11:00am-8:00pm"
+    },
+    "address": {
+        "name": "The Original Vadai - Century Square",
+        "combined_address": "2, Tampines Central 5, #01-37, Tampines, 529509",
+        "combined_city": "Singapore",
+        "house": "#01-37",
+        "street": "2, Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529509",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3525681,
+        "lng": 103.9436664
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20241112051717015349",
+                "name": "Set Vadais",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20241112051717016897",
+                        "name": "Box of 6 (Mixed)",
+                        "available": true,
+                        "priceInMinorUnit": 1140,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717016897/photo/menueditor_item_251ef889c03c49b7b38ac17f20cf0198_1736915511025414562.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241112042706012294",
+                                "name": "Please state no of selected choices in note below.",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241112042706016732",
+                                        "name": "Prawn Vadai",
+                                        "available": true,
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "새우 바다이",
+                                                    "zh": "虾瓦代"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706029281",
+                                        "name": "Ikan Bilis Vadai",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멸치튀김",
+                                                    "zh": "江鱼仔瓦达"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706034023",
+                                        "name": "Grago Vadai",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "그라고 바다이",
+                                                    "zh": "虾饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706045298",
+                                        "name": "Dhal Vadai",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달 바다이",
+                                                    "zh": "豆饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706053153",
+                                        "name": "Vege Vadai",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "베지 바다이",
+                                                    "zh": "素食瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706065869",
+                                        "name": "Onion Vadai",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "양파 바다이",
+                                                    "zh": "洋葱瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706072053",
+                                        "name": "Chilli Vadai",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "칠리 바다이",
+                                                    "zh": "辣味瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "선택한 항목 수를 아래의 주석에 기재해 주세요.",
+                                            "zh": "请在备注中注明选择数量"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1140,
+                        "priceV2": {
+                            "amountInMinor": 1140,
+                            "amountDisplay": "11.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1140,
+                            "amountDisplay": "11.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20241112042706016732\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717016897/photo/menueditor_item_251ef889c03c49b7b38ac17f20cf0198_1736915511025414562.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717016897/detail/menueditor_item_251ef889c03c49b7b38ac17f20cf0198_1736915511025414562.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051717021678",
+                        "name": "Box of 20 (Mixed)",
+                        "available": true,
+                        "priceInMinorUnit": 3800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717021678/photo/menueditor_item_f4e1abe1dd504c3f8db80e5090d02326_1734930189739149104.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024121716370586901",
+                                "name": "Please state no of selected choices in note below.",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 7,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241217163705018247",
+                                        "name": "Prawn Vadai",
+                                        "available": true,
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "새우 바다이",
+                                                    "zh": "虾瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705023820",
+                                        "name": "Ikan Bilis Vadai",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멸치튀김",
+                                                    "zh": "江鱼仔瓦达"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705033103",
+                                        "name": "Grago Vadai",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "그라고 바다이",
+                                                    "zh": "虾饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705040685",
+                                        "name": "Dhal Vadai",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달 바다이",
+                                                    "zh": "豆饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705050559",
+                                        "name": "Vege Vadai",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "베지 바다이",
+                                                    "zh": "素食瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705063572",
+                                        "name": "Onion Vadai",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "양파 바다이",
+                                                    "zh": "洋葱瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705076354",
+                                        "name": "Chili Vadai",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "칠리 바다이",
+                                                    "zh": "辣椒炸饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "선택한 항목 수를 아래의 주석에 기재해 주세요.",
+                                            "zh": "请在备注中注明选择数量"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3800,
+                        "priceV2": {
+                            "amountInMinor": 3800,
+                            "amountDisplay": "38.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3800,
+                            "amountDisplay": "38.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"modifier_tag\":{\"Popular\":[\"SGMOD20241217163705023820\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717021678/photo/menueditor_item_f4e1abe1dd504c3f8db80e5090d02326_1734930189739149104.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717021678/detail/menueditor_item_f4e1abe1dd504c3f8db80e5090d02326_1734930189739149104.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051717038331",
+                        "name": "Box of 30 (Mixed)",
+                        "available": true,
+                        "priceInMinorUnit": 5700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717038331/photo/menueditor_item_10ca4df0c75f4244b952d445e7d6357b_1734930215133613134.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024121716370586901",
+                                "name": "Please state no of selected choices in note below.",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 7,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241217163705018247",
+                                        "name": "Prawn Vadai",
+                                        "available": true,
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "새우 바다이",
+                                                    "zh": "虾瓦代"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705023820",
+                                        "name": "Ikan Bilis Vadai",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멸치튀김",
+                                                    "zh": "江鱼仔瓦达"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705033103",
+                                        "name": "Grago Vadai",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "그라고 바다이",
+                                                    "zh": "虾饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705040685",
+                                        "name": "Dhal Vadai",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달 바다이",
+                                                    "zh": "豆饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705050559",
+                                        "name": "Vege Vadai",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "베지 바다이",
+                                                    "zh": "素食瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705063572",
+                                        "name": "Onion Vadai",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "양파 바다이",
+                                                    "zh": "洋葱瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20241217163705076354",
+                                        "name": "Chili Vadai",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "칠리 바다이",
+                                                    "zh": "辣椒炸饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "선택한 항목 수를 아래의 주석에 기재해 주세요.",
+                                            "zh": "请在备注中注明选择数量"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20241112042706012294",
+                                "name": "Please state no of selected choices in note below.",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241112042706016732",
+                                        "name": "Prawn Vadai",
+                                        "available": true,
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "새우 바다이",
+                                                    "zh": "虾瓦代"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706029281",
+                                        "name": "Ikan Bilis Vadai",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멸치튀김",
+                                                    "zh": "江鱼仔瓦达"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706034023",
+                                        "name": "Grago Vadai",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "그라고 바다이",
+                                                    "zh": "虾饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706045298",
+                                        "name": "Dhal Vadai",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달 바다이",
+                                                    "zh": "豆饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706053153",
+                                        "name": "Vege Vadai",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "베지 바다이",
+                                                    "zh": "素食瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706065869",
+                                        "name": "Onion Vadai",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "양파 바다이",
+                                                    "zh": "洋葱瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20241112042706072053",
+                                        "name": "Chilli Vadai",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "칠리 바다이",
+                                                    "zh": "辣味瓦代"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "선택한 항목 수를 아래의 주석에 기재해 주세요.",
+                                            "zh": "请在备注中注明选择数量"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 5700,
+                        "priceV2": {
+                            "amountInMinor": 5700,
+                            "amountDisplay": "57.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5700,
+                            "amountDisplay": "57.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"modifier_tag\":{\"Popular\":[\"SGMOD20241112042706016732\",\"SGMOD20241217163705018247\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717038331/photo/menueditor_item_10ca4df0c75f4244b952d445e7d6357b_1734930215133613134.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717038331/detail/menueditor_item_10ca4df0c75f4244b952d445e7d6357b_1734930215133613134.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20241112051717022685",
+                "name": "Ala Carte -Vadai",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20241112051717075976",
+                        "name": "Prawn Vadai",
+                        "available": true,
+                        "priceInMinorUnit": 190,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717075976/photo/menueditor_item_b7fcc81eef824e04bbb3c2f4bf69ee0e_1734930240211251799.avif",
+                        "discountedPriceInMin": 190,
+                        "priceV2": {
+                            "amountInMinor": 190,
+                            "amountDisplay": "1.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 190,
+                            "amountDisplay": "1.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717075976/photo/menueditor_item_b7fcc81eef824e04bbb3c2f4bf69ee0e_1734930240211251799.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717075976/detail/menueditor_item_b7fcc81eef824e04bbb3c2f4bf69ee0e_1734930240211251799.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051717083971",
+                        "name": "Ikan Bilis Vadai",
+                        "available": true,
+                        "priceInMinorUnit": 190,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717083971/photo/menueditor_item_9a7e2b96d26b406b97c81f70731c8ead_1734930259641924318.avif",
+                        "description": "Crispy Vadai with ikan bilis, packed with savory flavor and crunchy texture.",
+                        "discountedPriceInMin": 190,
+                        "priceV2": {
+                            "amountInMinor": 190,
+                            "amountDisplay": "1.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 190,
+                            "amountDisplay": "1.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717083971/photo/menueditor_item_9a7e2b96d26b406b97c81f70731c8ead_1734930259641924318.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717083971/detail/menueditor_item_9a7e2b96d26b406b97c81f70731c8ead_1734930259641924318.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051717096022",
+                        "name": "Grago Vadai",
+                        "available": true,
+                        "priceInMinorUnit": 190,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717096022/photo/menueditor_item_d39bab375f084958b6b066042b7ad0c7_1734930279557509692.avif",
+                        "discountedPriceInMin": 190,
+                        "priceV2": {
+                            "amountInMinor": 190,
+                            "amountDisplay": "1.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 190,
+                            "amountDisplay": "1.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717096022/photo/menueditor_item_d39bab375f084958b6b066042b7ad0c7_1734930279557509692.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051717096022/detail/menueditor_item_d39bab375f084958b6b066042b7ad0c7_1734930279557509692.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051718010853",
+                        "name": "Dhal Vadai",
+                        "available": true,
+                        "priceInMinorUnit": 180,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718010853/photo/menueditor_item_36101912ecce4e12a5aecd4a89b306a4_1734930819714372195.avif",
+                        "discountedPriceInMin": 180,
+                        "priceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-07-30T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718010853/photo/menueditor_item_36101912ecce4e12a5aecd4a89b306a4_1734930819714372195.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718010853/detail/menueditor_item_36101912ecce4e12a5aecd4a89b306a4_1734930819714372195.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051718024915",
+                        "name": "Vege Vadai",
+                        "available": true,
+                        "priceInMinorUnit": 180,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718024915/photo/menueditor_item_03b0d3348fc44985b21f7c6a9a1bfe92_1734930326069364390.avif",
+                        "discountedPriceInMin": 180,
+                        "priceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718024915/photo/menueditor_item_03b0d3348fc44985b21f7c6a9a1bfe92_1734930326069364390.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718024915/detail/menueditor_item_03b0d3348fc44985b21f7c6a9a1bfe92_1734930326069364390.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051718038791",
+                        "name": "Onion Vadai",
+                        "available": true,
+                        "priceInMinorUnit": 180,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718038791/photo/menueditor_item_72c84e7eda3842baa1e374790dc83e03_1734930839726763771.avif",
+                        "discountedPriceInMin": 180,
+                        "priceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718038791/photo/menueditor_item_72c84e7eda3842baa1e374790dc83e03_1734930839726763771.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718038791/detail/menueditor_item_72c84e7eda3842baa1e374790dc83e03_1734930839726763771.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051718049422",
+                        "name": "Chilli Vadai",
+                        "available": true,
+                        "priceInMinorUnit": 180,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718049422/photo/menueditor_item_cd9ea0e45b864b1b9755fd4da7a4d311_1734930860170498738.avif",
+                        "discountedPriceInMin": 180,
+                        "priceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718049422/photo/menueditor_item_cd9ea0e45b864b1b9755fd4da7a4d311_1734930860170498738.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718049422/detail/menueditor_item_cd9ea0e45b864b1b9755fd4da7a4d311_1734930860170498738.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20241112051718019534",
+                "name": "Skewers",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20241112051718078698",
+                        "name": "Chicken Liver",
+                        "available": true,
+                        "priceInMinorUnit": 360,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718078698/photo/menueditor_item_9dc2c1f3fd5c49698a74d5de758d4046_1734930383587893269.avif",
+                        "description": "Juicy chicken liver skewers with savory spices, grilled to perfection.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241112051758016971",
+                                "name": "Add Cheese",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241112051758016058",
+                                        "name": "Cheese",
+                                        "available": true,
+                                        "priceInMinorUnit": 120,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 120,
+                                            "amountDisplay": "1.20"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치즈",
+                                                    "zh": "奶酪"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "치즈 추가",
+                                            "zh": "加奶酪"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 360,
+                        "priceV2": {
+                            "amountInMinor": 360,
+                            "amountDisplay": "3.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 360,
+                            "amountDisplay": "3.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718078698/photo/menueditor_item_9dc2c1f3fd5c49698a74d5de758d4046_1734930383587893269.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718078698/detail/menueditor_item_9dc2c1f3fd5c49698a74d5de758d4046_1734930383587893269.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051718081199",
+                        "name": "Chicken Gizzard",
+                        "available": true,
+                        "priceInMinorUnit": 360,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718081199/photo/menueditor_item_35364400581649548f596c5ab622c7fc_1734930401463753247.avif",
+                        "description": "Savory chicken gizzards infused with smoky spices, a perfect snack",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241112051758016971",
+                                "name": "Add Cheese",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241112051758016058",
+                                        "name": "Cheese",
+                                        "available": true,
+                                        "priceInMinorUnit": 120,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 120,
+                                            "amountDisplay": "1.20"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치즈",
+                                                    "zh": "奶酪"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "치즈 추가",
+                                            "zh": "加奶酪"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 360,
+                        "priceV2": {
+                            "amountInMinor": 360,
+                            "amountDisplay": "3.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 360,
+                            "amountDisplay": "3.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718081199/photo/menueditor_item_35364400581649548f596c5ab622c7fc_1734930401463753247.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718081199/detail/menueditor_item_35364400581649548f596c5ab622c7fc_1734930401463753247.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051718095690",
+                        "name": "Chicken Steak",
+                        "available": true,
+                        "priceInMinorUnit": 360,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718095690/photo/menueditor_item_cdfac26bb034435dbe859754ace80e57_1738831404386045483.avif",
+                        "description": "Juicy boneless chicken thigh chunks with savory, smoky flavors, perfect for a quick bite.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241112051758016971",
+                                "name": "Add Cheese",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241112051758016058",
+                                        "name": "Cheese",
+                                        "available": true,
+                                        "priceInMinorUnit": 120,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 120,
+                                            "amountDisplay": "1.20"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치즈",
+                                                    "zh": "奶酪"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "치즈 추가",
+                                            "zh": "加奶酪"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 360,
+                        "priceV2": {
+                            "amountInMinor": 360,
+                            "amountDisplay": "3.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 360,
+                            "amountDisplay": "3.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718095690/photo/menueditor_item_cdfac26bb034435dbe859754ace80e57_1738831404386045483.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718095690/detail/menueditor_item_cdfac26bb034435dbe859754ace80e57_1738831404386045483.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051718108657",
+                        "name": "Bishop Nose",
+                        "available": true,
+                        "priceInMinorUnit": 360,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718108657/photo/menueditor_item_ac7f0b5fadb64ecdad5abffeacaec963_1738831421714035184.avif",
+                        "description": "Delicious skewers with savory, juicy bites, perfect for grilling and sharing.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241112051758016971",
+                                "name": "Add Cheese",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241112051758016058",
+                                        "name": "Cheese",
+                                        "available": true,
+                                        "priceInMinorUnit": 120,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 120,
+                                            "amountDisplay": "1.20"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치즈",
+                                                    "zh": "奶酪"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "치즈 추가",
+                                            "zh": "加奶酪"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 360,
+                        "priceV2": {
+                            "amountInMinor": 360,
+                            "amountDisplay": "3.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 360,
+                            "amountDisplay": "3.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718108657/photo/menueditor_item_ac7f0b5fadb64ecdad5abffeacaec963_1738831421714035184.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718108657/detail/menueditor_item_ac7f0b5fadb64ecdad5abffeacaec963_1738831421714035184.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20241112051719014035",
+                "name": "Cup",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20241112051718053048",
+                        "name": "Cheese Vadai",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718053048/photo/menueditor_item_65a0d7916b254548a46f6933fc5ceefe_1734930429338586395.avif",
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718053048/photo/menueditor_item_65a0d7916b254548a46f6933fc5ceefe_1734930429338586395.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718053048/detail/menueditor_item_65a0d7916b254548a46f6933fc5ceefe_1734930429338586395.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051718061466",
+                        "name": "Chocolate Vadai",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718061466/photo/menueditor_item_db39dbe3f9c449f99680452002d64e45_1734930446496832564.avif",
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718061466/photo/menueditor_item_db39dbe3f9c449f99680452002d64e45_1734930446496832564.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051718061466/detail/menueditor_item_db39dbe3f9c449f99680452002d64e45_1734930446496832564.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051719023000",
+                        "name": "Baby Crab",
+                        "available": true,
+                        "priceInMinorUnit": 1000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051719023000/photo/menueditor_item_4c96f7f6a90043678638592df663fe78_1736915537798307452.avif",
+                        "discountedPriceInMin": 1000,
+                        "priceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-03-08T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051719023000/photo/menueditor_item_4c96f7f6a90043678638592df663fe78_1736915537798307452.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051719023000/detail/menueditor_item_4c96f7f6a90043678638592df663fe78_1736915537798307452.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051719012632",
+                        "name": "Chicken Skin",
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051719012632/photo/menueditor_item_8195267cf40a4b79b78d547ba7f57209_1734930470272967661.avif",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051719012632/photo/menueditor_item_8195267cf40a4b79b78d547ba7f57209_1734930470272967661.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051719012632/detail/menueditor_item_8195267cf40a4b79b78d547ba7f57209_1734930470272967661.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20241112051719031674",
+                "name": "Hot Drinks",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026061809401903888",
+                        "name": "Masala Tea Party Pack",
+                        "priceInMinorUnit": 4000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809401903888/photo/menueditor_item_494a0c85c546435cbe4d69030c10387e_1781775462005359029.avif",
+                        "description": "Masala Tea made perfect for gatherings and events. Served in a convenient disposable dispenser, available in 3L or 5L.\nCups included.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026061809395918816",
+                                "name": "Size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260618093959012556",
+                                        "name": "3L",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "3L",
+                                                    "zh": "小份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618093959024134",
+                                        "name": "5L",
+                                        "available": true,
+                                        "priceInMinorUnit": 2500,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 2500,
+                                            "amountDisplay": "25.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "5L",
+                                                    "zh": "5升"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈",
+                                            "zh": "尺寸"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 4000,
+                        "priceV2": {
+                            "amountInMinor": 4000,
+                            "amountDisplay": "40.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4000,
+                            "amountDisplay": "40.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809401903888/photo/menueditor_item_494a0c85c546435cbe4d69030c10387e_1781775462005359029.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809401903888/detail/menueditor_item_494a0c85c546435cbe4d69030c10387e_1781775462005359029.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026061809371422237",
+                        "name": "Tea Party Pack",
+                        "priceInMinorUnit": 3500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809371422237/photo/menueditor_item_d1b16fa25b12485b98bd681acb746021_1781775329977988283.avif",
+                        "description": "Our tea now made perfect for gatherings and events. Served in a convenient disposable dispenser, available in 3L or 5L.\nCups Included.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026061809295759097",
+                                "name": "Size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260618092957010411",
+                                        "name": "3L",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "3L",
+                                                    "zh": "小份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618092957023374",
+                                        "name": "5L",
+                                        "available": true,
+                                        "priceInMinorUnit": 2000,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 2000,
+                                            "amountDisplay": "20.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "5L",
+                                                    "zh": "5升"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈",
+                                            "zh": "尺寸"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3500,
+                        "priceV2": {
+                            "amountInMinor": 3500,
+                            "amountDisplay": "35.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3500,
+                            "amountDisplay": "35.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809371422237/photo/menueditor_item_d1b16fa25b12485b98bd681acb746021_1781775329977988283.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809371422237/detail/menueditor_item_d1b16fa25b12485b98bd681acb746021_1781775329977988283.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026061809302305137",
+                        "name": "Coffee Party Pack",
+                        "priceInMinorUnit": 3500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809302305137/photo/menueditor_item_888c46f528944df8b908602b29a06598_1781774548141766859.avif",
+                        "description": "Our coffee now made perfect for gatherings and events. Served in a convenient disposable dispenser, available in 3L or 5L. Cups Included.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026061809295759097",
+                                "name": "Size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260618092957010411",
+                                        "name": "3L",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "3L",
+                                                    "zh": "小份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618092957023374",
+                                        "name": "5L",
+                                        "available": true,
+                                        "priceInMinorUnit": 2000,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 2000,
+                                            "amountDisplay": "20.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "5L",
+                                                    "zh": "5升"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈",
+                                            "zh": "尺寸"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3500,
+                        "priceV2": {
+                            "amountInMinor": 3500,
+                            "amountDisplay": "35.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3500,
+                            "amountDisplay": "35.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809302305137/photo/menueditor_item_888c46f528944df8b908602b29a06598_1781774548141766859.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809302305137/detail/menueditor_item_888c46f528944df8b908602b29a06598_1781774548141766859.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026061809181836627",
+                        "name": "Coffee",
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809181836627/photo/menueditor_item_2dfc51a7323840b192c6f19d346bb703_1781774113117017304.avif",
+                        "description": "Traditional South Indian filter coffee, brewed from our signature house blend. Rich, bold and aromatic.",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809181836627/photo/menueditor_item_2dfc51a7323840b192c6f19d346bb703_1781774113117017304.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809181836627/detail/menueditor_item_2dfc51a7323840b192c6f19d346bb703_1781774113117017304.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026061809122264319",
+                        "name": "Tea",
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809122264319/photo/menueditor_item_6642836fd5674a8ea8d11a36f4975d4f_1781773871586152385.avif",
+                        "description": "Warm, comforting black tea with rich milk",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809122264319/photo/menueditor_item_6642836fd5674a8ea8d11a36f4975d4f_1781773871586152385.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061809122264319/detail/menueditor_item_6642836fd5674a8ea8d11a36f4975d4f_1781773871586152385.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241112051719107824",
+                        "name": "Masala Tea",
+                        "priceInMinorUnit": 250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051719107824/photo/menueditor_item_0c615fc44b22415cbea7ce28c40bd7c8_1736911607412200003.avif",
+                        "description": "Our signature tea blend infused with ginger, cardamom and cinnamon.",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051719107824/photo/menueditor_item_0c615fc44b22415cbea7ce28c40bd7c8_1736911607412200003.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241112051719107824/detail/menueditor_item_0c615fc44b22415cbea7ce28c40bd7c8_1736911607412200003.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.6,
+    "voteCount": 373,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out The Original Vadai - Century Square on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C62WTTEZTVKJFE"
+    },
+    "chainName": "The Original Vadai",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C62WTTEZTVKJFE/list/99a16a081ec14f6daf86eb81fbb9e9d4_1758079114043570553.avif",
+    "branchName": "Century Square",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 11:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T03:00:00Z"
+    },
+    "translationTags": [
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

@@ -1,0 +1,2271 @@
+{
+    "ID": "4-CYXVEBXXEYEAG6",
+    "name": "KL Damansara Chilli Ban Mee - Bedok Shopping Complex",
+    "cuisine": "Malaysian,Ban Mian,Noodle",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-CYXVEBXXEYEAG6/hero/e01dbd4839b34e0f8af44874d8365988_1580657063762563237.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:00am-8:30pm",
+        "mon": "Closed",
+        "tue": "10:00am-8:30pm",
+        "wed": "10:00am-8:30pm",
+        "thu": "10:00am-8:30pm",
+        "fri": "10:00am-8:30pm",
+        "sat": "10:00am-8:30pm"
+    },
+    "address": {
+        "name": "KL Damansara Chilli Ban Mee - Bedok Shopping Complex",
+        "combined_address": "Pickup/Drop-off Outside Giant, Simpang Bedok, Bedok Road, 469560 (02-08), 469560",
+        "combined_city": "Singapore",
+        "street": "Pickup/Drop-off Outside Giant, Simpang Bedok, Bedok Road, 469560 (02-08)",
+        "postcode": "469560",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3264564,
+        "lng": 103.9512758
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20210330025441016766",
+                "name": "Mains",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026033105025341336",
+                        "name": "Fried Hokkien Mee",
+                        "available": true,
+                        "priceInMinorUnit": 1200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026033105025341336/photo/menueditor_item_44259fcc8c774190b57c22bcae634084_1774933327357746445.webp",
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026033105025341336/photo/menueditor_item_44259fcc8c774190b57c22bcae634084_1774933327357746445.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026033105025341336/detail/menueditor_item_44259fcc8c774190b57c22bcae634084_1774933327357746445.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026033104580820331",
+                        "name": "Prawn Noodle",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026033104580820331/photo/menueditor_item_12f115ba998c4efe98e9cd8936b34e64_1774932868339637925.webp",
+                        "description": "Dry/Soup",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026033104574879256",
+                                "name": "prawn noodle",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260331045748011271",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20260331045748028381",
+                                        "name": "Dry",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026033104580820331/photo/menueditor_item_12f115ba998c4efe98e9cd8936b34e64_1774932868339637925.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026033104580820331/detail/menueditor_item_12f115ba998c4efe98e9cd8936b34e64_1774932868339637925.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026033104534543573",
+                        "name": "Mee Rebus",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026033104534543573/photo/menueditor_item_80645a14b5b24daeba346ba52560ea87_1774932801151559536.webp",
+                        "description": "Savory noodle soup with rich broth, topped with boiled eggs and fresh herbs.",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026033104534543573/photo/menueditor_item_80645a14b5b24daeba346ba52560ea87_1774932801151559536.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026033104534543573/detail/menueditor_item_80645a14b5b24daeba346ba52560ea87_1774932801151559536.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2022071603133297789",
+                        "name": "Mee siam",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2022071603133297789/photo/menueditor_item_f1bec10f00964c50a0537678ad354d42_1657941162513277229.webp",
+                        "description": "Savor spicy Mee Siam with egg and tofu.",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2022071603133297789/photo/menueditor_item_f1bec10f00964c50a0537678ad354d42_1657941162513277229.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2022071603133297789/detail/menueditor_item_f1bec10f00964c50a0537678ad354d42_1657941162513277229.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210330025441048572",
+                        "name": "Fried Wanton Ban Mee 炸云吞板面",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441048572/photo/c16eee56_0c224c4b91b.webp",
+                        "description": "Crispy wantons with savory minced meat, egg, and noodles.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210331050226017136",
+                                "name": "Choice of Extras",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210331050226085804",
+                                        "name": "Extra Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"2d040cd0-98d4-4787-a6ec-8e0e7129f01b\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226073323",
+                                        "name": "Poached Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"3a4fe970-2515-40a2-aa80-1107012d5a8a\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226069078",
+                                        "name": "Vegetables",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"a87f2f4a-8be0-4035-8e57-6314fb50910b\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226055115",
+                                        "name": "Minced Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"f706f2d1-b829-4c70-be58-9a8025a27576\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226034595",
+                                        "name": "Homemade Fish Balls (2 Pcs)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"56e9facc-56c0-4f3c-b6e2-8ce60cb4b066\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226041373",
+                                        "name": "Ikan Bilis (Anchovies)",
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"bedc604c-73eb-4872-9251-09a1e0a41797\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226021716",
+                                        "name": "Meat Chicken Balls (6 Pcs)",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"0f52dfcc-c06b-44b3-95a5-edf1b25ac2b5\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226010780",
+                                        "name": "Fish Dumpling",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"f9a0240e-0aaf-45f9-bef6-34b3d87a47d5\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"external_data\":\"d58e0811-1556-4658-b2a7-25bdfe39dc02\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-01-27T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441048572/photo/c16eee56_0c224c4b91b.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441048572/detail/c16eee56_0c224c4b91b.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210330025441089025",
+                        "name": "Mini Combo Chilli Ban Mee 迷你大杂面",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441089025/photo/6ac2f4db_497d356e3ce.webp",
+                        "description": "Bursting flavors: minced meat, crispy toppings, runny egg.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210331050226017136",
+                                "name": "Choice of Extras",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210331050226085804",
+                                        "name": "Extra Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"2d040cd0-98d4-4787-a6ec-8e0e7129f01b\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226073323",
+                                        "name": "Poached Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"3a4fe970-2515-40a2-aa80-1107012d5a8a\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226069078",
+                                        "name": "Vegetables",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"a87f2f4a-8be0-4035-8e57-6314fb50910b\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226055115",
+                                        "name": "Minced Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"f706f2d1-b829-4c70-be58-9a8025a27576\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226034595",
+                                        "name": "Homemade Fish Balls (2 Pcs)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"56e9facc-56c0-4f3c-b6e2-8ce60cb4b066\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226041373",
+                                        "name": "Ikan Bilis (Anchovies)",
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"bedc604c-73eb-4872-9251-09a1e0a41797\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226021716",
+                                        "name": "Meat Chicken Balls (6 Pcs)",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"0f52dfcc-c06b-44b3-95a5-edf1b25ac2b5\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226010780",
+                                        "name": "Fish Dumpling",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"f9a0240e-0aaf-45f9-bef6-34b3d87a47d5\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"external_data\":\"774d5baf-e326-464c-abc4-f546a99242e7\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-01-31T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441089025/photo/6ac2f4db_497d356e3ce.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441089025/detail/6ac2f4db_497d356e3ce.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210330025441061643",
+                        "name": "Signature Prawn Chilli Ban Mee 辣椒虾板面",
+                        "available": true,
+                        "priceInMinorUnit": 1250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441061643/photo/1cd2e926_407ffec30ec.webp",
+                        "description": "Signature Prawn Chilli Ban Mee: Spicy noodles with succulent prawns.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210331050226017136",
+                                "name": "Choice of Extras",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210331050226085804",
+                                        "name": "Extra Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"2d040cd0-98d4-4787-a6ec-8e0e7129f01b\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226073323",
+                                        "name": "Poached Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"3a4fe970-2515-40a2-aa80-1107012d5a8a\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226069078",
+                                        "name": "Vegetables",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"a87f2f4a-8be0-4035-8e57-6314fb50910b\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226055115",
+                                        "name": "Minced Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"f706f2d1-b829-4c70-be58-9a8025a27576\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226034595",
+                                        "name": "Homemade Fish Balls (2 Pcs)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"56e9facc-56c0-4f3c-b6e2-8ce60cb4b066\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226041373",
+                                        "name": "Ikan Bilis (Anchovies)",
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"bedc604c-73eb-4872-9251-09a1e0a41797\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226021716",
+                                        "name": "Meat Chicken Balls (6 Pcs)",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"0f52dfcc-c06b-44b3-95a5-edf1b25ac2b5\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050226010780",
+                                        "name": "Fish Dumpling",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"f9a0240e-0aaf-45f9-bef6-34b3d87a47d5\"}",
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"external_data\":\"acd17e1c-6c1b-4e9b-b37d-b58f22fc795d\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441061643/photo/1cd2e926_407ffec30ec.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441061643/detail/1cd2e926_407ffec30ec.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210330025441074766",
+                        "name": "Lor Mee 卤面",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441074766/photo/ed65f96c_f576aa12d52.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210331050237012229",
+                                "name": "Choice of Extras",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 9,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210331050237144684",
+                                        "name": "Extra Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"2d040cd0-98d4-4787-a6ec-8e0e7129f01b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237123918",
+                                        "name": "Poached Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"3a4fe970-2515-40a2-aa80-1107012d5a8a\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237080536",
+                                        "name": "Minced Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"f706f2d1-b829-4c70-be58-9a8025a27576\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237061412",
+                                        "name": "Ikan Bilis (Anchovies)",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"bedc604c-73eb-4872-9251-09a1e0a41797\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237041751",
+                                        "name": "Homemade Fish Balls (2 Pcs)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"56e9facc-56c0-4f3c-b6e2-8ce60cb4b066\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251116062300012287",
+                                        "name": "Rice",
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 9,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237105097",
+                                        "name": "Vegetables",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"a87f2f4a-8be0-4035-8e57-6314fb50910b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237026951",
+                                        "name": "Meat Chicken Balls (6 Pcs)",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"0f52dfcc-c06b-44b3-95a5-edf1b25ac2b5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237011510",
+                                        "name": "Fish Dumpling",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"f9a0240e-0aaf-45f9-bef6-34b3d87a47d5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择额外配料"
+                                        }
+                                    },
+                                    "Source": {
+                                        "Value": {
+                                            "name": "zh:3"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"external_data\":\"b9b8f12d-0f4f-4a1d-bd69-fc07f60acd38\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441074766/photo/ed65f96c_f576aa12d52.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441074766/detail/ed65f96c_f576aa12d52.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210330025442024809",
+                        "name": "Sliced Fish Noodle Soup 鱼片面",
+                        "available": true,
+                        "priceInMinorUnit": 1250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025442024809/photo/e1ed4493_1a5ac05d794.webp",
+                        "description": "Delicious sliced fish, tofu, and fresh veggies in a savory broth. Refreshing!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210331050237012229",
+                                "name": "Choice of Extras",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 9,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210331050237144684",
+                                        "name": "Extra Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"2d040cd0-98d4-4787-a6ec-8e0e7129f01b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237123918",
+                                        "name": "Poached Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"3a4fe970-2515-40a2-aa80-1107012d5a8a\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237080536",
+                                        "name": "Minced Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"f706f2d1-b829-4c70-be58-9a8025a27576\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237061412",
+                                        "name": "Ikan Bilis (Anchovies)",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"bedc604c-73eb-4872-9251-09a1e0a41797\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237041751",
+                                        "name": "Homemade Fish Balls (2 Pcs)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"56e9facc-56c0-4f3c-b6e2-8ce60cb4b066\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251116062300012287",
+                                        "name": "Rice",
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 9,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237105097",
+                                        "name": "Vegetables",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"a87f2f4a-8be0-4035-8e57-6314fb50910b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237026951",
+                                        "name": "Meat Chicken Balls (6 Pcs)",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"0f52dfcc-c06b-44b3-95a5-edf1b25ac2b5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237011510",
+                                        "name": "Fish Dumpling",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"f9a0240e-0aaf-45f9-bef6-34b3d87a47d5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择额外配料"
+                                        }
+                                    },
+                                    "Source": {
+                                        "Value": {
+                                            "name": "zh:3"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"external_data\":\"855c5100-cc50-47a7-b760-d20a961014db\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025442024809/photo/e1ed4493_1a5ac05d794.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025442024809/detail/e1ed4493_1a5ac05d794.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331073630041094",
+                        "name": "Fried Chicken Ban Mee 炸鸡板面",
+                        "available": true,
+                        "priceInMinorUnit": 1250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630041094/photo/b6defc27_d256a67ba39.webp",
+                        "description": "Crispy fried chicken with savory noodles and a perfect egg.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210331050237012229",
+                                "name": "Choice of Extras",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 9,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210331050237144684",
+                                        "name": "Extra Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"2d040cd0-98d4-4787-a6ec-8e0e7129f01b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237123918",
+                                        "name": "Poached Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"3a4fe970-2515-40a2-aa80-1107012d5a8a\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237080536",
+                                        "name": "Minced Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"f706f2d1-b829-4c70-be58-9a8025a27576\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237061412",
+                                        "name": "Ikan Bilis (Anchovies)",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"bedc604c-73eb-4872-9251-09a1e0a41797\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237041751",
+                                        "name": "Homemade Fish Balls (2 Pcs)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"56e9facc-56c0-4f3c-b6e2-8ce60cb4b066\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251116062300012287",
+                                        "name": "Rice",
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 9,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237105097",
+                                        "name": "Vegetables",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"a87f2f4a-8be0-4035-8e57-6314fb50910b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237026951",
+                                        "name": "Meat Chicken Balls (6 Pcs)",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"0f52dfcc-c06b-44b3-95a5-edf1b25ac2b5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237011510",
+                                        "name": "Fish Dumpling",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"f9a0240e-0aaf-45f9-bef6-34b3d87a47d5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择额外配料"
+                                        }
+                                    },
+                                    "Source": {
+                                        "Value": {
+                                            "name": "zh:3"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"external_data\":\"28b6dc39-34c8-43ba-96d1-bcf457945832\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630041094/photo/b6defc27_d256a67ba39.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630041094/detail/b6defc27_d256a67ba39.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331073630071148",
+                        "name": "Prawn Ban Mee 虾板面",
+                        "available": true,
+                        "priceInMinorUnit": 1250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630071148/photo/67315643_8b2d3f5c968.webp",
+                        "description": "Savor succulent prawns with delicate ban mee",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210331050237012229",
+                                "name": "Choice of Extras",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 9,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210331050237144684",
+                                        "name": "Extra Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"2d040cd0-98d4-4787-a6ec-8e0e7129f01b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237123918",
+                                        "name": "Poached Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"3a4fe970-2515-40a2-aa80-1107012d5a8a\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237080536",
+                                        "name": "Minced Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"f706f2d1-b829-4c70-be58-9a8025a27576\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237061412",
+                                        "name": "Ikan Bilis (Anchovies)",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"bedc604c-73eb-4872-9251-09a1e0a41797\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237041751",
+                                        "name": "Homemade Fish Balls (2 Pcs)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"56e9facc-56c0-4f3c-b6e2-8ce60cb4b066\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251116062300012287",
+                                        "name": "Rice",
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 9,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237105097",
+                                        "name": "Vegetables",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"a87f2f4a-8be0-4035-8e57-6314fb50910b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237026951",
+                                        "name": "Meat Chicken Balls (6 Pcs)",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"0f52dfcc-c06b-44b3-95a5-edf1b25ac2b5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237011510",
+                                        "name": "Fish Dumpling",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"f9a0240e-0aaf-45f9-bef6-34b3d87a47d5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择额外配料"
+                                        }
+                                    },
+                                    "Source": {
+                                        "Value": {
+                                            "name": "zh:3"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"external_data\":\"623030ac-f0db-4506-b08f-a18ab3075fda\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630071148/photo/67315643_8b2d3f5c968.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630071148/detail/67315643_8b2d3f5c968.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331073630067775",
+                        "name": "Fishball Ban Mee 鱼圆板面",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630067775/photo/0f140cd9_873aa28450a.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210331050237012229",
+                                "name": "Choice of Extras",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 9,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210331050237144684",
+                                        "name": "Extra Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"2d040cd0-98d4-4787-a6ec-8e0e7129f01b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237123918",
+                                        "name": "Poached Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"3a4fe970-2515-40a2-aa80-1107012d5a8a\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237080536",
+                                        "name": "Minced Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"f706f2d1-b829-4c70-be58-9a8025a27576\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237061412",
+                                        "name": "Ikan Bilis (Anchovies)",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"bedc604c-73eb-4872-9251-09a1e0a41797\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237041751",
+                                        "name": "Homemade Fish Balls (2 Pcs)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"56e9facc-56c0-4f3c-b6e2-8ce60cb4b066\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251116062300012287",
+                                        "name": "Rice",
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 9,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237105097",
+                                        "name": "Vegetables",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"a87f2f4a-8be0-4035-8e57-6314fb50910b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237026951",
+                                        "name": "Meat Chicken Balls (6 Pcs)",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"0f52dfcc-c06b-44b3-95a5-edf1b25ac2b5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237011510",
+                                        "name": "Fish Dumpling",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"f9a0240e-0aaf-45f9-bef6-34b3d87a47d5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择额外配料"
+                                        }
+                                    },
+                                    "Source": {
+                                        "Value": {
+                                            "name": "zh:3"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"external_data\":\"6d3bf1f4-603b-4e75-a0cc-f78244e676c5\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-03-05T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630067775/photo/0f140cd9_873aa28450a.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630067775/detail/0f140cd9_873aa28450a.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331073629013916",
+                        "name": "Wanton Ban Mee 云吞板面",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073629013916/photo/191a6289_5807e3ab398.webp",
+                        "description": "Authentic Wanton Ban Mee: springy noodles, juicy wantons, rich toppings!",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"external_data\":\"5f90714b-aef1-48d8-a5ea-007bd2425b72\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073629013916/photo/191a6289_5807e3ab398.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073629013916/detail/191a6289_5807e3ab398.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331050232016785",
+                        "name": "Scallop Ban Mee 扇贝板面",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050232016785/photo/c9c07590_2a38850bb6b.webp",
+                        "description": "Savor the exquisite Scallop Ban Mee, bursting with flavors of fresh scallops.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210331050237012229",
+                                "name": "Choice of Extras",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 9,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210331050237144684",
+                                        "name": "Extra Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"2d040cd0-98d4-4787-a6ec-8e0e7129f01b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237123918",
+                                        "name": "Poached Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"3a4fe970-2515-40a2-aa80-1107012d5a8a\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237080536",
+                                        "name": "Minced Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"f706f2d1-b829-4c70-be58-9a8025a27576\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237061412",
+                                        "name": "Ikan Bilis (Anchovies)",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"bedc604c-73eb-4872-9251-09a1e0a41797\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237041751",
+                                        "name": "Homemade Fish Balls (2 Pcs)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"56e9facc-56c0-4f3c-b6e2-8ce60cb4b066\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251116062300012287",
+                                        "name": "Rice",
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 9,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237105097",
+                                        "name": "Vegetables",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"a87f2f4a-8be0-4035-8e57-6314fb50910b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237026951",
+                                        "name": "Meat Chicken Balls (6 Pcs)",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"0f52dfcc-c06b-44b3-95a5-edf1b25ac2b5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237011510",
+                                        "name": "Fish Dumpling",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"f9a0240e-0aaf-45f9-bef6-34b3d87a47d5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择额外配料"
+                                        }
+                                    },
+                                    "Source": {
+                                        "Value": {
+                                            "name": "zh:3"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"external_data\":\"443689c3-cf84-4029-9731-b18d68895f8e\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-12-03T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050232016785/photo/c9c07590_2a38850bb6b.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050232016785/detail/c9c07590_2a38850bb6b.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210330025441037152",
+                        "name": "Chilli Ban Mee 辣椒板面",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441037152/photo/4f4f4291_bf94e93e0d0.webp",
+                        "description": "Spicy noodles with minced meat, egg, and fish balls.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210331050237012229",
+                                "name": "Choice of Extras",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 9,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210331050237144684",
+                                        "name": "Extra Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"2d040cd0-98d4-4787-a6ec-8e0e7129f01b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237123918",
+                                        "name": "Poached Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"3a4fe970-2515-40a2-aa80-1107012d5a8a\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237080536",
+                                        "name": "Minced Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"f706f2d1-b829-4c70-be58-9a8025a27576\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237061412",
+                                        "name": "Ikan Bilis (Anchovies)",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"bedc604c-73eb-4872-9251-09a1e0a41797\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237041751",
+                                        "name": "Homemade Fish Balls (2 Pcs)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"56e9facc-56c0-4f3c-b6e2-8ce60cb4b066\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251116062300012287",
+                                        "name": "Rice",
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 9,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237105097",
+                                        "name": "Vegetables",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"a87f2f4a-8be0-4035-8e57-6314fb50910b\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237026951",
+                                        "name": "Meat Chicken Balls (6 Pcs)",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"0f52dfcc-c06b-44b3-95a5-edf1b25ac2b5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20210331050237011510",
+                                        "name": "Fish Dumpling",
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"f9a0240e-0aaf-45f9-bef6-34b3d87a47d5\"}",
+                                        "maxModifierSelectionQuantity": 9
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择额外配料"
+                                        }
+                                    },
+                                    "Source": {
+                                        "Value": {
+                                            "name": "zh:3"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"external_data\":\"394ac245-79ad-4d0e-870b-bdd309509567\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-01-31T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441037152/photo/4f4f4291_bf94e93e0d0.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441037152/detail/4f4f4291_bf94e93e0d0.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2022071603155996542",
+                        "name": "seafood ban mee",
+                        "priceInMinorUnit": 2050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2022071603155996542/photo/menueditor_item_0ab2b9bd42f24029975ef0a463465e15_1657941319571517303.webp",
+                        "description": "Savor fresh seafood noodles with a poached egg.",
+                        "discountedPriceInMin": 2050,
+                        "priceV2": {
+                            "amountInMinor": 2050,
+                            "amountDisplay": "20.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2050,
+                            "amountDisplay": "20.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-04-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2022071603155996542/photo/menueditor_item_0ab2b9bd42f24029975ef0a463465e15_1657941319571517303.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2022071603155996542/detail/menueditor_item_0ab2b9bd42f24029975ef0a463465e15_1657941319571517303.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20210330025440024097",
+                "name": "Sides",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20210330025440050239",
+                        "name": "Side Dish Combo",
+                        "available": true,
+                        "priceInMinorUnit": 2050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025440050239/photo/784c4f35_5123f2a5320.webp",
+                        "description": "Crispy and savory side dish platter.",
+                        "discountedPriceInMin": 2050,
+                        "priceV2": {
+                            "amountInMinor": 2050,
+                            "amountDisplay": "20.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2050,
+                            "amountDisplay": "20.50"
+                        },
+                        "metadata": "{\"external_data\":\"5ef9379e-42c3-449d-b1fb-e3275bf727c3\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025440050239/photo/784c4f35_5123f2a5320.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025440050239/detail/784c4f35_5123f2a5320.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331073630097073",
+                        "name": "Fried Chicken 炸鸡",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630097073/photo/c712cf22_e91533207ea.webp",
+                        "description": "Crispy fried chicken with cucumber slices.",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"external_data\":\"43a138f9-cc0d-4c44-815d-303020f5322f\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630097073/photo/c712cf22_e91533207ea.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630097073/detail/c712cf22_e91533207ea.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331073630080763",
+                        "name": "Fried Wu Xiang 炸五香 (2pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630080763/photo/c9537e98_2664f7a04e0.webp",
+                        "description": "Golden, crispy fried delight with aromatic spices. Perfect side!",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"external_data\":\"4208abfa-ba01-4d36-b0ef-9d5cfb59a575\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630080763/photo/c9537e98_2664f7a04e0.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331073630080763/detail/c9537e98_2664f7a04e0.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210330025441017239",
+                        "name": "Fried Wanton 炸云吞 (6pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441017239/photo/f7f8c243_da9960818ea.webp",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"external_data\":\"7e13b155-207d-4d4c-a87a-ab9cab96ffd3\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-03-05T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441017239/photo/f7f8c243_da9960818ea.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441017239/detail/f7f8c243_da9960818ea.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210330025441020680",
+                        "name": "Fried Fish Cake 炸鱼饼 (2pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441020680/photo/30c4b602_9fa76ace762.webp",
+                        "description": "Crispy and savory fish cakes, perfect seafood snack!",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"external_data\":\"4e826555-e223-4e66-a953-e76b3a559079\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-01-28T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441020680/photo/30c4b602_9fa76ace762.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210330025441020680/detail/30c4b602_9fa76ace762.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20210331050208017908",
+                "name": "Beverages",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20210331050213023357",
+                        "name": "Lime Juice",
+                        "priceInMinorUnit": 250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050213023357/photo/64fb56de_614db615d0a.webp",
+                        "description": "Refreshing lime juice, with a hint of mint.",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"external_data\":\"d07356cf-f83a-4ae7-87ba-761a16b8727c\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_tobacco_ar\"]}}},\"keep_unavailable_until\":\"2026-04-01T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050213023357/photo/64fb56de_614db615d0a.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050213023357/detail/64fb56de_614db615d0a.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331050212024516",
+                        "name": "Water Chestnuts Juice",
+                        "priceInMinorUnit": 250,
+                        "description": "Refreshing, crisp water chestnuts juice. Cool-off drink with a touch of sweetness.",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"external_data\":\"5fc1dac5-21fa-4e9f-a7e0-678b159b8850\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-04-01T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331050212016658",
+                        "name": "Mineral Water",
+                        "priceInMinorUnit": 150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050212016658/photo/30da1bbd_793c72e7c10.webp",
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"external_data\":\"4143ddab-87e1-4715-a7c7-49c80650121f\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-05-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050212016658/photo/30da1bbd_793c72e7c10.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050212016658/detail/30da1bbd_793c72e7c10.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331050211024385",
+                        "name": "Coke",
+                        "priceInMinorUnit": 250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050211024385/photo/0f5e32bc_6265cd27b3c.webp",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"external_data\":\"ce5b584a-f9e4-4980-ae97-f338dad41ebe\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-05-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050211024385/photo/0f5e32bc_6265cd27b3c.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050211024385/detail/0f5e32bc_6265cd27b3c.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331050209015248",
+                        "name": "100 Plus",
+                        "priceInMinorUnit": 250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050209015248/photo/59c694b7_165e49c604b.webp",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"external_data\":\"3dd19481-d83a-49f5-98c2-5b8952342182\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-04-29T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050209015248/photo/59c694b7_165e49c604b.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050209015248/detail/59c694b7_165e49c604b.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331050210012596",
+                        "name": "Chrysanthemum Tea",
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050210012596/photo/256e7633_9528f3da73c.webp",
+                        "description": "Refreshing Chrysanthemum Tea, cool and fragrant.",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"external_data\":\"01e82671-470c-4b23-b9a8-12710c2862c0\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-04-29T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050210012596/photo/256e7633_9528f3da73c.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20210331050210012596/detail/256e7633_9528f3da73c.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331050209036036",
+                        "name": "Soya Bean",
+                        "priceInMinorUnit": 200,
+                        "description": "Creamy and refreshing soy milk.",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"external_data\":\"316b0561-eddb-4901-8f51-54e211344c8c\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-05-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331050209028195",
+                        "name": "Oolong Tea",
+                        "priceInMinorUnit": 250,
+                        "description": "Authentic Oolong Tea with deep, fragrant aroma.",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"external_data\":\"f93c569e-d443-42b0-8c75-1e1ec2323a41\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-05-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331063543025145",
+                        "name": "Green Tea",
+                        "priceInMinorUnit": 250,
+                        "description": "Refresh with soothing, aromatic East Asian allure.",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"external_data\":\"8ab24e7d-86c7-4fd5-85c6-07f87cfdb43b\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-05-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20210331063543016616",
+                        "name": "Ice Lemon Tea",
+                        "priceInMinorUnit": 250,
+                        "description": "Refreshing ice lemon tea with a touch of Indonesian flair.",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"external_data\":\"d3636d19-a7e1-41e7-afd0-433eea048574\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_tobacco_ar\"]}}},\"keep_unavailable_until\":\"2026-04-01T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.5,
+    "voteCount": 946,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-CYXVEBXXEYEAG6/photos/e01dbd4839b34e0f8af44874d8365988_1580657063762563237.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out KL Damansara Chilli Ban Mee - Bedok Shopping Complex on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-CYXVEBXXEYEAG6"
+    },
+    "chainName": "KL Damansara Chilli Ban Mee",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-CYXVEBXXEYEAG6/list/992b08ac686e471fb07a45d5cdf5d47a_1779945144227841217.webp",
+    "branchName": "Bedok Shopping Complex",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#FFEC8F",
+            "text": "5-Star Eats",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200002/iconv3/d649c6d9ea9b4e87b0f3896b02f40a74_1769400755885577643.webp",
+            "labelID": "1200002",
+            "labelName": "5 Star Eats",
+            "type": "FoodAuthority",
+            "fontColor": "#005339",
+            "icon": "StarFilled",
+            "deeplink": "grab://open?screenType=GRABFOOD&campaignLandingID=16927&landingSource=foodAuthority&isNewTask=true"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:00:00Z"
+    },
+    "translationTags": [
+        "non-pork"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

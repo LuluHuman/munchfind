@@ -1,0 +1,1645 @@
+{
+    "ID": "4-C34JA3EANNA1VN",
+    "name": "Rive Gauche - Tampines One",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C34JA3EANNA1VN/hero/3634c706-4a46-48d6-84c4-4700d33a7dfb__store_cover__2025__10__17__06__46__00.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:00am-8:45pm",
+        "mon": "11:00am-8:45pm",
+        "tue": "11:00am-8:45pm",
+        "wed": "11:00am-8:45pm",
+        "thu": "11:00am-8:45pm",
+        "fri": "11:00am-8:45pm",
+        "sat": "11:00am-8:45pm"
+    },
+    "address": {
+        "name": "Rive Gauche - Tampines One",
+        "combined_address": "10 Tampines Central 1, #B1-13, Tampines, 529536",
+        "combined_city": "Singapore",
+        "house": "#B1-13",
+        "street": "10 Tampines Central 1",
+        "suburb": "Tampines",
+        "postcode": "529536",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3541638,
+        "lng": 103.9450487
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT2026062912050042021",
+                "name": "The Event Edit",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026062912064486517",
+                        "name": "Grand Picnic",
+                        "available": true,
+                        "priceInMinorUnit": 2100,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912064486517/photo/menueditor_item_ee96f11b04c24b17b3f1b49ed3af6b08_1782734732025815697.avif",
+                        "description": "Combination of handmade guanaja bites, madeleine and brownie cubes",
+                        "discountedPriceInMin": 2100,
+                        "priceV2": {
+                            "amountInMinor": 2100,
+                            "amountDisplay": "21.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2100,
+                            "amountDisplay": "21.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912064486517/photo/menueditor_item_ee96f11b04c24b17b3f1b49ed3af6b08_1782734732025815697.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912064486517/detail/menueditor_item_ee96f11b04c24b17b3f1b49ed3af6b08_1782734732025815697.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026062912081096644",
+                        "name": "French Moment",
+                        "available": true,
+                        "priceInMinorUnit": 2200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912081096644/photo/menueditor_item_c8b7efd3f7e04317811f9de021d07638_1782734826511758886.avif",
+                        "description": "Combination of handmade guananja bites, madeleine and financiers",
+                        "discountedPriceInMin": 2200,
+                        "priceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912081096644/photo/menueditor_item_c8b7efd3f7e04317811f9de021d07638_1782734826511758886.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912081096644/detail/menueditor_item_c8b7efd3f7e04317811f9de021d07638_1782734826511758886.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026062912094934198",
+                        "name": "Jubilee Party",
+                        "available": true,
+                        "priceInMinorUnit": 2200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912094934198/photo/menueditor_item_1d444e6239a247358ba8fafc7d317c4a_1782734915688690806.avif",
+                        "description": "Combination of handmade of guanaja bites, brownie cubes and financiers",
+                        "discountedPriceInMin": 2200,
+                        "priceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912094934198/photo/menueditor_item_1d444e6239a247358ba8fafc7d317c4a_1782734915688690806.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912094934198/detail/menueditor_item_1d444e6239a247358ba8fafc7d317c4a_1782734915688690806.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026062912112033320",
+                        "name": "Guanaja Bites",
+                        "available": true,
+                        "priceInMinorUnit": 2750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912112033320/photo/menueditor_item_c7c1475019c042eba26ff87ee54374a6_1782735014071214479.avif",
+                        "description": "6 pieces of chocolate guanaja bites",
+                        "discountedPriceInMin": 2750,
+                        "priceV2": {
+                            "amountInMinor": 2750,
+                            "amountDisplay": "27.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2750,
+                            "amountDisplay": "27.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912112033320/photo/menueditor_item_c7c1475019c042eba26ff87ee54374a6_1782735014071214479.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912112033320/detail/menueditor_item_c7c1475019c042eba26ff87ee54374a6_1782735014071214479.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026062912121583155",
+                        "name": "Madeleine",
+                        "available": true,
+                        "priceInMinorUnit": 2200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912121583155/photo/menueditor_item_cbfd8e7b1607416fb1db7d9399e47703_1782735097530097761.avif",
+                        "description": "6 pieces of handmade madeleine",
+                        "discountedPriceInMin": 2200,
+                        "priceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912121583155/photo/menueditor_item_cbfd8e7b1607416fb1db7d9399e47703_1782735097530097761.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912121583155/detail/menueditor_item_cbfd8e7b1607416fb1db7d9399e47703_1782735097530097761.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026062912133411206",
+                        "name": "Brownie Cube",
+                        "available": true,
+                        "priceInMinorUnit": 2200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912133411206/photo/menueditor_item_6c9ae6a19e184f75ae8e09f52b344823_1782735161944821736.avif",
+                        "description": "Handmade chocolate brownie",
+                        "discountedPriceInMin": 2200,
+                        "priceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912133411206/photo/menueditor_item_6c9ae6a19e184f75ae8e09f52b344823_1782735161944821736.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912133411206/detail/menueditor_item_6c9ae6a19e184f75ae8e09f52b344823_1782735161944821736.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026062912151068504",
+                        "name": "Financier",
+                        "available": true,
+                        "priceInMinorUnit": 2200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912151068504/photo/menueditor_item_40efea6d77f34b4e94608f4e9ea76b9b_1782735233269274170.avif",
+                        "description": "Handmade classic French butter cake",
+                        "discountedPriceInMin": 2200,
+                        "priceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912151068504/photo/menueditor_item_40efea6d77f34b4e94608f4e9ea76b9b_1782735233269274170.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062912151068504/detail/menueditor_item_40efea6d77f34b4e94608f4e9ea76b9b_1782735233269274170.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240517105432010895",
+                "name": "Signature Whole Cakes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20240517105432059864",
+                        "name": "(Size 5) Signature Guanaja Cake",
+                        "available": true,
+                        "priceInMinorUnit": 6200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432059864/photo/menueditor_item_122dc7d40df94793b55f6686a32bb9ba_1760432690043927372.avif",
+                        "description": "A French top quality of bitter sweet chocolate mousse with two layers of chocolate sponge and a bottom layer of crispy biscuit.",
+                        "discountedPriceInMin": 6200,
+                        "priceV2": {
+                            "amountInMinor": 6200,
+                            "amountDisplay": "62.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6200,
+                            "amountDisplay": "62.00"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"selling_uom\":{\"weight\":10000},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095131013269",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432059864/photo/menueditor_item_122dc7d40df94793b55f6686a32bb9ba_1760432690043927372.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432059864/detail/menueditor_item_122dc7d40df94793b55f6686a32bb9ba_1760432690043927372.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433047992",
+                        "name": "(Size 6) Signature Guanaja Cake",
+                        "available": true,
+                        "priceInMinorUnit": 7600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433047992/photo/menueditor_item_a5ef111a2018464d8f2e9fce8d44ecd5_1760432708243685561.avif",
+                        "description": "A French top quality of bitter sweet chocolate mousse with two layers of chocolate sponge and a bottom layer of crispy biscuit.",
+                        "discountedPriceInMin": 7600,
+                        "priceV2": {
+                            "amountInMinor": 7600,
+                            "amountDisplay": "76.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 7600,
+                            "amountDisplay": "76.00"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"selling_uom\":{\"weight\":10000},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095131013269",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433047992/photo/menueditor_item_a5ef111a2018464d8f2e9fce8d44ecd5_1760432708243685561.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433047992/detail/menueditor_item_a5ef111a2018464d8f2e9fce8d44ecd5_1760432708243685561.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105432039122",
+                        "name": "(Size 5) Strawberry Shortcake",
+                        "available": true,
+                        "priceInMinorUnit": 5600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432039122/photo/menueditor_item_65115e8c9dd843dda5fb11ca734358ac_1773716191468859578.avif",
+                        "description": "Two layers of special light sponge sandwiched with sliced strawberries and freshly whipped cream. Decorated with fresh strawberries on top. Comes with various sizes to choose from.",
+                        "discountedPriceInMin": 5600,
+                        "priceV2": {
+                            "amountInMinor": 5600,
+                            "amountDisplay": "56.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5600,
+                            "amountDisplay": "56.00"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"selling_uom\":{\"weight\":10000},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095131013269",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432039122/photo/menueditor_item_65115e8c9dd843dda5fb11ca734358ac_1773716191468859578.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432039122/detail/menueditor_item_65115e8c9dd843dda5fb11ca734358ac_1773716191468859578.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026072202410106100",
+                        "name": "( Size 6) Black Forest Charlotte",
+                        "available": true,
+                        "priceInMinorUnit": 6500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072202410106100/photo/menueditor_item_55da490f100a4da1b5cef82800d5ee97_1784688049441731421.avif",
+                        "discountedPriceInMin": 6500,
+                        "priceV2": {
+                            "amountInMinor": 6500,
+                            "amountDisplay": "65.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6500,
+                            "amountDisplay": "65.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072202410106100/photo/menueditor_item_55da490f100a4da1b5cef82800d5ee97_1784688049441731421.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072202410106100/detail/menueditor_item_55da490f100a4da1b5cef82800d5ee97_1784688049441731421.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025052704241666123",
+                        "name": "(Size 6) Mango Yuzu Cake",
+                        "available": true,
+                        "priceInMinorUnit": 7200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025052704241666123/photo/menueditor_item_e2c999a85a214894a7b06bcc5c4b2215_1760432974945360560.avif",
+                        "discountedPriceInMin": 7200,
+                        "priceV2": {
+                            "amountInMinor": 7200,
+                            "amountDisplay": "72.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 7200,
+                            "amountDisplay": "72.00"
+                        },
+                        "metadata": "{\"discounts\":{\"currency_code\":\"SGD\"},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095131013269",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025052704241666123/photo/menueditor_item_e2c999a85a214894a7b06bcc5c4b2215_1760432974945360560.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025052704241666123/detail/menueditor_item_e2c999a85a214894a7b06bcc5c4b2215_1760432974945360560.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105432106462",
+                        "name": "White Peach Strawberry",
+                        "available": true,
+                        "priceInMinorUnit": 5300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432106462/photo/menueditor_item_3d2472ba5f354529815f9d0b9cec9f66_1760433052428209833.avif",
+                        "discountedPriceInMin": 5300,
+                        "priceV2": {
+                            "amountInMinor": 5300,
+                            "amountDisplay": "53.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5300,
+                            "amountDisplay": "53.00"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"selling_uom\":{\"weight\":10000},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095131013269",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432106462/photo/menueditor_item_3d2472ba5f354529815f9d0b9cec9f66_1760433052428209833.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432106462/detail/menueditor_item_3d2472ba5f354529815f9d0b9cec9f66_1760433052428209833.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105432042063",
+                        "name": "Tiramisu 550g",
+                        "available": true,
+                        "priceInMinorUnit": 4800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432042063/photo/menueditor_item_11a859ce6b574e338e568195df4dae91_1760433285070721881.avif",
+                        "description": "Delicate ladyfingers soaked in freshly brewed espresso are layered with lush mascarpone and finished with a dusting of pure cocoa. Classic, creamy coffee notes with a satin-light finish.",
+                        "discountedPriceInMin": 4800,
+                        "priceV2": {
+                            "amountInMinor": 4800,
+                            "amountDisplay": "48.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4800,
+                            "amountDisplay": "48.00"
+                        },
+                        "metadata": "{\"weight\":{\"value\":550,\"unit\":\"g\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"selling_uom\":{\"weight\":10000},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095131013269",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432042063/photo/menueditor_item_11a859ce6b574e338e568195df4dae91_1760433285070721881.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432042063/detail/menueditor_item_11a859ce6b574e338e568195df4dae91_1760433285070721881.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433244920",
+                        "name": "(Size 6) Strawberry Shortcake",
+                        "priceInMinorUnit": 6800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433244920/photo/menueditor_item_20cf3be5bae0479db36ca60468dedf99_1760432922293509352.avif",
+                        "description": "Two layers of special light sponge sandwiched with sliced strawberries and freshly whipped cream. Decorated with fresh strawberries on top. Comes with various sizes to choose from.",
+                        "discountedPriceInMin": 6800,
+                        "priceV2": {
+                            "amountInMinor": 6800,
+                            "amountDisplay": "68.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6800,
+                            "amountDisplay": "68.00"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"selling_uom\":{\"weight\":10000},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "itemClassID": "SGITEDP20230228095131013269",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433244920/photo/menueditor_item_20cf3be5bae0479db36ca60468dedf99_1760432922293509352.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433244920/detail/menueditor_item_20cf3be5bae0479db36ca60468dedf99_1760432922293509352.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026031702471269634",
+                        "name": "( Size 5) Strawberry Pistachio",
+                        "priceInMinorUnit": 5900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026031702471269634/photo/menueditor_item_af767094d14b45eb9993ffd529248abf_1773715617405598455.avif",
+                        "description": "A delightful creation. Blending the nutty warmth of pistachio with the fruity sweetness of strawberry and the velvety richness of Hokkaido milk.",
+                        "discountedPriceInMin": 5900,
+                        "priceV2": {
+                            "amountInMinor": 5900,
+                            "amountDisplay": "59.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5900,
+                            "amountDisplay": "59.00"
+                        },
+                        "metadata": "{\"discounts\":{\"currency_code\":\"SGD\"},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026031702471269634/photo/menueditor_item_af767094d14b45eb9993ffd529248abf_1773715617405598455.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026031702471269634/detail/menueditor_item_af767094d14b45eb9993ffd529248abf_1773715617405598455.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025040115104906254",
+                        "name": "(Size 5) Mango Yuzu Cake",
+                        "priceInMinorUnit": 5300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025040115104906254/photo/menueditor_item_29bf2fa552bf4ab69fcc90c28c490469_1760432956739791916.avif",
+                        "discountedPriceInMin": 5300,
+                        "priceV2": {
+                            "amountInMinor": 5300,
+                            "amountDisplay": "53.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5300,
+                            "amountDisplay": "53.00"
+                        },
+                        "metadata": "{\"discounts\":{\"currency_code\":\"SGD\"},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "itemClassID": "SGITEDP20230228095131013269",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025040115104906254/photo/menueditor_item_29bf2fa552bf4ab69fcc90c28c490469_1760432956739791916.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025040115104906254/detail/menueditor_item_29bf2fa552bf4ab69fcc90c28c490469_1760432956739791916.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025040115095867388",
+                        "name": "(Size 5) Blueberry & Pear Charlotte",
+                        "priceInMinorUnit": 5300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025040115095867388/photo/menueditor_item_a242fe7d56f4425d81f77e7ed7d34c11_1760432996333515529.avif",
+                        "discountedPriceInMin": 5300,
+                        "priceV2": {
+                            "amountInMinor": 5300,
+                            "amountDisplay": "53.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5300,
+                            "amountDisplay": "53.00"
+                        },
+                        "metadata": "{\"discounts\":{\"currency_code\":\"SGD\"},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-01T00:00:00+08:00\"}",
+                        "itemClassID": "SGITEDP20230228095131013269",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025040115095867388/photo/menueditor_item_a242fe7d56f4425d81f77e7ed7d34c11_1760432996333515529.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025040115095867388/detail/menueditor_item_a242fe7d56f4425d81f77e7ed7d34c11_1760432996333515529.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025052908203415160",
+                        "name": "(Size 6) Blueberry Pear Charlotte",
+                        "priceInMinorUnit": 7200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025052908203415160/photo/menueditor_item_6cd8d62bc93441e684c153df7d9ccb8e_1760433014016429247.avif",
+                        "discountedPriceInMin": 7200,
+                        "priceV2": {
+                            "amountInMinor": 7200,
+                            "amountDisplay": "72.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 7200,
+                            "amountDisplay": "72.00"
+                        },
+                        "metadata": "{\"discounts\":{\"currency_code\":\"SGD\"},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-28T00:00:00+08:00\"}",
+                        "itemClassID": "SGITEDP20230228095131013269",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025052908203415160/photo/menueditor_item_6cd8d62bc93441e684c153df7d9ccb8e_1760433014016429247.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025052908203415160/detail/menueditor_item_6cd8d62bc93441e684c153df7d9ccb8e_1760433014016429247.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026010112383113522",
+                        "name": "Tiramisu 1000g",
+                        "priceInMinorUnit": 8200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026010112383113522/photo/menueditor_item_08df3b7d25e243d1b1525bfed7d99d9c_1767271179750086926.avif",
+                        "description": "Delicate ladyfingers soaked in freshly brewed espresso are layered with lush mascarpone and finished with a dusting of pure cocoa. Classic, creamy coffee notes with a satin-light finish.",
+                        "discountedPriceInMin": 8200,
+                        "priceV2": {
+                            "amountInMinor": 8200,
+                            "amountDisplay": "82.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 8200,
+                            "amountDisplay": "82.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026010112383113522/photo/menueditor_item_08df3b7d25e243d1b1525bfed7d99d9c_1767271179750086926.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026010112383113522/detail/menueditor_item_08df3b7d25e243d1b1525bfed7d99d9c_1767271179750086926.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240517105432024316",
+                "name": "Mini Desserts - Slice and Cup Cakes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026060802011857998",
+                        "name": "Wild Strawberry",
+                        "available": true,
+                        "priceInMinorUnit": 1250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026060802011857998/photo/menueditor_item_9ed6d779753843a08620169938e25cc9_1781061882292216378.avif",
+                        "description": "Light strawberry mousse wrapped around a luscious wild strawberry confit center. Vanilla sponge and crunchy red fruit kranfil.",
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026060802011857998/photo/menueditor_item_9ed6d779753843a08620169938e25cc9_1781061882292216378.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026060802011857998/detail/menueditor_item_9ed6d779753843a08620169938e25cc9_1781061882292216378.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433175492",
+                        "name": "Guanaja Slice",
+                        "available": true,
+                        "priceInMinorUnit": 1250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433175492/photo/menueditor_item_daac4a46c60b43c6b5a88a3e181e3ba8_1762925811231318575.avif",
+                        "description": "A French top quality of bitter sweet chocolate mousse with two layers of chocolate sponge and a bottom layer of crispy biscuit.",
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095112012602",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433175492/photo/menueditor_item_daac4a46c60b43c6b5a88a3e181e3ba8_1762925811231318575.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433175492/detail/menueditor_item_daac4a46c60b43c6b5a88a3e181e3ba8_1762925811231318575.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433218802",
+                        "name": "Strawberry Shortcake Slice",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433218802/photo/menueditor_item_4f586809de0a4c70bc9d7a3359857032_1762925847449436811.avif",
+                        "description": "Two layers of special light sponge sandwiched with sliced strawberries and freshly whipped cream. Decorated with fresh strawberries on top. Comes with various sizes to choose from.",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095112012602",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433218802/photo/menueditor_item_4f586809de0a4c70bc9d7a3359857032_1762925847449436811.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433218802/detail/menueditor_item_4f586809de0a4c70bc9d7a3359857032_1762925847449436811.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024101315573736214",
+                        "name": "Mango Yuzu Slice",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024101315573736214/photo/menueditor_item_205fb0df8b0c419890da224de5e2a722_1775111405924074262.avif",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095112012602",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024101315573736214/photo/menueditor_item_205fb0df8b0c419890da224de5e2a722_1775111405924074262.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024101315573736214/detail/menueditor_item_205fb0df8b0c419890da224de5e2a722_1775111405924074262.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105432064754",
+                        "name": "Mont Blanc",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432064754/photo/menueditor_item_bf4bef97224e4b4c816070ac8358b2eb_1762925880073258954.avif",
+                        "description": "Traditional vanilla sponge layered with smooth chestnut filling and whipped cream. Finished with chestnut cream and Japanese chestnut.",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-dataservice\",\"againstFields\":{},\"streamStatus\":\"PROCESSING\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\",\"teen_alcohol_ar\"]}}}}",
+                        "itemClassID": "SGITEDP20230228095112012602",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432064754/photo/menueditor_item_bf4bef97224e4b4c816070ac8358b2eb_1762925880073258954.avif",
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432064754/photo/menueditor_item_fa4ec165367f45b08ab08e4c1298b76d_1762925889905515562.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432064754/detail/menueditor_item_bf4bef97224e4b4c816070ac8358b2eb_1762925880073258954.avif",
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432064754/detail/menueditor_item_fa4ec165367f45b08ab08e4c1298b76d_1762925889905515562.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105432133623",
+                        "name": "Tiramisu (Cup)",
+                        "available": true,
+                        "priceInMinorUnit": 1250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432133623/photo/menueditor_item_6dcb8411887b482f997a37ea58deb784_1762925904921886511.avif",
+                        "description": "An authentic Italian dessert with layers of sponge soaked with coffee syrup in lusciously mascarpone cheese mixture.",
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095112012602",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432133623/photo/menueditor_item_6dcb8411887b482f997a37ea58deb784_1762925904921886511.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432133623/detail/menueditor_item_6dcb8411887b482f997a37ea58deb784_1762925904921886511.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026061104284319766",
+                        "name": "Chocolate Banana Dome",
+                        "priceInMinorUnit": 1250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061104284319766/photo/menueditor_item_9c29c9d8785344b68d0e4ec695f61ae1_1781152011595241811.avif",
+                        "description": "Banana chocolate mousse surrounding a luscious banana confit center, crunchy pearls adds a delightful crisp texture, soft and moist banana sponge cake. This dessert offers a perfect balance of creamy, fruity, and crunchy elements.",
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061104284319766/photo/menueditor_item_9c29c9d8785344b68d0e4ec695f61ae1_1781152011595241811.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061104284319766/detail/menueditor_item_9c29c9d8785344b68d0e4ec695f61ae1_1781152011595241811.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026040206304430928",
+                        "name": "ISPAHAN",
+                        "priceInMinorUnit": 1250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026040206304430928/photo/menueditor_item_2ad6008581b243b78b3108f1065d9d2e_1775111425047627102.avif",
+                        "description": "Almond joconde layered with raspberry jam and lychee mousse",
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026040206304430928/photo/menueditor_item_2ad6008581b243b78b3108f1065d9d2e_1775111425047627102.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026040206304430928/detail/menueditor_item_2ad6008581b243b78b3108f1065d9d2e_1775111425047627102.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240517105432038843",
+                "name": "Macarons",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026042800425887051",
+                        "name": "Tiramisu Macaron",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026042800425887051/photo/menueditor_item_69546a5e258448bd9eae739d772ed973_1777336919569996894.avif",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026042800425887051/photo/menueditor_item_69546a5e258448bd9eae739d772ed973_1777336919569996894.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026042800425887051/detail/menueditor_item_69546a5e258448bd9eae739d772ed973_1777336919569996894.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433031323",
+                        "name": "Banana Milk Chocolate",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433031323/photo/menueditor_item_6cbf500286d24a039b1865455c3619c0_1747729312091079425.avif",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230615031012011401",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433031323/photo/menueditor_item_6cbf500286d24a039b1865455c3619c0_1747729312091079425.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433031323/detail/menueditor_item_6cbf500286d24a039b1865455c3619c0_1747729312091079425.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433147687",
+                        "name": "Guanaja Chocolate",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433147687/photo/menueditor_item_2e4aa6b2a76045b6802a79ab2f16f93d_1747729337324913581.avif",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230228094030013386",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433147687/photo/menueditor_item_2e4aa6b2a76045b6802a79ab2f16f93d_1747729337324913581.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433147687/detail/menueditor_item_2e4aa6b2a76045b6802a79ab2f16f93d_1747729337324913581.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433029998",
+                        "name": "Hazelnut & Chocolate",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433029998/photo/menueditor_item_7fafc89373bc483fb899b2a6825ee7af_1747729365648532148.avif",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230228094030013386",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433029998/photo/menueditor_item_7fafc89373bc483fb899b2a6825ee7af_1747729365648532148.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433029998/detail/menueditor_item_7fafc89373bc483fb899b2a6825ee7af_1747729365648532148.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433075304",
+                        "name": "Lychee Raspberry Rose",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433075304/photo/menueditor_item_1a89d314ce2a482290306dafd3aa8d52_1747729404474031695.avif",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230228094030013386",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433075304/photo/menueditor_item_1a89d314ce2a482290306dafd3aa8d52_1747729404474031695.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433075304/detail/menueditor_item_1a89d314ce2a482290306dafd3aa8d52_1747729404474031695.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105432169952",
+                        "name": "Japanese Matcha",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432169952/photo/menueditor_item_8df6fa5cf91e4fb0b662f87383c3d766_1747729457090252389.avif",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"weight\":{\"value\":3,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230615031012011401",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432169952/photo/menueditor_item_8df6fa5cf91e4fb0b662f87383c3d766_1747729457090252389.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432169952/detail/menueditor_item_8df6fa5cf91e4fb0b662f87383c3d766_1747729457090252389.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433188769",
+                        "name": "Strawberry",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433188769/photo/menueditor_item_6d8ce40ff95b4377b5293109b3c501ff_1747729488992412161.avif",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230615031012011401",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433188769/photo/menueditor_item_6d8ce40ff95b4377b5293109b3c501ff_1747729488992412161.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433188769/detail/menueditor_item_6d8ce40ff95b4377b5293109b3c501ff_1747729488992412161.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433062883",
+                        "name": "Japanese Yuzu Macaron",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433062883/photo/menueditor_item_bfc0ca4ad8984a0784be98c312f186e7_1747729518231196153.avif",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230228094030013386",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433062883/photo/menueditor_item_bfc0ca4ad8984a0784be98c312f186e7_1747729518231196153.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433062883/detail/menueditor_item_bfc0ca4ad8984a0784be98c312f186e7_1747729518231196153.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105432015976",
+                        "name": "Vanilla & Blueberry",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432015976/photo/menueditor_item_45257c50558d41e4bcc7700654cbdb08_1747729539222147881.avif",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"weight\":{\"value\":1,\"unit\":\"per pack\",\"count\":1,\"source\":5},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230228094030013386",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432015976/photo/menueditor_item_45257c50558d41e4bcc7700654cbdb08_1747729539222147881.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432015976/detail/menueditor_item_45257c50558d41e4bcc7700654cbdb08_1747729539222147881.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2025040115172526742",
+                "name": "Macaron Bundle",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025120209262404126",
+                        "name": "Macaron Bundle (10pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 3650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120209262404126/photo/menueditor_item_859ad8547f7b4a359a10a8991a8d604c_1764667545700873886.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025120306070556635",
+                                "name": "Macaron Bundle (10pcs)",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 9,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251203060705019603",
+                                        "name": "Guanaja Chocolate",
+                                        "available": true,
+                                        "sortOrder": 9,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "구아나자 초콜릿",
+                                                    "zh": "瓜纳哈巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251203060705026372",
+                                        "name": "Vanilla Blueberry",
+                                        "available": true,
+                                        "sortOrder": 8,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "바닐라 블루베리",
+                                                    "zh": "香草蓝莓"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251203060705032997",
+                                        "name": "Strawberry",
+                                        "available": true,
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "딸기",
+                                                    "zh": "草莓"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251203060705049451",
+                                        "name": "Japanese Matcha",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "일본 말차",
+                                                    "zh": "日本抹茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251203060705061995",
+                                        "name": "Lychee Raspberry Rose",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "리치 라즈베리 로즈",
+                                                    "zh": "荔枝覆盆子玫瑰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251203060706019556",
+                                        "name": "Banana Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "바나나 밀크 초콜릿",
+                                                    "zh": "香蕉牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251203060706025829",
+                                        "name": "Hazelnut Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "헤이즐넛 초콜릿",
+                                                    "zh": "榛子巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251203060705057259",
+                                        "name": "Japanese Yuzu",
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "일본 유자",
+                                                    "zh": "日本柚子"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    },
+                                    {
+                                        "ID": "SGMOD20251203060705072442",
+                                        "name": "Violet Blackcrrant",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "바이올렛 블랙커런트",
+                                                    "zh": "紫罗兰黑加仑"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 9
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "마카롱 세트 (10개)",
+                                            "zh": "马卡龙套装 (10个)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3650,
+                        "priceV2": {
+                            "amountInMinor": 3650,
+                            "amountDisplay": "36.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3650,
+                            "amountDisplay": "36.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120209262404126/photo/menueditor_item_859ad8547f7b4a359a10a8991a8d604c_1764667545700873886.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120209262404126/detail/menueditor_item_859ad8547f7b4a359a10a8991a8d604c_1764667545700873886.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025040115221735550",
+                        "name": "Macaron Bundle (5pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025040115221735550/photo/menueditor_item_6c126c9a46a747a2bdc3e4acf5d00b90_1743520893249289443.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025040115200961515",
+                                "name": "Macaron Bundle (5pcs)",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 5,
+                                "selectionRangeMax": 5,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250401152009014142",
+                                        "name": "Guanaja Chocolate",
+                                        "available": true,
+                                        "sortOrder": 9,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "구아나자 초콜릿",
+                                                    "zh": "瓜纳哈巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250401152009022224",
+                                        "name": "Strawberry",
+                                        "available": true,
+                                        "sortOrder": 8,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "딸기",
+                                                    "zh": "草莓"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250401152009044428",
+                                        "name": "Hazelnut Choclate",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "헤이즐넛 초콜릿",
+                                                    "zh": "榛子巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250401152009055438",
+                                        "name": "Lychee Raspberry Rose",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "리치 라즈베리 로즈",
+                                                    "zh": "荔枝覆盆子玫瑰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250401152009062901",
+                                        "name": "Japanese Matcha",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "일본 말차",
+                                                    "zh": "日本抹茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250401152009087181",
+                                        "name": "Vanilla Blueberry",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "바닐라 블루베리",
+                                                    "zh": "香草蓝莓"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250401152051010034",
+                                        "name": "Banana Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "바나나 밀크 초콜릿",
+                                                    "zh": "香蕉牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250401152009039042",
+                                        "name": "Mango",
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "망고",
+                                                    "zh": "芒果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250401152009076748",
+                                        "name": "Japanese Yuzu",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "일본 유자",
+                                                    "zh": "日本柚子"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "마카롱 번들 (5개)",
+                                            "zh": "马卡龙组合 (5个)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230623055912019300",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025040115221735550/photo/menueditor_item_6c126c9a46a747a2bdc3e4acf5d00b90_1743520893249289443.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025040115221735550/detail/menueditor_item_6c126c9a46a747a2bdc3e4acf5d00b90_1743520893249289443.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240517105432042405",
+                "name": "Cookies Box",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20240517105433012805",
+                        "name": "Almond Butter Box",
+                        "available": true,
+                        "priceInMinorUnit": 1500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433012805/photo/menueditor_item_b16ffe5867a54b57a9f547de29bc47b1_1747729579668100875.avif",
+                        "description": "Buttery, crumbly and moreish almond butter cookies",
+                        "discountedPriceInMin": 1500,
+                        "priceV2": {
+                            "amountInMinor": 1500,
+                            "amountDisplay": "15.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1500,
+                            "amountDisplay": "15.00"
+                        },
+                        "metadata": "{\"weight\":{\"value\":110,\"unit\":\"g\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230705011353018853",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433012805/photo/menueditor_item_b16ffe5867a54b57a9f547de29bc47b1_1747729579668100875.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433012805/detail/menueditor_item_b16ffe5867a54b57a9f547de29bc47b1_1747729579668100875.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105432028407",
+                        "name": "Guanaja Chocolate Box",
+                        "available": true,
+                        "priceInMinorUnit": 1800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432028407/photo/menueditor_item_68063cb2ec5b45329166743d7d9db547_1747729610804498619.avif",
+                        "description": "Fruity, sweetie, slightly chewy and crispy with chopped chocolate",
+                        "discountedPriceInMin": 1800,
+                        "priceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "metadata": "{\"weight\":{\"value\":100,\"unit\":\"g\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "SGITEDP20230705011353018853",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432028407/photo/menueditor_item_68063cb2ec5b45329166743d7d9db547_1747729610804498619.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105432028407/detail/menueditor_item_68063cb2ec5b45329166743d7d9db547_1747729610804498619.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240517105433137681",
+                        "name": "Macadamia Nuts and Chocolate Chip Box",
+                        "available": true,
+                        "priceInMinorUnit": 1800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433137681/photo/menueditor_item_cbb073761ba04d8c826e0d4b118aaa6c_1747729669151049361.avif",
+                        "description": "Combines of rich, buttery flavor of macadamia nuts",
+                        "discountedPriceInMin": 1800,
+                        "priceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "metadata": "{\"weight\":{\"value\":100,\"unit\":\"g\",\"count\":1,\"source\":5},\"discounts\":{\"currency_code\":\"SGD\"},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-07-22T00:00:00+08:00\"}",
+                        "itemClassID": "SGITEDP20230705011353018853",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433137681/photo/menueditor_item_cbb073761ba04d8c826e0d4b118aaa6c_1747729669151049361.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240517105433137681/detail/menueditor_item_cbb073761ba04d8c826e0d4b118aaa6c_1747729669151049361.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2025052805255708852",
+                "name": "Merchandise",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025091011280231476",
+                        "name": "Number Candles/ Per pc",
+                        "available": true,
+                        "priceInMinorUnit": 420,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025091011280231476/photo/menueditor_item_f3b203878038494ea0222bf7132edd57_1757503637666569778.avif",
+                        "discountedPriceInMin": 420,
+                        "priceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "metadata": "{\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "SGITEDP20230228095223010362",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025091011280231476/photo/menueditor_item_f3b203878038494ea0222bf7132edd57_1757503637666569778.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025091011280231476/detail/menueditor_item_f3b203878038494ea0222bf7132edd57_1757503637666569778.avif"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 50000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.7,
+    "voteCount": 281,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Rive Gauche - Tampines One on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C34JA3EANNA1VN"
+    },
+    "chainName": "Rive Gauche",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C34JA3EANNA1VN/list/3634c706-4a46-48d6-84c4-4700d33a7dfb__listing_photo__2025__10__13__09__04__02.avif",
+    "branchName": "Tampines One",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 11:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T03:00:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal",
+        "non-pork",
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

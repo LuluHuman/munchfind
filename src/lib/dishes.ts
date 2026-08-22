@@ -5,8 +5,10 @@ export type Dish = {
   id: number;
   name: string;
   price: number;
+  vegetarian: boolean;
   restaurantId: string;
   restaurantName: string;
+  restaurantAddress: string | null;
   cuisines: string[];
   distanceInKm: number;
   rating: number | null;
@@ -17,8 +19,10 @@ type DishRow = {
   id: number;
   dish_name: string;
   price: number;
+  vegetarian: number;
   restaurant_id: string;
   restaurant_name: string;
+  restaurant_address: string | null;
   cuisines: string;
   distance_in_km: number;
   rating: number | null;
@@ -30,8 +34,10 @@ function toDish(row: DishRow): Dish {
     id: row.id,
     name: row.dish_name,
     price: row.price,
+    vegetarian: row.vegetarian === 1,
     restaurantId: row.restaurant_id,
     restaurantName: row.restaurant_name,
+    restaurantAddress: row.restaurant_address,
     cuisines: row.cuisines ? row.cuisines.split(",") : [],
     distanceInKm: row.distance_in_km,
     rating: row.rating,
@@ -55,9 +61,7 @@ function matchesDietary(dish: Dish, dietary: string): boolean {
     case "Halal":
       return dish.halal;
     case "Vegetarian":
-      return dish.cuisines.some((tag) => /veg/i.test(tag));
-    case "Gluten-free":
-      return dish.cuisines.some((tag) => /gluten/i.test(tag));
+      return dish.vegetarian;
     default:
       return true;
   }
@@ -77,8 +81,9 @@ function budgetClause(budget: string): { clause: string; params: number[] } {
 }
 
 const BASE_QUERY = `
-  SELECT d.id, d.dish_name, d.price, d.restaurant_id,
-         r.name AS restaurant_name, r.cuisines, r.distance_in_km, r.rating, r.halal
+  SELECT d.id, d.dish_name, d.price, d.vegetarian, d.restaurant_id,
+         r.name AS restaurant_name, r.address AS restaurant_address,
+         r.cuisines, r.distance_in_km, r.rating, r.halal
   FROM dishes d
   JOIN restaurants r ON r.id = d.restaurant_id
   WHERE r.distance_in_km <= ?

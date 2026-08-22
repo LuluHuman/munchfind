@@ -1,0 +1,946 @@
+{
+    "ID": "4-C8AZT2U2E6LTCJ",
+    "name": "Talad Thai Banana - Tampines Mall",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C8AZT2U2E6LTCJ/hero/cc48e9becdaa4a3caed02211a7e63588_1781749829443735567.webp",
+    "description": "Please see attached file",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:30am-8:30pm",
+        "mon": "10:30am-8:40pm",
+        "tue": "10:30am-8:30pm",
+        "wed": "10:30am-8:30pm",
+        "thu": "10:30am-8:30pm",
+        "fri": "10:30am-8:30pm",
+        "sat": "10:30am-8:30pm"
+    },
+    "address": {
+        "name": "Talad Thai Banana - Tampines Mall",
+        "combined_address": "4 Tampines Central 5, Singapore 529510 #B1-K19 (Beside Tori Q)",
+        "combined_city": "Singapore",
+        "street": "4 Tampines Central 5, Singapore 529510 #B1-K19 (Beside Tori Q)",
+        "postcode": "529510",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3524722,
+        "lng": 103.9452392
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20260618022520029419",
+                "name": "Drinks",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260618022520085156",
+                        "name": "Thai Green Milk Tea - ชาเขียวกับนม",
+                        "available": true,
+                        "priceInMinorUnit": 550,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050707472978733/photo/menueditor_item_6b53bb094cda4333ac4207613d0124e2_1746604000359023645.webp",
+                        "description": "Talad’s In-house freshly brewed thai green milk tea, more tea, less sweet. You’ve to try it so you can love it like we do. For those who like the fragrant green tea leaves ~",
+                        "discountedPriceInMin": 550,
+                        "priceV2": {
+                            "amountInMinor": 550,
+                            "amountDisplay": "5.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 550,
+                            "amountDisplay": "5.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050707472978733/photo/menueditor_item_6b53bb094cda4333ac4207613d0124e2_1746604000359023645.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050707472978733/detail/menueditor_item_6b53bb094cda4333ac4207613d0124e2_1746604000359023645.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260618022520010801",
+                        "name": "Thai Milk Tea - ชานมเย็น",
+                        "available": true,
+                        "priceInMinorUnit": 550,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050707454762347/photo/menueditor_item_53ff500b63db46628c3c2fa679b822f4_1746603926810349681.webp",
+                        "description": "Talad’s In-house freshly brewed thai milk tea, more tea, less sweet. You’ve to try it so you can love it like we do.",
+                        "discountedPriceInMin": 550,
+                        "priceV2": {
+                            "amountInMinor": 550,
+                            "amountDisplay": "5.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 550,
+                            "amountDisplay": "5.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050707454762347/photo/menueditor_item_53ff500b63db46628c3c2fa679b822f4_1746603926810349681.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050707454762347/detail/menueditor_item_53ff500b63db46628c3c2fa679b822f4_1746603926810349681.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260618022520016182",
+                "name": "Party Sets",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026062206315424364",
+                        "name": "*Seasonal & New* Talad Happy Box - 30P Cempedak Fritters",
+                        "available": true,
+                        "priceInMinorUnit": 5490,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026062206315424364/photo/menueditor_item_52dd64837e964584abd990bb9c4d26ba_1782109910929660057.webp",
+                        "discountedPriceInMin": 5490,
+                        "priceV2": {
+                            "amountInMinor": 5490,
+                            "amountDisplay": "54.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5490,
+                            "amountDisplay": "54.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026062206315424364/photo/menueditor_item_52dd64837e964584abd990bb9c4d26ba_1782109910929660057.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026062206315424364/detail/menueditor_item_52dd64837e964584abd990bb9c4d26ba_1782109910929660057.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260618022520071680",
+                        "name": "Talad Happy Box - 36 Pieces",
+                        "available": true,
+                        "priceInMinorUnit": 3890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050517471913480/photo/menueditor_item_83b2b77931f0450eb499dbd6817d53a3_1746467158213960734.webp",
+                        "description": "Looking to feed a party for your friends or simply for gifting? Talad Happy Box contains 36 pieces each of your choice!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260618022521045380",
+                                "name": "happy box",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260618022521176167",
+                                        "name": "Mixed Favourites",
+                                        "available": true,
+                                        "priceInMinorUnit": 490,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 490,
+                                            "amountDisplay": "4.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "혼합 즐겨찾기",
+                                                    "zh": "混合精选"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618022521139516",
+                                        "name": "Thai Yam Chips",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 얌 칩스",
+                                                    "zh": "泰式芋头片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618022521205819",
+                                        "name": "Thai Sweet Potato Fritters",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 고구마 튀김",
+                                                    "zh": "泰式甜薯饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618022521097301",
+                                        "name": "Thai Sweet Potato Balls",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "태국 스위트 포테이토 볼",
+                                                    "zh": "泰式甜薯球"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618022521156092",
+                                        "name": "Thai Fried Bananas",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 튀긴 바나나",
+                                                    "zh": "泰式炸香蕉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "해피 박스",
+                                            "zh": "快乐盒"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3890,
+                        "priceV2": {
+                            "amountInMinor": 3890,
+                            "amountDisplay": "38.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3890,
+                            "amountDisplay": "38.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050517471913480/photo/menueditor_item_83b2b77931f0450eb499dbd6817d53a3_1746467158213960734.webp",
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050517471913480/photo/menueditor_item_fe034b4f168646a090d11f60f4e15368_1746467176608147867.webp",
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050517471913480/photo/menueditor_item_4cf209e3246f41a2bd451cc6cb55eecd_1746467186425677568.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050517471913480/detail/menueditor_item_83b2b77931f0450eb499dbd6817d53a3_1746467158213960734.webp",
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050517471913480/detail/menueditor_item_fe034b4f168646a090d11f60f4e15368_1746467176608147867.webp",
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025050517471913480/detail/menueditor_item_4cf209e3246f41a2bd451cc6cb55eecd_1746467186425677568.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260618022520038647",
+                "name": "Food",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260618022520051314",
+                        "name": "*New* 5P Thai Fried Pineapple Rings",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260618022520051314/photo/menueditor_item_f7a8aab5c401459aa8af5a416225802a_1782109862674784781.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260618022521051478",
+                                "name": "Add-On Drink:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260618022521167363",
+                                        "name": "Thai Green Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 그린 밀크티",
+                                                    "zh": "泰式绿奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618022521076053",
+                                        "name": "Thai Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 밀크티",
+                                                    "zh": "泰式奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 음료:",
+                                            "zh": "加饮料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260618022520051314/photo/menueditor_item_f7a8aab5c401459aa8af5a416225802a_1782109862674784781.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260618022520051314/detail/menueditor_item_f7a8aab5c401459aa8af5a416225802a_1782109862674784781.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260618022520020003",
+                        "name": "*Seasonal & New* 6P Cempedak Fritters",
+                        "available": true,
+                        "priceInMinorUnit": 1290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060508035448689/photo/menueditor_item_d4263356bfb24d4299662ddd13752bbe_1780646624798654143.webp",
+                        "description": "We only use premium honey cempedak, for a limited time only! Crispy on the outside, creamy goodness on the inside! Choose the amount of pieces you’d like to opt for.",
+                        "discountedPriceInMin": 1290,
+                        "priceV2": {
+                            "amountInMinor": 1290,
+                            "amountDisplay": "12.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1290,
+                            "amountDisplay": "12.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060508035448689/photo/menueditor_item_d4263356bfb24d4299662ddd13752bbe_1780646624798654143.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060508035448689/detail/menueditor_item_d4263356bfb24d4299662ddd13752bbe_1780646624798654143.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260618022520034923",
+                        "name": "8P Thai Fried Banana",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080301016211/photo/menueditor_item_78fbc9b196fe447b8c50dd76f3283665_1720605563851621031.webp",
+                        "description": "Crispy Thai Banana delight, sweet and golden!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260618022521051478",
+                                "name": "Add-On Drink:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260618022521167363",
+                                        "name": "Thai Green Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 그린 밀크티",
+                                                    "zh": "泰式绿奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618022521076053",
+                                        "name": "Thai Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 밀크티",
+                                                    "zh": "泰式奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 음료:",
+                                            "zh": "加饮料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080301016211/photo/menueditor_item_78fbc9b196fe447b8c50dd76f3283665_1720605563851621031.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080301016211/detail/menueditor_item_78fbc9b196fe447b8c50dd76f3283665_1720605563851621031.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260618022520043961",
+                        "name": "8P Sweet Potato Fritters",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080312011842/photo/menueditor_item_be126338367f484db391fc68f0d4bc3f_1720605602031708714.webp",
+                        "description": "Crispy sweet potato fritters, perfect crunchy treat!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260618022521051478",
+                                "name": "Add-On Drink:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260618022521167363",
+                                        "name": "Thai Green Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 그린 밀크티",
+                                                    "zh": "泰式绿奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618022521076053",
+                                        "name": "Thai Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 밀크티",
+                                                    "zh": "泰式奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 음료:",
+                                            "zh": "加饮料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080312011842/photo/menueditor_item_be126338367f484db391fc68f0d4bc3f_1720605602031708714.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080312011842/detail/menueditor_item_be126338367f484db391fc68f0d4bc3f_1720605602031708714.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260618022520099625",
+                        "name": "8P Sweet Potato Balls",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080322013616/photo/menueditor_item_c0d955bc91294446b5926658203a105e_1720605618358039708.webp",
+                        "description": "Crispy golden sweet potato balls from Talad Thai!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260618022521051478",
+                                "name": "Add-On Drink:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260618022521167363",
+                                        "name": "Thai Green Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 그린 밀크티",
+                                                    "zh": "泰式绿奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618022521076053",
+                                        "name": "Thai Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 밀크티",
+                                                    "zh": "泰式奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 음료:",
+                                            "zh": "加饮料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080322013616/photo/menueditor_item_c0d955bc91294446b5926658203a105e_1720605618358039708.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080322013616/detail/menueditor_item_c0d955bc91294446b5926658203a105e_1720605618358039708.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260618022520064416",
+                        "name": "6P Thai Yam Chips",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080334013593/photo/menueditor_item_a8491b51946648a8962fed30493b5b54_1720605634358613275.webp",
+                        "description": "Crispy Thai yam chips with a savory twist",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260618022521051478",
+                                "name": "Add-On Drink:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260618022521167363",
+                                        "name": "Thai Green Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 그린 밀크티",
+                                                    "zh": "泰式绿奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618022521076053",
+                                        "name": "Thai Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 밀크티",
+                                                    "zh": "泰式奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 음료:",
+                                            "zh": "加饮料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080334013593/photo/menueditor_item_a8491b51946648a8962fed30493b5b54_1720605634358613275.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080334013593/detail/menueditor_item_a8491b51946648a8962fed30493b5b54_1720605634358613275.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260618022520101594",
+                        "name": "10P Mixed Favourites",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080343013320/photo/menueditor_item_80b2174b4f2f4058a9870de510fdf61c_1720605649693032264.webp",
+                        "description": "Mixed Favourites consist of 4 fried bananas, 2 sweet potato frittets, 2 yam chips and 2 sweet potato balls",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260618022521051478",
+                                "name": "Add-On Drink:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260618022521167363",
+                                        "name": "Thai Green Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 그린 밀크티",
+                                                    "zh": "泰式绿奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260618022521076053",
+                                        "name": "Thai Milk Tea",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "타이 밀크티",
+                                                    "zh": "泰式奶茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 음료:",
+                                            "zh": "加饮料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080343013320/photo/menueditor_item_80b2174b4f2f4058a9870de510fdf61c_1720605649693032264.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240626080343013320/detail/menueditor_item_80b2174b4f2f4058a9870de510fdf61c_1720605649693032264.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081305430294950",
+                        "name": "[13 & 14 Aug] 1 For 1 8P Banana Fritters",
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081305430294950/photo/menueditor_item_ad62de6b8c874df986791f45b5d9528f_1786599757099713396.webp",
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081305430294950/photo/menueditor_item_ad62de6b8c874df986791f45b5d9528f_1786599757099713396.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081305430294950/detail/menueditor_item_ad62de6b8c874df986791f45b5d9528f_1786599757099713396.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.6,
+    "voteCount": 42,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C8AZT2U2E6LTCJ/photos/cc48e9becdaa4a3caed02211a7e63588_1781749829443735567.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Talad Thai Banana - Tampines Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C8AZT2U2E6LTCJ"
+    },
+    "chainName": "Talad Thai Banana",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C8AZT2U2E6LTCJ/list/d5a5e86276084ddba897fdb058051d63_1781749825278653985.webp",
+    "branchName": "Tampines Mall",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:30 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:30:00Z"
+    },
+    "translationTags": [
+        "non-pork",
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

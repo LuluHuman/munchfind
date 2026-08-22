@@ -1,0 +1,2335 @@
+{
+    "ID": "4-C3CXCBWYR26ULT",
+    "name": "Koo Kee Yong Tow Foo Mee - Tampines Mall",
+    "cuisine": "Chinese,Yong Tau Foo,Noodle,Soup",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C3CXCBWYR26ULT/hero/0d03b0d16fbb4ad3915e7eab23cde2b2_1645411780933762197.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "9:00am-9:00pm",
+        "mon": "9:00am-9:00pm",
+        "tue": "9:00am-9:00pm",
+        "wed": "9:00am-9:00pm",
+        "thu": "9:00am-9:00pm",
+        "fri": "9:00am-9:00pm",
+        "sat": "9:00am-9:00pm"
+    },
+    "address": {
+        "name": "Koo Kee Yong Tow Foo Mee - Tampines Mall",
+        "combined_address": "4 Tampines Central 5, #04-27/29, Tampines, 529510",
+        "combined_city": "Singapore",
+        "house": "#04-27/29",
+        "street": "4 Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529510",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3529004,
+        "lng": 103.9449191
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20250304155102018378",
+                "name": "Saver Meal, under $12",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250311074729018639",
+                        "name": "Koo Kee Special Noodle 高记招牌面",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311074729018639/photo/a4318312e18c41bb853522a74255671f_1741679249379630923.avif",
+                        "description": "Savor the rich flavors of perfectly cooked noodles with savory toppings.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG2024122601220549552",
+                                "name": "UPSIZE⬆️ **ADD NOODLE + 3 PCS YTF",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241226012205014864",
+                                        "name": "Selected Noodle+Tau Kee, Tau Kwa, Tau Hu",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "선택한 면과 두부, 튀긴 두부, 튀긴 두부 (채식주의자용)",
+                                                    "zh": "精选面条+豆干, 豆干, 豆腐"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "업사이즈⬆ **추가 국수 + 3개 YTF",
+                                            "zh": "加大⬆ **加面 + 3块酿豆腐"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20220221025112019786",
+                                "name": "Change to Laksa Gravy?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220221025113068389",
+                                        "name": "Change to Laksa Gravy",
+                                        "available": true,
+                                        "priceInMinorUnit": 190,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 190,
+                                            "amountDisplay": "1.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라크사 그레이비로 변경",
+                                                    "zh": "换成叻沙酱汁"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "라크사 그레이비로 변경하시겠습니까?",
+                                            "zh": "换成叻沙酱汁？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20220221025112032546",
+                                "name": "Choice of Noodle/Rice (Koo Kee Set/Special Noodle)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220221025113085245",
+                                        "name": "Signature Noodle 招牌面 (Default)",
+                                        "available": true,
+                                        "sortOrder": 8,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 국수 (하우스 스페셜 국수) (기본)",
+                                                    "zh": "招牌面（默认）"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113176543",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113031570",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113130138",
+                                        "name": "Kway Teow 果条",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113094720",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-03T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113164207",
+                                        "name": "Mee Tai Mak 米台目",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미타이박 국수",
+                                                    "zh": "米苔目"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113058579",
+                                        "name": "Rice w/ Minced Meat饭和肉碎",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-19T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 덮밥",
+                                                    "zh": "米饭配肉末"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택 (구기 세트/스페셜 면)",
+                                            "zh": "面/饭选择（古记套餐/特制面）"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"discounts\":{\"currency_code\":\"SGD\"},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20220221025113085245\",\"SGMOD20241226012205014864\",\"SGMOD20220221025113068389\",\"SGMOD20220808072858016459\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311074729018639/photo/a4318312e18c41bb853522a74255671f_1741679249379630923.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311074729018639/detail/a4318312e18c41bb853522a74255671f_1741679249379630923.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220221025112049710",
+                "name": "SPECIALS🔥",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20220221025112124406",
+                        "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                        "available": true,
+                        "priceInMinorUnit": 740,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021080108155057473/photo/menueditor_item_ebe0a5e38bff4b1ab9ddbda2b0064c9b_1627805695951208883.avif",
+                        "description": "4pcs X Mushroom Chix Wanton",
+                        "discountedPriceInMin": 740,
+                        "priceV2": {
+                            "amountInMinor": 740,
+                            "amountDisplay": "7.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 740,
+                            "amountDisplay": "7.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021080108155057473/photo/menueditor_item_ebe0a5e38bff4b1ab9ddbda2b0064c9b_1627805695951208883.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021080108155057473/detail/menueditor_item_ebe0a5e38bff4b1ab9ddbda2b0064c9b_1627805695951208883.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220221025112017502",
+                "name": "Mains",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20220221025112170939",
+                        "name": "Koo Kee Spinach Set",
+                        "available": true,
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061646021981/photo/d2dbd45a34414eee907249d1caddc5f2_1588573006361546329.avif",
+                        "description": "Fresh spinach with delicious Yong Tow Foo.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024122601220549552",
+                                "name": "UPSIZE⬆️ **ADD NOODLE + 3 PCS YTF",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241226012205014864",
+                                        "name": "Selected Noodle+Tau Kee, Tau Kwa, Tau Hu",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "선택한 면과 두부, 튀긴 두부, 튀긴 두부 (채식주의자용)",
+                                                    "zh": "精选面条+豆干, 豆干, 豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "업사이즈⬆ **추가 국수 + 3개 YTF",
+                                            "zh": "加大⬆ **加面 + 3块酿豆腐"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20220808072858016459\"]},\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061646021981/photo/d2dbd45a34414eee907249d1caddc5f2_1588573006361546329.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061646021981/detail/d2dbd45a34414eee907249d1caddc5f2_1588573006361546329.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112119288",
+                        "name": "Koo Kee Set Meal 高记招牌套餐",
+                        "available": true,
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061646015875/photo/545f7bd048804781a88a66e415c9b6ce_1588573006077174601.avif",
+                        "description": "Delicious Yong Tow Foo combo with noodles.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20220221025112032546",
+                                "name": "Choice of Noodle/Rice (Koo Kee Set/Special Noodle)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220221025113085245",
+                                        "name": "Signature Noodle 招牌面 (Default)",
+                                        "available": true,
+                                        "sortOrder": 8,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 국수 (하우스 스페셜 국수) (기본)",
+                                                    "zh": "招牌面（默认）"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113176543",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113031570",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113130138",
+                                        "name": "Kway Teow 果条",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113094720",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-03T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113164207",
+                                        "name": "Mee Tai Mak 米台目",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미타이박 국수",
+                                                    "zh": "米苔目"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113058579",
+                                        "name": "Rice w/ Minced Meat饭和肉碎",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-19T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 덮밥",
+                                                    "zh": "米饭配肉末"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택 (구기 세트/스페셜 면)",
+                                            "zh": "面/饭选择（古记套餐/特制面）"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20220221025112019786",
+                                "name": "Change to Laksa Gravy?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220221025113068389",
+                                        "name": "Change to Laksa Gravy",
+                                        "available": true,
+                                        "priceInMinorUnit": 190,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 190,
+                                            "amountDisplay": "1.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라크사 그레이비로 변경",
+                                                    "zh": "换成叻沙酱汁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "라크사 그레이비로 변경하시겠습니까?",
+                                            "zh": "换成叻沙酱汁？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG2024122601220549552",
+                                "name": "UPSIZE⬆️ **ADD NOODLE + 3 PCS YTF",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241226012205014864",
+                                        "name": "Selected Noodle+Tau Kee, Tau Kwa, Tau Hu",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "선택한 면과 두부, 튀긴 두부, 튀긴 두부 (채식주의자용)",
+                                                    "zh": "精选面条+豆干, 豆干, 豆腐"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "업사이즈⬆ **추가 국수 + 3개 YTF",
+                                            "zh": "加大⬆ **加面 + 3块酿豆腐"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20220221025113085245\",\"SGMOD20241226012205014864\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061646015875/photo/545f7bd048804781a88a66e415c9b6ce_1588573006077174601.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061646015875/detail/545f7bd048804781a88a66e415c9b6ce_1588573006077174601.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112139590",
+                        "name": "Koo Kee Special Noodle 高记招牌面",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061645033782/photo/bd00290b8e3f46c78f71c9c974a5d94d_1588573005749845788.avif",
+                        "description": "Savor the rich flavors of perfectly cooked noodles with savory toppings.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20220221025112032546",
+                                "name": "Choice of Noodle/Rice (Koo Kee Set/Special Noodle)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220221025113085245",
+                                        "name": "Signature Noodle 招牌面 (Default)",
+                                        "available": true,
+                                        "sortOrder": 8,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 국수 (하우스 스페셜 국수) (기본)",
+                                                    "zh": "招牌面（默认）"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113176543",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113031570",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113130138",
+                                        "name": "Kway Teow 果条",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113094720",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-03T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113164207",
+                                        "name": "Mee Tai Mak 米台目",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미타이박 국수",
+                                                    "zh": "米苔目"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113058579",
+                                        "name": "Rice w/ Minced Meat饭和肉碎",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-19T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 덮밥",
+                                                    "zh": "米饭配肉末"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택 (구기 세트/스페셜 면)",
+                                            "zh": "面/饭选择（古记套餐/特制面）"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20220221025112019786",
+                                "name": "Change to Laksa Gravy?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220221025113068389",
+                                        "name": "Change to Laksa Gravy",
+                                        "available": true,
+                                        "priceInMinorUnit": 190,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 190,
+                                            "amountDisplay": "1.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라크사 그레이비로 변경",
+                                                    "zh": "换成叻沙酱汁"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "라크사 그레이비로 변경하시겠습니까?",
+                                            "zh": "换成叻沙酱汁？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG2024122601220549552",
+                                "name": "UPSIZE⬆️ **ADD NOODLE + 3 PCS YTF",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241226012205014864",
+                                        "name": "Selected Noodle+Tau Kee, Tau Kwa, Tau Hu",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "선택한 면과 두부, 튀긴 두부, 튀긴 두부 (채식주의자용)",
+                                                    "zh": "精选面条+豆干, 豆干, 豆腐"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "업사이즈⬆ **추가 국수 + 3개 YTF",
+                                            "zh": "加大⬆ **加面 + 3块酿豆腐"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20220221025113085245\",\"SGMOD20241226012205014864\",\"SGMOD20220221025113068389\",\"SGMOD20220808072858016459\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061645033782/photo/bd00290b8e3f46c78f71c9c974a5d94d_1588573005749845788.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061645033782/detail/bd00290b8e3f46c78f71c9c974a5d94d_1588573005749845788.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112066410",
+                        "name": "Laksa Yong Tow Foo 叻沙酿豆腐",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061645020549/photo/4e3ccecc9c5e4dbc8bf55e1904a89fb4_1588573005417134602.avif",
+                        "description": "Rich and spicy laksa with savory yong tau foo.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20220221025112023390",
+                                "name": "Choice of Noodle (Laksa Yong Tow Foo)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220221025113046308",
+                                        "name": "Yellow Noodle 黄面(Default)",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수 (기본)",
+                                                    "zh": "黄面（默认）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113158779",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113106839",
+                                        "name": "Kway Teow 果条",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113143143",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-03T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113110768",
+                                        "name": "Mee Tai Mak 米台目",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미타이박 국수",
+                                                    "zh": "米苔目"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113076264",
+                                        "name": "Signature Noodle 招牌面",
+                                        "available": true,
+                                        "priceInMinorUnit": 190,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 190,
+                                            "amountDisplay": "1.90"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 국수",
+                                                    "zh": "招牌面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택 (락사와 용타우푸)",
+                                            "zh": "自选面条（叻沙酿豆腐）"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG2024122601220549552",
+                                "name": "UPSIZE⬆️ **ADD NOODLE + 3 PCS YTF",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241226012205014864",
+                                        "name": "Selected Noodle+Tau Kee, Tau Kwa, Tau Hu",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "선택한 면과 두부, 튀긴 두부, 튀긴 두부 (채식주의자용)",
+                                                    "zh": "精选面条+豆干, 豆干, 豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "업사이즈⬆ **추가 국수 + 3개 YTF",
+                                            "zh": "加大⬆ **加面 + 3块酿豆腐"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20220221025113143143\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061645020549/photo/4e3ccecc9c5e4dbc8bf55e1904a89fb4_1588573005417134602.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061645020549/detail/4e3ccecc9c5e4dbc8bf55e1904a89fb4_1588573005417134602.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112109293",
+                        "name": "Bee Hoon Soup 米粉汤",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061645013780/photo/686b76a81b0740e5a5cdd7b434ffc6c2_1588573005176643017.avif",
+                        "description": "Savor the rich flavors of Bee Hoon Soup with crispy tofu and fish balls.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024122601220549552",
+                                "name": "UPSIZE⬆️ **ADD NOODLE + 3 PCS YTF",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241226012205014864",
+                                        "name": "Selected Noodle+Tau Kee, Tau Kwa, Tau Hu",
+                                        "available": true,
+                                        "priceInMinorUnit": 450,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 450,
+                                            "amountDisplay": "4.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "선택한 면과 두부, 튀긴 두부, 튀긴 두부 (채식주의자용)",
+                                                    "zh": "精选面条+豆干, 豆干, 豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "업사이즈⬆ **추가 국수 + 3개 YTF",
+                                            "zh": "加大⬆ **加面 + 3块酿豆腐"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061645013780/photo/686b76a81b0740e5a5cdd7b434ffc6c2_1588573005176643017.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061645013780/detail/686b76a81b0740e5a5cdd7b434ffc6c2_1588573005176643017.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112016310",
+                        "name": "Yong Tow Foo Soup 酿豆腐汤",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644041934/photo/b514b47a0fd94c6690e715ee5cb2689c_1588573004875357597.avif",
+                        "description": "Tasty Yong Tow Foo in light, savory broth.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20220221025112019786",
+                                "name": "Change to Laksa Gravy?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220221025113068389",
+                                        "name": "Change to Laksa Gravy",
+                                        "available": true,
+                                        "priceInMinorUnit": 190,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 190,
+                                            "amountDisplay": "1.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라크사 그레이비로 변경",
+                                                    "zh": "换成叻沙酱汁"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "라크사 그레이비로 변경하시겠습니까?",
+                                            "zh": "换成叻沙酱汁？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20220221025113068389\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644041934/photo/b514b47a0fd94c6690e715ee5cb2689c_1588573004875357597.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644041934/detail/b514b47a0fd94c6690e715ee5cb2689c_1588573004875357597.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112095777",
+                        "name": "Hot Plate Bean Paste Yong Tow Foo w/ Rice 铁板豆酱酿豆腐 + 饭",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644030022/photo/8bb1a63c48a14f0c948ae50eca7a087f_1588573004624024386.avif",
+                        "description": "Sizzling hot plate with rich bean paste and fresh Yong Tow Foo.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20220221025113019472",
+                                "name": "Changes to Main Ingredients",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220221025113128812",
+                                        "name": "Change to Signature Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 190,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 190,
+                                            "amountDisplay": "1.90"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 국수로 변경",
+                                                    "zh": "更换为招牌面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113025304",
+                                        "name": "Change to Rice w/ Minced Meat",
+                                        "available": true,
+                                        "priceInMinorUnit": 190,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 190,
+                                            "amountDisplay": "1.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-19T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 밥으로 변경",
+                                                    "zh": "肉末饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "메인 재료 변경",
+                                            "zh": "主食成分更改"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\",\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644030022/photo/8bb1a63c48a14f0c948ae50eca7a087f_1588573004624024386.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644030022/detail/8bb1a63c48a14f0c948ae50eca7a087f_1588573004624024386.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112048551",
+                        "name": "Hot Plate Spicy Yong Tow Foo w/ Rice 铁板麻辣酿豆腐 + 饭",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644022531/photo/8f6ec5ba012e4b7aab27200fe2f8e088_1588573004353011974.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20220221025113019472",
+                                "name": "Changes to Main Ingredients",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220221025113128812",
+                                        "name": "Change to Signature Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 190,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 190,
+                                            "amountDisplay": "1.90"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 국수로 변경",
+                                                    "zh": "更换为招牌面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20220221025113025304",
+                                        "name": "Change to Rice w/ Minced Meat",
+                                        "available": true,
+                                        "priceInMinorUnit": 190,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 190,
+                                            "amountDisplay": "1.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-19T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 밥으로 변경",
+                                                    "zh": "肉末饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "메인 재료 변경",
+                                            "zh": "主食成分更改"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\",\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644022531/photo/8f6ec5ba012e4b7aab27200fe2f8e088_1588573004353011974.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644022531/detail/8f6ec5ba012e4b7aab27200fe2f8e088_1588573004353011974.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112083806",
+                        "name": "Hot Plate Spicy Mee Tai Mak 铁板麻辣米台目",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644013210/photo/ea0d4d06edfa4c6cb38bd5967e5bcd4d_1588573004182944762.avif",
+                        "description": "Sizzle in Hot Plate Spicy Mee Tai Mak.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\",\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644013210/photo/ea0d4d06edfa4c6cb38bd5967e5bcd4d_1588573004182944762.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061644013210/detail/ea0d4d06edfa4c6cb38bd5967e5bcd4d_1588573004182944762.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112151903",
+                        "name": "Yong Tow Foo w/ Chee Cheong Fun 酿豆腐猪肠粉",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061643023223/photo/42fbf7a539ef43dcab35942332e9b929_1588573003983820901.avif",
+                        "description": "Delicious Yong Tow Foo with soft Chee Cheong Fun, crispy and flavorful!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-15T00:00:00+08:00\",\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061643023223/photo/42fbf7a539ef43dcab35942332e9b929_1588573003983820901.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061643023223/detail/42fbf7a539ef43dcab35942332e9b929_1588573003983820901.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112180066",
+                        "name": "Laksa Yong Tow Foo w/ Chee Cheong Fun 叻沙酿豆腐猪肠粉",
+                        "available": true,
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061643013957/photo/36fd4e2a701e48e1a4c774974376f314_1588573003695002888.avif",
+                        "description": "Savor rich Laksa broth with Yong Tow Foo & Chee Cheong Fun.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220808072858015431",
+                                "name": "Limited U.F.0 香菇鸡肉炸云吞",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220808072858016459",
+                                        "name": "4pcs X Mushroom Chix Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 740,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 740,
+                                            "amountDisplay": "7.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 치킨 완탕 4개",
+                                                    "zh": "4粒×蘑菇鸡肉云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "한정 제공 U.F.0 버섯과 치킨 튀김 만두",
+                                            "zh": "限量U.F.0 香菇鸡肉炸云吞"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\",\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061643013957/photo/36fd4e2a701e48e1a4c774974376f314_1588573003695002888.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061643013957/detail/36fd4e2a701e48e1a4c774974376f314_1588573003695002888.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220221025112028466",
+                "name": "Side Dishes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20220221025112051018",
+                        "name": "Thai Style Fried Bean Curd 泰式炸豆腐 (泰式辣椒)",
+                        "available": true,
+                        "priceInMinorUnit": 590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061647026901/photo/a5b5317ef1b74ad5acc92bb3c164bf4c_1588573007343024927.avif",
+                        "description": "Crispy Thai Style Fried Bean Curd with Spicy Tangy Sauce.",
+                        "discountedPriceInMin": 590,
+                        "priceV2": {
+                            "amountInMinor": 590,
+                            "amountDisplay": "5.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 590,
+                            "amountDisplay": "5.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061647026901/photo/a5b5317ef1b74ad5acc92bb3c164bf4c_1588573007343024927.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061647026901/detail/a5b5317ef1b74ad5acc92bb3c164bf4c_1588573007343024927.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112038558",
+                        "name": "Hong Kong Style Fried Bean Curd 港式炸豆腐 (蒜味蚝油)",
+                        "available": true,
+                        "priceInMinorUnit": 590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061647013191/photo/9510228f805f498d803b5f3d688052a8_1588573007133609860.avif",
+                        "description": "Crispy bean curd with garlic oyster sauce. A must-try!",
+                        "discountedPriceInMin": 590,
+                        "priceV2": {
+                            "amountInMinor": 590,
+                            "amountDisplay": "5.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 590,
+                            "amountDisplay": "5.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061647013191/photo/9510228f805f498d803b5f3d688052a8_1588573007133609860.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200504061647013191/detail/9510228f805f498d803b5f3d688052a8_1588573007133609860.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112073887",
+                        "name": "Vegetables w/ Fermented Bean Sauce 腐乳菜",
+                        "available": true,
+                        "priceInMinorUnit": 500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112073887/photo/menueditor_item_08909aaca9c843e3b75abe9368082c18_1703812374871909651.avif",
+                        "description": "Savory greens with rich fermented bean sauce.",
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112073887/photo/menueditor_item_08909aaca9c843e3b75abe9368082c18_1703812374871909651.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112073887/detail/menueditor_item_08909aaca9c843e3b75abe9368082c18_1703812374871909651.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026012706592287646",
+                        "name": "Chee Cheong Fun 猪肠粉 (2 pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 420,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012706592287646/photo/menueditor_item_d2a9998a496041eaa40e560839c7e730_1769497135231216733.avif",
+                        "discountedPriceInMin": 420,
+                        "priceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012706592287646/photo/menueditor_item_d2a9998a496041eaa40e560839c7e730_1769497135231216733.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012706592287646/detail/menueditor_item_d2a9998a496041eaa40e560839c7e730_1769497135231216733.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026012707000301465",
+                        "name": "Chee Cheong Fun with Minced Chicken 鸡肉碎猪肠粉 (2 pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 520,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012707000301465/photo/menueditor_item_fc873e0cfdc94832a849f8387d6ea64a_1769497177397172034.avif",
+                        "discountedPriceInMin": 520,
+                        "priceV2": {
+                            "amountInMinor": 520,
+                            "amountDisplay": "5.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 520,
+                            "amountDisplay": "5.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012707000301465/photo/menueditor_item_fc873e0cfdc94832a849f8387d6ea64a_1769497177397172034.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012707000301465/detail/menueditor_item_fc873e0cfdc94832a849f8387d6ea64a_1769497177397172034.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026012707003520798",
+                        "name": "Chee Cheong Fun with Spicy Sauce 麻辣酱猪肠粉 (2 pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 520,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012707003520798/photo/menueditor_item_84dff57abdb94a3db884a4c9be272433_1769497215904931735.avif",
+                        "description": "Soft rice noodle roll with spicy, savory sauce, delightfully flavorful.",
+                        "discountedPriceInMin": 520,
+                        "priceV2": {
+                            "amountInMinor": 520,
+                            "amountDisplay": "5.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 520,
+                            "amountDisplay": "5.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012707003520798/photo/menueditor_item_84dff57abdb94a3db884a4c9be272433_1769497215904931735.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012707003520798/detail/menueditor_item_84dff57abdb94a3db884a4c9be272433_1769497215904931735.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026012707011610842",
+                        "name": "Chee Cheong Fun with Bean Paste 豆酱猪肠粉 (2 pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 520,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012707011610842/photo/menueditor_item_2c64190c3265475da50c9acf0c0d1952_1769497246746233856.avif",
+                        "discountedPriceInMin": 520,
+                        "priceV2": {
+                            "amountInMinor": 520,
+                            "amountDisplay": "5.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 520,
+                            "amountDisplay": "5.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012707011610842/photo/menueditor_item_2c64190c3265475da50c9acf0c0d1952_1769497246746233856.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026012707011610842/detail/menueditor_item_2c64190c3265475da50c9acf0c0d1952_1769497246746233856.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220221025112037494",
+                "name": "Add-On",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20220221025112160739",
+                        "name": "Noodles w/ Minced Meat 面和肉碎",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112160739/photo/menueditor_item_49ac1ae4a33a442cbcae3dd7eb740ce7_1703812387223527933.avif",
+                        "description": "Savor the rich, savoury minced meat with perfectly cooked noodles.",
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112160739/photo/menueditor_item_49ac1ae4a33a442cbcae3dd7eb740ce7_1703812387223527933.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112160739/detail/menueditor_item_49ac1ae4a33a442cbcae3dd7eb740ce7_1703812387223527933.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112140306",
+                        "name": "Rice w/ Minced Meat 饭和肉碎",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112140306/photo/menueditor_item_1eeb6271d8554d95bb257cc8a03237ea_1703812400842289631.avif",
+                        "description": "Savor minced meat over fluffy rice.",
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-19T00:00:00+08:00\",\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"SGITE20250812133512085502\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112140306/photo/menueditor_item_1eeb6271d8554d95bb257cc8a03237ea_1703812400842289631.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112140306/detail/menueditor_item_1eeb6271d8554d95bb257cc8a03237ea_1703812400842289631.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220221025112028720",
+                        "name": "White Rice 泰国香米饭",
+                        "available": true,
+                        "priceInMinorUnit": 180,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112028720/photo/menueditor_item_137b96527d9244f9a741951a5292f721_1703812414477166860.avif",
+                        "description": "Fluffy, fragrant rice with a delicate taste. Perfect side.",
+                        "discountedPriceInMin": 180,
+                        "priceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-19T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112028720/photo/menueditor_item_137b96527d9244f9a741951a5292f721_1703812414477166860.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220221025112028720/detail/menueditor_item_137b96527d9244f9a741951a5292f721_1703812414477166860.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.4,
+    "voteCount": 676,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Koo Kee Yong Tow Foo Mee - Tampines Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C3CXCBWYR26ULT"
+    },
+    "chainName": "Koo Kee Yong Tow Foo Mee",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C3CXCBWYR26ULT/list/12d2d1ac72364158af2d2ced27230c16_1645411778168673967.avif",
+    "branchName": "Tampines Mall",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 9:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T01:00:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

@@ -1,0 +1,3164 @@
+{
+    "ID": "4-C7VJJKNYLU62ET",
+    "name": "Hwa Heng Beef Noodle - Eastpoint Mall",
+    "cuisine": "Malaysian,Beef Noodle,Noodle",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C7VJJKNYLU62ET/hero/46a923d2954f4ba3954882fa9a61763e_1770120819460937824.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "9:00am-8:45pm",
+        "mon": "9:30am-8:45pm",
+        "tue": "9:30am-8:45pm",
+        "wed": "9:30am-8:45pm",
+        "thu": "9:30am-8:45pm",
+        "fri": "9:30am-8:45pm",
+        "sat": "9:00am-8:45pm"
+    },
+    "address": {
+        "name": "Hwa Heng Beef Noodle - Eastpoint Mall",
+        "combined_address": "3, Simei Street 6, #03-06-07, Tampines, 528833",
+        "combined_city": "Singapore",
+        "house": "#03-06-07",
+        "street": "3, Simei Street 6",
+        "suburb": "Tampines",
+        "postcode": "528833",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3427472,
+        "lng": 103.9530126
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20251205023917011676",
+                "name": "Mains 主食",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20251205023917015857",
+                        "name": "Beef Tendon Noodle (Dry/Soup) 牛筋面 (干/汤）",
+                        "available": true,
+                        "priceInMinorUnit": 1210,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083427015470/photo/menueditor_item_3177d4de2a014f2fa51600f20ba4ab6e_1762567717719383433.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20251205023918027009",
+                                "name": "Dry/Soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918079614",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918133568",
+                                        "name": "Dry",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-02T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "드라이",
+                                                    "zh": "干的"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "건조/국물",
+                                            "zh": "干/汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918017551",
+                                "name": "Add Noodle/Rice 加面/饭",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918114904",
+                                        "name": "Add Noodle 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918081802",
+                                        "name": "Add Rice 加饭",
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 추가",
+                                            "zh": "加面/饭"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918043547",
+                                "name": "Add-On 加料",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918124883",
+                                        "name": "Sliced Beef 牛肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쇠고기 슬라이스",
+                                                    "zh": "牛肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918100830",
+                                        "name": "Beef Shank 牛腱",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 정강이",
+                                                    "zh": "牛腱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918052018",
+                                        "name": "Beef Tripe 牛肚",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 양",
+                                                    "zh": "牛肚"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918186539",
+                                        "name": "Beef Tendon 牛筋",
+                                        "available": true,
+                                        "priceInMinorUnit": 680,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 680,
+                                            "amountDisplay": "6.80"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄",
+                                                    "zh": "牛筋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918199256",
+                                        "name": "Beef Balls (3pcs) 牛肉丸 (3粒）",
+                                        "available": true,
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 완자 (3개) 牛肉丸 (3粒)",
+                                                    "zh": "牛肉丸（3粒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918069858",
+                                        "name": "Beef Tendon Balls (2pcs) 牛筋丸 (2粒）",
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄 볼 (2개)",
+                                                    "zh": "牛筋丸 (2粒)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918033828",
+                                "name": "Choice of Noodle/Rice 选择面类/饭",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918146028",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918153342",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918165250",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918176028",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-30T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918096616",
+                                        "name": "Rice 饭",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥",
+                                                    "zh": "饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택",
+                                            "zh": "选择面类/饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1210,
+                        "priceV2": {
+                            "amountInMinor": 1210,
+                            "amountDisplay": "12.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1210,
+                            "amountDisplay": "12.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083427015470/photo/menueditor_item_3177d4de2a014f2fa51600f20ba4ab6e_1762567717719383433.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083427015470/detail/menueditor_item_3177d4de2a014f2fa51600f20ba4ab6e_1762567717719383433.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251205023917083781",
+                        "name": "Beef Tripe Noodle (Dry/Soup) 牛肚面 (干/汤）",
+                        "available": true,
+                        "priceInMinorUnit": 940,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083418018029/photo/menueditor_item_d04ce4f4f4294de3bc5f639dfe60ad80_1762567692651513498.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20251205023918027009",
+                                "name": "Dry/Soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918079614",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918133568",
+                                        "name": "Dry",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-02T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "드라이",
+                                                    "zh": "干的"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "건조/국물",
+                                            "zh": "干/汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918017551",
+                                "name": "Add Noodle/Rice 加面/饭",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918114904",
+                                        "name": "Add Noodle 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918081802",
+                                        "name": "Add Rice 加饭",
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 추가",
+                                            "zh": "加面/饭"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918043547",
+                                "name": "Add-On 加料",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918124883",
+                                        "name": "Sliced Beef 牛肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쇠고기 슬라이스",
+                                                    "zh": "牛肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918100830",
+                                        "name": "Beef Shank 牛腱",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 정강이",
+                                                    "zh": "牛腱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918052018",
+                                        "name": "Beef Tripe 牛肚",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 양",
+                                                    "zh": "牛肚"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918186539",
+                                        "name": "Beef Tendon 牛筋",
+                                        "available": true,
+                                        "priceInMinorUnit": 680,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 680,
+                                            "amountDisplay": "6.80"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄",
+                                                    "zh": "牛筋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918199256",
+                                        "name": "Beef Balls (3pcs) 牛肉丸 (3粒）",
+                                        "available": true,
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 완자 (3개) 牛肉丸 (3粒)",
+                                                    "zh": "牛肉丸（3粒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918069858",
+                                        "name": "Beef Tendon Balls (2pcs) 牛筋丸 (2粒）",
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄 볼 (2개)",
+                                                    "zh": "牛筋丸 (2粒)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918033828",
+                                "name": "Choice of Noodle/Rice 选择面类/饭",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918146028",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918153342",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918165250",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918176028",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-30T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918096616",
+                                        "name": "Rice 饭",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥",
+                                                    "zh": "饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택",
+                                            "zh": "选择面类/饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 940,
+                        "priceV2": {
+                            "amountInMinor": 940,
+                            "amountDisplay": "9.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 940,
+                            "amountDisplay": "9.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083418018029/photo/menueditor_item_d04ce4f4f4294de3bc5f639dfe60ad80_1762567692651513498.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083418018029/detail/menueditor_item_d04ce4f4f4294de3bc5f639dfe60ad80_1762567692651513498.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251205023917076092",
+                        "name": "Beef Shank (Dry/Soup) 牛腱粉（干/汤）",
+                        "available": true,
+                        "priceInMinorUnit": 940,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083408014190/photo/menueditor_item_9c223860c47241a88fe04d1d771c31ab_1762567744791356280.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20251205023918043547",
+                                "name": "Add-On 加料",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918124883",
+                                        "name": "Sliced Beef 牛肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쇠고기 슬라이스",
+                                                    "zh": "牛肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918100830",
+                                        "name": "Beef Shank 牛腱",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 정강이",
+                                                    "zh": "牛腱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918052018",
+                                        "name": "Beef Tripe 牛肚",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 양",
+                                                    "zh": "牛肚"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918186539",
+                                        "name": "Beef Tendon 牛筋",
+                                        "available": true,
+                                        "priceInMinorUnit": 680,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 680,
+                                            "amountDisplay": "6.80"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄",
+                                                    "zh": "牛筋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918199256",
+                                        "name": "Beef Balls (3pcs) 牛肉丸 (3粒）",
+                                        "available": true,
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 완자 (3개) 牛肉丸 (3粒)",
+                                                    "zh": "牛肉丸（3粒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918069858",
+                                        "name": "Beef Tendon Balls (2pcs) 牛筋丸 (2粒）",
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄 볼 (2개)",
+                                                    "zh": "牛筋丸 (2粒)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918027009",
+                                "name": "Dry/Soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918079614",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918133568",
+                                        "name": "Dry",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-02T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "드라이",
+                                                    "zh": "干的"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "건조/국물",
+                                            "zh": "干/汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918017551",
+                                "name": "Add Noodle/Rice 加面/饭",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918114904",
+                                        "name": "Add Noodle 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918081802",
+                                        "name": "Add Rice 加饭",
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 추가",
+                                            "zh": "加面/饭"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918033828",
+                                "name": "Choice of Noodle/Rice 选择面类/饭",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918146028",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918153342",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918165250",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918176028",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-30T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918096616",
+                                        "name": "Rice 饭",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥",
+                                                    "zh": "饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택",
+                                            "zh": "选择面类/饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 940,
+                        "priceV2": {
+                            "amountInMinor": 940,
+                            "amountDisplay": "9.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 940,
+                            "amountDisplay": "9.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083408014190/photo/menueditor_item_9c223860c47241a88fe04d1d771c31ab_1762567744791356280.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083408014190/detail/menueditor_item_9c223860c47241a88fe04d1d771c31ab_1762567744791356280.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251205023917066424",
+                        "name": "Mixed Beef Noodle (Dry/Soup) 牛杂粉 (干/汤）",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083343011608/photo/menueditor_item_844475884619468a9c7a7c9e40f2e0ae_1762567768746534136.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20251205023918027009",
+                                "name": "Dry/Soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918079614",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918133568",
+                                        "name": "Dry",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-02T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "드라이",
+                                                    "zh": "干的"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "건조/국물",
+                                            "zh": "干/汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918017551",
+                                "name": "Add Noodle/Rice 加面/饭",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918114904",
+                                        "name": "Add Noodle 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918081802",
+                                        "name": "Add Rice 加饭",
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 추가",
+                                            "zh": "加面/饭"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918043547",
+                                "name": "Add-On 加料",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918124883",
+                                        "name": "Sliced Beef 牛肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쇠고기 슬라이스",
+                                                    "zh": "牛肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918100830",
+                                        "name": "Beef Shank 牛腱",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 정강이",
+                                                    "zh": "牛腱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918052018",
+                                        "name": "Beef Tripe 牛肚",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 양",
+                                                    "zh": "牛肚"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918186539",
+                                        "name": "Beef Tendon 牛筋",
+                                        "available": true,
+                                        "priceInMinorUnit": 680,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 680,
+                                            "amountDisplay": "6.80"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄",
+                                                    "zh": "牛筋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918199256",
+                                        "name": "Beef Balls (3pcs) 牛肉丸 (3粒）",
+                                        "available": true,
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 완자 (3개) 牛肉丸 (3粒)",
+                                                    "zh": "牛肉丸（3粒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918069858",
+                                        "name": "Beef Tendon Balls (2pcs) 牛筋丸 (2粒）",
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄 볼 (2개)",
+                                                    "zh": "牛筋丸 (2粒)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918033828",
+                                "name": "Choice of Noodle/Rice 选择面类/饭",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918146028",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918153342",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918165250",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918176028",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-30T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918096616",
+                                        "name": "Rice 饭",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥",
+                                                    "zh": "饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택",
+                                            "zh": "选择面类/饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083343011608/photo/menueditor_item_844475884619468a9c7a7c9e40f2e0ae_1762567768746534136.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083343011608/detail/menueditor_item_844475884619468a9c7a7c9e40f2e0ae_1762567768746534136.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251205023917052044",
+                        "name": "Sliced Beef w Beef Ball Noodle (Dry/Soup) 牛丸牛肉粉 (干/汤）",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083319013794/photo/menueditor_item_ae83dc4fbb814987b1e7386a9c4afd5c_1762567806642943392.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20251205023918027009",
+                                "name": "Dry/Soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918079614",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918133568",
+                                        "name": "Dry",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-02T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "드라이",
+                                                    "zh": "干的"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "건조/국물",
+                                            "zh": "干/汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918017551",
+                                "name": "Add Noodle/Rice 加面/饭",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918114904",
+                                        "name": "Add Noodle 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918081802",
+                                        "name": "Add Rice 加饭",
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 추가",
+                                            "zh": "加面/饭"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918043547",
+                                "name": "Add-On 加料",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918124883",
+                                        "name": "Sliced Beef 牛肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쇠고기 슬라이스",
+                                                    "zh": "牛肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918100830",
+                                        "name": "Beef Shank 牛腱",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 정강이",
+                                                    "zh": "牛腱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918052018",
+                                        "name": "Beef Tripe 牛肚",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 양",
+                                                    "zh": "牛肚"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918186539",
+                                        "name": "Beef Tendon 牛筋",
+                                        "available": true,
+                                        "priceInMinorUnit": 680,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 680,
+                                            "amountDisplay": "6.80"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄",
+                                                    "zh": "牛筋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918199256",
+                                        "name": "Beef Balls (3pcs) 牛肉丸 (3粒）",
+                                        "available": true,
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 완자 (3개) 牛肉丸 (3粒)",
+                                                    "zh": "牛肉丸（3粒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918069858",
+                                        "name": "Beef Tendon Balls (2pcs) 牛筋丸 (2粒）",
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄 볼 (2개)",
+                                                    "zh": "牛筋丸 (2粒)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918033828",
+                                "name": "Choice of Noodle/Rice 选择面类/饭",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918146028",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918153342",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918165250",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918176028",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-30T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918096616",
+                                        "name": "Rice 饭",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥",
+                                                    "zh": "饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택",
+                                            "zh": "选择面类/饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083319013794/photo/menueditor_item_ae83dc4fbb814987b1e7386a9c4afd5c_1762567806642943392.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083319013794/detail/menueditor_item_ae83dc4fbb814987b1e7386a9c4afd5c_1762567806642943392.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251205023917042840",
+                        "name": "Beef Ball Noodle (Dry/Soup) 牛丸粉 (干/汤）",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083305013844/photo/menueditor_item_4704ff36bdce49c484b607ae0741cb19_1762567833343132092.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20251205023918027009",
+                                "name": "Dry/Soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918079614",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918133568",
+                                        "name": "Dry",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-02T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "드라이",
+                                                    "zh": "干的"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "건조/국물",
+                                            "zh": "干/汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918017551",
+                                "name": "Add Noodle/Rice 加面/饭",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918114904",
+                                        "name": "Add Noodle 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918081802",
+                                        "name": "Add Rice 加饭",
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 추가",
+                                            "zh": "加面/饭"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918043547",
+                                "name": "Add-On 加料",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918124883",
+                                        "name": "Sliced Beef 牛肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쇠고기 슬라이스",
+                                                    "zh": "牛肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918100830",
+                                        "name": "Beef Shank 牛腱",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 정강이",
+                                                    "zh": "牛腱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918052018",
+                                        "name": "Beef Tripe 牛肚",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 양",
+                                                    "zh": "牛肚"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918186539",
+                                        "name": "Beef Tendon 牛筋",
+                                        "available": true,
+                                        "priceInMinorUnit": 680,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 680,
+                                            "amountDisplay": "6.80"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄",
+                                                    "zh": "牛筋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918199256",
+                                        "name": "Beef Balls (3pcs) 牛肉丸 (3粒）",
+                                        "available": true,
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 완자 (3개) 牛肉丸 (3粒)",
+                                                    "zh": "牛肉丸（3粒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918069858",
+                                        "name": "Beef Tendon Balls (2pcs) 牛筋丸 (2粒）",
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄 볼 (2개)",
+                                                    "zh": "牛筋丸 (2粒)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918033828",
+                                "name": "Choice of Noodle/Rice 选择面类/饭",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918146028",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918153342",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918165250",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918176028",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-30T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918096616",
+                                        "name": "Rice 饭",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥",
+                                                    "zh": "饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택",
+                                            "zh": "选择面类/饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083305013844/photo/menueditor_item_4704ff36bdce49c484b607ae0741cb19_1762567833343132092.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083305013844/detail/menueditor_item_4704ff36bdce49c484b607ae0741cb19_1762567833343132092.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251205023917037821",
+                        "name": "Sliced Beef Noodle (Dry/Soup) 牛肉粉汤 (干/汤)",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083254012790/photo/menueditor_item_0c0e36bde3bb40a6bb0067b4d62bc8b9_1762567859548393006.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20251205023918027009",
+                                "name": "Dry/Soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918079614",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918133568",
+                                        "name": "Dry",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-02T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "드라이",
+                                                    "zh": "干的"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "건조/국물",
+                                            "zh": "干/汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918017551",
+                                "name": "Add Noodle/Rice 加面/饭",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918114904",
+                                        "name": "Add Noodle 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918081802",
+                                        "name": "Add Rice 加饭",
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 추가",
+                                            "zh": "加面/饭"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918043547",
+                                "name": "Add-On 加料",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918124883",
+                                        "name": "Sliced Beef 牛肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쇠고기 슬라이스",
+                                                    "zh": "牛肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918100830",
+                                        "name": "Beef Shank 牛腱",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 정강이",
+                                                    "zh": "牛腱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918052018",
+                                        "name": "Beef Tripe 牛肚",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 양",
+                                                    "zh": "牛肚"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918186539",
+                                        "name": "Beef Tendon 牛筋",
+                                        "available": true,
+                                        "priceInMinorUnit": 680,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 680,
+                                            "amountDisplay": "6.80"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄",
+                                                    "zh": "牛筋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918199256",
+                                        "name": "Beef Balls (3pcs) 牛肉丸 (3粒）",
+                                        "available": true,
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 완자 (3개) 牛肉丸 (3粒)",
+                                                    "zh": "牛肉丸（3粒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918069858",
+                                        "name": "Beef Tendon Balls (2pcs) 牛筋丸 (2粒）",
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄 볼 (2개)",
+                                                    "zh": "牛筋丸 (2粒)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918033828",
+                                "name": "Choice of Noodle/Rice 选择面类/饭",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918146028",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918153342",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918165250",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918176028",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-30T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918096616",
+                                        "name": "Rice 饭",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥",
+                                                    "zh": "饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택",
+                                            "zh": "选择面类/饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083254012790/photo/menueditor_item_0c0e36bde3bb40a6bb0067b4d62bc8b9_1762567859548393006.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083254012790/detail/menueditor_item_0c0e36bde3bb40a6bb0067b4d62bc8b9_1762567859548393006.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251205023917026518",
+                        "name": "Signature Mixed Beef w Tendon Noodle (Dry/Soup) 牛筋牛杂粉 (干/汤)",
+                        "available": true,
+                        "priceInMinorUnit": 1420,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083227019626/photo/menueditor_item_78344970f9234cbd89e5dc5896f2e341_1762567974346735881.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20251205023918027009",
+                                "name": "Dry/Soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918079614",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918133568",
+                                        "name": "Dry",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-02T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "드라이",
+                                                    "zh": "干的"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "건조/국물",
+                                            "zh": "干/汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918017551",
+                                "name": "Add Noodle/Rice 加面/饭",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918114904",
+                                        "name": "Add Noodle 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918081802",
+                                        "name": "Add Rice 加饭",
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 추가",
+                                            "zh": "加面/饭"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918043547",
+                                "name": "Add-On 加料",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918124883",
+                                        "name": "Sliced Beef 牛肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쇠고기 슬라이스",
+                                                    "zh": "牛肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918100830",
+                                        "name": "Beef Shank 牛腱",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 정강이",
+                                                    "zh": "牛腱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918052018",
+                                        "name": "Beef Tripe 牛肚",
+                                        "available": true,
+                                        "priceInMinorUnit": 540,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 540,
+                                            "amountDisplay": "5.40"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 양",
+                                                    "zh": "牛肚"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918186539",
+                                        "name": "Beef Tendon 牛筋",
+                                        "available": true,
+                                        "priceInMinorUnit": 680,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 680,
+                                            "amountDisplay": "6.80"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄",
+                                                    "zh": "牛筋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918199256",
+                                        "name": "Beef Balls (3pcs) 牛肉丸 (3粒）",
+                                        "available": true,
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 완자 (3개) 牛肉丸 (3粒)",
+                                                    "zh": "牛肉丸（3粒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918069858",
+                                        "name": "Beef Tendon Balls (2pcs) 牛筋丸 (2粒）",
+                                        "priceInMinorUnit": 270,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 270,
+                                            "amountDisplay": "2.70"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소 힘줄 볼 (2개)",
+                                                    "zh": "牛筋丸 (2粒)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20251205023918033828",
+                                "name": "Choice of Noodle/Rice 选择面类/饭",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251205023918146028",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918153342",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918165250",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918176028",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-30T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251205023918096616",
+                                        "name": "Rice 饭",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥",
+                                                    "zh": "饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면/밥 선택",
+                                            "zh": "选择面类/饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1420,
+                        "priceV2": {
+                            "amountInMinor": 1420,
+                            "amountDisplay": "14.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1420,
+                            "amountDisplay": "14.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083227019626/photo/menueditor_item_78344970f9234cbd89e5dc5896f2e341_1762567974346735881.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250929083227019626/detail/menueditor_item_78344970f9234cbd89e5dc5896f2e341_1762567974346735881.avif"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.4,
+    "voteCount": 53,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1200,
+        "thresholdForDisplay": {
+            "amountInMinor": 1200,
+            "amountDisplay": "S$12.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$12.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$12.00, a small order fee of the difference between your order value & S$12.00 applies."
+        }
+    },
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Hwa Heng Beef Noodle - Eastpoint Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7VJJKNYLU62ET"
+    },
+    "chainName": "Hwa Heng Beef Noodle",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C7VJJKNYLU62ET/list/96fee48bc1cd414892a99f1f2d3e4fec_1774508627254954460.avif",
+    "branchName": "Eastpoint Mall",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 9:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T01:00:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

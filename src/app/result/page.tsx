@@ -1,5 +1,7 @@
 "use client";
 
+import DeliveryDiningIcon from "@mui/icons-material/DeliveryDining";
+import DirectionsIcon from "@mui/icons-material/Directions";
 import Button from "@mui/material/Button";
 import Chip from "@mui/material/Chip";
 import Divider from "@mui/material/Divider";
@@ -18,6 +20,7 @@ type Dish = {
   price: number;
   restaurantId: string;
   restaurantName: string;
+  restaurantAddress: string | null;
   cuisines: string[];
   distanceInKm: number;
   rating: number | null;
@@ -132,21 +135,47 @@ export default function ResultPage() {
       </OutlinedCard>
 
       <Col spacing={1.5}>
-        <Button
-          variant="contained"
-          size="large"
-          component="a"
-          href={
-            dish
-              ? `https://food.grab.com/sg/en/restaurant/online-delivery/${dish.restaurantId}`
-              : undefined
-          }
-          target="_blank"
-          rel="noopener noreferrer"
-          disabled={!dish}
-        >
-          Order on Grab →
-        </Button>
+        <Row spacing={1.5}>
+          <Button
+            fullWidth
+            variant="contained"
+            size="large"
+            component="a"
+            startIcon={<DeliveryDiningIcon />}
+            href={
+              dish
+                ? `https://food.grab.com/sg/en/restaurant/online-delivery/${dish.restaurantId}`
+                : undefined
+            }
+            target="_blank"
+            rel="noopener noreferrer"
+            disabled={!dish}
+          >
+            Order on Grab
+          </Button>
+          <Button
+            fullWidth
+            variant="outlined"
+            size="large"
+            color="inherit"
+            component="a"
+            startIcon={<DirectionsIcon />}
+            href={
+              dish
+                ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+                    dish.restaurantAddress
+                      ? `${dish.restaurantName}, ${dish.restaurantAddress}`
+                      : dish.restaurantName,
+                  )}`
+                : undefined
+            }
+            target="_blank"
+            rel="noopener noreferrer"
+            disabled={!dish}
+          >
+            Bring me there
+          </Button>
+        </Row>
         <Row spacing={1.5}>
           <Button
             fullWidth

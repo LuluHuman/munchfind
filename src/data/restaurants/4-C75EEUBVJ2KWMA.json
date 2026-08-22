@@ -1,0 +1,1699 @@
+{
+    "ID": "4-C75EEUBVJ2KWMA",
+    "name": "Shinya Izakaya - Boat Quay",
+    "cuisine": "Japanese,Japanese Grilled Meat,Ramen,Sushi",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C75EEUBVJ2KWMA/hero/10f1a2ca-7a95-4a11-9eb6-4dc0f69294e3__store_cover__2026__07__20__16__55__10.webp",
+    "description": "Shinya Izakaya is a hidden gem in Singapore, bringing the charm of a traditional Japanese izakaya to life. Known for its delectable grilled skewers, fresh sashimi, and an extensive selection of sake, it offers a cozy and vibrant atmosphere perfect for casual gatherings or intimate dinners. Whether you're savoring authentic flavors or unwinding with friends, Shinya Izakaya promises an unforgettable dining experience. (Aug 2025)",
+    "openingHours": {
+        "open": true,
+        "displayedHours": "00:00-02:30 16:00-23:59",
+        "sun": "4:00pm-2:30am",
+        "mon": "4:00pm-2:30am",
+        "tue": "4:00pm-2:30am",
+        "wed": "4:00pm-2:30am",
+        "thu": "4:00pm-2:30am",
+        "fri": "4:00pm-2:30am",
+        "sat": "4:00pm-2:30am"
+    },
+    "address": {
+        "name": "Shinya Izakaya - Boat Quay",
+        "combined_address": "79 Boat Quay, Singapore River, 049867",
+        "combined_city": "Singapore",
+        "street": "79 Boat Quay",
+        "suburb": "Singapore River",
+        "postcode": "049867",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.2883593,
+        "lng": 103.8492831
+    },
+    "menu": {
+        "categories": [
+            {
+                "name": "For You",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081510152371021",
+                        "name": "3 PIECE SUSHI SELECTION 3 TYPES 3种寿司",
+                        "available": true,
+                        "priceInMinorUnit": 1850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510152371021/photo/menueditor_item_e0a5bd2e2a5848729ab443dbc40589cf_1786788913501023900.webp",
+                        "discountedPriceInMin": 1850,
+                        "priceV2": {
+                            "amountInMinor": 1850,
+                            "amountDisplay": "18.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1850,
+                            "amountDisplay": "18.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510152371021/photo/menueditor_item_e0a5bd2e2a5848729ab443dbc40589cf_1786788913501023900.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510152371021/detail/menueditor_item_e0a5bd2e2a5848729ab443dbc40589cf_1786788913501023900.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081508402782813",
+                        "name": "5 KINDS SASHIMI (MORIAWASE SASHIMI) 3 SLICES EACH 5 种什锦生鱼片（各三片）",
+                        "available": true,
+                        "priceInMinorUnit": 6250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508402782813/photo/menueditor_item_51ea9c110f4a404e908d408696a1e9c5_1786783200494195094.webp",
+                        "discountedPriceInMin": 6250,
+                        "priceV2": {
+                            "amountInMinor": 6250,
+                            "amountDisplay": "62.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6250,
+                            "amountDisplay": "62.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508402782813/photo/menueditor_item_51ea9c110f4a404e908d408696a1e9c5_1786783200494195094.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508402782813/detail/menueditor_item_51ea9c110f4a404e908d408696a1e9c5_1786783200494195094.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081508412412138",
+                        "name": "EBI TEMPURA MAKI 虾天妇罗卷 (8 PIECES)",
+                        "available": true,
+                        "priceInMinorUnit": 2350,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508412412138/photo/menueditor_item_87e9cde686a14b079d9b19524e52bfa8_1786783274955751598.webp",
+                        "discountedPriceInMin": 2350,
+                        "priceV2": {
+                            "amountInMinor": 2350,
+                            "amountDisplay": "23.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2350,
+                            "amountDisplay": "23.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_drug_ar\"]}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508412412138/photo/menueditor_item_87e9cde686a14b079d9b19524e52bfa8_1786783274955751598.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508412412138/detail/menueditor_item_87e9cde686a14b079d9b19524e52bfa8_1786783274955751598.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509211054891",
+                        "name": "CHARGRILL BEEF DON 碳烧牛肉饭",
+                        "available": true,
+                        "priceInMinorUnit": 2550,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509211054891/photo/menueditor_item_64bec1866b6646ac826a4bb47b8ec71e_1786785666104056279.webp",
+                        "discountedPriceInMin": 2550,
+                        "priceV2": {
+                            "amountInMinor": 2550,
+                            "amountDisplay": "25.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2550,
+                            "amountDisplay": "25.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509211054891/photo/menueditor_item_64bec1866b6646ac826a4bb47b8ec71e_1786785666104056279.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509211054891/detail/menueditor_item_64bec1866b6646ac826a4bb47b8ec71e_1786785666104056279.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081508552098679",
+                        "name": "DRAGON-ROLL MAKI 龙卷寿司 (8 PIECES)",
+                        "available": true,
+                        "priceInMinorUnit": 2750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508552098679/photo/menueditor_item_601fa9458a1a4805bca81aec8186ccb0_1786784096348972084.webp",
+                        "discountedPriceInMin": 2750,
+                        "priceV2": {
+                            "amountInMinor": 2750,
+                            "amountDisplay": "27.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2750,
+                            "amountDisplay": "27.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508552098679/photo/menueditor_item_601fa9458a1a4805bca81aec8186ccb0_1786784096348972084.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508552098679/detail/menueditor_item_601fa9458a1a4805bca81aec8186ccb0_1786784096348972084.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081508123229394",
+                        "name": "3 KINDS SASHIMI (MORIAWASE SASHIMI) 3 SLICES EACH 3种什锦生鱼片（各三片）",
+                        "available": true,
+                        "priceInMinorUnit": 3900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508123229394/photo/menueditor_item_12ac626d14b54723bacae65ef478dc52_1786783171828175224.webp",
+                        "discountedPriceInMin": 3900,
+                        "priceV2": {
+                            "amountInMinor": 3900,
+                            "amountDisplay": "39.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3900,
+                            "amountDisplay": "39.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508123229394/photo/menueditor_item_12ac626d14b54723bacae65ef478dc52_1786783171828175224.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508123229394/detail/menueditor_item_12ac626d14b54723bacae65ef478dc52_1786783171828175224.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509401944909",
+                        "name": "GARLIC FRIED RICE 蒜头炒饭",
+                        "available": true,
+                        "priceInMinorUnit": 1100,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509401944909/photo/menueditor_item_aa61048da2e04f7a922820cb93a17a0d_1786786815596733001.webp",
+                        "discountedPriceInMin": 1100,
+                        "priceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509401944909/photo/menueditor_item_aa61048da2e04f7a922820cb93a17a0d_1786786815596733001.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509401944909/detail/menueditor_item_aa61048da2e04f7a922820cb93a17a0d_1786786815596733001.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509342775499",
+                        "name": "YAKITORI (CHICKEN) 鸡肉 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509342775499/photo/menueditor_item_00de7bb277854d8bb3be0620ab806fbd_1786786449011190066.webp",
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509342775499/photo/menueditor_item_00de7bb277854d8bb3be0620ab806fbd_1786786449011190066.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509342775499/detail/menueditor_item_00de7bb277854d8bb3be0620ab806fbd_1786786449011190066.webp"
+                        ]
+                    }
+                ],
+                "categoryType": 2
+            },
+            {
+                "ID": "SGCAT2026071309322420550",
+                "name": "Sashimi",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081508402782813",
+                        "name": "5 KINDS SASHIMI (MORIAWASE SASHIMI) 3 SLICES EACH 5 种什锦生鱼片（各三片）",
+                        "available": true,
+                        "priceInMinorUnit": 6250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508402782813/photo/menueditor_item_51ea9c110f4a404e908d408696a1e9c5_1786783200494195094.webp",
+                        "discountedPriceInMin": 6250,
+                        "priceV2": {
+                            "amountInMinor": 6250,
+                            "amountDisplay": "62.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6250,
+                            "amountDisplay": "62.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508402782813/photo/menueditor_item_51ea9c110f4a404e908d408696a1e9c5_1786783200494195094.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508402782813/detail/menueditor_item_51ea9c110f4a404e908d408696a1e9c5_1786783200494195094.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081508123229394",
+                        "name": "3 KINDS SASHIMI (MORIAWASE SASHIMI) 3 SLICES EACH 3种什锦生鱼片（各三片）",
+                        "available": true,
+                        "priceInMinorUnit": 3900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508123229394/photo/menueditor_item_12ac626d14b54723bacae65ef478dc52_1786783171828175224.webp",
+                        "discountedPriceInMin": 3900,
+                        "priceV2": {
+                            "amountInMinor": 3900,
+                            "amountDisplay": "39.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3900,
+                            "amountDisplay": "39.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508123229394/photo/menueditor_item_12ac626d14b54723bacae65ef478dc52_1786783171828175224.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508123229394/detail/menueditor_item_12ac626d14b54723bacae65ef478dc52_1786783171828175224.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026071308554311891",
+                "name": "Maki / Sushi",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081508552098679",
+                        "name": "DRAGON-ROLL MAKI 龙卷寿司 (8 PIECES)",
+                        "available": true,
+                        "priceInMinorUnit": 2750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508552098679/photo/menueditor_item_601fa9458a1a4805bca81aec8186ccb0_1786784096348972084.webp",
+                        "discountedPriceInMin": 2750,
+                        "priceV2": {
+                            "amountInMinor": 2750,
+                            "amountDisplay": "27.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2750,
+                            "amountDisplay": "27.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508552098679/photo/menueditor_item_601fa9458a1a4805bca81aec8186ccb0_1786784096348972084.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508552098679/detail/menueditor_item_601fa9458a1a4805bca81aec8186ccb0_1786784096348972084.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081508585579718",
+                        "name": "VOCALNO MAKI 火山寿司 (8 PIECES)",
+                        "available": true,
+                        "priceInMinorUnit": 2550,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508585579718/photo/menueditor_item_8c28a0baca4246918144e29d9d3a0b13_1786784328147554226.webp",
+                        "discountedPriceInMin": 2550,
+                        "priceV2": {
+                            "amountInMinor": 2550,
+                            "amountDisplay": "25.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2550,
+                            "amountDisplay": "25.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508585579718/photo/menueditor_item_8c28a0baca4246918144e29d9d3a0b13_1786784328147554226.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508585579718/detail/menueditor_item_8c28a0baca4246918144e29d9d3a0b13_1786784328147554226.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081508412412138",
+                        "name": "EBI TEMPURA MAKI 虾天妇罗卷 (8 PIECES)",
+                        "available": true,
+                        "priceInMinorUnit": 2350,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508412412138/photo/menueditor_item_87e9cde686a14b079d9b19524e52bfa8_1786783274955751598.webp",
+                        "discountedPriceInMin": 2350,
+                        "priceV2": {
+                            "amountInMinor": 2350,
+                            "amountDisplay": "23.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2350,
+                            "amountDisplay": "23.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_drug_ar\"]}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508412412138/photo/menueditor_item_87e9cde686a14b079d9b19524e52bfa8_1786783274955751598.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508412412138/detail/menueditor_item_87e9cde686a14b079d9b19524e52bfa8_1786783274955751598.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081508573900031",
+                        "name": "CALIFORNIA MAKI\t加州卷 (8 PIECES)",
+                        "available": true,
+                        "priceInMinorUnit": 2250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508573900031/photo/menueditor_item_8aa095ba9a8046a2aab3170b612ffaca_1786784244728647719.webp",
+                        "discountedPriceInMin": 2250,
+                        "priceV2": {
+                            "amountInMinor": 2250,
+                            "amountDisplay": "22.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2250,
+                            "amountDisplay": "22.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508573900031/photo/menueditor_item_8aa095ba9a8046a2aab3170b612ffaca_1786784244728647719.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081508573900031/detail/menueditor_item_8aa095ba9a8046a2aab3170b612ffaca_1786784244728647719.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510152371021",
+                        "name": "3 PIECE SUSHI SELECTION 3 TYPES 3种寿司",
+                        "available": true,
+                        "priceInMinorUnit": 1850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510152371021/photo/menueditor_item_e0a5bd2e2a5848729ab443dbc40589cf_1786788913501023900.webp",
+                        "discountedPriceInMin": 1850,
+                        "priceV2": {
+                            "amountInMinor": 1850,
+                            "amountDisplay": "18.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1850,
+                            "amountDisplay": "18.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510152371021/photo/menueditor_item_e0a5bd2e2a5848729ab443dbc40589cf_1786788913501023900.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510152371021/detail/menueditor_item_e0a5bd2e2a5848729ab443dbc40589cf_1786788913501023900.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026071310290049981",
+                "name": "Don / Rice Bowl",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081509211054891",
+                        "name": "CHARGRILL BEEF DON 碳烧牛肉饭",
+                        "available": true,
+                        "priceInMinorUnit": 2550,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509211054891/photo/menueditor_item_64bec1866b6646ac826a4bb47b8ec71e_1786785666104056279.webp",
+                        "discountedPriceInMin": 2550,
+                        "priceV2": {
+                            "amountInMinor": 2550,
+                            "amountDisplay": "25.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2550,
+                            "amountDisplay": "25.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509211054891/photo/menueditor_item_64bec1866b6646ac826a4bb47b8ec71e_1786785666104056279.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509211054891/detail/menueditor_item_64bec1866b6646ac826a4bb47b8ec71e_1786785666104056279.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509204305841",
+                        "name": "HOKKAIDO KATSU DON 猪排饭",
+                        "available": true,
+                        "priceInMinorUnit": 2450,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509204305841/photo/menueditor_item_ff9967a9e3974fe4a7692aa555eb650e_1786785579921522223.webp",
+                        "discountedPriceInMin": 2450,
+                        "priceV2": {
+                            "amountInMinor": 2450,
+                            "amountDisplay": "24.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2450,
+                            "amountDisplay": "24.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509204305841/photo/menueditor_item_ff9967a9e3974fe4a7692aa555eb650e_1786785579921522223.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509204305841/detail/menueditor_item_ff9967a9e3974fe4a7692aa555eb650e_1786785579921522223.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509172568542",
+                        "name": "UNAGI DON 鳗鱼饭",
+                        "available": true,
+                        "priceInMinorUnit": 2450,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509172568542/photo/menueditor_item_f8a32b0168714efcb923b9619a25c7ed_1786785439844224645.webp",
+                        "discountedPriceInMin": 2450,
+                        "priceV2": {
+                            "amountInMinor": 2450,
+                            "amountDisplay": "24.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2450,
+                            "amountDisplay": "24.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509172568542/photo/menueditor_item_f8a32b0168714efcb923b9619a25c7ed_1786785439844224645.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509172568542/detail/menueditor_item_f8a32b0168714efcb923b9619a25c7ed_1786785439844224645.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509213919687",
+                        "name": "OYAKODON (CHICKEN)\t亲子丼 (鸡肉）",
+                        "available": true,
+                        "priceInMinorUnit": 1700,
+                        "discountedPriceInMin": 1700,
+                        "priceV2": {
+                            "amountInMinor": 1700,
+                            "amountDisplay": "17.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1700,
+                            "amountDisplay": "17.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509401944909",
+                        "name": "GARLIC FRIED RICE 蒜头炒饭",
+                        "available": true,
+                        "priceInMinorUnit": 1100,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509401944909/photo/menueditor_item_aa61048da2e04f7a922820cb93a17a0d_1786786815596733001.webp",
+                        "discountedPriceInMin": 1100,
+                        "priceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509401944909/photo/menueditor_item_aa61048da2e04f7a922820cb93a17a0d_1786786815596733001.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509401944909/detail/menueditor_item_aa61048da2e04f7a922820cb93a17a0d_1786786815596733001.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026071311440531635",
+                "name": "CURRY DON",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081509222398728",
+                        "name": "CURRY DON WITH EBI 咖喱天妇罗虾饭",
+                        "available": true,
+                        "priceInMinorUnit": 2250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509222398728/photo/menueditor_item_255034ed6d2e4e869e67a2c1a15a7b3d_1786785811043379666.webp",
+                        "discountedPriceInMin": 2250,
+                        "priceV2": {
+                            "amountInMinor": 2250,
+                            "amountDisplay": "22.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2250,
+                            "amountDisplay": "22.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509222398728/photo/menueditor_item_255034ed6d2e4e869e67a2c1a15a7b3d_1786785811043379666.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509222398728/detail/menueditor_item_255034ed6d2e4e869e67a2c1a15a7b3d_1786785811043379666.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509235428810",
+                        "name": "CURRY DON WITH WAGYU BEEF 咖喱和牛饭",
+                        "available": true,
+                        "priceInMinorUnit": 2490,
+                        "discountedPriceInMin": 2490,
+                        "priceV2": {
+                            "amountInMinor": 2490,
+                            "amountDisplay": "24.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2490,
+                            "amountDisplay": "24.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509250330908",
+                        "name": "CURRY TORI KARAAGE DON 日式咖喱唐扬炸鸡丼",
+                        "available": true,
+                        "priceInMinorUnit": 1750,
+                        "discountedPriceInMin": 1750,
+                        "priceV2": {
+                            "amountInMinor": 1750,
+                            "amountDisplay": "17.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1750,
+                            "amountDisplay": "17.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509244638394",
+                        "name": "CURRY KATSU DON 咖喱炸猪排饭",
+                        "available": true,
+                        "priceInMinorUnit": 1750,
+                        "discountedPriceInMin": 1750,
+                        "priceV2": {
+                            "amountInMinor": 1750,
+                            "amountDisplay": "17.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1750,
+                            "amountDisplay": "17.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509243010932",
+                        "name": "CURRY DON WITH TEMPURA VEGS 咖喱天妇罗蔬菜饭",
+                        "available": true,
+                        "priceInMinorUnit": 1750,
+                        "discountedPriceInMin": 1750,
+                        "priceV2": {
+                            "amountInMinor": 1750,
+                            "amountDisplay": "17.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1750,
+                            "amountDisplay": "17.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026071407213772823",
+                "name": "KUSHIYAKI / Japanese BBQ Skewer (2 sticks each)",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081509342775499",
+                        "name": "YAKITORI (CHICKEN) 鸡肉 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509342775499/photo/menueditor_item_00de7bb277854d8bb3be0620ab806fbd_1786786449011190066.webp",
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509342775499/photo/menueditor_item_00de7bb277854d8bb3be0620ab806fbd_1786786449011190066.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081509342775499/detail/menueditor_item_00de7bb277854d8bb3be0620ab806fbd_1786786449011190066.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509352314660",
+                        "name": "SCALLION CHICKEN 京葱鸡肉 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509385865023",
+                        "name": "PERILLA CHICKEN SKIN SHRIMP\t紫苏鸡皮虾 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 1100,
+                        "discountedPriceInMin": 1100,
+                        "priceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509354775530",
+                        "name": "TSUKUNE (CHICKEN MEATBALL) 鸡肉丸 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509380173790",
+                        "name": "GRILLED PRAWNS MENTAIKO 明太子虾 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509390962594",
+                        "name": "HOKKAIDO PORK BELLY 北海道五花肉 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509374695463",
+                        "name": "WAGYU BEEF TONGUE\t和牛舌 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509373260111",
+                        "name": "AUST. WAGYU BEEF 澳洲和牛 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509392124269",
+                        "name": "ANGUS BEEF 安格斯牛肉 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 1000,
+                        "discountedPriceInMin": 1000,
+                        "priceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509393281343",
+                        "name": "MUSHROOM SHRIMP PASTE BALLS 口蘑虾滑 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509384701331",
+                        "name": "UNAGI KABA YAKI (GRILLED EEL) 碳烤鳗鱼 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509383461523",
+                        "name": "PORK BELLY W ASPARAGUS 五花肉芦笋 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509364693941",
+                        "name": "KAWA (CHICKEN SKIN)\t脆鸡皮 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509382232210",
+                        "name": "PORK BELLY W ENOKI 五花肉金针菇 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509372053286",
+                        "name": "SHIITAKE MUSHROOMS 木鱼花香菇 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 500,
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509370865114",
+                        "name": "KING OYSTER MUSHROOM 杏鲍菇 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 500,
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509381111691",
+                        "name": "TAMAGO YAKI (EGG) 玉子烧 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509353547829",
+                        "name": "TEBASAKI (CHICKEN MID-WING)\t中翅 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509363421517",
+                        "name": "CHICKEN GIZZARD 鸡胗 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509362105735",
+                        "name": "CHICKEN LIVER 鸡肝 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509361198607",
+                        "name": "CHICKEN HEART 鸡心 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509360157956",
+                        "name": "CHEESE CHICKEN MEATBALLS 拉丝鸡肉丸 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509365797872",
+                        "name": "MENTAIKO ZUCCHINI 明太子西葫芦 (2 STICKS)",
+                        "available": true,
+                        "priceInMinorUnit": 500,
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026071312065488390",
+                "name": "OTHERS",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081509425866727",
+                        "name": "HOKKAIDO TONKATSU (BREADED FRESH PORK CUTLET) 炸面包猪排",
+                        "available": true,
+                        "priceInMinorUnit": 2050,
+                        "discountedPriceInMin": 2050,
+                        "priceV2": {
+                            "amountInMinor": 2050,
+                            "amountDisplay": "20.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2050,
+                            "amountDisplay": "20.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509420583446",
+                        "name": "TORI KARAAGE (FRIED MARINATED CHICKEN) 炸腌鸡",
+                        "available": true,
+                        "priceInMinorUnit": 1450,
+                        "discountedPriceInMin": 1450,
+                        "priceV2": {
+                            "amountInMinor": 1450,
+                            "amountDisplay": "14.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1450,
+                            "amountDisplay": "14.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081510162219528",
+                        "name": "SASHIMI SALAD 生鱼片沙拉",
+                        "available": true,
+                        "priceInMinorUnit": 1450,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510162219528/photo/menueditor_item_248f4587414740859ee147f06dcbe256_1786788966612400557.webp",
+                        "discountedPriceInMin": 1450,
+                        "priceV2": {
+                            "amountInMinor": 1450,
+                            "amountDisplay": "14.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1450,
+                            "amountDisplay": "14.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510162219528/photo/menueditor_item_248f4587414740859ee147f06dcbe256_1786788966612400557.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510162219528/detail/menueditor_item_248f4587414740859ee147f06dcbe256_1786788966612400557.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509415457203",
+                        "name": "IKA GESO KARAAGE (DEEP FRIED SQUID TENTACLES) 炸鱿鱼须",
+                        "available": true,
+                        "priceInMinorUnit": 1350,
+                        "discountedPriceInMin": 1350,
+                        "priceV2": {
+                            "amountInMinor": 1350,
+                            "amountDisplay": "13.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1350,
+                            "amountDisplay": "13.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509412693114",
+                        "name": "EI HIRE (GRILLED DRIED STINGRAY FIN) 烤干黄貂鱼鳍",
+                        "available": true,
+                        "priceInMinorUnit": 1250,
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081510155407280",
+                        "name": "GREEN SALAD (MIXED VEGETABLES)\t沙拉",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081509413894613",
+                        "name": "GYOZA CHICKEN (PAN FRIED DUMPLING CHICKEN)\t煎鸡肉饺子",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2026081509410839093",
+                        "name": "EDATSUKI EDAMAME (BOILED SOYA BEAN) 毛豆",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026071609315085467",
+                "name": "Drinks/ Beverage",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081510233291550",
+                        "name": "Coke (300ml)",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510230881360",
+                        "name": "Coke Zero (300ml)",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510232187612",
+                        "name": "Sprite (300ml)",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510225562640",
+                        "name": "Ice Lemon Tea (300ml)",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510222305986",
+                        "name": "Pokka Green Tea (300ml)",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510223931232",
+                        "name": "Ayakata Green Tea (300ml)",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510215817683",
+                        "name": "100+ (300ml)",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026071610475994680",
+                "name": "Alcoholic Beverages",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081510331760549",
+                        "name": "BROTHERS TOFFEE APPLE CIDER (500ML) 兄弟太妃糖苹果酒",
+                        "available": true,
+                        "priceInMinorUnit": 1350,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510331760549/photo/menueditor_item_2823300e384042a1bd8b2194b5018991_1786789991556869488.webp",
+                        "discountedPriceInMin": 1350,
+                        "priceV2": {
+                            "amountInMinor": 1350,
+                            "amountDisplay": "13.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1350,
+                            "amountDisplay": "13.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"tagSource\":\"MEX\",\"hitLabels\":[\"alcohol\"],\"hitPolicies\":[\"Contains prohibited content\",\"alcohol\"],\"againstFields\":{\"imageFields\":[\"Photos\"]},\"streamStatus\":\"FAILED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\",\"teen_deny_ar\"]}}}}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510331760549/photo/menueditor_item_2823300e384042a1bd8b2194b5018991_1786789991556869488.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510331760549/detail/menueditor_item_2823300e384042a1bd8b2194b5018991_1786789991556869488.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510324175885",
+                        "name": "BROTHERS PINEAPPLE & PASSIONFRUIT CIDER  兄弟牌凤梨百香果西打酒",
+                        "available": true,
+                        "priceInMinorUnit": 1350,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510324175885/photo/menueditor_item_41a0446cdb814d8d807121b96a8a9ff4_1786789957503839240.webp",
+                        "discountedPriceInMin": 1350,
+                        "priceV2": {
+                            "amountInMinor": 1350,
+                            "amountDisplay": "13.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1350,
+                            "amountDisplay": "13.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"tagSource\":\"MEX\",\"hitLabels\":[\"alcohol\",\"alcohol\"],\"hitPolicies\":[\"Contains prohibited content\",\"Contains prohibited content\"],\"againstFields\":{\"textFields\":[\"Name\"],\"imageFields\":[\"Photos\"]},\"streamStatus\":\"FAILED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\"]}}}}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510324175885/photo/menueditor_item_41a0446cdb814d8d807121b96a8a9ff4_1786789957503839240.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510324175885/detail/menueditor_item_41a0446cdb814d8d807121b96a8a9ff4_1786789957503839240.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510321425225",
+                        "name": "FLENSBURGER GOLD LAGER (4.8%) 弗伦斯堡金",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510321425225/photo/menueditor_item_e7e976ebaa194fb59dd4f3455e2fccb8_1786790015582007217.webp",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"tagSource\":\"MEX\",\"hitLabels\":[\"alcohol\"],\"hitPolicies\":[\"Contains prohibited content\",\"alcohol\"],\"againstFields\":{\"imageFields\":[\"Photos\"]},\"streamStatus\":\"FAILED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\",\"teen_deny_ar\"]}}}}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510321425225/photo/menueditor_item_e7e976ebaa194fb59dd4f3455e2fccb8_1786790015582007217.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510321425225/detail/menueditor_item_e7e976ebaa194fb59dd4f3455e2fccb8_1786790015582007217.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510253967706",
+                        "name": "PABST BLUE RIBBON LAGER 330ml 4.8% 蓝带啤酒",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510253967706/photo/menueditor_item_602c686f09304ff3bf4b84acb086d646_1786789532763949813.webp",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"tagSource\":\"MEX\",\"hitLabels\":[\"alcohol\"],\"hitPolicies\":[\"Contains prohibited content\",\"alcohol\"],\"againstFields\":{\"imageFields\":[\"Photos\"]},\"streamStatus\":\"FAILED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\",\"teen_deny_ar\"]}}}}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510253967706/photo/menueditor_item_602c686f09304ff3bf4b84acb086d646_1786789532763949813.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510253967706/detail/menueditor_item_602c686f09304ff3bf4b84acb086d646_1786789532763949813.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510265877656",
+                        "name": "1664 BLANC 5.0% 凯旋1664白啤酒",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510265877656/photo/menueditor_item_6657c826116f43c4aea34724e11e120b_1786789605258257423.webp",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"tagSource\":\"MEX\",\"hitLabels\":[\"alcohol\",\"alcohol\"],\"hitPolicies\":[\"Contains prohibited content\",\"Contains prohibited content\"],\"againstFields\":{\"textFields\":[\"Name\"],\"imageFields\":[\"Photos\"]},\"streamStatus\":\"FAILED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\"]}}}}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510265877656/photo/menueditor_item_6657c826116f43c4aea34724e11e120b_1786789605258257423.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510265877656/detail/menueditor_item_6657c826116f43c4aea34724e11e120b_1786789605258257423.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510262049737",
+                        "name": "LEFFE BLONDE 6.6% 乐飞金啤",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510262049737/photo/menueditor_item_589598200c134e139258d8ab82354d19_1786789571408295979.webp",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"tagSource\":\"MEX\",\"hitLabels\":[\"alcohol\"],\"hitPolicies\":[\"Contains prohibited content\",\"alcohol\"],\"againstFields\":{\"imageFields\":[\"Photos\"]},\"streamStatus\":\"FAILED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\",\"teen_deny_ar\"]}}}}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510262049737/photo/menueditor_item_589598200c134e139258d8ab82354d19_1786789571408295979.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510262049737/detail/menueditor_item_589598200c134e139258d8ab82354d19_1786789571408295979.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510274857225",
+                        "name": "CORONA 4.6% 科罗娜",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510274857225/photo/menueditor_item_ddbabce3c6b14baf9d4ddb885007f0f4_1786789637381068311.webp",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"tagSource\":\"MEX\",\"hitLabels\":[\"alcohol\"],\"hitPolicies\":[\"Contains prohibited content\",\"alcohol\"],\"againstFields\":{\"imageFields\":[\"Photos\"]},\"streamStatus\":\"FAILED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\",\"teen_deny_ar\"]}}}}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510274857225/photo/menueditor_item_ddbabce3c6b14baf9d4ddb885007f0f4_1786789637381068311.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510274857225/detail/menueditor_item_ddbabce3c6b14baf9d4ddb885007f0f4_1786789637381068311.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081510315550719",
+                        "name": "SNOW 500ml 雪花啤酒",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510315550719/photo/menueditor_item_398da78b0af04f80ac096162741cdf24_1786789770964753465.webp",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"tagSource\":\"MEX\",\"hitLabels\":[\"alcohol\"],\"hitPolicies\":[\"Contains prohibited content\",\"alcohol\"],\"againstFields\":{\"imageFields\":[\"Photos\"]},\"streamStatus\":\"FAILED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\",\"teen_deny_ar\"]}}}}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510315550719/photo/menueditor_item_398da78b0af04f80ac096162741cdf24_1786789770964753465.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081510315550719/detail/menueditor_item_398da78b0af04f80ac096162741cdf24_1786789770964753465.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 50000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.8,
+    "voteCount": 14,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "This store delivers Islandwide, and the delivery fee varies by distance",
+            "priority": 5
+        },
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C75EEUBVJ2KWMA/photos/10f1a2ca-7a95-4a11-9eb6-4dc0f69294e3__store_cover__2026__07__20__16__55__10.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Shinya Izakaya - Boat Quay on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C75EEUBVJ2KWMA"
+    },
+    "chainName": "Shinya Izakaya",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C75EEUBVJ2KWMA/list/10f1a2ca-7a95-4a11-9eb6-4dc0f69294e3__listing_photo__2026__07__20__16__53__17.webp",
+    "branchName": "Boat Quay",
+    "customLabels": [
+        {
+            "labelType": 1,
+            "backgroundColor": "#00B14F",
+            "text": "Islandwide",
+            "labelID": "SGCLID20210901042322014844",
+            "labelName": "Food Islandwide"
+        }
+    ],
+    "translationTags": [
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

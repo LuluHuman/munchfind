@@ -1,0 +1,1811 @@
+{
+    "ID": "4-C2C1PEVHA34ZGN",
+    "name": "Lee Wee & Brothers - Tampines Mall",
+    "cuisine": "Nasi Lemak,Otah,Mee Siam",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C2C1PEVHA34ZGN/hero/70f738ebdca34651aa12c1ee46887add_1607845891415178382.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:00am-9:00pm",
+        "mon": "10:00am-9:00pm",
+        "tue": "10:00am-9:00pm",
+        "wed": "10:00am-9:00pm",
+        "thu": "10:00am-9:00pm",
+        "fri": "10:00am-9:00pm",
+        "sat": "10:00am-9:00pm"
+    },
+    "address": {
+        "name": "Lee Wee & Brothers - Tampines Mall",
+        "combined_address": "4 Tampines Central 5, #B1-K6, Tampines, 529510",
+        "combined_city": "Singapore",
+        "house": "#B1-K6",
+        "street": "4 Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529510",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3521829,
+        "lng": 103.9446437
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20201129102205010295",
+                "name": "Otah",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2024123117532607728",
+                        "name": "Original Fish Otah Bundle (2 pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117532607728/photo/menueditor_item_593c1582487d43d886ccee7231878a9b_1735667595500624437.avif",
+                        "discountedPriceInMin": 300,
+                        "priceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117532607728/photo/menueditor_item_593c1582487d43d886ccee7231878a9b_1735667595500624437.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117532607728/detail/menueditor_item_593c1582487d43d886ccee7231878a9b_1735667595500624437.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024123117534577289",
+                        "name": "Original Fish Otah Bundle (5 pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117534577289/photo/menueditor_item_55b1c7ae088c4e30805f9c9056ae5172_1735667621251447568.avif",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117534577289/photo/menueditor_item_55b1c7ae088c4e30805f9c9056ae5172_1735667621251447568.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117534577289/detail/menueditor_item_55b1c7ae088c4e30805f9c9056ae5172_1735667621251447568.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024123117540575614",
+                        "name": "Non Spicy Otah Bundle (2 pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117540575614/photo/menueditor_item_fe84f86a4bc4445cb03ad91d3f29b48c_1735667634706671855.avif",
+                        "discountedPriceInMin": 300,
+                        "priceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117540575614/photo/menueditor_item_fe84f86a4bc4445cb03ad91d3f29b48c_1735667634706671855.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117540575614/detail/menueditor_item_fe84f86a4bc4445cb03ad91d3f29b48c_1735667634706671855.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024123117542553947",
+                        "name": "Non Spicy Otah Bundle (5 pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117542553947/photo/menueditor_item_acdfd539f44f42508956bf7319aa322d_1735667657759543607.avif",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117542553947/photo/menueditor_item_acdfd539f44f42508956bf7319aa322d_1735667657759543607.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024123117542553947/detail/menueditor_item_acdfd539f44f42508956bf7319aa322d_1735667657759543607.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201129102335010683",
+                        "name": "Fish Head Otah",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102335010683/photo/ce40cb3f1fbe4eab88754e01f5b6fb97_1608015208552814902.avif",
+                        "description": "Richly spiced fish delight wrapped in banana leaf.",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102335010683/photo/ce40cb3f1fbe4eab88754e01f5b6fb97_1608015208552814902.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102335010683/detail/ce40cb3f1fbe4eab88754e01f5b6fb97_1608015208552814902.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201129102325016053",
+                        "name": "Prawn Otah",
+                        "available": true,
+                        "priceInMinorUnit": 160,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102325016053/photo/9720c0947aa749f88894c7a344874093_1608015225180565260.avif",
+                        "description": "Grilled Prawn Otah: spicy, fragrant, authentic Indonesian flavor!",
+                        "discountedPriceInMin": 160,
+                        "priceV2": {
+                            "amountInMinor": 160,
+                            "amountDisplay": "1.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 160,
+                            "amountDisplay": "1.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102325016053/photo/9720c0947aa749f88894c7a344874093_1608015225180565260.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102325016053/detail/9720c0947aa749f88894c7a344874093_1608015225180565260.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201129102316018360",
+                        "name": "Squid Otah",
+                        "available": true,
+                        "priceInMinorUnit": 160,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102316018360/photo/45e455530277450f8494d26689b5696c_1608015244103493668.avif",
+                        "description": "Savory grilled squid in banana leaves.",
+                        "discountedPriceInMin": 160,
+                        "priceV2": {
+                            "amountInMinor": 160,
+                            "amountDisplay": "1.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 160,
+                            "amountDisplay": "1.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102316018360/photo/45e455530277450f8494d26689b5696c_1608015244103493668.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102316018360/detail/45e455530277450f8494d26689b5696c_1608015244103493668.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201129102305010387",
+                        "name": "Crab Otah",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102305010387/photo/7e20eb5dda0a418b8895164277a088e2_1608015261398333087.avif",
+                        "description": "Indonesian Crab Otah bursting with flavors.",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102305010387/photo/7e20eb5dda0a418b8895164277a088e2_1608015261398333087.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102305010387/detail/7e20eb5dda0a418b8895164277a088e2_1608015261398333087.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201129102255015601",
+                        "name": "Fish Roe Otah",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102255015601/photo/e9809efa47794458954f6e7aeac0b5b5_1608015279296453244.avif",
+                        "description": "Grilled fish roe wrapped in banana leaves.",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102255015601/photo/e9809efa47794458954f6e7aeac0b5b5_1608015279296453244.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102255015601/detail/e9809efa47794458954f6e7aeac0b5b5_1608015279296453244.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201129102245016081",
+                        "name": "Petai & Anchovy Otah",
+                        "available": true,
+                        "priceInMinorUnit": 230,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102245016081/photo/6a0526eb948c4cd9ba7e881f8c489a5b_1608015296482545992.avif",
+                        "discountedPriceInMin": 230,
+                        "priceV2": {
+                            "amountInMinor": 230,
+                            "amountDisplay": "2.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 230,
+                            "amountDisplay": "2.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102245016081/photo/6a0526eb948c4cd9ba7e881f8c489a5b_1608015296482545992.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102245016081/detail/6a0526eb948c4cd9ba7e881f8c489a5b_1608015296482545992.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201129102236011643",
+                        "name": "Banana Leaf Original Otah",
+                        "available": true,
+                        "priceInMinorUnit": 260,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102236011643/photo/0759a9e6826441f4ab81b64709d5d591_1608015314888682316.avif",
+                        "description": "Indonesian delight, smoky otah on banana leaf.",
+                        "discountedPriceInMin": 260,
+                        "priceV2": {
+                            "amountInMinor": 260,
+                            "amountDisplay": "2.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 260,
+                            "amountDisplay": "2.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102236011643/photo/0759a9e6826441f4ab81b64709d5d591_1608015314888682316.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102236011643/detail/0759a9e6826441f4ab81b64709d5d591_1608015314888682316.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201129102226011333",
+                        "name": "Banana Leaf Prawn Otah",
+                        "available": true,
+                        "priceInMinorUnit": 290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102226011333/photo/f5d43c8d4d1b4942a0317f7af999d9f6_1608015335386104777.avif",
+                        "description": "Grilled prawn otah wrapped in banana leaf!",
+                        "discountedPriceInMin": 290,
+                        "priceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102226011333/photo/f5d43c8d4d1b4942a0317f7af999d9f6_1608015335386104777.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102226011333/detail/f5d43c8d4d1b4942a0317f7af999d9f6_1608015335386104777.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201129102216013113",
+                        "name": "Banana Leaf Squid Otah",
+                        "available": true,
+                        "priceInMinorUnit": 290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102216013113/photo/938ea479958e4a69bb4f9937ab22e13f_1608015352766384892.avif",
+                        "description": "Grilled banana leaf squid Otah, savory and spicy.",
+                        "discountedPriceInMin": 290,
+                        "priceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102216013113/photo/938ea479958e4a69bb4f9937ab22e13f_1608015352766384892.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201129102216013113/detail/938ea479958e4a69bb4f9937ab22e13f_1608015352766384892.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20201119082854119407",
+                "name": "Lunch Boxes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026021307061608742",
+                        "name": "Signature Fried Fish Nasi Lemak",
+                        "available": true,
+                        "priceInMinorUnit": 910,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021307061608742/photo/menueditor_item_e4aca33374114687bb53daf9c772dcf1_1770966352458118585.avif",
+                        "discountedPriceInMin": 910,
+                        "priceV2": {
+                            "amountInMinor": 910,
+                            "amountDisplay": "9.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 910,
+                            "amountDisplay": "9.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021307061608742/photo/menueditor_item_e4aca33374114687bb53daf9c772dcf1_1770966352458118585.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021307061608742/detail/menueditor_item_e4aca33374114687bb53daf9c772dcf1_1770966352458118585.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021307044404209",
+                        "name": "Signature Fried Chicken Wing Nasi Lemak",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021307044404209/photo/menueditor_item_f4953bb554af4c4f9718a9fd3aceef0b_1770966252045328962.avif",
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021307044404209/photo/menueditor_item_f4953bb554af4c4f9718a9fd3aceef0b_1770966252045328962.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021307044404209/detail/menueditor_item_f4953bb554af4c4f9718a9fd3aceef0b_1770966252045328962.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021307030007205",
+                        "name": "Signature Chicken Cutlet Nasi Lemak",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021307030007205/photo/menueditor_item_0129555de6f74b2fa2095d3ca45a9f81_1770966143663520862.avif",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021307030007205/photo/menueditor_item_0129555de6f74b2fa2095d3ca45a9f81_1770966143663520862.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021307030007205/detail/menueditor_item_0129555de6f74b2fa2095d3ca45a9f81_1770966143663520862.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855449114",
+                        "name": "Honey Glazed Chicken Wing Nasi Lemak",
+                        "available": true,
+                        "priceInMinorUnit": 1020,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855449114/photo/menueditor_item_68eeb3ec9fea4c0a9383f43cfdcccb2f_1786458888656299296.avif",
+                        "description": "Savoury honey-glazed wings with rice and side dishes.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201202081206018343",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201202081206017200",
+                                        "name": "Add Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006049594",
+                                        "name": "Ikan Bilis and Peanuts Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 180,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 180,
+                                            "amountDisplay": "1.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멸치와 땅콩 스낵",
+                                                    "zh": "江鱼仔和花生小吃"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006055563",
+                                        "name": "Sambal Chili Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 90,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 90,
+                                            "amountDisplay": "0.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "삼발 칠리 패킷",
+                                                    "zh": "叁巴辣椒小袋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1020,
+                        "priceV2": {
+                            "amountInMinor": 1020,
+                            "amountDisplay": "10.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1020,
+                            "amountDisplay": "10.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201202081206017200\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855449114/photo/menueditor_item_68eeb3ec9fea4c0a9383f43cfdcccb2f_1786458888656299296.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855449114/detail/menueditor_item_68eeb3ec9fea4c0a9383f43cfdcccb2f_1786458888656299296.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119153417014420",
+                        "name": "Ebi Tempura Nasi Lemak",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153417014420/photo/menueditor_item_40e8d054f40444c2835dbee29787ec78_1786458901907447215.avif",
+                        "description": "Crispy Ebi Tempura with rice and flavorful sides.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201202081206018343",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201202081206017200",
+                                        "name": "Add Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006049594",
+                                        "name": "Ikan Bilis and Peanuts Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 180,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 180,
+                                            "amountDisplay": "1.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멸치와 땅콩 스낵",
+                                                    "zh": "江鱼仔和花生小吃"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006055563",
+                                        "name": "Sambal Chili Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 90,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 90,
+                                            "amountDisplay": "0.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "삼발 칠리 패킷",
+                                                    "zh": "叁巴辣椒小袋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153417014420/photo/menueditor_item_40e8d054f40444c2835dbee29787ec78_1786458901907447215.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153417014420/detail/menueditor_item_40e8d054f40444c2835dbee29787ec78_1786458901907447215.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855098912",
+                        "name": "Chicken Cutlet Nasi Lemak",
+                        "available": true,
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855098912/photo/menueditor_item_02917ceeda2b48d0b25e0eb463d79370_1786458915741410876.avif",
+                        "description": "Crispy chicken cutlet with savory sides. Perfect lunch delight!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201202081206018343",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201202081206017200",
+                                        "name": "Add Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006049594",
+                                        "name": "Ikan Bilis and Peanuts Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 180,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 180,
+                                            "amountDisplay": "1.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멸치와 땅콩 스낵",
+                                                    "zh": "江鱼仔和花生小吃"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006055563",
+                                        "name": "Sambal Chili Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 90,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 90,
+                                            "amountDisplay": "0.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "삼발 칠리 패킷",
+                                                    "zh": "叁巴辣椒小袋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201202081206017200\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855098912/photo/menueditor_item_02917ceeda2b48d0b25e0eb463d79370_1786458915741410876.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855098912/detail/menueditor_item_02917ceeda2b48d0b25e0eb463d79370_1786458915741410876.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119153439016724",
+                        "name": "Fried Chicken Wing Nasi Lemak",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153439016724/photo/menueditor_item_70f1545f665d41c4a51be7f75bc6c141_1786458931530044785.avif",
+                        "description": "Crispy fried chicken wings with fragrant rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201202081206018343",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201202081206017200",
+                                        "name": "Add Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006049594",
+                                        "name": "Ikan Bilis and Peanuts Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 180,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 180,
+                                            "amountDisplay": "1.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멸치와 땅콩 스낵",
+                                                    "zh": "江鱼仔和花生小吃"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006055563",
+                                        "name": "Sambal Chili Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 90,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 90,
+                                            "amountDisplay": "0.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "삼발 칠리 패킷",
+                                                    "zh": "叁巴辣椒小袋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201202081206017200\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153439016724/photo/menueditor_item_70f1545f665d41c4a51be7f75bc6c141_1786458931530044785.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153439016724/detail/menueditor_item_70f1545f665d41c4a51be7f75bc6c141_1786458931530044785.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119153506011980",
+                        "name": "Omelette Nasi Lemak",
+                        "available": true,
+                        "priceInMinorUnit": 780,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153506011980/photo/menueditor_item_25d023311f71466c82ca6e6105e6c61b_1786458945507418619.avif",
+                        "description": "Savor the fluffy omelette and crispy treats.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201202081206018343",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201202081206017200",
+                                        "name": "Add Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006049594",
+                                        "name": "Ikan Bilis and Peanuts Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 180,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 180,
+                                            "amountDisplay": "1.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멸치와 땅콩 스낵",
+                                                    "zh": "江鱼仔和花生小吃"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006055563",
+                                        "name": "Sambal Chili Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 90,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 90,
+                                            "amountDisplay": "0.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "삼발 칠리 패킷",
+                                                    "zh": "叁巴辣椒小袋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 780,
+                        "priceV2": {
+                            "amountInMinor": 780,
+                            "amountDisplay": "7.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 780,
+                            "amountDisplay": "7.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153506011980/photo/menueditor_item_25d023311f71466c82ca6e6105e6c61b_1786458945507418619.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153506011980/detail/menueditor_item_25d023311f71466c82ca6e6105e6c61b_1786458945507418619.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119153520018792",
+                        "name": "Fried Fish Nasi Lemak",
+                        "available": true,
+                        "priceInMinorUnit": 1080,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153520018792/photo/menueditor_item_85a2e4ba4fc340dfa6e0d44d3d8982c2_1786458968061624120.avif",
+                        "description": "Crispy fried fish with fragrant coconut rice.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201202081206018343",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201202081206017200",
+                                        "name": "Add Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥 추가",
+                                                    "zh": "加饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006049594",
+                                        "name": "Ikan Bilis and Peanuts Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 180,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 180,
+                                            "amountDisplay": "1.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멸치와 땅콩 스낵",
+                                                    "zh": "江鱼仔和花生小吃"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20241108045006055563",
+                                        "name": "Sambal Chili Sachet",
+                                        "available": true,
+                                        "priceInMinorUnit": 90,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 90,
+                                            "amountDisplay": "0.90"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-29T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "삼발 칠리 패킷",
+                                                    "zh": "叁巴辣椒小袋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1080,
+                        "priceV2": {
+                            "amountInMinor": 1080,
+                            "amountDisplay": "10.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1080,
+                            "amountDisplay": "10.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153520018792/photo/menueditor_item_85a2e4ba4fc340dfa6e0d44d3d8982c2_1786458968061624120.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153520018792/detail/menueditor_item_85a2e4ba4fc340dfa6e0d44d3d8982c2_1786458968061624120.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20201119082854148848",
+                "name": "Small Bites",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026021306453292148",
+                        "name": "Salted Lemongrass Walnut (U.P. $11.00)",
+                        "available": true,
+                        "priceInMinorUnit": 1030,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021306453292148/photo/menueditor_item_df24913059e94283a5299980a1c3b1b7_1770965100734502458.avif",
+                        "description": "250g",
+                        "discountedPriceInMin": 1030,
+                        "priceV2": {
+                            "amountInMinor": 1030,
+                            "amountDisplay": "10.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1030,
+                            "amountDisplay": "10.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021306453292148/photo/menueditor_item_df24913059e94283a5299980a1c3b1b7_1770965100734502458.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021306453292148/detail/menueditor_item_df24913059e94283a5299980a1c3b1b7_1770965100734502458.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021306445042671",
+                        "name": "Blue Ginger Caramel Walnut (U.P. $11.00)",
+                        "available": true,
+                        "priceInMinorUnit": 1030,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021306445042671/photo/menueditor_item_cd775da2c86a41848e0034a193c48ae5_1770964990463310591.avif",
+                        "description": "250g",
+                        "discountedPriceInMin": 1030,
+                        "priceV2": {
+                            "amountInMinor": 1030,
+                            "amountDisplay": "10.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1030,
+                            "amountDisplay": "10.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021306445042671/photo/menueditor_item_cd775da2c86a41848e0034a193c48ae5_1770964990463310591.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021306445042671/detail/menueditor_item_cd775da2c86a41848e0034a193c48ae5_1770964990463310591.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119153851014724",
+                        "name": "Honey Glazed Chicken Wing 1pc",
+                        "available": true,
+                        "priceInMinorUnit": 290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153851014724/photo/f904aef0f0d04272be56ffdaa4b724a3_1612706811243181854.avif",
+                        "description": "Sweet and savory glazed perfection.",
+                        "discountedPriceInMin": 290,
+                        "priceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153851014724/photo/f904aef0f0d04272be56ffdaa4b724a3_1612706811243181854.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153851014724/detail/f904aef0f0d04272be56ffdaa4b724a3_1612706811243181854.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119153911012664",
+                        "name": "Honey Glazed Mid Joint 1pc",
+                        "available": true,
+                        "priceInMinorUnit": 170,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153911012664/photo/9ce727fc38d0422ba13cdb817ab3d107_1608017534347271744.avif",
+                        "description": "Succulent mid joint wings glazed with sweet honey.",
+                        "discountedPriceInMin": 170,
+                        "priceV2": {
+                            "amountInMinor": 170,
+                            "amountDisplay": "1.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 170,
+                            "amountDisplay": "1.70"
+                        },
+                        "metadata": "{\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "itemClassID": "DEP-C35YLT2HEPATGA0342",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153911012664/photo/9ce727fc38d0422ba13cdb817ab3d107_1608017534347271744.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153911012664/detail/9ce727fc38d0422ba13cdb817ab3d107_1608017534347271744.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119153936015318",
+                        "name": "Ebi Tempura 1pc",
+                        "available": true,
+                        "priceInMinorUnit": 250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153936015318/photo/b38d43655a59427bb2ce9b1adbc1fb0d_1608019297666464239.avif",
+                        "description": "Crispy, golden perfection. Juicy prawns wrapped in crunchy batter.",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153936015318/photo/b38d43655a59427bb2ce9b1adbc1fb0d_1608019297666464239.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119153936015318/detail/b38d43655a59427bb2ce9b1adbc1fb0d_1608019297666464239.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855497282",
+                        "name": "Chicken Cutlet 1pc",
+                        "available": true,
+                        "priceInMinorUnit": 290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855497282/photo/f841f0b8cea74ec09f8be455c0aed080_1612880477320724572.avif",
+                        "description": "Crispy and tender chicken cutlet. Perfectly seasoned!",
+                        "discountedPriceInMin": 290,
+                        "priceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855497282/photo/f841f0b8cea74ec09f8be455c0aed080_1612880477320724572.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855497282/detail/f841f0b8cea74ec09f8be455c0aed080_1612880477320724572.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082854057505",
+                        "name": "Fried Chicken Wing 1pc",
+                        "available": true,
+                        "priceInMinorUnit": 360,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082854057505/photo/b415440cde8b4974803adea19fe53627_1608019349547543761.avif",
+                        "description": "Crispy, juicy fried chicken wings. Delight in every bite!",
+                        "discountedPriceInMin": 360,
+                        "priceV2": {
+                            "amountInMinor": 360,
+                            "amountDisplay": "3.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 360,
+                            "amountDisplay": "3.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082854057505/photo/b415440cde8b4974803adea19fe53627_1608019349547543761.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082854057505/detail/b415440cde8b4974803adea19fe53627_1608019349547543761.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119154104012903",
+                        "name": "Omelette 1pc",
+                        "available": true,
+                        "priceInMinorUnit": 180,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119154104012903/photo/ec0a601adac14bbabd203c7d2cd338d0_1608019407632656973.avif",
+                        "description": "Fluffy omelette perfection. A must-try!",
+                        "discountedPriceInMin": 180,
+                        "priceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "metadata": "{\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "itemClassID": "DEP-C35YLT2HEN4WEA8371",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119154104012903/photo/ec0a601adac14bbabd203c7d2cd338d0_1608019407632656973.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119154104012903/detail/ec0a601adac14bbabd203c7d2cd338d0_1608019407632656973.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119154119010473",
+                        "name": "Fried Fish 1pc",
+                        "available": true,
+                        "priceInMinorUnit": 280,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119154119010473/photo/menueditor_item_5f3e6d066d194b6c92d453145ed3424e_1774945317863833815.avif",
+                        "description": "Crispy golden fried fish fillet, perfect seafood treat!",
+                        "discountedPriceInMin": 280,
+                        "priceV2": {
+                            "amountInMinor": 280,
+                            "amountDisplay": "2.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 280,
+                            "amountDisplay": "2.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119154119010473/photo/menueditor_item_5f3e6d066d194b6c92d453145ed3424e_1774945317863833815.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119154119010473/detail/menueditor_item_5f3e6d066d194b6c92d453145ed3424e_1774945317863833815.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855733636",
+                        "name": "Ikan Bilis and Peanuts Sachet",
+                        "available": true,
+                        "priceInMinorUnit": 180,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855733636/photo/9ec6a291eccc410c9d4510b0e2a78acc_1612880442163517008.avif",
+                        "discountedPriceInMin": 180,
+                        "priceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855733636/photo/9ec6a291eccc410c9d4510b0e2a78acc_1612880442163517008.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855733636/detail/9ec6a291eccc410c9d4510b0e2a78acc_1612880442163517008.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082854030524",
+                        "name": "Sambal Chili Sachet",
+                        "available": true,
+                        "priceInMinorUnit": 90,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082854030524/photo/ae8bb41069534635a55980213c270187_1612880452983338742.avif",
+                        "discountedPriceInMin": 90,
+                        "priceV2": {
+                            "amountInMinor": 90,
+                            "amountDisplay": "0.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 90,
+                            "amountDisplay": "0.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082854030524/photo/ae8bb41069534635a55980213c270187_1612880452983338742.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082854030524/detail/ae8bb41069534635a55980213c270187_1612880452983338742.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855828878",
+                        "name": "Ikan Bilis Only",
+                        "available": true,
+                        "priceInMinorUnit": 895,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855828878/photo/a42ba89df519494ba63e9b7b2055150e_1608023609799400488.avif",
+                        "description": "120g",
+                        "discountedPriceInMin": 895,
+                        "priceV2": {
+                            "amountInMinor": 895,
+                            "amountDisplay": "8.95"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 895,
+                            "amountDisplay": "8.95"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855828878/photo/a42ba89df519494ba63e9b7b2055150e_1608023609799400488.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855828878/detail/a42ba89df519494ba63e9b7b2055150e_1608023609799400488.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855030489",
+                        "name": "Ikan Bilis with Peanuts",
+                        "available": true,
+                        "priceInMinorUnit": 895,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855030489/photo/909317ef4fd54b72a20a91fcdc81ebce_1608024333092782370.avif",
+                        "description": "200g",
+                        "discountedPriceInMin": 895,
+                        "priceV2": {
+                            "amountInMinor": 895,
+                            "amountDisplay": "8.95"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 895,
+                            "amountDisplay": "8.95"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-07-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855030489/photo/909317ef4fd54b72a20a91fcdc81ebce_1608024333092782370.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855030489/detail/909317ef4fd54b72a20a91fcdc81ebce_1608024333092782370.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855648730",
+                        "name": "Sambal Chilli",
+                        "available": true,
+                        "priceInMinorUnit": 895,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855648730/photo/menueditor_item_7ce29a082fab4fa0825fefad4cf81ef1_1786508312257804988.avif",
+                        "description": "250g",
+                        "discountedPriceInMin": 895,
+                        "priceV2": {
+                            "amountInMinor": 895,
+                            "amountDisplay": "8.95"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 895,
+                            "amountDisplay": "8.95"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855648730/photo/menueditor_item_7ce29a082fab4fa0825fefad4cf81ef1_1786508312257804988.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855648730/detail/menueditor_item_7ce29a082fab4fa0825fefad4cf81ef1_1786508312257804988.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855877300",
+                        "name": "Fish Cake 1pc",
+                        "available": true,
+                        "priceInMinorUnit": 170,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855877300/photo/9caaa6f31cb54ad19b3c926e3b255b21_1612880408256725233.avif",
+                        "description": "Savory fish delight with aromatic spices.",
+                        "discountedPriceInMin": 170,
+                        "priceV2": {
+                            "amountInMinor": 170,
+                            "amountDisplay": "1.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 170,
+                            "amountDisplay": "1.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855877300/photo/9caaa6f31cb54ad19b3c926e3b255b21_1612880408256725233.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855877300/detail/9caaa6f31cb54ad19b3c926e3b255b21_1612880408256725233.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855929218",
+                        "name": "Soft Loaf",
+                        "priceInMinorUnit": 250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855929218/photo/4ef4e7485ea74a5ebc4bdc61a877b542_1608024392025605779.avif",
+                        "description": "Soft, fluffy loaf perfect to enjoy anytime.",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-10-04T00:00:00+08:00\"}",
+                        "itemClassID": "DEP-C35YLT2HEN4WEA8371",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855929218/photo/4ef4e7485ea74a5ebc4bdc61a877b542_1608024392025605779.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855929218/detail/4ef4e7485ea74a5ebc4bdc61a877b542_1608024392025605779.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855134462",
+                        "name": "Otah Puff 1pc",
+                        "priceInMinorUnit": 230,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855134462/photo/menueditor_item_413887afe5e44b53a2e3733f13ce31b8_1695796350999746471.avif",
+                        "description": "Crispy puff pastry with flavorful Indonesian spiced fish cake filling.",
+                        "discountedPriceInMin": 230,
+                        "priceV2": {
+                            "amountInMinor": 230,
+                            "amountDisplay": "2.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 230,
+                            "amountDisplay": "2.30"
+                        },
+                        "metadata": "{\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "itemClassID": "DEP-C35YLT2HEN3YJA7400",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855134462/photo/menueditor_item_413887afe5e44b53a2e3733f13ce31b8_1695796350999746471.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855134462/detail/menueditor_item_413887afe5e44b53a2e3733f13ce31b8_1695796350999746471.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20201119082854055554",
+                "name": "Drinks",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20201119082855545671",
+                        "name": "Mineral Water",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855545671/photo/menueditor_item_37607910478e4eb7a7fc181568811040_1703219244196642381.avif",
+                        "description": "600ml",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855545671/photo/menueditor_item_37607910478e4eb7a7fc181568811040_1703219244196642381.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855545671/detail/menueditor_item_37607910478e4eb7a7fc181568811040_1703219244196642381.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855069670",
+                        "name": "Coke",
+                        "available": true,
+                        "priceInMinorUnit": 210,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855069670/photo/menueditor_item_435a61007a15422f82c64b2574818aea_1703219264737682134.avif",
+                        "discountedPriceInMin": 210,
+                        "priceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855069670/photo/menueditor_item_435a61007a15422f82c64b2574818aea_1703219264737682134.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855069670/detail/menueditor_item_435a61007a15422f82c64b2574818aea_1703219264737682134.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855209884",
+                        "name": "Sprite",
+                        "available": true,
+                        "priceInMinorUnit": 210,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855209884/photo/menueditor_item_3dae9cb27d1b4bfba699c56c31cc0810_1703219281359632206.avif",
+                        "discountedPriceInMin": 210,
+                        "priceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855209884/photo/menueditor_item_3dae9cb27d1b4bfba699c56c31cc0810_1703219281359632206.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855209884/detail/menueditor_item_3dae9cb27d1b4bfba699c56c31cc0810_1703219281359632206.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855258792",
+                        "name": "Green Tea",
+                        "available": true,
+                        "priceInMinorUnit": 210,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855258792/photo/menueditor_item_04c9b2d7076c4455872476a6376dadc6_1703219300135864683.avif",
+                        "discountedPriceInMin": 210,
+                        "priceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855258792/photo/menueditor_item_04c9b2d7076c4455872476a6376dadc6_1703219300135864683.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855258792/detail/menueditor_item_04c9b2d7076c4455872476a6376dadc6_1703219300135864683.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20201119082855157249",
+                        "name": "Ice Lemon Tea",
+                        "available": true,
+                        "priceInMinorUnit": 210,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855157249/photo/menueditor_item_3b4ef7f197d7478fa23f8dfa076139d4_1703219316546002848.avif",
+                        "discountedPriceInMin": 210,
+                        "priceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855157249/photo/menueditor_item_3b4ef7f197d7478fa23f8dfa076139d4_1703219316546002848.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20201119082855157249/detail/menueditor_item_3b4ef7f197d7478fa23f8dfa076139d4_1703219316546002848.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 50000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.7,
+    "voteCount": 1207,
+    "specialMerchantType": "GRABKITCHENNORMAL",
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "merchantClusterID": "SGMCL20201116023555019612",
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Lee Wee & Brothers - Tampines Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C2C1PEVHA34ZGN"
+    },
+    "chainName": "Lee Wee & Brothers",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C2C1PEVHA34ZGN/list/12cd0363-71e8-454c-8545-3930ab029cbf__listing_photo__2024__12__30__02__56__10.avif",
+    "branchName": "Tampines Mall",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#FFEC8F",
+            "text": "5-Star Eats",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200002/iconv3/d649c6d9ea9b4e87b0f3896b02f40a74_1769400755885577643.webp",
+            "labelID": "1200002",
+            "labelName": "5 Star Eats",
+            "type": "FoodAuthority",
+            "fontColor": "#005339",
+            "icon": "StarFilled",
+            "deeplink": "grab://open?screenType=GRABFOOD&campaignLandingID=16927&landingSource=foodAuthority&isNewTask=true"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:00:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

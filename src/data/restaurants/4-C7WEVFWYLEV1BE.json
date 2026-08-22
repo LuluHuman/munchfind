@@ -1,0 +1,1664 @@
+{
+    "ID": "4-C7WEVFWYLEV1BE",
+    "name": "Roots by 3blokes - East Village",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7WEVFWYLEV1BE/hero/03f7e1a6a86a4839802bd854fa360f29_1768551926514509642.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:30am-8:00pm",
+        "mon": "Closed",
+        "tue": "11:30am-8:00pm",
+        "wed": "11:30am-8:00pm",
+        "thu": "11:30am-8:00pm",
+        "fri": "11:30am-12:30pm 2:30pm-8:00pm",
+        "sat": "11:30am-8:00pm"
+    },
+    "address": {
+        "name": "Roots by 3blokes - East Village",
+        "combined_address": "East Village, Upp Changi Road, 487048 (#01-43), Singapore, Singapore States, 480748, 480748",
+        "combined_city": "Singapore",
+        "street": "East Village, Upp Changi Road, 487048 (#01-43), Singapore, Singapore States, 480748",
+        "postcode": "480748",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3318167,
+        "lng": 103.946276
+    },
+    "menu": {
+        "categories": [
+            {
+                "name": "Today's Offer",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026011412402517418",
+                        "name": "HEARTH",
+                        "available": true,
+                        "priceInMinorUnit": 1850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412402517418/photo/menueditor_item_21b30500a4a048e396c1a17f37a348ad_1785206544045102730.webp",
+                        "description": "Chargrilled chicken paired with roasted sweet potatoes, fresh mesclun, mixed cheese, cherry tomatoes, edamame, croutons, honey mustard and finished with mango chilli salsa.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1665,
+                        "priceV2": {
+                            "amountInMinor": 1850,
+                            "amountDisplay": "18.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1665,
+                            "amountDisplay": "16.65"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412402517418/photo/menueditor_item_21b30500a4a048e396c1a17f37a348ad_1785206544045102730.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412402517418/detail/menueditor_item_21b30500a4a048e396c1a17f37a348ad_1785206544045102730.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412402517418",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412402517418",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 185,
+                            "amountDisplay": "-S$1.85"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412302108617",
+                        "name": "CRAFTSMAN",
+                        "available": true,
+                        "priceInMinorUnit": 2050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412302108617/photo/menueditor_item_7b905f316efc4d7b99dd87af5f994a40_1785206447050196856.webp",
+                        "description": "Slow-smoked, hand-pulled Angus brisket served over roasted russet potatoes with fresh arugula, mixed cheese, cherry tomatoes, chimichurri and topped with mango chilli salsa.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1845,
+                        "priceV2": {
+                            "amountInMinor": 2050,
+                            "amountDisplay": "20.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1845,
+                            "amountDisplay": "18.45"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412302108617/photo/menueditor_item_7b905f316efc4d7b99dd87af5f994a40_1785206447050196856.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412302108617/detail/menueditor_item_7b905f316efc4d7b99dd87af5f994a40_1785206447050196856.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412302108617",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412302108617",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 205,
+                            "amountDisplay": "-S$2.05"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412341168943",
+                        "name": "SHEPHERD",
+                        "available": true,
+                        "priceInMinorUnit": 2300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412341168943/photo/menueditor_item_82ed7e953de140dba11baf14695338b8_1785206483647123931.webp",
+                        "description": "Tender, slow-braised pulled Australian lamb layered atop roasted sweet potatoes, with fresh arugula, mixed cheese, cherry tomatoes, edamame and finished with house-made garlic aioli.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 2070,
+                        "priceV2": {
+                            "amountInMinor": 2300,
+                            "amountDisplay": "23.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2070,
+                            "amountDisplay": "20.70"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412341168943/photo/menueditor_item_82ed7e953de140dba11baf14695338b8_1785206483647123931.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412341168943/detail/menueditor_item_82ed7e953de140dba11baf14695338b8_1785206483647123931.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412341168943",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412341168943",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 230,
+                            "amountDisplay": "-S$2.30"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412372526794",
+                        "name": "DRIFT",
+                        "available": true,
+                        "priceInMinorUnit": 2300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412372526794/photo/menueditor_item_a9f45c47c81f4db3b90e6bd5bf0b9cc3_1785206516143617847.webp",
+                        "description": "Smoked salmon fillet on a bed of roasted russet potatoes with fresh arugula, mixed cheese, cherry tomatoes, edamame, bonito flakes, wasabi mayo and roasted sesame drizzle",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 2070,
+                        "priceV2": {
+                            "amountInMinor": 2300,
+                            "amountDisplay": "23.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2070,
+                            "amountDisplay": "20.70"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412372526794/photo/menueditor_item_a9f45c47c81f4db3b90e6bd5bf0b9cc3_1785206516143617847.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412372526794/detail/menueditor_item_a9f45c47c81f4db3b90e6bd5bf0b9cc3_1785206516143617847.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412372526794",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412372526794",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 230,
+                            "amountDisplay": "-S$2.30"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412204962311",
+                        "name": "GROVE",
+                        "available": true,
+                        "priceInMinorUnit": 1700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412204962311/photo/menueditor_item_d8a6d8c7ce1b42fd902d46e220de7d54_1785206636134367525.webp",
+                        "description": "Chargrilled chicken served over hand-mashed sweet potatoes, with fresh mesclun, cherry tomatoes, croutons and topped with a silky garlic aioli.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1530,
+                        "priceV2": {
+                            "amountInMinor": 1700,
+                            "amountDisplay": "17.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1530,
+                            "amountDisplay": "15.30"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412204962311/photo/menueditor_item_d8a6d8c7ce1b42fd902d46e220de7d54_1785206636134367525.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412204962311/detail/menueditor_item_d8a6d8c7ce1b42fd902d46e220de7d54_1785206636134367525.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412204962311",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412204962311",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 170,
+                            "amountDisplay": "-S$1.70"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412241413784",
+                        "name": "HERITAGE",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412241413784/photo/menueditor_item_1a6d92ec552c4309a73bcc8112bed35a_1785206615640220781.webp",
+                        "description": "Slow-smoked, hand-pulled Angus brisket on a bed of hand-mashed cassava, with arugula, cherry tomatoes, edamame and a touch of spicy garlic mayo.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1755,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1755,
+                            "amountDisplay": "17.55"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412241413784/photo/menueditor_item_1a6d92ec552c4309a73bcc8112bed35a_1785206615640220781.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412241413784/detail/menueditor_item_1a6d92ec552c4309a73bcc8112bed35a_1785206615640220781.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412241413784",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412241413784",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 195,
+                            "amountDisplay": "-S$1.95"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412075971024",
+                        "name": "EMBER",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412075971024/photo/menueditor_item_8f424c1bb98c408ba6e1cbc28c0a92cd_1785206593355507299.webp",
+                        "description": "Rich smoked duck layered over hand-mashed sweet potatoes, with fresh mesclun, cherry tomatoes, croutons, wasabi edamame, honey mustard and finished with a house-made BBQ drizzle",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1755,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1755,
+                            "amountDisplay": "17.55"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412075971024/photo/menueditor_item_8f424c1bb98c408ba6e1cbc28c0a92cd_1785206593355507299.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412075971024/detail/menueditor_item_8f424c1bb98c408ba6e1cbc28c0a92cd_1785206593355507299.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412075971024",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412075971024",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 195,
+                            "amountDisplay": "-S$1.95"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412115151140",
+                        "name": "NOMAD",
+                        "available": true,
+                        "priceInMinorUnit": 2200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412115151140/photo/menueditor_item_2d5ae062aa234e8580ffc833dbeff0c9_1785206572148615409.webp",
+                        "description": "Tender, slow-braised pulled Australian lamb served atop hand-mashed cassava with fresh arugula, cherry tomatoes, toasted walnut, edamame, and a house-made mint sauce.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1980,
+                        "priceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1980,
+                            "amountDisplay": "19.80"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412115151140/photo/menueditor_item_2d5ae062aa234e8580ffc833dbeff0c9_1785206572148615409.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412115151140/detail/menueditor_item_2d5ae062aa234e8580ffc833dbeff0c9_1785206572148615409.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412115151140",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412115151140",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 220,
+                            "amountDisplay": "-S$2.20"
+                        }
+                    }
+                ],
+                "categoryType": 1,
+                "elementCards": [
+                    {
+                        "type": 1,
+                        "item": {
+                            "ID": "SGITE2026011412204962311",
+                            "name": "GROVE",
+                            "available": true,
+                            "priceInMinorUnit": 1700,
+                            "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412204962311/photo/menueditor_item_d8a6d8c7ce1b42fd902d46e220de7d54_1785206636134367525.webp",
+                            "description": "Chargrilled chicken served over hand-mashed sweet potatoes, with fresh mesclun, cherry tomatoes, croutons and topped with a silky garlic aioli.",
+                            "sortOrder": 4,
+                            "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                            "campaignName": "10% off",
+                            "discountedPriceInMin": 1530,
+                            "priceV2": {
+                                "amountInMinor": 1700,
+                                "amountDisplay": "17.00"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1530,
+                                "amountDisplay": "15.30"
+                            },
+                            "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                            "discountPercentage": "-10%",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1700,
+                            "discountedTakeawayPriceInMin": 1530,
+                            "merchantID": "4-C7WEVFWYLEV1BE",
+                            "currency": "SGD",
+                            "thumbImages": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412204962311/photo/menueditor_item_d8a6d8c7ce1b42fd902d46e220de7d54_1785206636134367525.webp"
+                            ],
+                            "images": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412204962311/detail/menueditor_item_d8a6d8c7ce1b42fd902d46e220de7d54_1785206636134367525.webp"
+                            ],
+                            "imgHrefFallback": "https://huawei-food-cms.grab.com/item/SGITE2026011412204962311/photos/menueditor_item_d8a6d8c7ce1b42fd902d46e220de7d54_1785206636134367525.jpeg",
+                            "campaigns": [
+                                {
+                                    "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                    "campaignTags": [
+                                        {
+                                            "tag": "10% off"
+                                        }
+                                    ],
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412204962311",
+                                    "attributionData": {
+                                        "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412204962311",
+                                        "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                        "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                    },
+                                    "campaignAuthorType": 5
+                                }
+                            ],
+                            "discountAmountV2": {
+                                "amountInMinor": 170,
+                                "amountDisplay": "-S$1.70"
+                            }
+                        }
+                    },
+                    {
+                        "type": 1,
+                        "item": {
+                            "ID": "SGITE2026011412402517418",
+                            "name": "HEARTH",
+                            "available": true,
+                            "priceInMinorUnit": 1850,
+                            "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412402517418/photo/menueditor_item_21b30500a4a048e396c1a17f37a348ad_1785206544045102730.webp",
+                            "description": "Chargrilled chicken paired with roasted sweet potatoes, fresh mesclun, mixed cheese, cherry tomatoes, edamame, croutons, honey mustard and finished with mango chilli salsa.",
+                            "sortOrder": 4,
+                            "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                            "campaignName": "10% off",
+                            "discountedPriceInMin": 1665,
+                            "priceV2": {
+                                "amountInMinor": 1850,
+                                "amountDisplay": "18.50"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1665,
+                                "amountDisplay": "16.65"
+                            },
+                            "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                            "discountPercentage": "-10%",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1850,
+                            "discountedTakeawayPriceInMin": 1665,
+                            "merchantID": "4-C7WEVFWYLEV1BE",
+                            "currency": "SGD",
+                            "thumbImages": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412402517418/photo/menueditor_item_21b30500a4a048e396c1a17f37a348ad_1785206544045102730.webp"
+                            ],
+                            "images": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412402517418/detail/menueditor_item_21b30500a4a048e396c1a17f37a348ad_1785206544045102730.webp"
+                            ],
+                            "imgHrefFallback": "https://huawei-food-cms.grab.com/item/SGITE2026011412402517418/photos/menueditor_item_21b30500a4a048e396c1a17f37a348ad_1785206544045102730.jpeg",
+                            "campaigns": [
+                                {
+                                    "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                    "campaignTags": [
+                                        {
+                                            "tag": "10% off"
+                                        }
+                                    ],
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412402517418",
+                                    "attributionData": {
+                                        "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412402517418",
+                                        "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                        "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                    },
+                                    "campaignAuthorType": 5
+                                }
+                            ],
+                            "discountAmountV2": {
+                                "amountInMinor": 185,
+                                "amountDisplay": "-S$1.85"
+                            }
+                        }
+                    },
+                    {
+                        "type": 1,
+                        "item": {
+                            "ID": "SGITE2026011412241413784",
+                            "name": "HERITAGE",
+                            "available": true,
+                            "priceInMinorUnit": 1950,
+                            "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412241413784/photo/menueditor_item_1a6d92ec552c4309a73bcc8112bed35a_1785206615640220781.webp",
+                            "description": "Slow-smoked, hand-pulled Angus brisket on a bed of hand-mashed cassava, with arugula, cherry tomatoes, edamame and a touch of spicy garlic mayo.",
+                            "sortOrder": 3,
+                            "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                            "campaignName": "10% off",
+                            "discountedPriceInMin": 1755,
+                            "priceV2": {
+                                "amountInMinor": 1950,
+                                "amountDisplay": "19.50"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1755,
+                                "amountDisplay": "17.55"
+                            },
+                            "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                            "discountPercentage": "-10%",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1950,
+                            "discountedTakeawayPriceInMin": 1755,
+                            "merchantID": "4-C7WEVFWYLEV1BE",
+                            "currency": "SGD",
+                            "thumbImages": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412241413784/photo/menueditor_item_1a6d92ec552c4309a73bcc8112bed35a_1785206615640220781.webp"
+                            ],
+                            "images": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412241413784/detail/menueditor_item_1a6d92ec552c4309a73bcc8112bed35a_1785206615640220781.webp"
+                            ],
+                            "imgHrefFallback": "https://huawei-food-cms.grab.com/item/SGITE2026011412241413784/photos/menueditor_item_1a6d92ec552c4309a73bcc8112bed35a_1785206615640220781.jpeg",
+                            "campaigns": [
+                                {
+                                    "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                    "campaignTags": [
+                                        {
+                                            "tag": "10% off"
+                                        }
+                                    ],
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412241413784",
+                                    "attributionData": {
+                                        "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412241413784",
+                                        "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                        "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                    },
+                                    "campaignAuthorType": 5
+                                }
+                            ],
+                            "discountAmountV2": {
+                                "amountInMinor": 195,
+                                "amountDisplay": "-S$1.95"
+                            }
+                        }
+                    },
+                    {
+                        "type": 1,
+                        "item": {
+                            "ID": "SGITE2026011412302108617",
+                            "name": "CRAFTSMAN",
+                            "available": true,
+                            "priceInMinorUnit": 2050,
+                            "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412302108617/photo/menueditor_item_7b905f316efc4d7b99dd87af5f994a40_1785206447050196856.webp",
+                            "description": "Slow-smoked, hand-pulled Angus brisket served over roasted russet potatoes with fresh arugula, mixed cheese, cherry tomatoes, chimichurri and topped with mango chilli salsa.",
+                            "sortOrder": 3,
+                            "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                            "campaignName": "10% off",
+                            "discountedPriceInMin": 1845,
+                            "priceV2": {
+                                "amountInMinor": 2050,
+                                "amountDisplay": "20.50"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1845,
+                                "amountDisplay": "18.45"
+                            },
+                            "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                            "discountPercentage": "-10%",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2050,
+                            "discountedTakeawayPriceInMin": 1845,
+                            "merchantID": "4-C7WEVFWYLEV1BE",
+                            "currency": "SGD",
+                            "thumbImages": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412302108617/photo/menueditor_item_7b905f316efc4d7b99dd87af5f994a40_1785206447050196856.webp"
+                            ],
+                            "images": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412302108617/detail/menueditor_item_7b905f316efc4d7b99dd87af5f994a40_1785206447050196856.webp"
+                            ],
+                            "imgHrefFallback": "https://huawei-food-cms.grab.com/item/SGITE2026011412302108617/photos/menueditor_item_7b905f316efc4d7b99dd87af5f994a40_1785206447050196856.jpeg",
+                            "campaigns": [
+                                {
+                                    "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                    "campaignTags": [
+                                        {
+                                            "tag": "10% off"
+                                        }
+                                    ],
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412302108617",
+                                    "attributionData": {
+                                        "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412302108617",
+                                        "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                        "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                    },
+                                    "campaignAuthorType": 5
+                                }
+                            ],
+                            "discountAmountV2": {
+                                "amountInMinor": 205,
+                                "amountDisplay": "-S$2.05"
+                            }
+                        }
+                    },
+                    {
+                        "type": 1,
+                        "item": {
+                            "ID": "SGITE2026011412075971024",
+                            "name": "EMBER",
+                            "available": true,
+                            "priceInMinorUnit": 1950,
+                            "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412075971024/photo/menueditor_item_8f424c1bb98c408ba6e1cbc28c0a92cd_1785206593355507299.webp",
+                            "description": "Rich smoked duck layered over hand-mashed sweet potatoes, with fresh mesclun, cherry tomatoes, croutons, wasabi edamame, honey mustard and finished with a house-made BBQ drizzle",
+                            "sortOrder": 2,
+                            "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                            "campaignName": "10% off",
+                            "discountedPriceInMin": 1755,
+                            "priceV2": {
+                                "amountInMinor": 1950,
+                                "amountDisplay": "19.50"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1755,
+                                "amountDisplay": "17.55"
+                            },
+                            "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                            "discountPercentage": "-10%",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 1950,
+                            "discountedTakeawayPriceInMin": 1755,
+                            "merchantID": "4-C7WEVFWYLEV1BE",
+                            "currency": "SGD",
+                            "thumbImages": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412075971024/photo/menueditor_item_8f424c1bb98c408ba6e1cbc28c0a92cd_1785206593355507299.webp"
+                            ],
+                            "images": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412075971024/detail/menueditor_item_8f424c1bb98c408ba6e1cbc28c0a92cd_1785206593355507299.webp"
+                            ],
+                            "imgHrefFallback": "https://huawei-food-cms.grab.com/item/SGITE2026011412075971024/photos/menueditor_item_8f424c1bb98c408ba6e1cbc28c0a92cd_1785206593355507299.jpeg",
+                            "campaigns": [
+                                {
+                                    "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                    "campaignTags": [
+                                        {
+                                            "tag": "10% off"
+                                        }
+                                    ],
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412075971024",
+                                    "attributionData": {
+                                        "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412075971024",
+                                        "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                        "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                    },
+                                    "campaignAuthorType": 5
+                                }
+                            ],
+                            "discountAmountV2": {
+                                "amountInMinor": 195,
+                                "amountDisplay": "-S$1.95"
+                            }
+                        }
+                    },
+                    {
+                        "type": 1,
+                        "item": {
+                            "ID": "SGITE2026011412341168943",
+                            "name": "SHEPHERD",
+                            "available": true,
+                            "priceInMinorUnit": 2300,
+                            "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412341168943/photo/menueditor_item_82ed7e953de140dba11baf14695338b8_1785206483647123931.webp",
+                            "description": "Tender, slow-braised pulled Australian lamb layered atop roasted sweet potatoes, with fresh arugula, mixed cheese, cherry tomatoes, edamame and finished with house-made garlic aioli.",
+                            "sortOrder": 2,
+                            "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                            "campaignName": "10% off",
+                            "discountedPriceInMin": 2070,
+                            "priceV2": {
+                                "amountInMinor": 2300,
+                                "amountDisplay": "23.00"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 2070,
+                                "amountDisplay": "20.70"
+                            },
+                            "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                            "discountPercentage": "-10%",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2300,
+                            "discountedTakeawayPriceInMin": 2070,
+                            "merchantID": "4-C7WEVFWYLEV1BE",
+                            "currency": "SGD",
+                            "thumbImages": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412341168943/photo/menueditor_item_82ed7e953de140dba11baf14695338b8_1785206483647123931.webp"
+                            ],
+                            "images": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412341168943/detail/menueditor_item_82ed7e953de140dba11baf14695338b8_1785206483647123931.webp"
+                            ],
+                            "imgHrefFallback": "https://huawei-food-cms.grab.com/item/SGITE2026011412341168943/photos/menueditor_item_82ed7e953de140dba11baf14695338b8_1785206483647123931.jpeg",
+                            "campaigns": [
+                                {
+                                    "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                    "campaignTags": [
+                                        {
+                                            "tag": "10% off"
+                                        }
+                                    ],
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412341168943",
+                                    "attributionData": {
+                                        "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412341168943",
+                                        "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                        "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                    },
+                                    "campaignAuthorType": 5
+                                }
+                            ],
+                            "discountAmountV2": {
+                                "amountInMinor": 230,
+                                "amountDisplay": "-S$2.30"
+                            }
+                        }
+                    },
+                    {
+                        "type": 1,
+                        "item": {
+                            "ID": "SGITE2026011412115151140",
+                            "name": "NOMAD",
+                            "available": true,
+                            "priceInMinorUnit": 2200,
+                            "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412115151140/photo/menueditor_item_2d5ae062aa234e8580ffc833dbeff0c9_1785206572148615409.webp",
+                            "description": "Tender, slow-braised pulled Australian lamb served atop hand-mashed cassava with fresh arugula, cherry tomatoes, toasted walnut, edamame, and a house-made mint sauce.",
+                            "sortOrder": 1,
+                            "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                            "campaignName": "10% off",
+                            "discountedPriceInMin": 1980,
+                            "priceV2": {
+                                "amountInMinor": 2200,
+                                "amountDisplay": "22.00"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 1980,
+                                "amountDisplay": "19.80"
+                            },
+                            "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                            "discountPercentage": "-10%",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2200,
+                            "discountedTakeawayPriceInMin": 1980,
+                            "merchantID": "4-C7WEVFWYLEV1BE",
+                            "currency": "SGD",
+                            "thumbImages": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412115151140/photo/menueditor_item_2d5ae062aa234e8580ffc833dbeff0c9_1785206572148615409.webp"
+                            ],
+                            "images": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412115151140/detail/menueditor_item_2d5ae062aa234e8580ffc833dbeff0c9_1785206572148615409.webp"
+                            ],
+                            "imgHrefFallback": "https://huawei-food-cms.grab.com/item/SGITE2026011412115151140/photos/menueditor_item_2d5ae062aa234e8580ffc833dbeff0c9_1785206572148615409.jpeg",
+                            "campaigns": [
+                                {
+                                    "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                    "campaignTags": [
+                                        {
+                                            "tag": "10% off"
+                                        }
+                                    ],
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412115151140",
+                                    "attributionData": {
+                                        "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412115151140",
+                                        "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                        "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                    },
+                                    "campaignAuthorType": 5
+                                }
+                            ],
+                            "discountAmountV2": {
+                                "amountInMinor": 220,
+                                "amountDisplay": "-S$2.20"
+                            }
+                        }
+                    },
+                    {
+                        "type": 1,
+                        "item": {
+                            "ID": "SGITE2026011412372526794",
+                            "name": "DRIFT",
+                            "available": true,
+                            "priceInMinorUnit": 2300,
+                            "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412372526794/photo/menueditor_item_a9f45c47c81f4db3b90e6bd5bf0b9cc3_1785206516143617847.webp",
+                            "description": "Smoked salmon fillet on a bed of roasted russet potatoes with fresh arugula, mixed cheese, cherry tomatoes, edamame, bonito flakes, wasabi mayo and roasted sesame drizzle",
+                            "sortOrder": 1,
+                            "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                            "campaignName": "10% off",
+                            "discountedPriceInMin": 2070,
+                            "priceV2": {
+                                "amountInMinor": 2300,
+                                "amountDisplay": "23.00"
+                            },
+                            "discountedPriceV2": {
+                                "amountInMinor": 2070,
+                                "amountDisplay": "20.70"
+                            },
+                            "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                            "discountPercentage": "-10%",
+                            "itemAttributes": {
+                                "displayedTexts": {}
+                            },
+                            "takeawayPriceInMin": 2300,
+                            "discountedTakeawayPriceInMin": 2070,
+                            "merchantID": "4-C7WEVFWYLEV1BE",
+                            "currency": "SGD",
+                            "thumbImages": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412372526794/photo/menueditor_item_a9f45c47c81f4db3b90e6bd5bf0b9cc3_1785206516143617847.webp"
+                            ],
+                            "images": [
+                                "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412372526794/detail/menueditor_item_a9f45c47c81f4db3b90e6bd5bf0b9cc3_1785206516143617847.webp"
+                            ],
+                            "imgHrefFallback": "https://huawei-food-cms.grab.com/item/SGITE2026011412372526794/photos/menueditor_item_a9f45c47c81f4db3b90e6bd5bf0b9cc3_1785206516143617847.jpeg",
+                            "campaigns": [
+                                {
+                                    "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                    "campaignTags": [
+                                        {
+                                            "tag": "10% off"
+                                        }
+                                    ],
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412372526794",
+                                    "attributionData": {
+                                        "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412372526794",
+                                        "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                        "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                    },
+                                    "campaignAuthorType": 5
+                                }
+                            ],
+                            "discountAmountV2": {
+                                "amountInMinor": 230,
+                                "amountDisplay": "-S$2.30"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026011412272287075",
+                "name": "Roasted",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026011412402517418",
+                        "name": "HEARTH",
+                        "available": true,
+                        "priceInMinorUnit": 1850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412402517418/photo/menueditor_item_21b30500a4a048e396c1a17f37a348ad_1785206544045102730.webp",
+                        "description": "Chargrilled chicken paired with roasted sweet potatoes, fresh mesclun, mixed cheese, cherry tomatoes, edamame, croutons, honey mustard and finished with mango chilli salsa.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1665,
+                        "priceV2": {
+                            "amountInMinor": 1850,
+                            "amountDisplay": "18.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1665,
+                            "amountDisplay": "16.65"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412402517418/photo/menueditor_item_21b30500a4a048e396c1a17f37a348ad_1785206544045102730.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412402517418/detail/menueditor_item_21b30500a4a048e396c1a17f37a348ad_1785206544045102730.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412402517418",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412402517418",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 185,
+                            "amountDisplay": "-S$1.85"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412302108617",
+                        "name": "CRAFTSMAN",
+                        "available": true,
+                        "priceInMinorUnit": 2050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412302108617/photo/menueditor_item_7b905f316efc4d7b99dd87af5f994a40_1785206447050196856.webp",
+                        "description": "Slow-smoked, hand-pulled Angus brisket served over roasted russet potatoes with fresh arugula, mixed cheese, cherry tomatoes, chimichurri and topped with mango chilli salsa.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1845,
+                        "priceV2": {
+                            "amountInMinor": 2050,
+                            "amountDisplay": "20.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1845,
+                            "amountDisplay": "18.45"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412302108617/photo/menueditor_item_7b905f316efc4d7b99dd87af5f994a40_1785206447050196856.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412302108617/detail/menueditor_item_7b905f316efc4d7b99dd87af5f994a40_1785206447050196856.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412302108617",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412302108617",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 205,
+                            "amountDisplay": "-S$2.05"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412341168943",
+                        "name": "SHEPHERD",
+                        "available": true,
+                        "priceInMinorUnit": 2300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412341168943/photo/menueditor_item_82ed7e953de140dba11baf14695338b8_1785206483647123931.webp",
+                        "description": "Tender, slow-braised pulled Australian lamb layered atop roasted sweet potatoes, with fresh arugula, mixed cheese, cherry tomatoes, edamame and finished with house-made garlic aioli.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 2070,
+                        "priceV2": {
+                            "amountInMinor": 2300,
+                            "amountDisplay": "23.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2070,
+                            "amountDisplay": "20.70"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412341168943/photo/menueditor_item_82ed7e953de140dba11baf14695338b8_1785206483647123931.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412341168943/detail/menueditor_item_82ed7e953de140dba11baf14695338b8_1785206483647123931.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412341168943",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412341168943",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 230,
+                            "amountDisplay": "-S$2.30"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412372526794",
+                        "name": "DRIFT",
+                        "available": true,
+                        "priceInMinorUnit": 2300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412372526794/photo/menueditor_item_a9f45c47c81f4db3b90e6bd5bf0b9cc3_1785206516143617847.webp",
+                        "description": "Smoked salmon fillet on a bed of roasted russet potatoes with fresh arugula, mixed cheese, cherry tomatoes, edamame, bonito flakes, wasabi mayo and roasted sesame drizzle",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 2070,
+                        "priceV2": {
+                            "amountInMinor": 2300,
+                            "amountDisplay": "23.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2070,
+                            "amountDisplay": "20.70"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412372526794/photo/menueditor_item_a9f45c47c81f4db3b90e6bd5bf0b9cc3_1785206516143617847.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412372526794/detail/menueditor_item_a9f45c47c81f4db3b90e6bd5bf0b9cc3_1785206516143617847.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412372526794",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412372526794",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 230,
+                            "amountDisplay": "-S$2.30"
+                        }
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026011412033892476",
+                "name": "Mashed",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026011412204962311",
+                        "name": "GROVE",
+                        "available": true,
+                        "priceInMinorUnit": 1700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412204962311/photo/menueditor_item_d8a6d8c7ce1b42fd902d46e220de7d54_1785206636134367525.webp",
+                        "description": "Chargrilled chicken served over hand-mashed sweet potatoes, with fresh mesclun, cherry tomatoes, croutons and topped with a silky garlic aioli.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1530,
+                        "priceV2": {
+                            "amountInMinor": 1700,
+                            "amountDisplay": "17.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1530,
+                            "amountDisplay": "15.30"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412204962311/photo/menueditor_item_d8a6d8c7ce1b42fd902d46e220de7d54_1785206636134367525.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412204962311/detail/menueditor_item_d8a6d8c7ce1b42fd902d46e220de7d54_1785206636134367525.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412204962311",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412204962311",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 170,
+                            "amountDisplay": "-S$1.70"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412241413784",
+                        "name": "HERITAGE",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412241413784/photo/menueditor_item_1a6d92ec552c4309a73bcc8112bed35a_1785206615640220781.webp",
+                        "description": "Slow-smoked, hand-pulled Angus brisket on a bed of hand-mashed cassava, with arugula, cherry tomatoes, edamame and a touch of spicy garlic mayo.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1755,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1755,
+                            "amountDisplay": "17.55"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412241413784/photo/menueditor_item_1a6d92ec552c4309a73bcc8112bed35a_1785206615640220781.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412241413784/detail/menueditor_item_1a6d92ec552c4309a73bcc8112bed35a_1785206615640220781.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412241413784",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412241413784",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 195,
+                            "amountDisplay": "-S$1.95"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412075971024",
+                        "name": "EMBER",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412075971024/photo/menueditor_item_8f424c1bb98c408ba6e1cbc28c0a92cd_1785206593355507299.webp",
+                        "description": "Rich smoked duck layered over hand-mashed sweet potatoes, with fresh mesclun, cherry tomatoes, croutons, wasabi edamame, honey mustard and finished with a house-made BBQ drizzle",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1755,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1755,
+                            "amountDisplay": "17.55"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412075971024/photo/menueditor_item_8f424c1bb98c408ba6e1cbc28c0a92cd_1785206593355507299.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412075971024/detail/menueditor_item_8f424c1bb98c408ba6e1cbc28c0a92cd_1785206593355507299.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412075971024",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412075971024",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 195,
+                            "amountDisplay": "-S$1.95"
+                        }
+                    },
+                    {
+                        "ID": "SGITE2026011412115151140",
+                        "name": "NOMAD",
+                        "available": true,
+                        "priceInMinorUnit": 2200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412115151140/photo/menueditor_item_2d5ae062aa234e8580ffc833dbeff0c9_1785206572148615409.webp",
+                        "description": "Tender, slow-braised pulled Australian lamb served atop hand-mashed cassava with fresh arugula, cherry tomatoes, toasted walnut, edamame, and a house-made mint sauce.",
+                        "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                        "campaignName": "10% off",
+                        "discountedPriceInMin": 1980,
+                        "priceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1980,
+                            "amountDisplay": "19.80"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "discountPercentage": "-10%",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412115151140/photo/menueditor_item_2d5ae062aa234e8580ffc833dbeff0c9_1785206572148615409.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412115151140/detail/menueditor_item_2d5ae062aa234e8580ffc833dbeff0c9_1785206572148615409.webp"
+                        ],
+                        "campaigns": [
+                            {
+                                "campaignID": "4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213",
+                                "campaignTags": [
+                                    {
+                                        "tag": "10% off"
+                                    }
+                                ],
+                                "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412115151140",
+                                "attributionData": {
+                                    "decisionID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213_ee95d52b-20ba-407c-9134-24de63794ec7_SGITE2026011412115151140",
+                                    "discoveryID": "ee95d52b-20ba-407c-9134-24de63794ec7",
+                                    "campaignID": "7:4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213"
+                                },
+                                "campaignAuthorType": 5
+                            }
+                        ],
+                        "discountAmountV2": {
+                            "amountInMinor": 220,
+                            "amountDisplay": "-S$2.20"
+                        }
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026081015373363654",
+                "name": "Tacos",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081015400516098",
+                        "name": "CHICKEN TACO",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081015400516098/photo/menueditor_item_86d97f0fa1264d0f8f967bea61403e43_1786376303543102107.webp",
+                        "description": "Chargrilled chicken with mozzarella, crisp iceberg lettuce, Spanish onions, spicy mayo and mango salsa, served on hand-toasted soft tortillas. Two pieces per order.",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081015400516098/photo/menueditor_item_86d97f0fa1264d0f8f967bea61403e43_1786376303543102107.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081015400516098/detail/menueditor_item_86d97f0fa1264d0f8f967bea61403e43_1786376303543102107.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081015425037466",
+                        "name": "LAMB TACO",
+                        "available": true,
+                        "priceInMinorUnit": 1350,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081015425037466/photo/menueditor_item_c885f2e43930446fac4e80aff5a0e08d_1786376525003051950.webp",
+                        "description": "Tender, slow-braised, hand-pulled Australian lamb shoulder with mozzarella, crisp iceberg lettuce, mango salsa, garlic aioli, house mint sauce and a light BBQ drizzle, served on hand-toasted soft tortillas. Two pieces per order.",
+                        "discountedPriceInMin": 1350,
+                        "priceV2": {
+                            "amountInMinor": 1350,
+                            "amountDisplay": "13.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1350,
+                            "amountDisplay": "13.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081015425037466/photo/menueditor_item_c885f2e43930446fac4e80aff5a0e08d_1786376525003051950.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081015425037466/detail/menueditor_item_c885f2e43930446fac4e80aff5a0e08d_1786376525003051950.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081015412964501",
+                        "name": "BEEF TACO",
+                        "available": true,
+                        "priceInMinorUnit": 1550,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081015412964501/photo/menueditor_item_e9aab1678f374c31bcb99e3407553641_1786376427914954898.webp",
+                        "description": "Rosemary-smoked, hand-pulled Australian Angus beef brisket with mozzarella, crisp iceberg lettuce, house-made chimichurri, mango salsa, honey mustard and BBQ sauce, served on hand-toasted soft tortillas. Two pieces per order.",
+                        "discountedPriceInMin": 1550,
+                        "priceV2": {
+                            "amountInMinor": 1550,
+                            "amountDisplay": "15.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1550,
+                            "amountDisplay": "15.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081015412964501/photo/menueditor_item_e9aab1678f374c31bcb99e3407553641_1786376427914954898.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081015412964501/detail/menueditor_item_e9aab1678f374c31bcb99e3407553641_1786376427914954898.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026011411543549763",
+                "name": "Sandos",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026080612384592936",
+                        "name": "PERI-CHICK",
+                        "priceInMinorUnit": 2000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026080612384592936/photo/menueditor_item_7643996db9a445bb903f08e481c7b028_1786019745294472545.webp",
+                        "description": "Limited-Time Special: Crispy crumbed chicken thigh with a blend of cheeses, fresh arugula, Spanish onions and our signature peri-peri infused percik sauce on artisan focaccia",
+                        "discountedPriceInMin": 2000,
+                        "priceV2": {
+                            "amountInMinor": 2000,
+                            "amountDisplay": "20.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2000,
+                            "amountDisplay": "20.00"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026080612384592936/photo/menueditor_item_7643996db9a445bb903f08e481c7b028_1786019745294472545.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026080612384592936/detail/menueditor_item_7643996db9a445bb903f08e481c7b028_1786019745294472545.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011411563397218",
+                        "name": "DELI",
+                        "priceInMinorUnit": 2500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011411563397218/photo/menueditor_item_34bcdbac89b94c6484beb6fc6b612c2e_1785156243037875095.webp",
+                        "description": "Slow-smoked, hand-sliced Angus brisket layered with chimichurri, caramelized onions, honey mustard and rich demi-glace, served on artisan focaccia.",
+                        "discountedPriceInMin": 2500,
+                        "priceV2": {
+                            "amountInMinor": 2500,
+                            "amountDisplay": "25.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2500,
+                            "amountDisplay": "25.00"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011411563397218/photo/menueditor_item_34bcdbac89b94c6484beb6fc6b612c2e_1785156243037875095.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011411563397218/detail/menueditor_item_34bcdbac89b94c6484beb6fc6b612c2e_1785156243037875095.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011412030261493",
+                        "name": "FJORD",
+                        "priceInMinorUnit": 2300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412030261493/photo/menueditor_item_8d06660fa04e46a79916f68600f1fdad_1785156313643727255.webp",
+                        "description": "Smoked salmon paired with creamy burrata, fresh arugula, cherry tomatoes, bonito flakes, and a nutty roasted sesame dressing on artisan focaccia.",
+                        "discountedPriceInMin": 2300,
+                        "priceV2": {
+                            "amountInMinor": 2300,
+                            "amountDisplay": "23.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2300,
+                            "amountDisplay": "23.00"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412030261493/photo/menueditor_item_8d06660fa04e46a79916f68600f1fdad_1785156313643727255.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412030261493/detail/menueditor_item_8d06660fa04e46a79916f68600f1fdad_1785156313643727255.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011412172867510",
+                        "name": "CARAVAN",
+                        "priceInMinorUnit": 2300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412172867510/photo/menueditor_item_004b70acce0c4fe19f5d8af19bb5a41e_1785156354373811914.webp",
+                        "description": "Tender, slow-braised pulled Australian lamb layered with mixed cheese, fresh arugula, caramelized onions, garlic aioli, house mint sauce and a light BBQ drizzle on artisan focaccia",
+                        "discountedPriceInMin": 2300,
+                        "priceV2": {
+                            "amountInMinor": 2300,
+                            "amountDisplay": "23.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2300,
+                            "amountDisplay": "23.00"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412172867510/photo/menueditor_item_004b70acce0c4fe19f5d8af19bb5a41e_1785156354373811914.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412172867510/detail/menueditor_item_004b70acce0c4fe19f5d8af19bb5a41e_1785156354373811914.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011412142392884",
+                        "name": "HARVEST",
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412142392884/photo/menueditor_item_e96f021f235d4a40863802b24b043a42_1785156384669718340.webp",
+                        "description": "Chargrilled chicken with mixed cheese, fresh mesclun, spicy garlic mayo and finished with mango chilli salsa on artisan focaccia.",
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":10,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":10,\"campaign_id\":\"4-C7WEVFWYLEV1BE-C8DUVVNEE8EEJN-31860213\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1787486400},\"start_time\":{\"seconds\":1787198400}},\"flags\":17,\"version\":1787363560,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_tobacco_ar\"]}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412142392884/photo/menueditor_item_e96f021f235d4a40863802b24b043a42_1785156384669718340.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011412142392884/detail/menueditor_item_e96f021f235d4a40863802b24b043a42_1785156384669718340.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026011413400234602",
+                "name": "Drinks",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026011413414708468",
+                        "name": "Spritzer Natural Mineral Water",
+                        "priceInMinorUnit": 280,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011413414708468/photo/menueditor_item_a340de3d7bbe40e88a78e755f1fa708c_1768398038649361976.webp",
+                        "description": "550ml",
+                        "discountedPriceInMin": 280,
+                        "priceV2": {
+                            "amountInMinor": 280,
+                            "amountDisplay": "2.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 280,
+                            "amountDisplay": "2.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011413414708468/photo/menueditor_item_a340de3d7bbe40e88a78e755f1fa708c_1768398038649361976.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026011413414708468/detail/menueditor_item_a340de3d7bbe40e88a78e755f1fa708c_1768398038649361976.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 50000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.9,
+    "voteCount": 28,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C7WEVFWYLEV1BE/photos/03f7e1a6a86a4839802bd854fa360f29_1768551926514509642.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Roots by 3blokes - East Village on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7WEVFWYLEV1BE"
+    },
+    "chainName": "Roots by 3blokes",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7WEVFWYLEV1BE/list/dd06e294cd284fa0b86164690e6dbc32_1768551922461503023.webp",
+    "branchName": "East Village",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 11:30 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T03:30:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

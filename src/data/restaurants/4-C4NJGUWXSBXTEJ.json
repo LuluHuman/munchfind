@@ -1,0 +1,142 @@
+{
+    "ID": "4-C4NJGUWXSBXTEJ",
+    "name": "Bae.Gal - Century Square",
+    "cuisine": "Western,Bread,Bakery,Bagel",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C4NJGUWXSBXTEJ/hero/60fa8d7f-74eb-4303-a36b-078fdbc0d6f9__store_cover__2025__07__07__04__47__19.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:30am-7:00pm",
+        "mon": "10:00am-7:00pm",
+        "tue": "10:00am-7:00pm",
+        "wed": "10:00am-7:00pm",
+        "thu": "10:00am-7:00pm",
+        "fri": "10:00am-7:00pm",
+        "sat": "10:30am-7:00pm"
+    },
+    "address": {
+        "name": "Bae.Gal - Century Square",
+        "combined_address": "2, Tampines Central 5, #01-32A, Tampines, 529509",
+        "combined_city": "Singapore",
+        "house": "#01-32A",
+        "street": "2, Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529509",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3527242,
+        "lng": 103.943996
+    },
+    "menu": {
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.7,
+    "voteCount": 87,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C4NJGUWXSBXTEJ/photos/60fa8d7f-74eb-4303-a36b-078fdbc0d6f9__store_cover__2025__07__07__04__47__19.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Bae.Gal - Century Square on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C4NJGUWXSBXTEJ"
+    },
+    "chainName": "Bae.Gal",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C4NJGUWXSBXTEJ/list/60fa8d7f-74eb-4303-a36b-078fdbc0d6f9__listing_photo__2025__07__07__04__47__30.webp",
+    "branchName": "Century Square",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:30 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:30:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal",
+        "non-pork"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

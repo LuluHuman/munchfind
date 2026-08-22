@@ -1,0 +1,3451 @@
+{
+    "ID": "4-C7XTMFKYLYL1HE",
+    "name": "Bored Tacos - Bedok Shopping Complex",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C7XTMFKYLYL1HE/hero/2493f422fc2c470c9fa7b6a57ca8d31a_1769064377273606326.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "12:30pm-9:30pm",
+        "mon": "12:30pm-9:30pm",
+        "tue": "12:30pm-9:30pm",
+        "wed": "12:30pm-9:30pm",
+        "thu": "12:30pm-9:30pm",
+        "fri": "12:30pm-9:30pm",
+        "sat": "12:30pm-9:30pm"
+    },
+    "address": {
+        "name": "Bored Tacos - Bedok Shopping Complex",
+        "combined_address": "288, Bedok Road, Singapore, Singapore States, 469444, 469444",
+        "combined_city": "Singapore",
+        "street": "288, Bedok Road, Singapore, Singapore States, 469444",
+        "postcode": "469444",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3318333,
+        "lng": 103.9484829
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20260122063848022705",
+                "name": "Tacos",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026032810595638834",
+                        "name": "Fish Tacos (3pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 2470,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032810595638834/photo/menueditor_item_19f88d4d5b774a2495ca7e5cc664d63d_1776406895757262440.avif",
+                        "description": "Golden breaded fish fingers tucked in a crisp taco shell with melted mozzarella, layered with fresh lettuce, and finished with a smoky chipotle mayo for the perfect balance of crunch, creaminess, and heat. Topped with cilantro and served with lime wedge.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2470,
+                        "priceV2": {
+                            "amountInMinor": 2470,
+                            "amountDisplay": "24.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2470,
+                            "amountDisplay": "24.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032810595638834/photo/menueditor_item_19f88d4d5b774a2495ca7e5cc664d63d_1776406895757262440.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032810595638834/detail/menueditor_item_19f88d4d5b774a2495ca7e5cc664d63d_1776406895757262440.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026032810590321838",
+                        "name": "Fish Tacos (2pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032810590321838/photo/menueditor_item_77dd1639bb4f4a7b86448616658e0476_1776406951600884461.avif",
+                        "description": "Golden breaded fish fingers tucked in a crisp taco shell with melted mozzarella, layered with fresh lettuce, and finished with a smoky chipotle mayo for the perfect balance of crunch, creaminess, and heat. Topped with cilantro and served with lime wedge.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032810590321838/photo/menueditor_item_77dd1639bb4f4a7b86448616658e0476_1776406951600884461.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032810590321838/detail/menueditor_item_77dd1639bb4f4a7b86448616658e0476_1776406951600884461.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063849050979",
+                        "name": "Birria Beef Tacos (3pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 2470,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910263588748/photo/menueditor_item_7db152be67844460b99d44eef09e928d_1761733578266182036.avif",
+                        "description": "Tender, slow-cooked Birria beef packed into a crisp tortilla, dripping with rich, savory goodness. Topped with onions and a sprinkle of cilantro! Dunk it in consommé for the full experience—thank us later!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2470,
+                        "priceV2": {
+                            "amountInMinor": 2470,
+                            "amountDisplay": "24.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2470,
+                            "amountDisplay": "24.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910263588748/photo/menueditor_item_7db152be67844460b99d44eef09e928d_1761733578266182036.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910263588748/detail/menueditor_item_7db152be67844460b99d44eef09e928d_1761733578266182036.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063850082150",
+                        "name": "Birria Beef Tacos (2pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910254502009/photo/menueditor_item_6769b5f4b6c544bd9cbeca01c1726c29_1761733533207899748.avif",
+                        "description": "Tender, slow-cooked Birria beef packed into a crisp tortilla, dripping with rich, savory goodness. Topped with onions and a sprinkle of cilantro! Dunk it in consommé for the full experience—thank us later!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910254502009/photo/menueditor_item_6769b5f4b6c544bd9cbeca01c1726c29_1761733533207899748.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910254502009/detail/menueditor_item_6769b5f4b6c544bd9cbeca01c1726c29_1761733533207899748.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063850129357",
+                        "name": "Lamb Tacos (3pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 2600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910243109940/photo/menueditor_item_92ec1e31aeda40299b643f7f3ae5fc1c_1761733459038819850.avif",
+                        "description": "Juicy, seasoned lamb tucked into a crisp tortilla, bursting with bold flavors! Topped with sour cream and a touch of lime. You're welcome.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2600,
+                        "priceV2": {
+                            "amountInMinor": 2600,
+                            "amountDisplay": "26.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2600,
+                            "amountDisplay": "26.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910243109940/photo/menueditor_item_92ec1e31aeda40299b643f7f3ae5fc1c_1761733459038819850.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910243109940/detail/menueditor_item_92ec1e31aeda40299b643f7f3ae5fc1c_1761733459038819850.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063850117978",
+                        "name": "Lamb Tacos (2pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 2080,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910235206514/photo/menueditor_item_23bf7626837b426f80e794bb36978736_1761733418398741352.avif",
+                        "description": "Juicy, seasoned lamb tucked into a crisp tortilla, bursting with bold flavors! Topped with sour cream and a touch of lime. You're welcome.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2080,
+                        "priceV2": {
+                            "amountInMinor": 2080,
+                            "amountDisplay": "20.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2080,
+                            "amountDisplay": "20.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910235206514/photo/menueditor_item_23bf7626837b426f80e794bb36978736_1761733418398741352.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910235206514/detail/menueditor_item_23bf7626837b426f80e794bb36978736_1761733418398741352.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063848015129",
+                        "name": "Cajun Chicken Tacos (3pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 2210,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910205972216/photo/menueditor_item_424916fca8d04826810a8edf0890b85f_1761733269221702036.avif",
+                        "description": "Juicy Cajun-spiced chicken strips served on toasted corn tortillas, topped with onion salsa and our house-made cajun sour cream!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2210,
+                        "priceV2": {
+                            "amountInMinor": 2210,
+                            "amountDisplay": "22.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2210,
+                            "amountDisplay": "22.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910205972216/photo/menueditor_item_424916fca8d04826810a8edf0890b85f_1761733269221702036.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910205972216/detail/menueditor_item_424916fca8d04826810a8edf0890b85f_1761733269221702036.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063850064002",
+                        "name": "Cajun Chicken Tacos (2pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 1690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910203439438/photo/menueditor_item_d838b65b3000488f88832d0c54004d70_1761733219734355067.avif",
+                        "description": "Juicy Cajun-spiced chicken strips served on toasted corn tortillas, topped with onion salsa and our house-made cajun sour cream!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1690,
+                        "priceV2": {
+                            "amountInMinor": 1690,
+                            "amountDisplay": "16.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1690,
+                            "amountDisplay": "16.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910203439438/photo/menueditor_item_d838b65b3000488f88832d0c54004d70_1761733219734355067.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910203439438/detail/menueditor_item_d838b65b3000488f88832d0c54004d70_1761733219734355067.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063849032863",
+                        "name": "Garlic Prawn Tacos (3pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 2600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063849032863/photo/menueditor_item_f7d84a9e4e2647949c5b7740a3a2a07d_1776406685238051715.avif",
+                        "description": "Juicy garlic prawns tucked into crisp corn tortillas with melted cheese, topped with fresh mango salsa, jalapẽno sour cream and crisp lettuce!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2600,
+                        "priceV2": {
+                            "amountInMinor": 2600,
+                            "amountDisplay": "26.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2600,
+                            "amountDisplay": "26.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063849032863/photo/menueditor_item_f7d84a9e4e2647949c5b7740a3a2a07d_1776406685238051715.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063849032863/detail/menueditor_item_f7d84a9e4e2647949c5b7740a3a2a07d_1776406685238051715.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063850102911",
+                        "name": "Garlic Prawn Tacos (2pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 2080,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063850102911/photo/menueditor_item_8029352af9de4413b8ae208a36bab31e_1776406714229214111.avif",
+                        "description": "Juicy garlic prawns tucked into crisp corn tortillas with melted cheese, topped with fresh mango salsa, jalapẽno sour cream and crisp lettuce!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2080,
+                        "priceV2": {
+                            "amountInMinor": 2080,
+                            "amountDisplay": "20.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2080,
+                            "amountDisplay": "20.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063850102911/photo/menueditor_item_8029352af9de4413b8ae208a36bab31e_1776406714229214111.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063850102911/detail/menueditor_item_8029352af9de4413b8ae208a36bab31e_1776406714229214111.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260122063848030816",
+                "name": "Quesadillas",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260122063849024139",
+                        "name": "Birria Beef Quesadilla",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910302499185/photo/menueditor_item_5f92c51acaf34e99895dfc5ef9b0b085_1761734779293251785.avif",
+                        "description": "Slow-cooked, melt-in-your-mouth birria meat stuffed into a crispy tortilla, loaded with gooey cheese for that perfect pull.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910302499185/photo/menueditor_item_5f92c51acaf34e99895dfc5ef9b0b085_1761734779293251785.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910302499185/detail/menueditor_item_5f92c51acaf34e99895dfc5ef9b0b085_1761734779293251785.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063850038685",
+                        "name": "Cajun Chicken Quesadilla",
+                        "available": true,
+                        "priceInMinorUnit": 1690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910293101726/photo/menueditor_item_4e7f85683df941aa8354f206e21571f4_1761734842781379040.avif",
+                        "description": "Get ready for bold flavors with our Cajun-spiced chicken strips, paired with tomato salsas all tucked between crispy tortillas. Drizzled with our house-made cajun sauce!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1690,
+                        "priceV2": {
+                            "amountInMinor": 1690,
+                            "amountDisplay": "16.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1690,
+                            "amountDisplay": "16.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910293101726/photo/menueditor_item_4e7f85683df941aa8354f206e21571f4_1761734842781379040.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910293101726/detail/menueditor_item_4e7f85683df941aa8354f206e21571f4_1761734842781379040.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063849083985",
+                        "name": "Beef Chilli Quesadilla",
+                        "available": true,
+                        "priceInMinorUnit": 1820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910291198873/photo/menueditor_item_1de7562a567145c295c2b82a62f516f7_1761734879531703734.avif",
+                        "description": "Stuffed with a mix of melted mozzarella, hearty beef chilli, and drizzles of jalapeno nacho cheese. Grilled to crispy perfection! Hot mess!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1820,
+                        "priceV2": {
+                            "amountInMinor": 1820,
+                            "amountDisplay": "18.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1820,
+                            "amountDisplay": "18.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910291198873/photo/menueditor_item_1de7562a567145c295c2b82a62f516f7_1761734879531703734.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910291198873/detail/menueditor_item_1de7562a567145c295c2b82a62f516f7_1761734879531703734.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063849046176",
+                        "name": "Cheese Quesadilla",
+                        "available": true,
+                        "priceInMinorUnit": 1430,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910284683325/photo/menueditor_item_194844e180f94e32a8428415cfafe298_1761733717073567125.avif",
+                        "description": "Two tortillas hugging it out with melted cheese in between. Grilled to perfection and oozing with mozzarella, cheddar and tomato salsa—simple, yet so iconic!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1430,
+                        "priceV2": {
+                            "amountInMinor": 1430,
+                            "amountDisplay": "14.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1430,
+                            "amountDisplay": "14.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910284683325/photo/menueditor_item_194844e180f94e32a8428415cfafe298_1761733717073567125.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910284683325/detail/menueditor_item_194844e180f94e32a8428415cfafe298_1761733717073567125.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260122063848041964",
+                "name": "Rice Bowls",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260122063849098715",
+                        "name": "Birria Beef Rice Bowl",
+                        "available": true,
+                        "priceInMinorUnit": 1450,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910333594277/photo/menueditor_item_9d6aedf327554a12a320cfe891a7e77a_1761734938559393359.avif",
+                        "description": "Savory rice, jack cheese, buttered corn, fresh salsa, and tender Birria beef soaked in rich consommé. It’s the ultimate comfort food, all wrapped up in one epic bowl.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851043349",
+                                "name": "Add Ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 7,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851096542",
+                                        "name": "Add Birria Beef",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "비리아 소고기 추가",
+                                                    "zh": "加比瑞亚炖牛肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851109465",
+                                        "name": "Add lamb",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "양고기 추가",
+                                                    "zh": "加羊肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851162584",
+                                        "name": "Add Cajun Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "케이준 치킨 추가",
+                                                    "zh": "加卡津风味鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851149681",
+                                        "name": "Add Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 추가",
+                                                    "zh": "加鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851125276",
+                                        "name": "Add Guac",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "과카 추가",
+                                                    "zh": "加鳄梨酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851137575",
+                                        "name": "Add Beef Chilli",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 칠리 추가",
+                                                    "zh": "加牛肉辣酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851152741",
+                                        "name": "Add Butter Corn",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버터 콘 추가",
+                                                    "zh": "加黄油玉米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1450,
+                        "priceV2": {
+                            "amountInMinor": 1450,
+                            "amountDisplay": "14.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1450,
+                            "amountDisplay": "14.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910333594277/photo/menueditor_item_9d6aedf327554a12a320cfe891a7e77a_1761734938559393359.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910333594277/detail/menueditor_item_9d6aedf327554a12a320cfe891a7e77a_1761734938559393359.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063848026571",
+                        "name": "Cajun Chicken Rice Bowl",
+                        "available": true,
+                        "priceInMinorUnit": 1350,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910331564406/photo/menueditor_item_3bac94a04a5748be8c3635610ae9f697_1761735002521496862.avif",
+                        "description": "Savoury rice, topped with jack cheese, buttery corn, fresh salsa, and flavorful Cajun chicken with our house-made cajun sauce!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851043349",
+                                "name": "Add Ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 7,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851096542",
+                                        "name": "Add Birria Beef",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "비리아 소고기 추가",
+                                                    "zh": "加比瑞亚炖牛肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851109465",
+                                        "name": "Add lamb",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "양고기 추가",
+                                                    "zh": "加羊肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851162584",
+                                        "name": "Add Cajun Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "케이준 치킨 추가",
+                                                    "zh": "加卡津风味鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851149681",
+                                        "name": "Add Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 추가",
+                                                    "zh": "加鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851125276",
+                                        "name": "Add Guac",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "과카 추가",
+                                                    "zh": "加鳄梨酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851137575",
+                                        "name": "Add Beef Chilli",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 칠리 추가",
+                                                    "zh": "加牛肉辣酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851152741",
+                                        "name": "Add Butter Corn",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버터 콘 추가",
+                                                    "zh": "加黄油玉米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1350,
+                        "priceV2": {
+                            "amountInMinor": 1350,
+                            "amountDisplay": "13.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1350,
+                            "amountDisplay": "13.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910331564406/photo/menueditor_item_3bac94a04a5748be8c3635610ae9f697_1761735002521496862.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910331564406/detail/menueditor_item_3bac94a04a5748be8c3635610ae9f697_1761735002521496862.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063851022682",
+                        "name": "Lamb Rice Bowl",
+                        "available": true,
+                        "priceInMinorUnit": 1600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910324342539/photo/menueditor_item_962b206c2bdc4d7bb0fe560312a88625_1761735042425911168.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851043349",
+                                "name": "Add Ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 7,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851096542",
+                                        "name": "Add Birria Beef",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "비리아 소고기 추가",
+                                                    "zh": "加比瑞亚炖牛肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851109465",
+                                        "name": "Add lamb",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "양고기 추가",
+                                                    "zh": "加羊肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851162584",
+                                        "name": "Add Cajun Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "케이준 치킨 추가",
+                                                    "zh": "加卡津风味鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851149681",
+                                        "name": "Add Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 추가",
+                                                    "zh": "加鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851125276",
+                                        "name": "Add Guac",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "과카 추가",
+                                                    "zh": "加鳄梨酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851137575",
+                                        "name": "Add Beef Chilli",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 칠리 추가",
+                                                    "zh": "加牛肉辣酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851152741",
+                                        "name": "Add Butter Corn",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버터 콘 추가",
+                                                    "zh": "加黄油玉米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1600,
+                        "priceV2": {
+                            "amountInMinor": 1600,
+                            "amountDisplay": "16.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1600,
+                            "amountDisplay": "16.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910324342539/photo/menueditor_item_962b206c2bdc4d7bb0fe560312a88625_1761735042425911168.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910324342539/detail/menueditor_item_962b206c2bdc4d7bb0fe560312a88625_1761735042425911168.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260122063848067771",
+                "name": "Sandwiches",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260122063849124916",
+                        "name": "Birria Beef Grilled Cheese",
+                        "available": true,
+                        "priceInMinorUnit": 1900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910524154634/photo/menueditor_item_8bac0de0cc064980851433df7b649768_1761735147007747907.avif",
+                        "description": "Slow-cooked Birria beef soaked in rich consommé, loaded with melty cheese, diced tomatoes, onions, and cilantro, all sandwiched between soft milk bread. Panini grilled to crispy perfection!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026032810314613407",
+                                "name": "Make it a set?",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260328103146014112",
+                                        "name": "Mini Beef Chilli Nachos + Lemonade",
+                                        "available": true,
+                                        "priceInMinorUnit": 1050,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1050,
+                                            "amountDisplay": "10.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 비프 칠리 나초 + 레모네이드",
+                                                    "zh": "迷你牛肉辣椒玉米片 + 柠檬水"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "세트로 만들어 드릴까요?",
+                                            "zh": "升级为套餐？"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1900,
+                        "priceV2": {
+                            "amountInMinor": 1900,
+                            "amountDisplay": "19.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1900,
+                            "amountDisplay": "19.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910524154634/photo/menueditor_item_8bac0de0cc064980851433df7b649768_1761735147007747907.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910524154634/detail/menueditor_item_8bac0de0cc064980851433df7b649768_1761735147007747907.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260122063848053998",
+                "name": "Sharing",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026032810123275218",
+                        "name": "Birria Beef Nachos",
+                        "available": true,
+                        "priceInMinorUnit": 2200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032810123275218/photo/menueditor_item_874ae200d1cd41a381254b856c79c0a5_1777279289421459956.avif",
+                        "description": "Tender birria beef soaked in rich consommé, served over crunchy nachos, topped with sour cream, cheese and our house-made salsa!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260122063851043349",
+                                "name": "Add Ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 7,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851096542",
+                                        "name": "Add Birria Beef",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "비리아 소고기 추가",
+                                                    "zh": "加比瑞亚炖牛肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851109465",
+                                        "name": "Add lamb",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "양고기 추가",
+                                                    "zh": "加羊肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851162584",
+                                        "name": "Add Cajun Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "케이준 치킨 추가",
+                                                    "zh": "加卡津风味鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851149681",
+                                        "name": "Add Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 추가",
+                                                    "zh": "加鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851125276",
+                                        "name": "Add Guac",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "과카 추가",
+                                                    "zh": "加鳄梨酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851137575",
+                                        "name": "Add Beef Chilli",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 칠리 추가",
+                                                    "zh": "加牛肉辣酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851152741",
+                                        "name": "Add Butter Corn",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버터 콘 추가",
+                                                    "zh": "加黄油玉米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2200,
+                        "priceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032810123275218/photo/menueditor_item_874ae200d1cd41a381254b856c79c0a5_1777279289421459956.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032810123275218/detail/menueditor_item_874ae200d1cd41a381254b856c79c0a5_1777279289421459956.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063849114140",
+                        "name": "Loaded Nachos",
+                        "available": true,
+                        "priceInMinorUnit": 2000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910344960940/photo/menueditor_item_bed02c962ae4459398807ca09a73377e_1761735083593921959.avif",
+                        "description": "Loaded with Beef Chili, Mozzarella & Nacho Cheese. Comes with Guac,Salsa & Sour cream!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260122063851043349",
+                                "name": "Add Ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 7,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851096542",
+                                        "name": "Add Birria Beef",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "비리아 소고기 추가",
+                                                    "zh": "加比瑞亚炖牛肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851109465",
+                                        "name": "Add lamb",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "양고기 추가",
+                                                    "zh": "加羊肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851162584",
+                                        "name": "Add Cajun Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "케이준 치킨 추가",
+                                                    "zh": "加卡津风味鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851149681",
+                                        "name": "Add Egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 추가",
+                                                    "zh": "加鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851125276",
+                                        "name": "Add Guac",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "과카 추가",
+                                                    "zh": "加鳄梨酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851137575",
+                                        "name": "Add Beef Chilli",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기 칠리 추가",
+                                                    "zh": "加牛肉辣酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851152741",
+                                        "name": "Add Butter Corn",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버터 콘 추가",
+                                                    "zh": "加黄油玉米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 7
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20260122063851031318",
+                                "name": "Spice Level",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260122063851184824",
+                                        "name": "no spice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "无辣味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260122063851197711",
+                                        "name": "Add Salsa Verde&Roja",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "살사 베르데&로하 추가",
+                                                    "zh": "加莎莎酱（绿&红）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛 단계",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2000,
+                        "priceV2": {
+                            "amountInMinor": 2000,
+                            "amountDisplay": "20.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2000,
+                            "amountDisplay": "20.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910344960940/photo/menueditor_item_bed02c962ae4459398807ca09a73377e_1761735083593921959.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102910344960940/detail/menueditor_item_bed02c962ae4459398807ca09a73377e_1761735083593921959.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260122063848076021",
+                "name": "Drinks",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026032811010798647",
+                        "name": "Bottled Water",
+                        "available": true,
+                        "priceInMinorUnit": 260,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032811010798647/photo/menueditor_item_8125bd3fbaa04b88acc895dd2f5798d2_1776406981674276763.avif",
+                        "description": "Water.",
+                        "discountedPriceInMin": 260,
+                        "priceV2": {
+                            "amountInMinor": 260,
+                            "amountDisplay": "2.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 260,
+                            "amountDisplay": "2.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032811010798647/photo/menueditor_item_8125bd3fbaa04b88acc895dd2f5798d2_1776406981674276763.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032811010798647/detail/menueditor_item_8125bd3fbaa04b88acc895dd2f5798d2_1776406981674276763.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026032811005049951",
+                        "name": "Coke Zero",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032811005049951/photo/menueditor_item_7a38bb40963c43e1b2d4f4e8329d24b3_1776407014011235775.avif",
+                        "description": "Does not contain any calories. Has no significant source of nutrients but pairs well with a Taco though.",
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032811005049951/photo/menueditor_item_7a38bb40963c43e1b2d4f4e8329d24b3_1776407014011235775.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032811005049951/detail/menueditor_item_7a38bb40963c43e1b2d4f4e8329d24b3_1776407014011235775.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026032811001917957",
+                        "name": "Coke",
+                        "available": true,
+                        "priceInMinorUnit": 350,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032811001917957/photo/menueditor_item_34eb3b532b8b4e21ad74607bc14d3075_1776407036175804571.avif",
+                        "description": "It's a can of Coke.",
+                        "discountedPriceInMin": 350,
+                        "priceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 350,
+                            "amountDisplay": "3.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032811001917957/photo/menueditor_item_34eb3b532b8b4e21ad74607bc14d3075_1776407036175804571.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026032811001917957/detail/menueditor_item_34eb3b532b8b4e21ad74607bc14d3075_1776407036175804571.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063849060281",
+                        "name": "Strawberry Lemonade",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063849060281/photo/menueditor_item_897104cc3e224e029feeb8243e09c8a7_1776407055619745584.avif",
+                        "description": "It's sweet, tangy, and perfect for a hot day.",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063849060281/photo/menueditor_item_897104cc3e224e029feeb8243e09c8a7_1776407055619745584.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063849060281/detail/menueditor_item_897104cc3e224e029feeb8243e09c8a7_1776407055619745584.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063849016845",
+                        "name": "Lemonade",
+                        "available": true,
+                        "priceInMinorUnit": 520,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063849016845/photo/menueditor_item_15123096d09c456797d916be73b6735d_1776407078534014657.avif",
+                        "description": "Bright, tangy, and perfectly sweet, our lemonade offers a refreshing burst of citrus flavour in every sip!",
+                        "discountedPriceInMin": 520,
+                        "priceV2": {
+                            "amountInMinor": 520,
+                            "amountDisplay": "5.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 520,
+                            "amountDisplay": "5.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063849016845/photo/menueditor_item_15123096d09c456797d916be73b6735d_1776407078534014657.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063849016845/detail/menueditor_item_15123096d09c456797d916be73b6735d_1776407078534014657.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260122063848088859",
+                "name": "Foam Drinks",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260122063850020258",
+                        "name": "Strawberry Matcha Foam",
+                        "available": true,
+                        "priceInMinorUnit": 1000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063850020258/photo/menueditor_item_6528230b43f545bfaed39cc51e9bc727_1776407124354009436.avif",
+                        "description": "The infamous Matcha Strawberry Cloud - velvety strawberry pure swirled with milk, topped with a fluffy, airy matcha-infused cloud for a refreshing and indulgent treat!",
+                        "discountedPriceInMin": 1000,
+                        "priceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-11-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063850020258/photo/menueditor_item_6528230b43f545bfaed39cc51e9bc727_1776407124354009436.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063850020258/detail/menueditor_item_6528230b43f545bfaed39cc51e9bc727_1776407124354009436.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260122063850016228",
+                        "name": "Chocolate Matcha Foam",
+                        "available": true,
+                        "priceInMinorUnit": 1000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063850016228/photo/menueditor_item_7166582b64e7414e8c9295c3cf2b3b22_1776407147337826426.avif",
+                        "description": "Creamy matcha with a hint of rich chocolate - light, smooth, and full of flavour.",
+                        "discountedPriceInMin": 1000,
+                        "priceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-11-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063850016228/photo/menueditor_item_7166582b64e7414e8c9295c3cf2b3b22_1776407147337826426.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260122063850016228/detail/menueditor_item_7166582b64e7414e8c9295c3cf2b3b22_1776407147337826426.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.7,
+    "voteCount": 61,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Bored Tacos - Bedok Shopping Complex on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7XTMFKYLYL1HE"
+    },
+    "chainName": "Bored Tacos",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C7XTMFKYLYL1HE/list/3a37eb6867624473bc903319a739b046_1769064372835233832.avif",
+    "branchName": "Bedok Shopping Complex",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 12:30 PM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T04:30:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

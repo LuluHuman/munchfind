@@ -1,0 +1,2160 @@
+{
+    "ID": "SGDD03151",
+    "name": "Wanton Noodle House - Bedok Road",
+    "cuisine": "Chinese,Wonton Noodle,Noodle",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/SGDD03151/hero/7afb54ac1b0d4a0caa202267820c89c0_1559884848618395705.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "9:00am-8:30pm",
+        "mon": "9:00am-8:30pm",
+        "tue": "9:00am-8:30pm",
+        "wed": "9:00am-8:30pm",
+        "thu": "9:00am-8:30pm",
+        "fri": "9:00am-8:30pm",
+        "sat": "9:00am-8:30pm"
+    },
+    "address": {
+        "name": "Wanton Noodle House - Bedok Road",
+        "combined_address": "312 Bedok Road, Bedok, 469475",
+        "combined_city": "Singapore",
+        "street": "312 Bedok Road",
+        "suburb": "Bedok",
+        "postcode": "469475",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3309226,
+        "lng": 103.9485621
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGDD03151CAT081900",
+                "name": "Main Signature",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGDD03151ITM0617789",
+                        "name": "Wanton Charsiew Noodle 云吞叉烧面",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617789/photo/e3d7ac64e11142c3a12314a2fe680895_1565755727994861688.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGDD03151MG157987",
+                                "name": "Noodle Style(Choose 1)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGDD03151MOD0859698",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859697",
+                                        "name": "Non-Chilli (Dry - Ketchup)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않은 (건조 - 케첩)",
+                                                    "zh": "非辣（干配番茄酱）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859696",
+                                        "name": "Non-Chilli (Dry - Black Sauce)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "논칠리 (건조 - 블랙 소스)",
+                                                    "zh": "非辣（干拌 - 黑酱）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859695",
+                                        "name": "Chilli (Dry)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조 고추",
+                                                    "zh": "干辣椒"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 스타일(1개 선택)",
+                                            "zh": "面条风格（任选一种）"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGDD03151MG157988",
+                                "name": "Add-ons(Choose between 0 and 5)",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240901070223017872",
+                                        "name": "Add Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "완탕 추가",
+                                                    "zh": "加云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859701",
+                                        "name": "Add Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 국수",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859703",
+                                        "name": "Add Vegetable",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "야채 추가",
+                                                    "zh": "加蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859700",
+                                        "name": "Add Charsiew",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 추가",
+                                                    "zh": "加叉烧"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859702",
+                                        "name": "Add Shrimp Dumplings",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "새우 만두 추가",
+                                                    "zh": "加虾饺"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859699",
+                                        "name": "Add Braised Chicken  Feet",
+                                        "available": true,
+                                        "priceInMinorUnit": 440,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 440,
+                                            "amountDisplay": "4.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "닭발 조림 추가",
+                                                    "zh": "加卤鸡爪"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 기능(0~5개 선택 가능)",
+                                            "zh": "附加项（可选0至5种）"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"modifier_tag\":{\"Popular\":[\"SGDD03151MOD0859695\",\"SGDD03151MOD0859700\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617789/photo/e3d7ac64e11142c3a12314a2fe680895_1565755727994861688.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617789/detail/e3d7ac64e11142c3a12314a2fe680895_1565755727994861688.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617790",
+                        "name": "Wanton Noodle 云吞面",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "description": "Savory and comforting, satisfy your cravings.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGDD03151MG157987",
+                                "name": "Noodle Style(Choose 1)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGDD03151MOD0859698",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859697",
+                                        "name": "Non-Chilli (Dry - Ketchup)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않은 (건조 - 케첩)",
+                                                    "zh": "非辣（干配番茄酱）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859696",
+                                        "name": "Non-Chilli (Dry - Black Sauce)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "논칠리 (건조 - 블랙 소스)",
+                                                    "zh": "非辣（干拌 - 黑酱）"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859695",
+                                        "name": "Chilli (Dry)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조 고추",
+                                                    "zh": "干辣椒"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 스타일(1개 선택)",
+                                            "zh": "面条风格（任选一种）"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGDD03151MG157988",
+                                "name": "Add-ons(Choose between 0 and 5)",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240901070223017872",
+                                        "name": "Add Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "완탕 추가",
+                                                    "zh": "加云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859701",
+                                        "name": "Add Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 국수",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859703",
+                                        "name": "Add Vegetable",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "야채 추가",
+                                                    "zh": "加蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859700",
+                                        "name": "Add Charsiew",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 추가",
+                                                    "zh": "加叉烧"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859702",
+                                        "name": "Add Shrimp Dumplings",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "새우 만두 추가",
+                                                    "zh": "加虾饺"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859699",
+                                        "name": "Add Braised Chicken  Feet",
+                                        "available": true,
+                                        "priceInMinorUnit": 440,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 440,
+                                            "amountDisplay": "4.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "닭발 조림 추가",
+                                                    "zh": "加卤鸡爪"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 기능(0~5개 선택 가능)",
+                                            "zh": "附加项（可选0至5种）"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGDD03151MOD0859696\"]}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617791",
+                        "name": "Shrimp Dumpling Noodle 水饺面",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617791/photo/upload-photo-icon_cd8473b746e04e45b43ce3d5007a4a73_1554274321922487785.avif",
+                        "description": "Juicy shrimp dumplings paired with springy noodles. Savory and wholesome.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGDD03151MG157992",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240901070116011092",
+                                        "name": "Add Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "완탕 추가",
+                                                    "zh": "加云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859716",
+                                        "name": "Add Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 국수",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859718",
+                                        "name": "Add Vegetable",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "야채 추가",
+                                                    "zh": "加蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859715",
+                                        "name": "Add Charsiew",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 추가",
+                                                    "zh": "加叉烧"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859717",
+                                        "name": "Add Shrimp Dumplings",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "새우 만두 추가",
+                                                    "zh": "加虾饺"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859714",
+                                        "name": "Add Braised Chicken Feet",
+                                        "available": true,
+                                        "priceInMinorUnit": 440,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 440,
+                                            "amountDisplay": "4.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "닭발 조림 추가",
+                                                    "zh": "加卤鸡爪"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGDD03151MG157991",
+                                "name": "Noodle Style",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGDD03151MOD0859713",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859712",
+                                        "name": "Non-Chilli (Dry - Ketchup)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않은 (건조 - 케첩)",
+                                                    "zh": "非辣（干配番茄酱）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859711",
+                                        "name": "Non-Chilli (Dry - Black Sauce)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "논칠리 (건조 - 블랙 소스)",
+                                                    "zh": "非辣（干拌 - 黑酱）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859710",
+                                        "name": "Chilli (Dry)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조 고추",
+                                                    "zh": "干辣椒"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "누들 스타일",
+                                            "zh": "面条风格"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-16T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGDD03151MOD0859710\",\"SGDD03151MOD0859716\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617791/photo/upload-photo-icon_cd8473b746e04e45b43ce3d5007a4a73_1554274321922487785.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617791/detail/upload-photo-icon_cd8473b746e04e45b43ce3d5007a4a73_1554274321922487785.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617787",
+                        "name": "Braised Chicken Feet Noodle 凤爪面",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617787/photo/405b8cfc4a5a4448b5f6f0047deb12a9_1565755520889178988.avif",
+                        "description": "Tender braised chicken feet, springy noodles, and fresh greens.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGDD03151MG157987",
+                                "name": "Noodle Style(Choose 1)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGDD03151MOD0859698",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859697",
+                                        "name": "Non-Chilli (Dry - Ketchup)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않은 (건조 - 케첩)",
+                                                    "zh": "非辣（干配番茄酱）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859696",
+                                        "name": "Non-Chilli (Dry - Black Sauce)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "논칠리 (건조 - 블랙 소스)",
+                                                    "zh": "非辣（干拌 - 黑酱）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859695",
+                                        "name": "Chilli (Dry)",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조 고추",
+                                                    "zh": "干辣椒"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 스타일(1개 선택)",
+                                            "zh": "面条风格（任选一种）"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGDD03151MG157988",
+                                "name": "Add-ons(Choose between 0 and 5)",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240901070223017872",
+                                        "name": "Add Wanton",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "완탕 추가",
+                                                    "zh": "加云吞"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859701",
+                                        "name": "Add Noodle",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 국수",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859703",
+                                        "name": "Add Vegetable",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "야채 추가",
+                                                    "zh": "加蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859700",
+                                        "name": "Add Charsiew",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 추가",
+                                                    "zh": "加叉烧"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859702",
+                                        "name": "Add Shrimp Dumplings",
+                                        "available": true,
+                                        "priceInMinorUnit": 340,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 340,
+                                            "amountDisplay": "3.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "새우 만두 추가",
+                                                    "zh": "加虾饺"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859699",
+                                        "name": "Add Braised Chicken  Feet",
+                                        "available": true,
+                                        "priceInMinorUnit": 440,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 440,
+                                            "amountDisplay": "4.40"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "닭발 조림 추가",
+                                                    "zh": "加卤鸡爪"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 기능(0~5개 선택 가능)",
+                                            "zh": "附加项（可选0至5种）"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGDD03151MOD0859695\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617787/photo/405b8cfc4a5a4448b5f6f0047deb12a9_1565755520889178988.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617787/detail/405b8cfc4a5a4448b5f6f0047deb12a9_1565755520889178988.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617788",
+                        "name": "Rice 饭",
+                        "available": true,
+                        "priceInMinorUnit": 340,
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617785",
+                        "name": "Dry Wanton",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "description": "Tender wantons with savory noodles, a Bedok delight!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGDD03151MG157990",
+                                "name": "Choice of Sauce (Choose 1)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGDD03151MOD0859709",
+                                        "name": "Ketchup",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "케첩",
+                                                    "zh": "番茄酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859708",
+                                        "name": "Chilli",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "칠리",
+                                                    "zh": "辣椒"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859707",
+                                        "name": "Black Sauce",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "검은 소스",
+                                                    "zh": "黑酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택 (1개 선택하세요)",
+                                            "zh": "选择酱料（任选一种）"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617786",
+                        "name": "Wanton Soup",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617786/photo/6d055d5992de4204b9cccbf0be430be3_1565768212465584196.avif",
+                        "description": "Delicious wontons in savory broth. Must try!",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617786/photo/6d055d5992de4204b9cccbf0be430be3_1565768212465584196.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617786/detail/6d055d5992de4204b9cccbf0be430be3_1565768212465584196.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617782",
+                        "name": "Shrimp Dumpling Soup",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617782/photo/63a14c541f1747d988c91a48da1012db_1565768169562355542.avif",
+                        "description": "Savor succulent shrimp dumplings in warm, flavorful broth.",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617782/photo/63a14c541f1747d988c91a48da1012db_1565768169562355542.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617782/detail/63a14c541f1747d988c91a48da1012db_1565768169562355542.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617784",
+                        "name": "Dry Shrimp Dumpling",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617784/photo/b3060a420db04f1ab7647b606c38face_1565755604346234425.avif",
+                        "description": "Succulent dry shrimp dumplings with a savory punch.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGDD03151MG157989",
+                                "name": "Choice of Sauce",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGDD03151MOD0859706",
+                                        "name": "Ketchup",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "케첩",
+                                                    "zh": "番茄酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859705",
+                                        "name": "Chilli",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859704",
+                                        "name": "Black Sauce",
+                                        "available": true,
+                                        "sortOrder": 100,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "검은 소스",
+                                                    "zh": "黑酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택",
+                                            "zh": "酱料选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617784/photo/b3060a420db04f1ab7647b606c38face_1565755604346234425.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617784/detail/b3060a420db04f1ab7647b606c38face_1565755604346234425.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGDD03151CAT081899",
+                "name": "Side Dishes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2024090107084986361",
+                        "name": "Luncheon Meat Fries",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-04-20T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2024090107081948916",
+                        "name": "Fried Prawn Cake",
+                        "available": true,
+                        "priceInMinorUnit": 1220,
+                        "discountedPriceInMin": 1220,
+                        "priceV2": {
+                            "amountInMinor": 1220,
+                            "amountDisplay": "12.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1220,
+                            "amountDisplay": "12.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617777",
+                        "name": "Fried Carrot Cake 菜头果",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617777/photo/714e0729c4ec42b490a83b46373224b8_1565755638415050362.avif",
+                        "description": "Crispy, savory Fried Carrot Cake packed with flavors.",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617777/photo/714e0729c4ec42b490a83b46373224b8_1565755638415050362.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617777/detail/714e0729c4ec42b490a83b46373224b8_1565755638415050362.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617779",
+                        "name": "Fried Wan Ton 炸云吞",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617779/photo/15b2eee75f4b4adeb209b91f89e53306_1565755673031995771.avif",
+                        "description": "Crispy fried wontons with a savory filling.",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617779/photo/15b2eee75f4b4adeb209b91f89e53306_1565755673031995771.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617779/detail/15b2eee75f4b4adeb209b91f89e53306_1565755673031995771.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617778",
+                        "name": "Fried Shrimp Dumpling 炸水饺",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617778/photo/dd2625c22aa04d8ea29aee4aab6e24af_1565755656677112279.avif",
+                        "description": "Golden, crispy shrimp dumplings, with a juicy seafood filling.",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617778/photo/dd2625c22aa04d8ea29aee4aab6e24af_1565755656677112279.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617778/detail/dd2625c22aa04d8ea29aee4aab6e24af_1565755656677112279.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617774",
+                        "name": "Braised Chicken Feet 凤爪",
+                        "available": true,
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617774/photo/5ac92da8a84647faa6761db1e65e7e95_1565755541940594917.avif",
+                        "description": "Tender braised chicken feet with aromatic spices.",
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617774/photo/5ac92da8a84647faa6761db1e65e7e95_1565755541940594917.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617774/detail/5ac92da8a84647faa6761db1e65e7e95_1565755541940594917.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617781",
+                        "name": "Chicken Wing 鸡翅螃 - 3pcs",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617781/photo/5a03e34b572041e596f723a99357bc6f_1565755575044102045.avif",
+                        "description": "Crispy and juicy chicken wings with zesty dipping sauce.",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617781/photo/5a03e34b572041e596f723a99357bc6f_1565755575044102045.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617781/detail/5a03e34b572041e596f723a99357bc6f_1565755575044102045.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617775",
+                        "name": "Braised Pork 卤肉",
+                        "available": true,
+                        "priceInMinorUnit": 1220,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617775/photo/b0635ddcf150401fa74ca987867ddc6e_1565755558508159075.avif",
+                        "discountedPriceInMin": 1220,
+                        "priceV2": {
+                            "amountInMinor": 1220,
+                            "amountDisplay": "12.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1220,
+                            "amountDisplay": "12.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617775/photo/b0635ddcf150401fa74ca987867ddc6e_1565755558508159075.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617775/detail/b0635ddcf150401fa74ca987867ddc6e_1565755558508159075.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617776",
+                        "name": "Cai Xin w/ Soya & Oyster Sauce 油菜",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617776/photo/bf3f4e600c30405d9574d660855fbdd6_1565755750585699531.avif",
+                        "description": "Fresh Cai Xin with savory oyster sauce, topped with crispy shallots.",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617776/photo/bf3f4e600c30405d9574d660855fbdd6_1565755750585699531.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617776/detail/bf3f4e600c30405d9574d660855fbdd6_1565755750585699531.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617780",
+                        "name": "Ngo Hiang (五香) - 3pcs (3片)",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617780/photo/4eb0175d08a6424abb64314a5ac7931c_1565755689939581901.avif",
+                        "description": "3 Pieces.",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-07-07T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617780/photo/4eb0175d08a6424abb64314a5ac7931c_1565755689939581901.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617780/detail/4eb0175d08a6424abb64314a5ac7931c_1565755689939581901.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617771",
+                        "name": "Pork Chop",
+                        "available": true,
+                        "priceInMinorUnit": 1220,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617771/photo/4cd99d410db34ec8a8fc3477d9ccac91_1565755713038271909.avif",
+                        "discountedPriceInMin": 1220,
+                        "priceV2": {
+                            "amountInMinor": 1220,
+                            "amountDisplay": "12.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1220,
+                            "amountDisplay": "12.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-08-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617771/photo/4cd99d410db34ec8a8fc3477d9ccac91_1565755713038271909.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617771/detail/4cd99d410db34ec8a8fc3477d9ccac91_1565755713038271909.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2020050201490777031",
+                        "name": "Fried Tofu (2 pieces)",
+                        "priceInMinorUnit": 490,
+                        "description": "Crispy fried tofu, golden and savory! A perfect Indo-Chinese delight.",
+                        "discountedPriceInMin": 490,
+                        "priceV2": {
+                            "amountInMinor": 490,
+                            "amountDisplay": "4.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 490,
+                            "amountDisplay": "4.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-03-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGDD03151CAT081901",
+                "name": "Beverage",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2023073111253759626",
+                        "name": "Ice Jelly 爱玉冰",
+                        "available": true,
+                        "priceInMinorUnit": 590,
+                        "description": "Refreshing aiyu jelly with a hint of citrusy delight.",
+                        "discountedPriceInMin": 590,
+                        "priceV2": {
+                            "amountInMinor": 590,
+                            "amountDisplay": "5.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 590,
+                            "amountDisplay": "5.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617802",
+                        "name": "Calamasi 桔子酸甘汁",
+                        "available": true,
+                        "priceInMinorUnit": 430,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617802/photo/upload-photo-icon_0d147630f16749da894cbe5e80d75b9b_1554274593089880583.avif",
+                        "description": "Refreshing calamansi juice, perfect for a sunny day!",
+                        "discountedPriceInMin": 430,
+                        "priceV2": {
+                            "amountInMinor": 430,
+                            "amountDisplay": "4.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 430,
+                            "amountDisplay": "4.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617802/photo/upload-photo-icon_0d147630f16749da894cbe5e80d75b9b_1554274593089880583.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617802/detail/upload-photo-icon_0d147630f16749da894cbe5e80d75b9b_1554274593089880583.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617793",
+                        "name": "Water Chestnut 马蹄水",
+                        "available": true,
+                        "priceInMinorUnit": 430,
+                        "description": "Refreshing and crispy water chestnut drink.",
+                        "discountedPriceInMin": 430,
+                        "priceV2": {
+                            "amountInMinor": 430,
+                            "amountDisplay": "4.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 430,
+                            "amountDisplay": "4.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617797",
+                        "name": "Ice Lemon Tea 柠檬茶",
+                        "available": true,
+                        "priceInMinorUnit": 430,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/dish-photo-library/stock/photo/DIP-C6WVRULJC6MKAN1173.avif",
+                        "description": "Cool, refreshing ice lemon tea. Perfect for hot days!",
+                        "discountedPriceInMin": 430,
+                        "priceV2": {
+                            "amountInMinor": 430,
+                            "amountDisplay": "4.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 430,
+                            "amountDisplay": "4.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\",\"photo_source\":{\"STOCK\":[\"DIP-C6WVRULJC6MKAN1173\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/dish-photo-library/stock/photo/DIP-C6WVRULJC6MKAN1173.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/dish-photo-library/stock/detail/DIP-C6WVRULJC6MKAN1173.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617805",
+                        "name": "Can Drinks",
+                        "available": true,
+                        "priceInMinorUnit": 340,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGDD03151MG158000",
+                                "name": "Choose a Drink",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGDD03151MOD0859736",
+                                        "name": "Oolong Tea",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우롱차",
+                                                    "zh": "乌龙茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859735",
+                                        "name": "Jiajia",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "Jiajia",
+                                                    "zh": "佳佳"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859732",
+                                        "name": "Coke Zero",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "코크 제로",
+                                                    "zh": "零度可乐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859733",
+                                        "name": "Green Tea",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "녹차",
+                                                    "zh": "绿茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859728",
+                                        "name": "100 Plus",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "100 플러스",
+                                                    "zh": "100 加"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859731",
+                                        "name": "Coke",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콜라",
+                                                    "zh": "可乐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGDD03151MOD0859737",
+                                        "name": "Root Beer",
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "루트 비어",
+                                                    "zh": "根啤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "음료를 선택하세요",
+                                            "zh": "选择饮料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617794",
+                        "name": "Ribena 利宾纳",
+                        "available": true,
+                        "priceInMinorUnit": 490,
+                        "description": "Refreshing Ribena beverage with a burst of blackcurrant flavor.",
+                        "discountedPriceInMin": 490,
+                        "priceV2": {
+                            "amountInMinor": 490,
+                            "amountDisplay": "4.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 490,
+                            "amountDisplay": "4.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617798",
+                        "name": "Ice Kopi with Milk 咖啡加奶（冷）",
+                        "available": true,
+                        "priceInMinorUnit": 430,
+                        "description": "Iced coffee with creamy milk.",
+                        "discountedPriceInMin": 430,
+                        "priceV2": {
+                            "amountInMinor": 430,
+                            "amountDisplay": "4.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 430,
+                            "amountDisplay": "4.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617844",
+                        "name": "Ice Teh with Milk 茶加奶（冷）",
+                        "available": true,
+                        "priceInMinorUnit": 430,
+                        "description": "Smooth milk tea, refreshing and creamy.",
+                        "discountedPriceInMin": 430,
+                        "priceV2": {
+                            "amountInMinor": 430,
+                            "amountDisplay": "4.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 430,
+                            "amountDisplay": "4.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617807",
+                        "name": "Ice Teh O 茶（冷）",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617807/photo/upload-photo-icon_c21f7b7575a7410faf94f31726b2a534_1554275085684572931.avif",
+                        "description": "Refreshing iced tea with rich flavors.",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617807/photo/upload-photo-icon_c21f7b7575a7410faf94f31726b2a534_1554275085684572931.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617807/detail/upload-photo-icon_c21f7b7575a7410faf94f31726b2a534_1554275085684572931.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617796",
+                        "name": "Ice Milo 美禄（冷）",
+                        "available": true,
+                        "priceInMinorUnit": 490,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617796/photo/upload-photo-icon_69250416b03440988ed342ec1045ac75_1554275098966367139.avif",
+                        "description": "Chilled Milo, perfect dessert beverage!",
+                        "discountedPriceInMin": 490,
+                        "priceV2": {
+                            "amountInMinor": 490,
+                            "amountDisplay": "4.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 490,
+                            "amountDisplay": "4.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617796/photo/upload-photo-icon_69250416b03440988ed342ec1045ac75_1554275098966367139.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617796/detail/upload-photo-icon_69250416b03440988ed342ec1045ac75_1554275098966367139.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617795",
+                        "name": "Milo Dinosaur 美禄加粉",
+                        "available": true,
+                        "priceInMinorUnit": 530,
+                        "description": "Rich, creamy Milo topped with extra Milo powder. A Malaysian classic.",
+                        "discountedPriceInMin": 530,
+                        "priceV2": {
+                            "amountInMinor": 530,
+                            "amountDisplay": "5.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 530,
+                            "amountDisplay": "5.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617799",
+                        "name": "Ice Kopi O 黑咖啡（冷）",
+                        "priceInMinorUnit": 410,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617799/photo/upload-photo-icon_07b4aae199574c5ca0c3b73de6cf5369_1554275072837793195.avif",
+                        "description": "Bold and refreshing cold brew delight.",
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617799/photo/upload-photo-icon_07b4aae199574c5ca0c3b73de6cf5369_1554275072837793195.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGDD03151ITM0617799/detail/upload-photo-icon_07b4aae199574c5ca0c3b73de6cf5369_1554275072837793195.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617806",
+                        "name": "Mineral Water",
+                        "priceInMinorUnit": 340,
+                        "description": "Pure, refreshing mineral water to quench your thirst!",
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGDD03151ITM0617792",
+                        "name": "Ice Teh O  茶（冷）",
+                        "priceInMinorUnit": 370,
+                        "description": "Refreshing iced tea with a hint of sweetness.",
+                        "discountedPriceInMin": 370,
+                        "priceV2": {
+                            "amountInMinor": 370,
+                            "amountDisplay": "3.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 370,
+                            "amountDisplay": "3.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2024-11-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.8,
+    "voteCount": 994,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Wanton Noodle House - Bedok Road on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-SGDD03151"
+    },
+    "chainName": "Wanton Noodle House",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/SGDD03151/list/4b99b45f6f3741009147ee6c9a9becd0_1779945144752017894.avif",
+    "branchName": "Bedok Road",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 9:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T01:00:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

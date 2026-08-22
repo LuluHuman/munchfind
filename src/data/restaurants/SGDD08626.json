@@ -1,0 +1,926 @@
+{
+    "ID": "SGDD08626",
+    "name": "Steak 99 Plus - Tampines Mall",
+    "cuisine": "Japanese,Ramen,Noodle",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/SGDD08626/hero/73c528ca341a41828bafdcfb278ac42f_1775788397918845114.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:30am-9:30pm",
+        "mon": "11:30am-9:30pm",
+        "tue": "11:30am-9:30pm",
+        "wed": "11:30am-9:30pm",
+        "thu": "11:30am-9:30pm",
+        "fri": "11:30am-9:30pm",
+        "sat": "11:30am-9:30pm"
+    },
+    "address": {
+        "name": "Steak 99 Plus - Tampines Mall",
+        "combined_address": "4 Tampines Central 5, 04-19/20, Tampines, 529510",
+        "combined_city": "Singapore",
+        "house": "04-19/20",
+        "street": "4 Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529510",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3523941,
+        "lng": 103.9447255
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20260410054957042775",
+                "name": "Pasta",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260410054957194593",
+                        "name": "Baked Cheese Carbonara",
+                        "available": true,
+                        "priceInMinorUnit": 1500,
+                        "discountedPriceInMin": 1500,
+                        "priceV2": {
+                            "amountInMinor": 1500,
+                            "amountDisplay": "15.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1500,
+                            "amountDisplay": "15.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260410054957055302",
+                        "name": "Spicy Aglio-olio",
+                        "available": true,
+                        "priceInMinorUnit": 1200,
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957049178",
+                        "name": "Basil Prawn Pasta",
+                        "available": true,
+                        "priceInMinorUnit": 1600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957049178/photo/2141e552983d4767842b8594cd7dc544_1775800484349676222.webp",
+                        "discountedPriceInMin": 1600,
+                        "priceV2": {
+                            "amountInMinor": 1600,
+                            "amountDisplay": "16.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1600,
+                            "amountDisplay": "16.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957049178/photo/2141e552983d4767842b8594cd7dc544_1775800484349676222.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957049178/detail/2141e552983d4767842b8594cd7dc544_1775800484349676222.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957010674",
+                        "name": "Chicken Truffle Carbonara",
+                        "available": true,
+                        "priceInMinorUnit": 1600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957010674/photo/ac92c09541614984b4ae1c1204cc606e_1775800497927396527.webp",
+                        "discountedPriceInMin": 1600,
+                        "priceV2": {
+                            "amountInMinor": 1600,
+                            "amountDisplay": "16.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1600,
+                            "amountDisplay": "16.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957010674/photo/ac92c09541614984b4ae1c1204cc606e_1775800497927396527.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957010674/detail/ac92c09541614984b4ae1c1204cc606e_1775800497927396527.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957026558",
+                        "name": "Chic sausage carbonara",
+                        "available": true,
+                        "priceInMinorUnit": 1200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957026558/photo/72254684646c465fa6d295aa10621b9e_1775800508055742304.webp",
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957026558/photo/72254684646c465fa6d295aa10621b9e_1775800508055742304.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957026558/detail/72254684646c465fa6d295aa10621b9e_1775800508055742304.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260410054957023838",
+                "name": "Beef Curry Rice",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260410054957126238",
+                        "name": "Beef Curry Rice",
+                        "available": true,
+                        "priceInMinorUnit": 1200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957126238/photo/a8a4a1c439f540cc850024913fba05ae_1775800326440894330.webp",
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957126238/photo/a8a4a1c439f540cc850024913fba05ae_1775800326440894330.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957126238/detail/a8a4a1c439f540cc850024913fba05ae_1775800326440894330.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957105684",
+                        "name": "Chic Sausage beef curry rice",
+                        "available": true,
+                        "priceInMinorUnit": 1700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957105684/photo/d19598fcfa8847d2873a27b00386ce0c_1775800337621967921.webp",
+                        "discountedPriceInMin": 1700,
+                        "priceV2": {
+                            "amountInMinor": 1700,
+                            "amountDisplay": "17.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1700,
+                            "amountDisplay": "17.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957105684/photo/d19598fcfa8847d2873a27b00386ce0c_1775800337621967921.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957105684/detail/d19598fcfa8847d2873a27b00386ce0c_1775800337621967921.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260410054957066345",
+                "name": "Side Dish",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260410054957173612",
+                        "name": "French Fries",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957153374",
+                        "name": "Chicken Wings",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957153374/photo/a480dd4e9cfd4e40b5dc7066aac032a8_1775800783716509084.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957153374/photo/a480dd4e9cfd4e40b5dc7066aac032a8_1775800783716509084.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957153374/detail/a480dd4e9cfd4e40b5dc7066aac032a8_1775800783716509084.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957188539",
+                        "name": "Macaroni Gratin",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260410054957265634",
+                        "name": "Chicken Sausage",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957265634/photo/1d78c89a13354090a24000559d270911_1775800794070452854.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957265634/photo/1d78c89a13354090a24000559d270911_1775800794070452854.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957265634/detail/1d78c89a13354090a24000559d270911_1775800794070452854.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957214052",
+                        "name": "Truffle Fries",
+                        "available": true,
+                        "priceInMinorUnit": 1000,
+                        "discountedPriceInMin": 1000,
+                        "priceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957137173",
+                        "name": "Baked Potato",
+                        "available": true,
+                        "priceInMinorUnit": 500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957137173/photo/d998b82d19ad43f5ba1ba8ce86d3cb12_1775800803819176555.webp",
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957137173/photo/d998b82d19ad43f5ba1ba8ce86d3cb12_1775800803819176555.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957137173/detail/d998b82d19ad43f5ba1ba8ce86d3cb12_1775800803819176555.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957226657",
+                        "name": "Corn Mayonnaise",
+                        "available": true,
+                        "priceInMinorUnit": 500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957226657/photo/de9d621d9f3e4374b73c337ef91ba6d5_1775800812666536485.webp",
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957226657/photo/de9d621d9f3e4374b73c337ef91ba6d5_1775800812666536485.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957226657/detail/de9d621d9f3e4374b73c337ef91ba6d5_1775800812666536485.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957163232",
+                        "name": "Mac & Cheese",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957163232/photo/15f25e8aec524e82b169fccb7530afde_1775800821308785698.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957163232/photo/15f25e8aec524e82b169fccb7530afde_1775800821308785698.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957163232/detail/15f25e8aec524e82b169fccb7530afde_1775800821308785698.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957141378",
+                        "name": "Potato Gratin",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957110510",
+                        "name": "Corn Butter",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957092741",
+                        "name": "Onion Rings",
+                        "available": true,
+                        "priceInMinorUnit": 1000,
+                        "discountedPriceInMin": 1000,
+                        "priceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260410054957052040",
+                "name": "Drink / Dessert",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260410054957338031",
+                        "name": "Homemade Japanese Pudding",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957338031/photo/9d8e658d699742eb85331073cfa85e51_1775800703085710283.webp",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957338031/photo/9d8e658d699742eb85331073cfa85e51_1775800703085710283.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957338031/detail/9d8e658d699742eb85331073cfa85e51_1775800703085710283.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957321754",
+                        "name": "Mineral water",
+                        "available": true,
+                        "priceInMinorUnit": 300,
+                        "discountedPriceInMin": 300,
+                        "priceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957239358",
+                        "name": "Berry Fizz",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957239358/photo/3d68c7e39f0b4a82a2e5983aa636b34e_1775800712034440328.webp",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957239358/photo/3d68c7e39f0b4a82a2e5983aa636b34e_1775800712034440328.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957239358/detail/3d68c7e39f0b4a82a2e5983aa636b34e_1775800712034440328.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957298070",
+                        "name": "Houji Tea (Hot/Cold)",
+                        "available": true,
+                        "priceInMinorUnit": 400,
+                        "discountedPriceInMin": 400,
+                        "priceV2": {
+                            "amountInMinor": 400,
+                            "amountDisplay": "4.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 400,
+                            "amountDisplay": "4.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957281178",
+                        "name": "Lychee Lemon Mint Tea",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957281178/photo/43245578d2a54eddbf0f3606c6d1aec5_1775800732425532239.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957281178/photo/43245578d2a54eddbf0f3606c6d1aec5_1775800732425532239.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957281178/detail/43245578d2a54eddbf0f3606c6d1aec5_1775800732425532239.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957273554",
+                        "name": "Lime fizz",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957273554/photo/3198c0c4dca24ff68e73da00d1919587_1775800745896374100.webp",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957273554/photo/3198c0c4dca24ff68e73da00d1919587_1775800745896374100.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957273554/detail/3198c0c4dca24ff68e73da00d1919587_1775800745896374100.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957242662",
+                        "name": "Lychee Mint fizz",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957242662/photo/8b5b9c796c6c4c319b4e236336153779_1775800755067319989.webp",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957242662/photo/8b5b9c796c6c4c319b4e236336153779_1775800755067319989.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957242662/detail/8b5b9c796c6c4c319b4e236336153779_1775800755067319989.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957259634",
+                        "name": "Lychee Lemon Tea",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957259634/photo/1a4f447009404b5eb0129c043f7af500_1775800765008736214.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957259634/photo/1a4f447009404b5eb0129c043f7af500_1775800765008736214.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957259634/detail/1a4f447009404b5eb0129c043f7af500_1775800765008736214.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957203161",
+                        "name": "Ice Lemon Tea",
+                        "available": true,
+                        "priceInMinorUnit": 500,
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957304282",
+                        "name": "7 up",
+                        "priceInMinorUnit": 500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957304282/photo/b3d0612be6ec474d94d2398d76e3b2c0_1775800721025978239.webp",
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-10T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957304282/photo/b3d0612be6ec474d94d2398d76e3b2c0_1775800721025978239.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957304282/detail/b3d0612be6ec474d94d2398d76e3b2c0_1775800721025978239.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260410054957311955",
+                        "name": "Pepsi",
+                        "priceInMinorUnit": 500,
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-10T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260410054957010327",
+                "name": "Doria",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260410054957079091",
+                        "name": "Scallop Doria",
+                        "priceInMinorUnit": 1200,
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-04-25T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260410054957066323",
+                        "name": "Prawn Doria",
+                        "priceInMinorUnit": 1300,
+                        "discountedPriceInMin": 1300,
+                        "priceV2": {
+                            "amountInMinor": 1300,
+                            "amountDisplay": "13.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1300,
+                            "amountDisplay": "13.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-04-25T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260410054957033555",
+                        "name": "Chicken Sausage Doria",
+                        "priceInMinorUnit": 1200,
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-04-25T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260410054957033034",
+                "name": "Yoshoku",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260410054957082151",
+                        "name": "Fish and chips",
+                        "priceInMinorUnit": 1200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957082151/photo/e23b505092014f868635a869347401f8_1775800412845684304.webp",
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-04-27T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957082151/photo/e23b505092014f868635a869347401f8_1775800412845684304.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260410054957082151/detail/e23b505092014f868635a869347401f8_1775800412845684304.webp"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.4,
+    "voteCount": 786,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/SGDD08626/photos/73c528ca341a41828bafdcfb278ac42f_1775788397918845114.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Steak 99 Plus - Tampines Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-SGDD08626"
+    },
+    "chainName": "Steak 99",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/SGDD08626/list/6890dacc1bd54f99a0154527430baccf_1775788392986960747.webp",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 11:30 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T03:30:00Z"
+    },
+    "translationTags": [
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

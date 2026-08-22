@@ -1,0 +1,3090 @@
+{
+    "ID": "SGDD07253",
+    "name": "The MeatHouse - Century Square",
+    "cuisine": "Western,Steak,Burger,BBQ",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/SGDD07253/hero/1fe7ddf3714c4883bb17177d9e0c0eab_1735290349848029524.avif",
+    "description": "Presenting an inventive menu of premium meats inspired by international cuisines, The Meathöuse is a halal steakhouse featuring a highly curated and original menu specially curated by renowned Eighteen Chefs cook, chef Benny Se Teo.\n\nHousing a comprehensive range of Western delights, indulge in a bowl of steaming hot Cream of Mushroom soup. Peppered with trio mushrooms and drizzled with truffle oil, the harmonious combination of truffle and mushrooms will definitely have you hooked. Topped with minced beef and a generous amount of sweet and spicy chilli, the All Chilli Beef Fries is a great sharing option to add to family dinners and celebratory gatherings. Alternatively, truffle fans can opt for the classic French Fries with Truffle.\n\nEver heard of chocolate sauce as an optional topping for your burger? Here at The Meathöuse, you can choose to drench your Yin Yang Burger in a decadent glaze of delicious chocolate sauce.",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:30am-8:45pm",
+        "mon": "11:30am-8:45pm",
+        "tue": "11:30am-8:45pm",
+        "wed": "11:30am-8:45pm",
+        "thu": "11:30am-8:45pm",
+        "fri": "11:30am-9:30pm",
+        "sat": "11:30am-9:30pm"
+    },
+    "address": {
+        "name": "The MeatHouse - Century Square",
+        "combined_address": "2 Tampines Central 5, 05-04, Tampines, 529509",
+        "combined_city": "Singapore",
+        "house": "05-04",
+        "street": "2 Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529509",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3525887,
+        "lng": 103.944106
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT2024111602232410018",
+                "name": "Brunch Sets",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2024111602265803316",
+                        "name": "Set A Smoked Salmon",
+                        "available": true,
+                        "priceInMinorUnit": 1810,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602265803316/photo/menueditor_item_8f8a60cc0834497ca1fe27ce08c57866_1731723993262478773.avif",
+                        "description": "Served with Josper Grilled Brioche, Eggs Benedict, Grilled Tomato, Hash Brown & Arugula",
+                        "discountedPriceInMin": 1810,
+                        "priceV2": {
+                            "amountInMinor": 1810,
+                            "amountDisplay": "18.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1810,
+                            "amountDisplay": "18.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-08-07T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602265803316/photo/menueditor_item_8f8a60cc0834497ca1fe27ce08c57866_1731723993262478773.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602265803316/detail/menueditor_item_8f8a60cc0834497ca1fe27ce08c57866_1731723993262478773.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024111602274835668",
+                        "name": "Set B Chicken Bratwurst",
+                        "available": true,
+                        "priceInMinorUnit": 1680,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602274835668/photo/menueditor_item_9f6d0d5951964327b4050b7a7bb6b339_1731724048268187742.avif",
+                        "description": "Served with Josper Grilled Brioche, Scrambled Eggs, Grilled Tomato, Hash Brown & Arugula",
+                        "discountedPriceInMin": 1680,
+                        "priceV2": {
+                            "amountInMinor": 1680,
+                            "amountDisplay": "16.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1680,
+                            "amountDisplay": "16.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602274835668/photo/menueditor_item_9f6d0d5951964327b4050b7a7bb6b339_1731724048268187742.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602274835668/detail/menueditor_item_9f6d0d5951964327b4050b7a7bb6b339_1731724048268187742.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024111602290895884",
+                        "name": "Set C Sautéed Mushrooms",
+                        "available": true,
+                        "priceInMinorUnit": 1680,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602290895884/photo/menueditor_item_3191754296bc4953b3ffd0e2efc97e47_1731724092796804870.avif",
+                        "description": "Served with Josper Grilled Brioche, Eggs Benedict, Grilled Tomato, Hash Brown & Arugula",
+                        "discountedPriceInMin": 1680,
+                        "priceV2": {
+                            "amountInMinor": 1680,
+                            "amountDisplay": "16.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1680,
+                            "amountDisplay": "16.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602290895884/photo/menueditor_item_3191754296bc4953b3ffd0e2efc97e47_1731724092796804870.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602290895884/detail/menueditor_item_3191754296bc4953b3ffd0e2efc97e47_1731724092796804870.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024111602295151954",
+                        "name": "Set D Turkey Bacon",
+                        "available": true,
+                        "priceInMinorUnit": 1420,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602295151954/photo/menueditor_item_f0263fbeaaec4aa184356bfec1abb8dd_1731724169716596955.avif",
+                        "description": "Served with Josper Grilled Brioche, Scrambled Eggs, Grilled Tomato, Hash Brown & Arugula",
+                        "discountedPriceInMin": 1420,
+                        "priceV2": {
+                            "amountInMinor": 1420,
+                            "amountDisplay": "14.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1420,
+                            "amountDisplay": "14.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602295151954/photo/menueditor_item_f0263fbeaaec4aa184356bfec1abb8dd_1731724169716596955.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602295151954/detail/menueditor_item_f0263fbeaaec4aa184356bfec1abb8dd_1731724169716596955.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024111602310756844",
+                        "name": "Set E Striploin",
+                        "available": true,
+                        "priceInMinorUnit": 2070,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602310756844/photo/menueditor_item_f3ff08de0d3f4e4faf48e89ea920a006_1731724226761541906.avif",
+                        "description": "Served with Josper Grilled Brioche, Double Sunny Side-ups, Grilled Tomato, Hash Brown & Arugula",
+                        "discountedPriceInMin": 2070,
+                        "priceV2": {
+                            "amountInMinor": 2070,
+                            "amountDisplay": "20.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2070,
+                            "amountDisplay": "20.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-04-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602310756844/photo/menueditor_item_f3ff08de0d3f4e4faf48e89ea920a006_1731724226761541906.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111602310756844/detail/menueditor_item_f3ff08de0d3f4e4faf48e89ea920a006_1731724226761541906.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220720042822017608",
+                "name": "Salad",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2023092702580150388",
+                        "name": "Caesar Salad",
+                        "available": true,
+                        "priceInMinorUnit": 1560,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2023092702580150388/photo/menueditor_item_7c84e67c96ea43f58ed8ea258de05e4b_1730463009102534721.avif",
+                        "discountedPriceInMin": 1560,
+                        "priceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2023092702580150388/photo/menueditor_item_7c84e67c96ea43f58ed8ea258de05e4b_1730463009102534721.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2023092702580150388/detail/menueditor_item_7c84e67c96ea43f58ed8ea258de05e4b_1730463009102534721.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042823022039",
+                        "name": "Funky M Salad",
+                        "available": true,
+                        "priceInMinorUnit": 1560,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042823022039/photo/5e961710_unkyMSalad.avif",
+                        "description": "Mesclun salad, apple cider, sesame vinagrette, pomelo pulps or pomegranate, roasted pine nuts",
+                        "discountedPriceInMin": 1560,
+                        "priceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "metadata": "{\"external_data\":\"131655-175567\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042823022039/photo/5e961710_unkyMSalad.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042823022039/detail/5e961710_unkyMSalad.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220720042824011100",
+                "name": "Starters",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2024110105370790087",
+                        "name": "Cream of Mushroom Soup",
+                        "available": true,
+                        "priceInMinorUnit": 770,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110105370790087/photo/menueditor_item_4076047fbdf94c438ebd74ad7f3c1015_1730462514806979935.avif",
+                        "description": "Trio mushrooms, Truffle oil",
+                        "discountedPriceInMin": 770,
+                        "priceV2": {
+                            "amountInMinor": 770,
+                            "amountDisplay": "7.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 770,
+                            "amountDisplay": "7.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110105370790087/photo/menueditor_item_4076047fbdf94c438ebd74ad7f3c1015_1730462514806979935.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110105370790087/detail/menueditor_item_4076047fbdf94c438ebd74ad7f3c1015_1730462514806979935.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042824049663",
+                        "name": "Truffle Fries",
+                        "available": true,
+                        "priceInMinorUnit": 1170,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042824049663/photo/6821b868_withTruffle.avif",
+                        "description": "Crispy Truffle Fries with parmesan cheese!",
+                        "discountedPriceInMin": 1170,
+                        "priceV2": {
+                            "amountInMinor": 1170,
+                            "amountDisplay": "11.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1170,
+                            "amountDisplay": "11.70"
+                        },
+                        "metadata": "{\"external_data\":\"131685-175613\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-05-13T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042824049663/photo/6821b868_withTruffle.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042824049663/detail/6821b868_withTruffle.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024110105382692399",
+                        "name": "Fried Calamari with Tartar Sauce",
+                        "available": true,
+                        "priceInMinorUnit": 1300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110105382692399/photo/menueditor_item_6179c68282f64d96bcafefdbafe3981a_1730462635217083038.avif",
+                        "discountedPriceInMin": 1300,
+                        "priceV2": {
+                            "amountInMinor": 1300,
+                            "amountDisplay": "13.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1300,
+                            "amountDisplay": "13.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110105382692399/photo/menueditor_item_6179c68282f64d96bcafefdbafe3981a_1730462635217083038.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110105382692399/detail/menueditor_item_6179c68282f64d96bcafefdbafe3981a_1730462635217083038.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024110105391350569",
+                        "name": "Josper Grilled Honey Chicken Drumlets",
+                        "available": true,
+                        "priceInMinorUnit": 1300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110105391350569/photo/menueditor_item_e79075877dbb4108805e5fe210282d28_1730462913994474696.avif",
+                        "discountedPriceInMin": 1300,
+                        "priceV2": {
+                            "amountInMinor": 1300,
+                            "amountDisplay": "13.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1300,
+                            "amountDisplay": "13.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110105391350569/photo/menueditor_item_e79075877dbb4108805e5fe210282d28_1730462913994474696.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110105391350569/detail/menueditor_item_e79075877dbb4108805e5fe210282d28_1730462913994474696.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042824076995",
+                        "name": "Fried Onion Rings",
+                        "available": true,
+                        "priceInMinorUnit": 1040,
+                        "description": "Crispy, golden-fried onion deliciousness!",
+                        "discountedPriceInMin": 1040,
+                        "priceV2": {
+                            "amountInMinor": 1040,
+                            "amountDisplay": "10.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1040,
+                            "amountDisplay": "10.40"
+                        },
+                        "metadata": "{\"external_data\":\"131710-175642\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-11-26T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042824029254",
+                        "name": "French Fries",
+                        "available": true,
+                        "priceInMinorUnit": 900,
+                        "description": "Crispy golden fries, perfect snack or side!",
+                        "discountedPriceInMin": 900,
+                        "priceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "metadata": "{\"external_data\":\"131682-175609\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-05-13T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024110105402089812",
+                        "name": "Fried White Bait with Tartar Sauce",
+                        "available": true,
+                        "priceInMinorUnit": 1170,
+                        "discountedPriceInMin": 1170,
+                        "priceV2": {
+                            "amountInMinor": 1170,
+                            "amountDisplay": "11.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1170,
+                            "amountDisplay": "11.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20220720042824030901",
+                        "name": "Roasted Chat Potatoes",
+                        "available": true,
+                        "priceInMinorUnit": 770,
+                        "description": "Crispy, golden roasted potatoes.",
+                        "discountedPriceInMin": 770,
+                        "priceV2": {
+                            "amountInMinor": 770,
+                            "amountDisplay": "7.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 770,
+                            "amountDisplay": "7.70"
+                        },
+                        "metadata": "{\"external_data\":\"131683-175610\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220720042830018384",
+                "name": "Beef",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20220720042830011254",
+                        "name": "Prime Striploin Steak",
+                        "available": true,
+                        "priceInMinorUnit": 2610,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042830011254/photo/menueditor_item_8db391b4fe164231945cb6391a2c8e48_1730463684444562221.avif",
+                        "description": "New Zealand PS Grade | 200gm. Served with 2 sides",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024110105580235679",
+                                "name": "Choice of 2 Sides:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 2,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241101055802011846",
+                                        "name": "French Fries",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프렌치 프라이",
+                                                    "zh": "炸薯条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802023291",
+                                        "name": "Creamy Potato Puree",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크리미 감자 퓨레",
+                                                    "zh": "奶油土豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802031557",
+                                        "name": "Sauteed Vegetables",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "볶은 채소",
+                                                    "zh": "炒蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802045964",
+                                        "name": "Roasted Chat Potatoes",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "구운 차트 감자",
+                                                    "zh": "烤土豆"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802056642",
+                                        "name": "Coleslaw",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콜슬로",
+                                                    "zh": "凉拌卷心菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 2가지 선택:",
+                                            "zh": "可选两种配菜："
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220720042830026383",
+                                "name": "Choice of doneness:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042830044932",
+                                        "name": "Rare",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36324-230499-175480\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레어",
+                                                    "zh": "稀有"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042830056929",
+                                        "name": "Medium Rare",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36324-230500-175481\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 레어",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042830068074",
+                                        "name": "Medium",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36324-230501-175483\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄",
+                                                    "zh": "中等"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831011153",
+                                        "name": "Medium Well",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36324-230502-175484\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 웰",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831021205",
+                                        "name": "Well Done",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36324-230503-175486\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웰던",
+                                                    "zh": "全熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "굽기 정도 선택:",
+                                            "zh": "熟度选择："
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220720042831018144",
+                                "name": "Choice of sauce:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042831032537",
+                                        "name": "Black Pepper",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230504-175489\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "블랙 페퍼",
+                                                    "zh": "黑胡椒"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831045435",
+                                        "name": "Garlic",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230505-175490\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마늘",
+                                                    "zh": "蒜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831058192",
+                                        "name": "Mushroom",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230506-175491\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯",
+                                                    "zh": "蘑菇"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택:",
+                                            "zh": "酱料选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2610,
+                        "priceV2": {
+                            "amountInMinor": 2610,
+                            "amountDisplay": "26.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2610,
+                            "amountDisplay": "26.10"
+                        },
+                        "metadata": "{\"external_data\":\"132329-176583\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-04-15T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20241101055802045964\",\"SGMOD20220720042830056929\",\"SGMOD20220720042831032537\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042830011254/photo/menueditor_item_8db391b4fe164231945cb6391a2c8e48_1730463684444562221.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042830011254/detail/menueditor_item_8db391b4fe164231945cb6391a2c8e48_1730463684444562221.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042832019152",
+                        "name": "Prime Ribeye Steak",
+                        "available": true,
+                        "priceInMinorUnit": 3000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042832019152/photo/menueditor_item_1fdd109ac23749ebb5dcb8bb9bd2bb15_1730463779857897324.avif",
+                        "description": "New Zealand PS Grade | 200gm. Served with 2 sides",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220720042830026383",
+                                "name": "Choice of doneness:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042830044932",
+                                        "name": "Rare",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36324-230499-175480\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레어",
+                                                    "zh": "稀有"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042830056929",
+                                        "name": "Medium Rare",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36324-230500-175481\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 레어",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042830068074",
+                                        "name": "Medium",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36324-230501-175483\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄",
+                                                    "zh": "中等"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831011153",
+                                        "name": "Medium Well",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36324-230502-175484\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 웰",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831021205",
+                                        "name": "Well Done",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36324-230503-175486\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웰던",
+                                                    "zh": "全熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "굽기 정도 선택:",
+                                            "zh": "熟度选择："
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20220720042831018144",
+                                "name": "Choice of sauce:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042831032537",
+                                        "name": "Black Pepper",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230504-175489\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "블랙 페퍼",
+                                                    "zh": "黑胡椒"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831045435",
+                                        "name": "Garlic",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230505-175490\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마늘",
+                                                    "zh": "蒜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831058192",
+                                        "name": "Mushroom",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230506-175491\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯",
+                                                    "zh": "蘑菇"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택:",
+                                            "zh": "酱料选择："
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG2024110105580235679",
+                                "name": "Choice of 2 Sides:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 2,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241101055802011846",
+                                        "name": "French Fries",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프렌치 프라이",
+                                                    "zh": "炸薯条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802023291",
+                                        "name": "Creamy Potato Puree",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크리미 감자 퓨레",
+                                                    "zh": "奶油土豆泥"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802031557",
+                                        "name": "Sauteed Vegetables",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "볶은 채소",
+                                                    "zh": "炒蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802045964",
+                                        "name": "Roasted Chat Potatoes",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "구운 차트 감자",
+                                                    "zh": "烤土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802056642",
+                                        "name": "Coleslaw",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콜슬로",
+                                                    "zh": "凉拌卷心菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 2가지 선택:",
+                                            "zh": "可选两种配菜："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3000,
+                        "priceV2": {
+                            "amountInMinor": 3000,
+                            "amountDisplay": "30.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3000,
+                            "amountDisplay": "30.00"
+                        },
+                        "metadata": "{\"external_data\":\"132359-176619\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-03-29T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20220720042830056929\",\"SGMOD20241101055802023291\",\"SGMOD20220720042831032537\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042832019152/photo/menueditor_item_1fdd109ac23749ebb5dcb8bb9bd2bb15_1730463779857897324.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042832019152/detail/menueditor_item_1fdd109ac23749ebb5dcb8bb9bd2bb15_1730463779857897324.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024110208560239052",
+                        "name": "Hanger Steak",
+                        "available": true,
+                        "priceInMinorUnit": 3650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110208560239052/photo/menueditor_item_3457a6bcc688487983fa720b97f64094_1730537676723722062.avif",
+                        "description": "AKA Butcher's Steak, 100% Grass fed, Free Range | 200gm. Served with 2 sides",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220720042831018144",
+                                "name": "Choice of sauce:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042831032537",
+                                        "name": "Black Pepper",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230504-175489\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "블랙 페퍼",
+                                                    "zh": "黑胡椒"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831045435",
+                                        "name": "Garlic",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230505-175490\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마늘",
+                                                    "zh": "蒜"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831058192",
+                                        "name": "Mushroom",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230506-175491\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯",
+                                                    "zh": "蘑菇"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택:",
+                                            "zh": "酱料选择："
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG2024110105580235679",
+                                "name": "Choice of 2 Sides:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 2,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241101055802011846",
+                                        "name": "French Fries",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프렌치 프라이",
+                                                    "zh": "炸薯条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802023291",
+                                        "name": "Creamy Potato Puree",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크리미 감자 퓨레",
+                                                    "zh": "奶油土豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802031557",
+                                        "name": "Sauteed Vegetables",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "볶은 채소",
+                                                    "zh": "炒蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802045964",
+                                        "name": "Roasted Chat Potatoes",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "구운 차트 감자",
+                                                    "zh": "烤土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802056642",
+                                        "name": "Coleslaw",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콜슬로",
+                                                    "zh": "凉拌卷心菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 2가지 선택:",
+                                            "zh": "可选两种配菜："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3650,
+                        "priceV2": {
+                            "amountInMinor": 3650,
+                            "amountDisplay": "36.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3650,
+                            "amountDisplay": "36.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"modifier_tag\":{\"Popular\":[\"SGMOD20241101055802031557\",\"SGMOD20220720042831045435\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110208560239052/photo/menueditor_item_3457a6bcc688487983fa720b97f64094_1730537676723722062.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110208560239052/detail/menueditor_item_3457a6bcc688487983fa720b97f64094_1730537676723722062.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2024110208564005594",
+                "name": "Lamb",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2024110208581003243",
+                        "name": "Braised Lamb Shank",
+                        "available": true,
+                        "priceInMinorUnit": 3390,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110208581003243/photo/menueditor_item_ed6b7f5ea8c04649ae3444d9906fc2e2_1730537839171411093.avif",
+                        "description": "AUS Grass fed, slow braised, served with chat potatoes, carrots & broccoli",
+                        "discountedPriceInMin": 3390,
+                        "priceV2": {
+                            "amountInMinor": 3390,
+                            "amountDisplay": "33.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3390,
+                            "amountDisplay": "33.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110208581003243/photo/menueditor_item_ed6b7f5ea8c04649ae3444d9906fc2e2_1730537839171411093.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110208581003243/detail/menueditor_item_ed6b7f5ea8c04649ae3444d9906fc2e2_1730537839171411093.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024110209005019928",
+                        "name": "Denver Ribs",
+                        "available": true,
+                        "priceInMinorUnit": 4570,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110209005019928/photo/menueditor_item_94381929b3694f8988675d0e2415aefd_1730538014236705662.avif",
+                        "description": "AUS Grass fed, sous vide 8 hours in Asian BBQ sauce",
+                        "discountedPriceInMin": 4570,
+                        "priceV2": {
+                            "amountInMinor": 4570,
+                            "amountDisplay": "45.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4570,
+                            "amountDisplay": "45.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110209005019928/photo/menueditor_item_94381929b3694f8988675d0e2415aefd_1730538014236705662.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110209005019928/detail/menueditor_item_94381929b3694f8988675d0e2415aefd_1730538014236705662.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024110209021127483",
+                        "name": "Baby Rack of Lamb",
+                        "available": true,
+                        "priceInMinorUnit": 4700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110209021127483/photo/menueditor_item_8e73f25cdeda46acaf8a9ff5ae41a9b3_1730538096222255781.avif",
+                        "description": "AUS Grass fed, served with Moroccan couscous",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220720042831018144",
+                                "name": "Choice of sauce:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042831032537",
+                                        "name": "Black Pepper",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230504-175489\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "블랙 페퍼",
+                                                    "zh": "黑胡椒"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831045435",
+                                        "name": "Garlic",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230505-175490\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마늘",
+                                                    "zh": "蒜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042831058192",
+                                        "name": "Mushroom",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36325-230506-175491\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯",
+                                                    "zh": "蘑菇"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택:",
+                                            "zh": "酱料选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 4700,
+                        "priceV2": {
+                            "amountInMinor": 4700,
+                            "amountDisplay": "47.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4700,
+                            "amountDisplay": "47.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-08-05T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110209021127483/photo/menueditor_item_8e73f25cdeda46acaf8a9ff5ae41a9b3_1730538096222255781.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110209021127483/detail/menueditor_item_8e73f25cdeda46acaf8a9ff5ae41a9b3_1730538096222255781.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220720042846015174",
+                "name": "Seafood",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20220720042846010846",
+                        "name": "Poached Norwegian Fresh Salmon",
+                        "available": true,
+                        "priceInMinorUnit": 3000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042846010846/photo/menueditor_item_7a295c44e36d4e5aa33a3a7fceb81dff_1730464308683980188.avif",
+                        "description": "With leeks, home-made semi dried cherry tomatoes, chat potatoes, haricot verts, tomatoes, garlic & basil broth",
+                        "discountedPriceInMin": 3000,
+                        "priceV2": {
+                            "amountInMinor": 3000,
+                            "amountDisplay": "30.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3000,
+                            "amountDisplay": "30.00"
+                        },
+                        "metadata": "{\"external_data\":\"132936-177312\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-02-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042846010846/photo/menueditor_item_7a295c44e36d4e5aa33a3a7fceb81dff_1730464308683980188.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042846010846/detail/menueditor_item_7a295c44e36d4e5aa33a3a7fceb81dff_1730464308683980188.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042846021827",
+                        "name": "Halibut Fish & Chips",
+                        "available": true,
+                        "priceInMinorUnit": 2470,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042846021827/photo/menueditor_item_d13e9309e7ab47fba25bbff7290b6edb_1730464382592934278.avif",
+                        "description": "Served with french fries, coleslaw & tartar sauce",
+                        "discountedPriceInMin": 2470,
+                        "priceV2": {
+                            "amountInMinor": 2470,
+                            "amountDisplay": "24.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2470,
+                            "amountDisplay": "24.70"
+                        },
+                        "metadata": "{\"external_data\":\"132938-177314\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042846021827/photo/menueditor_item_d13e9309e7ab47fba25bbff7290b6edb_1730464382592934278.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042846021827/detail/menueditor_item_d13e9309e7ab47fba25bbff7290b6edb_1730464382592934278.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2023092703080441759",
+                        "name": "Tumeric Mussels",
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2023092703080441759/photo/menueditor_item_9f74a690bdba46e49f94a79b9b78595f_1730464236559883662.avif",
+                        "description": "served with toasted brioche",
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2023092703080441759/photo/menueditor_item_9f74a690bdba46e49f94a79b9b78595f_1730464236559883662.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2023092703080441759/detail/menueditor_item_9f74a690bdba46e49f94a79b9b78595f_1730464236559883662.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220720042843013659",
+                "name": "Poultry",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2024110106065420194",
+                        "name": "Sambal Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 1560,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110106065420194/photo/menueditor_item_fa7c2d43f5e04ff88b636646c95f115a_1730441191255983260.avif",
+                        "description": "Served with 2 Sides",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024110105580235679",
+                                "name": "Choice of 2 Sides:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 2,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241101055802011846",
+                                        "name": "French Fries",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프렌치 프라이",
+                                                    "zh": "炸薯条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802023291",
+                                        "name": "Creamy Potato Puree",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크리미 감자 퓨레",
+                                                    "zh": "奶油土豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802031557",
+                                        "name": "Sauteed Vegetables",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "볶은 채소",
+                                                    "zh": "炒蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802045964",
+                                        "name": "Roasted Chat Potatoes",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "구운 차트 감자",
+                                                    "zh": "烤土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802056642",
+                                        "name": "Coleslaw",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콜슬로",
+                                                    "zh": "凉拌卷心菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 2가지 선택:",
+                                            "zh": "可选两种配菜："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1560,
+                        "priceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110106065420194/photo/menueditor_item_fa7c2d43f5e04ff88b636646c95f115a_1730441191255983260.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024110106065420194/detail/menueditor_item_fa7c2d43f5e04ff88b636646c95f115a_1730441191255983260.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042843027407",
+                        "name": "Black Pepper Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 1560,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042843027407/photo/menueditor_item_37a6efa3776e4189b5322b5cb204c7fa_1730441137489967400.avif",
+                        "description": "Served with 2 Sides",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024110105580235679",
+                                "name": "Choice of 2 Sides:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 2,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241101055802011846",
+                                        "name": "French Fries",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프렌치 프라이",
+                                                    "zh": "炸薯条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802023291",
+                                        "name": "Creamy Potato Puree",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크리미 감자 퓨레",
+                                                    "zh": "奶油土豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802031557",
+                                        "name": "Sauteed Vegetables",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "볶은 채소",
+                                                    "zh": "炒蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802045964",
+                                        "name": "Roasted Chat Potatoes",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "구운 차트 감자",
+                                                    "zh": "烤土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802056642",
+                                        "name": "Coleslaw",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콜슬로",
+                                                    "zh": "凉拌卷心菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 2가지 선택:",
+                                            "zh": "可选两种配菜："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1560,
+                        "priceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "metadata": "{\"external_data\":\"132888-177255\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-05-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042843027407/photo/menueditor_item_37a6efa3776e4189b5322b5cb204c7fa_1730441137489967400.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042843027407/detail/menueditor_item_37a6efa3776e4189b5322b5cb204c7fa_1730441137489967400.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042843036039",
+                        "name": "Mushroom Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 1560,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042843036039/photo/menueditor_item_1ba5940c109f423baf994f0c1d211b55_1730464057627086413.avif",
+                        "description": "Served with 2 Sides",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024110105580235679",
+                                "name": "Choice of 2 Sides:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 2,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241101055802011846",
+                                        "name": "French Fries",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프렌치 프라이",
+                                                    "zh": "炸薯条"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802023291",
+                                        "name": "Creamy Potato Puree",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크리미 감자 퓨레",
+                                                    "zh": "奶油土豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802031557",
+                                        "name": "Sauteed Vegetables",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "볶은 채소",
+                                                    "zh": "炒蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802045964",
+                                        "name": "Roasted Chat Potatoes",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "구운 차트 감자",
+                                                    "zh": "烤土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802056642",
+                                        "name": "Coleslaw",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콜슬로",
+                                                    "zh": "凉拌卷心菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 2가지 선택:",
+                                            "zh": "可选两种配菜："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1560,
+                        "priceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "metadata": "{\"external_data\":\"132891-177264\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"modifier_tag\":{\"Popular\":[\"SGMOD20241101055802011846\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042843036039/photo/menueditor_item_1ba5940c109f423baf994f0c1d211b55_1730464057627086413.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042843036039/detail/menueditor_item_1ba5940c109f423baf994f0c1d211b55_1730464057627086413.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042844014859",
+                        "name": "Teriyaki Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 1560,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042844014859/photo/menueditor_item_85f90c4770a0457d80ad0b373241f63b_1730464117671777719.avif",
+                        "description": "Served with 2 Sides",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024110105580235679",
+                                "name": "Choice of 2 Sides:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 2,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241101055802011846",
+                                        "name": "French Fries",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프렌치 프라이",
+                                                    "zh": "炸薯条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802023291",
+                                        "name": "Creamy Potato Puree",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크리미 감자 퓨레",
+                                                    "zh": "奶油土豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802031557",
+                                        "name": "Sauteed Vegetables",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "볶은 채소",
+                                                    "zh": "炒蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802045964",
+                                        "name": "Roasted Chat Potatoes",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "구운 차트 감자",
+                                                    "zh": "烤土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802056642",
+                                        "name": "Coleslaw",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콜슬로",
+                                                    "zh": "凉拌卷心菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 2가지 선택:",
+                                            "zh": "可选两种配菜："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1560,
+                        "priceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "metadata": "{\"external_data\":\"132892-177265\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-05-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042844014859/photo/menueditor_item_85f90c4770a0457d80ad0b373241f63b_1730464117671777719.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042844014859/detail/menueditor_item_85f90c4770a0457d80ad0b373241f63b_1730464117671777719.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042845012377",
+                        "name": "Grilled Asian BBQ Marinated Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 1560,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042845012377/photo/menueditor_item_ab53eef244584500abc09425508d3fa5_1730463931664009233.avif",
+                        "description": "Served with 2 sides",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024110105580235679",
+                                "name": "Choice of 2 Sides:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 2,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241101055802011846",
+                                        "name": "French Fries",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프렌치 프라이",
+                                                    "zh": "炸薯条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802023291",
+                                        "name": "Creamy Potato Puree",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크리미 감자 퓨레",
+                                                    "zh": "奶油土豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802031557",
+                                        "name": "Sauteed Vegetables",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "볶은 채소",
+                                                    "zh": "炒蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802045964",
+                                        "name": "Roasted Chat Potatoes",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "구운 차트 감자",
+                                                    "zh": "烤土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20241101055802056642",
+                                        "name": "Coleslaw",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콜슬로",
+                                                    "zh": "凉拌卷心菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 2가지 선택:",
+                                            "zh": "可选两种配菜："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1560,
+                        "priceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1560,
+                            "amountDisplay": "15.60"
+                        },
+                        "metadata": "{\"external_data\":\"132893-177266\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-05-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042845012377/photo/menueditor_item_ab53eef244584500abc09425508d3fa5_1730463931664009233.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042845012377/detail/menueditor_item_ab53eef244584500abc09425508d3fa5_1730463931664009233.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220720042824025881",
+                "name": "Burgers",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20220720042825011392",
+                        "name": "Beef Burger",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042825011392/photo/menueditor_item_9a413692a8624ecaa2aab0bfc7b3e974_1730463115846146574.avif",
+                        "description": "Juicy beef patty with a sunny-side up egg.",
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"external_data\":\"131735-175669\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-01-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042825011392/photo/menueditor_item_9a413692a8624ecaa2aab0bfc7b3e974_1730463115846146574.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042825011392/detail/menueditor_item_9a413692a8624ecaa2aab0bfc7b3e974_1730463115846146574.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042826010224",
+                        "name": "Yin Yang (Beef & Lamb Patty)",
+                        "available": true,
+                        "priceInMinorUnit": 2610,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042826010224/photo/menueditor_item_978a349b895349569e0c02e607549d2c_1730463239133433909.avif",
+                        "description": "Juicy beef & lamb patty with savory egg, crispy fries.",
+                        "discountedPriceInMin": 2610,
+                        "priceV2": {
+                            "amountInMinor": 2610,
+                            "amountDisplay": "26.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2610,
+                            "amountDisplay": "26.10"
+                        },
+                        "metadata": "{\"external_data\":\"131739-175673\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\"},\"keep_unavailable_until\":\"2025-07-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042826010224/photo/menueditor_item_978a349b895349569e0c02e607549d2c_1730463239133433909.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042826010224/detail/menueditor_item_978a349b895349569e0c02e607549d2c_1730463239133433909.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042826028695",
+                        "name": "Grilled Chicken Burger",
+                        "available": true,
+                        "priceInMinorUnit": 1820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042826028695/photo/menueditor_item_1db8c1244ef84700b6a372531e67c1ea_1730463276614078693.avif",
+                        "description": "Juicy chicken burger with savory egg",
+                        "discountedPriceInMin": 1820,
+                        "priceV2": {
+                            "amountInMinor": 1820,
+                            "amountDisplay": "18.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1820,
+                            "amountDisplay": "18.20"
+                        },
+                        "metadata": "{\"external_data\":\"131740-175674\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-05-02T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042826028695/photo/menueditor_item_1db8c1244ef84700b6a372531e67c1ea_1730463276614078693.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042826028695/detail/menueditor_item_1db8c1244ef84700b6a372531e67c1ea_1730463276614078693.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220720042826014749",
+                "name": "Pasta",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2023092703024935676",
+                        "name": "Vongole",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2023092703024935676/photo/menueditor_item_c1a5f45f13084d55b39d8b12bf5d44c4_1730463389583568244.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220720042828028792",
+                                "name": "Choice of Pasta:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042828044206",
+                                        "name": "Fusilli",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230651-175752\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "푸실리",
+                                                    "zh": "螺旋面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828057485",
+                                        "name": "Linguine",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230653-175755\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "링귀니",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828069113",
+                                        "name": "Spaghetti",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230652-175757\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스파게티",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "파스타 선택:",
+                                            "zh": "意大利面选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2023092703024935676/photo/menueditor_item_c1a5f45f13084d55b39d8b12bf5d44c4_1730463389583568244.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2023092703024935676/detail/menueditor_item_c1a5f45f13084d55b39d8b12bf5d44c4_1730463389583568244.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042828014658",
+                        "name": "Josper Oven-Grilled Striploin Steak with Pasta",
+                        "available": true,
+                        "priceInMinorUnit": 2210,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042828014658/photo/menueditor_item_731db8e4fd5140aa93524d84a676abe4_1730463500494049929.avif",
+                        "description": "Juicy striploin steak with creamy pasta delight.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220720042828028792",
+                                "name": "Choice of Pasta:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042828044206",
+                                        "name": "Fusilli",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230651-175752\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "푸실리",
+                                                    "zh": "螺旋面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828057485",
+                                        "name": "Linguine",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230653-175755\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "링귀니",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828069113",
+                                        "name": "Spaghetti",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230652-175757\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스파게티",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "파스타 선택:",
+                                            "zh": "意大利面选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2210,
+                        "priceV2": {
+                            "amountInMinor": 2210,
+                            "amountDisplay": "22.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2210,
+                            "amountDisplay": "22.10"
+                        },
+                        "metadata": "{\"external_data\":\"131785-175730\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"modifier_tag\":{\"Popular\":[\"SGMOD20220720042828057485\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042828014658/photo/menueditor_item_731db8e4fd5140aa93524d84a676abe4_1730463500494049929.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042828014658/detail/menueditor_item_731db8e4fd5140aa93524d84a676abe4_1730463500494049929.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2023092703022829395",
+                        "name": "Seafood Marinara",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "description": "Succulent seafood pasta in tangy tomato sauce by The MeatHouse.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220720042828028792",
+                                "name": "Choice of Pasta:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042828044206",
+                                        "name": "Fusilli",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230651-175752\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "푸실리",
+                                                    "zh": "螺旋面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828057485",
+                                        "name": "Linguine",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230653-175755\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "링귀니",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828069113",
+                                        "name": "Spaghetti",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230652-175757\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스파게티",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "파스타 선택:",
+                                            "zh": "意大利面选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2023092703015050370",
+                        "name": "Carbonara",
+                        "available": true,
+                        "priceInMinorUnit": 1820,
+                        "description": "Al dente pasta tossed in a rich, velvety sauce",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220720042828028792",
+                                "name": "Choice of Pasta:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042828044206",
+                                        "name": "Fusilli",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230651-175752\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "푸실리",
+                                                    "zh": "螺旋面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828057485",
+                                        "name": "Linguine",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230653-175755\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "링귀니",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828069113",
+                                        "name": "Spaghetti",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230652-175757\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스파게티",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "파스타 선택:",
+                                            "zh": "意大利面选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1820,
+                        "priceV2": {
+                            "amountInMinor": 1820,
+                            "amountDisplay": "18.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1820,
+                            "amountDisplay": "18.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-01-30T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20220720042826039957",
+                        "name": "Aglio Olio",
+                        "available": true,
+                        "priceInMinorUnit": 1430,
+                        "description": "Chilli flakes, garlic, roasted pine nuts",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220720042828028792",
+                                "name": "Choice of Pasta:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042828044206",
+                                        "name": "Fusilli",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230651-175752\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "푸실리",
+                                                    "zh": "螺旋面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828057485",
+                                        "name": "Linguine",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230653-175755\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "링귀니",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828069113",
+                                        "name": "Spaghetti",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230652-175757\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스파게티",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "파스타 선택:",
+                                            "zh": "意大利面选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1430,
+                        "priceV2": {
+                            "amountInMinor": 1430,
+                            "amountDisplay": "14.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1430,
+                            "amountDisplay": "14.30"
+                        },
+                        "metadata": "{\"external_data\":\"131780-175725\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"modifier_tag\":{\"Popular\":[\"SGMOD20220720042827010212\"]}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042827017065",
+                        "name": "Beef Ragout Pasta",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "description": "Savor tender beef ragout with al dente pasta.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220720042828028792",
+                                "name": "Choice of Pasta:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042828044206",
+                                        "name": "Fusilli",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230651-175752\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "푸실리",
+                                                    "zh": "螺旋面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828057485",
+                                        "name": "Linguine",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230653-175755\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "링귀니",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828069113",
+                                        "name": "Spaghetti",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230652-175757\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스파게티",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "파스타 선택:",
+                                            "zh": "意大利面选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"external_data\":\"131783-175729\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-01-30T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20220720042828023285",
+                        "name": "Laksa Pasta with Norwegian Fresh Salmon",
+                        "priceInMinorUnit": 3260,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042828023285/photo/menueditor_item_71bffb6a33dd46c9848a5f969625d7ee_1730463565700980672.avif",
+                        "description": "Creamy laksa sauce tossed with pasta and topped with tender Norwegian salmon for a bold East-meets-West twist.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20220720042828028792",
+                                "name": "Choice of Pasta:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20220720042828044206",
+                                        "name": "Fusilli",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230651-175752\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "푸실리",
+                                                    "zh": "螺旋面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828057485",
+                                        "name": "Linguine",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230653-175755\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "링귀니",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20220720042828069113",
+                                        "name": "Spaghetti",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"36346-230652-175757\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스파게티",
+                                                    "zh": "意大利面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "파스타 선택:",
+                                            "zh": "意大利面选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3260,
+                        "priceV2": {
+                            "amountInMinor": 3260,
+                            "amountDisplay": "32.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3260,
+                            "amountDisplay": "32.60"
+                        },
+                        "metadata": "{\"external_data\":\"131789-175740\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042828023285/photo/menueditor_item_71bffb6a33dd46c9848a5f969625d7ee_1730463565700980672.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220720042828023285/detail/menueditor_item_71bffb6a33dd46c9848a5f969625d7ee_1730463565700980672.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220720042846022388",
+                "name": "Canned Drinks",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20220720042846036152",
+                        "name": "Coke",
+                        "available": true,
+                        "priceInMinorUnit": 390,
+                        "discountedPriceInMin": 390,
+                        "priceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "metadata": "{\"external_data\":\"133034-177411\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042847017432",
+                        "name": "Coke Zero",
+                        "available": true,
+                        "priceInMinorUnit": 390,
+                        "discountedPriceInMin": 390,
+                        "priceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "metadata": "{\"external_data\":\"133038-177415\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220720042847026179",
+                        "name": "Sprite",
+                        "available": true,
+                        "priceInMinorUnit": 390,
+                        "discountedPriceInMin": 390,
+                        "priceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "metadata": "{\"external_data\":\"133040-177418\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20220720042847013983",
+                "name": "Others",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20220720042847033201",
+                        "name": "Iced Lemon Tea",
+                        "available": true,
+                        "priceInMinorUnit": 460,
+                        "description": "Refreshing iced lemon tea with a zesty twist!",
+                        "discountedPriceInMin": 460,
+                        "priceV2": {
+                            "amountInMinor": 460,
+                            "amountDisplay": "4.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 460,
+                            "amountDisplay": "4.60"
+                        },
+                        "metadata": "{\"external_data\":\"132963-177340\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 50000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.5,
+    "voteCount": 1388,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out The MeatHouse - Century Square on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-SGDD07253"
+    },
+    "chainName": "The MeatHouse",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/SGDD07253/list/c91d7aa29f3843999a6368a9d5764d51_1735290370977812000.avif",
+    "branchName": "Century Square",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        },
+        {
+            "labelType": 1,
+            "backgroundColor": "#00B14F",
+            "text": "Islandwide",
+            "labelID": "SGCLID20210901042322014844",
+            "labelName": "Food Islandwide"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Order for today, 12:00 PM or later",
+        "type": "CLOSED_SO_AVAILABLE",
+        "scheduledTime": "2026-08-23T03:30:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal",
+        "non-pork"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

@@ -1,0 +1,2961 @@
+{
+    "ID": "4-C2DXDANUFGJDEE",
+    "name": "Fitra Chicken Rice - Tampines Mall",
+    "cuisine": "Chicken Rice,Dumpling,Hainanese Chicken Rice",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C2DXDANUFGJDEE/hero/89ca3e3799c74ab7a21fe880814069d2_1611896123120567734.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:30am-8:30pm",
+        "mon": "10:30am-8:30pm",
+        "tue": "10:30am-8:30pm",
+        "wed": "10:30am-8:30pm",
+        "thu": "10:30am-8:30pm",
+        "fri": "10:30am-8:30pm",
+        "sat": "10:30am-8:30pm"
+    },
+    "address": {
+        "name": "Fitra Chicken Rice - Tampines Mall",
+        "combined_address": "4 Tampines Central 5, #04-27,#04-28,#04-29, Tampines, 529510",
+        "combined_city": "Singapore",
+        "house": "#04-27,#04-28,#04-29",
+        "street": "4 Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529510",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3526813,
+        "lng": 103.9447121
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20201208104911010136",
+                "name": "Chicken",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2021010808514994770",
+                        "name": "whole chicken",
+                        "available": true,
+                        "priceInMinorUnit": 4200,
+                        "description": "Juicy whole chicken with Indo-Chinese spices.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103134015352",
+                                "name": "Roasted or  Steamed 👍",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103134013374",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103134021442",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "구운 것 또는 찐 음식 👍",
+                                            "zh": "烤制或蒸制 👍"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 4200,
+                        "priceV2": {
+                            "amountInMinor": 4200,
+                            "amountDisplay": "42.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4200,
+                            "amountDisplay": "42.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103134013374\"]}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2021010808511897703",
+                        "name": "half chicken",
+                        "available": true,
+                        "priceInMinorUnit": 2200,
+                        "description": "Juicy Shandong-style half chicken with savory herbs and spices.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103134015352",
+                                "name": "Roasted or  Steamed 👍",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103134013374",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103134021442",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "구운 것 또는 찐 음식 👍",
+                                            "zh": "烤制或蒸制 👍"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2200,
+                        "priceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2200,
+                            "amountDisplay": "22.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-03T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103134013374\"]}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2021010109445989903",
+                        "name": "chicken macaroni",
+                        "available": true,
+                        "priceInMinorUnit": 630,
+                        "description": "shredded chicken, macaroni, soup and vegetable",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 630,
+                        "priceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229010170\"]}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULUMEDURX",
+                        "name": "Roasted Chicken Rice Set",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "description": "Comes with vegetable.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229010170\"]}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULURTVAJE",
+                        "name": "Steamed Chicken Rice Set",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "description": "Comes with vegetable.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229020671\"]}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULUT4LFT6",
+                        "name": "Three Treasure Rice",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULUT4LFT6/photo/5ab60739b07b448b9eaa6bd2992826df_1611897135110679231.avif",
+                        "description": "Comes with roasted, steamed and char siew.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229010170\"]},\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"SGITE20250812134226158925\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULUT4LFT6/photo/5ab60739b07b448b9eaa6bd2992826df_1611897135110679231.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULUT4LFT6/detail/5ab60739b07b448b9eaa6bd2992826df_1611897135110679231.avif"
+                        ]
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULVAPBVVJ",
+                        "name": "Chicken Rice Set Meal ( 2 Persons )",
+                        "available": true,
+                        "priceInMinorUnit": 1780,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVAPBVVJ/photo/e5254515bb374bc799557b768f7612c3_1611896436013294564.avif",
+                        "description": "Choice of Roasted or Steamed Chicken.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103134015352",
+                                "name": "Roasted or  Steamed 👍",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103134013374",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103134021442",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "구운 것 또는 찐 음식 👍",
+                                            "zh": "烤制或蒸制 👍"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1780,
+                        "priceV2": {
+                            "amountInMinor": 1780,
+                            "amountDisplay": "17.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1780,
+                            "amountDisplay": "17.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103134013374\",\"SGMOD20201208103229010170\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVAPBVVJ/photo/e5254515bb374bc799557b768f7612c3_1611896436013294564.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVAPBVVJ/detail/e5254515bb374bc799557b768f7612c3_1611896436013294564.avif"
+                        ]
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULVDBTWRT",
+                        "name": "Curry Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 670,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVDBTWRT/photo/fc47e02a6ba74ec78b541e89fe3732fc_1611896486470501265.avif",
+                        "description": "Choice of Noodle or Rice.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103110014957",
+                                "name": "Choice of Rice or Noodle 👍",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103110019819",
+                                        "name": "Rice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103110023450",
+                                        "name": "Noodle",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "국수",
+                                                    "zh": "面条"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 또는 면 중 선택 가능 👍",
+                                            "zh": "可选米饭或面条 👍"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 670,
+                        "priceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103110023450\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVDBTWRT/photo/fc47e02a6ba74ec78b541e89fe3732fc_1611896486470501265.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVDBTWRT/detail/fc47e02a6ba74ec78b541e89fe3732fc_1611896486470501265.avif"
+                        ]
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULVGPJVT2",
+                        "name": "Chicken Char Siew Noodle",
+                        "available": true,
+                        "priceInMinorUnit": 670,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201216104335012293",
+                                "name": "dry or soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201216104335011541",
+                                        "name": "dry",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조",
+                                                    "zh": "干"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201216104335032511",
+                                        "name": "soup",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "마른 요리 또는 국물",
+                                            "zh": "干或汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 670,
+                        "priceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201216104335011541\"]}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULVLATCCE",
+                        "name": "Shredded Chicken porridge",
+                        "available": true,
+                        "priceInMinorUnit": 630,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVLATCCE/photo/5be0dba177934528aec787e1a7df964d_1611896378364672245.avif",
+                        "description": "Savory chicken porridge with green onions.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 630,
+                        "priceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229010170\"]},\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"SGITE20250812134225143313\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVLATCCE/photo/5be0dba177934528aec787e1a7df964d_1611896378364672245.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVLATCCE/detail/5be0dba177934528aec787e1a7df964d_1611896378364672245.avif"
+                        ]
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULVNRJKJJ",
+                        "name": "Chicken Char Siew Hor Fun",
+                        "available": true,
+                        "priceInMinorUnit": 670,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201216104335012293",
+                                "name": "dry or soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201216104335011541",
+                                        "name": "dry",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조",
+                                                    "zh": "干"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201216104335032511",
+                                        "name": "soup",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "마른 요리 또는 국물",
+                                            "zh": "干或汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 670,
+                        "priceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201216104335011541\"]}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULVR3JZDE",
+                        "name": "Dumpling noodle",
+                        "available": true,
+                        "priceInMinorUnit": 670,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVR3JZDE/photo/291c441bf8844389bdf25e953382e4a4_1611896299740549212.avif",
+                        "description": "Flavorful chicken dumplings with springy noodles.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201216104335012293",
+                                "name": "dry or soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201216104335011541",
+                                        "name": "dry",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조",
+                                                    "zh": "干"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201216104335032511",
+                                        "name": "soup",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "마른 요리 또는 국물",
+                                            "zh": "干或汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 670,
+                        "priceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20201216104335032511\",\"SGMOD20201208103229020671\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVR3JZDE/photo/291c441bf8844389bdf25e953382e4a4_1611896299740549212.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVR3JZDE/detail/291c441bf8844389bdf25e953382e4a4_1611896299740549212.avif"
+                        ]
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULVUF5FLT",
+                        "name": "Chicken Char Siew Rice",
+                        "available": true,
+                        "priceInMinorUnit": 630,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVUF5FLT/photo/eab5f41016ac4d94a65c9e99c931cd00_1611896255593061721.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 630,
+                        "priceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229036729\"]},\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"SGITE20250812134226168843\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVUF5FLT/photo/eab5f41016ac4d94a65c9e99c931cd00_1611896255593061721.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULVUF5FLT/detail/eab5f41016ac4d94a65c9e99c931cd00_1611896255593061721.avif"
+                        ]
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULWANCTET",
+                        "name": "Chicken Noodle",
+                        "available": true,
+                        "priceInMinorUnit": 670,
+                        "description": "Choice of Roasted or Steamed Chicken.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201216104335012293",
+                                "name": "dry or soup",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201216104335011541",
+                                        "name": "dry",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조",
+                                                    "zh": "干"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201216104335032511",
+                                        "name": "soup",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "마른 요리 또는 국물",
+                                            "zh": "干或汤"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20201208103134015352",
+                                "name": "Roasted or  Steamed 👍",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103134013374",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103134021442",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "구운 것 또는 찐 음식 👍",
+                                            "zh": "烤制或蒸制 👍"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 670,
+                        "priceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103134013374\",\"SGMOD20201216104335011541\",\"SGMOD20201208103229036729\"]}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULWC7XAHA",
+                        "name": "Dumpling soup",
+                        "available": true,
+                        "priceInMinorUnit": 670,
+                        "description": "Savory chicken dumpling soup bursting with flavors",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 670,
+                        "priceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 670,
+                            "amountDisplay": "6.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229010170\"]}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULWNE5FL2",
+                        "name": "Roasted Chicken Rice",
+                        "available": true,
+                        "priceInMinorUnit": 630,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULWNE5FL2/photo/e13623f5a8b944bbb37a78a3f40bb745_1611896546375966790.avif",
+                        "description": "Savor the tender roasted chicken with fragrant rice!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 630,
+                        "priceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229010170\"]},\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"SGITE20250818133642012182\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULWNE5FL2/photo/e13623f5a8b944bbb37a78a3f40bb745_1611896546375966790.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULWNE5FL2/detail/e13623f5a8b944bbb37a78a3f40bb745_1611896546375966790.avif"
+                        ]
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULWRP4WPA",
+                        "name": "Steamed Chicken Rice",
+                        "available": true,
+                        "priceInMinorUnit": 630,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULWRP4WPA/photo/bb80ae394bcd46c5986450753f7345f0_1611897074782046197.avif",
+                        "description": "Tender steamed chicken with fragrant rice, served with soy and chili sauce.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 630,
+                        "priceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229020671\"]},\"m41_metadata\":{\"is_eligible_to_m41\":true,\"relationship_item_id\":\"SGITE20250815133647026534\",\"m41Source\":\"\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULWRP4WPA/photo/bb80ae394bcd46c5986450753f7345f0_1611897074782046197.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/4-C2DXDANUFGJDEE-C2DXEULWRP4WPA/detail/bb80ae394bcd46c5986450753f7345f0_1611897074782046197.avif"
+                        ]
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULXPCEAL2",
+                        "name": "Chicken Drumstick rice",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20201208103134015352",
+                                "name": "Roasted or  Steamed 👍",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103134013374",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103134021442",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "구운 것 또는 찐 음식 👍",
+                                            "zh": "烤制或蒸制 👍"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103134013374\",\"SGMOD20201208103229010170\"]}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20241206081406022052",
+                "name": "Saver Meal, under $12",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250311065545034157",
+                        "name": "Steamed Chicken Rice",
+                        "available": true,
+                        "priceInMinorUnit": 630,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311065545034157/photo/09a42880a0de49c19eab53c6e344547b_1741676145698698082.avif",
+                        "description": "Tender steamed chicken with fragrant rice, served with soy and chili sauce.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 630,
+                        "priceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "metadata": "{\"discounts\":{\"currency_code\":\"SGD\"},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229020671\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311065545034157/photo/09a42880a0de49c19eab53c6e344547b_1741676145698698082.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311065545034157/detail/09a42880a0de49c19eab53c6e344547b_1741676145698698082.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250311065545027442",
+                        "name": "Roasted Chicken Rice",
+                        "available": true,
+                        "priceInMinorUnit": 630,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311065545027442/photo/2364ed85878f4e4db766dd754dc876bf_1741676145684095043.avif",
+                        "description": "Savor the tender roasted chicken with fragrant rice!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 630,
+                        "priceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "metadata": "{\"discounts\":{\"currency_code\":\"SGD\"},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229010170\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311065545027442/photo/2364ed85878f4e4db766dd754dc876bf_1741676145684095043.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311065545027442/detail/2364ed85878f4e4db766dd754dc876bf_1741676145684095043.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250311065545019781",
+                        "name": "Shredded Chicken porridge",
+                        "available": true,
+                        "priceInMinorUnit": 630,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311065545019781/photo/7988f603cfdd4503a833aefde8b7f350_1741676145680778611.avif",
+                        "description": "Savory chicken porridge with green onions.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20201208103229014163",
+                                "name": "Add Meat",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201208103229010170",
+                                        "name": "Roasted Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "로스트 치킨",
+                                                    "zh": "烤鸡"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229020671",
+                                        "name": "Steamed Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "찐 치킨",
+                                                    "zh": "蒸鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201208103229036729",
+                                        "name": "Char Siew Chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 300,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 300,
+                                            "amountDisplay": "3.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차슈 치킨",
+                                                    "zh": "叉烧鸡"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 추가",
+                                            "zh": "加肉"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 630,
+                        "priceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "metadata": "{\"discounts\":{\"currency_code\":\"SGD\"},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20201208103229010170\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311065545019781/photo/7988f603cfdd4503a833aefde8b7f350_1741676145680778611.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250311065545019781/detail/7988f603cfdd4503a833aefde8b7f350_1741676145680778611.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20201208104913019628",
+                "name": "Additional Items",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULWVJVDV2",
+                        "name": "Rice",
+                        "available": true,
+                        "priceInMinorUnit": 150,
+                        "description": "Authentic Padang rice, rich with spices",
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULXAYWXLT",
+                        "name": "Egg",
+                        "available": true,
+                        "priceInMinorUnit": 150,
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-26T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULXC4C1C2",
+                        "name": "Liver",
+                        "available": true,
+                        "priceInMinorUnit": 150,
+                        "description": "Tender liver with rich, savory flavors.",
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULXFE62RJ",
+                        "name": "Gizzard",
+                        "available": true,
+                        "priceInMinorUnit": 150,
+                        "description": "Tender gizzards, savory and succulent!",
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "4-C2DXDANUFGJDEE-C2DXEULXL32YGJ",
+                        "name": "Soup",
+                        "available": true,
+                        "priceInMinorUnit": 50,
+                        "description": "Savory Shandong-style broth with tender chicken slices.",
+                        "discountedPriceInMin": 50,
+                        "priceV2": {
+                            "amountInMinor": 50,
+                            "amountDisplay": "0.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 50,
+                            "amountDisplay": "0.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.6,
+    "voteCount": 5006,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Fitra Chicken Rice - Tampines Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C2DXDANUFGJDEE"
+    },
+    "chainName": "Fitra Chicken Rice",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C2DXDANUFGJDEE/list/8a87c9c387d741c1b04fd1bd41791888_1611896134455057439.avif",
+    "branchName": "Tampines Mall",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:30 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:30:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal",
+        "non-pork"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

@@ -1,0 +1,416 @@
+{
+    "ID": "4-C8B3KEN2CZNVVE",
+    "name": "PİDECİM - Upper Changi Road",
+    "cuisine": "Turkish,Kebab",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C8B3KEN2CZNVVE/hero/7c9638128789494099b1447608ce13c7_1784280033161898201.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:00am-9:00pm",
+        "mon": "Closed",
+        "tue": "11:00am-9:00pm",
+        "wed": "11:00am-9:00pm",
+        "thu": "11:00am-9:00pm",
+        "fri": "11:00am-9:00pm",
+        "sat": "11:00am-9:00pm"
+    },
+    "address": {
+        "name": "PİDECİM - Upper Changi Road",
+        "combined_address": "01-93, Upper Changi Road (430 Upper Changi Road#01-93 Singapore 487048), Singapore, Singapore States, 487048, 487048",
+        "combined_city": "Singapore",
+        "street": "01-93, Upper Changi Road (430 Upper Changi Road#01-93 Singapore 487048), Singapore, Singapore States, 487048",
+        "postcode": "487048",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3318464,
+        "lng": 103.9463496
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT2026071614160786664",
+                "name": "SIDES",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260716141607034855",
+                        "name": "HUMMUS",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141607034855/photo/menueditor_item_e49097fc120044a5b13542bb652711bc_1784211471185024510.webp",
+                        "description": "Creamy chickpea dip with tahini",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141607034855/photo/menueditor_item_e49097fc120044a5b13542bb652711bc_1784211471185024510.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141607034855/detail/menueditor_item_e49097fc120044a5b13542bb652711bc_1784211471185024510.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716141607025122",
+                        "name": "CHICKEN GÜVEÇ",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141607025122/photo/menueditor_item_331a19070852479e83e7c4b1da1949e2_1784211705780028916.webp",
+                        "description": "Tender oven-baked  chicken with vegetables in a rich tomato sauce.",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141607025122/photo/menueditor_item_331a19070852479e83e7c4b1da1949e2_1784211705780028916.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141607025122/detail/menueditor_item_331a19070852479e83e7c4b1da1949e2_1784211705780028916.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716141607013498",
+                        "name": "BABAGANOUSH",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141607013498/photo/menueditor_item_1509337d599f4a4b9bd6c9c950755eb8_1784211782804475931.webp",
+                        "description": "Smoky roasted eggplant dip with tahini.",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141607013498/photo/menueditor_item_1509337d599f4a4b9bd6c9c950755eb8_1784211782804475931.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141607013498/detail/menueditor_item_1509337d599f4a4b9bd6c9c950755eb8_1784211782804475931.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026071614145104251",
+                "name": "Pide",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260716141451058409",
+                        "name": "MEDITERRANEAN VEGGIE",
+                        "available": true,
+                        "priceInMinorUnit": 1100,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451058409/photo/menueditor_item_d441cb70a4f34d23b0f140b4446b9250_1784211910195547860.webp",
+                        "description": "Roasted vegetables,olives and mozzarella.",
+                        "discountedPriceInMin": 1100,
+                        "priceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451058409/photo/menueditor_item_d441cb70a4f34d23b0f140b4446b9250_1784211910195547860.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451058409/detail/menueditor_item_d441cb70a4f34d23b0f140b4446b9250_1784211910195547860.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716141451078228",
+                        "name": "BEEF SALAMI",
+                        "available": true,
+                        "priceInMinorUnit": 1100,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451078228/photo/menueditor_item_1781599423824bdd9a328e5f869d8b15_1785999127197161633.webp",
+                        "description": "Beef salami,Mozzarella",
+                        "discountedPriceInMin": 1100,
+                        "priceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-09T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451078228/photo/menueditor_item_1781599423824bdd9a328e5f869d8b15_1785999127197161633.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451078228/detail/menueditor_item_1781599423824bdd9a328e5f869d8b15_1785999127197161633.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716141451020234",
+                        "name": "CHICKEN",
+                        "available": true,
+                        "priceInMinorUnit": 1200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451020234/photo/menueditor_item_ba3efcd28acf40479bed54204f347933_1784212042381248478.webp",
+                        "description": "Marinated chicken,green pepper,tomatoes and mozzarella.",
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451020234/photo/menueditor_item_ba3efcd28acf40479bed54204f347933_1784212042381248478.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451020234/detail/menueditor_item_ba3efcd28acf40479bed54204f347933_1784212042381248478.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716141451036905",
+                        "name": "CHUNKY BEEF",
+                        "available": true,
+                        "priceInMinorUnit": 1300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451036905/photo/menueditor_item_91d4b8647b284c4eab6f05d760864888_1784212135761151040.webp",
+                        "description": "Beef,green pepper,capsicum,tomatoes,mozzarella.",
+                        "discountedPriceInMin": 1300,
+                        "priceV2": {
+                            "amountInMinor": 1300,
+                            "amountDisplay": "13.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1300,
+                            "amountDisplay": "13.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451036905/photo/menueditor_item_91d4b8647b284c4eab6f05d760864888_1784212135761151040.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451036905/detail/menueditor_item_91d4b8647b284c4eab6f05d760864888_1784212135761151040.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716141451067440",
+                        "name": "SPINACH",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451067440/photo/menueditor_item_dc9aa7ce37e64357a8110d96ab6071ab_1785999091681449749.webp",
+                        "description": "White cheese,feta cheese,spinach and mozzarella.",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-09T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451067440/photo/menueditor_item_dc9aa7ce37e64357a8110d96ab6071ab_1785999091681449749.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451067440/detail/menueditor_item_dc9aa7ce37e64357a8110d96ab6071ab_1785999091681449749.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716141451015989",
+                        "name": "BEEF",
+                        "available": true,
+                        "priceInMinorUnit": 1250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451015989/photo/menueditor_item_79b67efb74b24ef4b7ea81d0a78562e1_1784212291530084656.webp",
+                        "description": "Minced beef,onion,tomatoes,capsicum,green pepper,mozzarella.",
+                        "discountedPriceInMin": 1250,
+                        "priceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1250,
+                            "amountDisplay": "12.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-09T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451015989/photo/menueditor_item_79b67efb74b24ef4b7ea81d0a78562e1_1784212291530084656.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451015989/detail/menueditor_item_79b67efb74b24ef4b7ea81d0a78562e1_1784212291530084656.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716141451041072",
+                        "name": "CHEESE",
+                        "available": true,
+                        "priceInMinorUnit": 1100,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451041072/photo/menueditor_item_c90c3b90dc06441b85a24649e7c2f310_1784212823621233394.webp",
+                        "description": "Classic combination of white cheese and mozzarella.",
+                        "discountedPriceInMin": 1100,
+                        "priceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1100,
+                            "amountDisplay": "11.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451041072/photo/menueditor_item_c90c3b90dc06441b85a24649e7c2f310_1784212823621233394.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716141451041072/detail/menueditor_item_c90c3b90dc06441b85a24649e7c2f310_1784212823621233394.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 5,
+    "voteCount": 13,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C8B3KEN2CZNVVE/photos/7c9638128789494099b1447608ce13c7_1784280033161898201.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out PİDECİM - Upper Changi Road on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C8B3KEN2CZNVVE"
+    },
+    "chainName": "PİDECİM",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C8B3KEN2CZNVVE/list/72f88a5e12c24b4cbf53b2b693a6cd0b_1784280040662102473.webp",
+    "branchName": "Upper Changi Road",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 11:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T03:00:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal",
+        "non-pork",
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

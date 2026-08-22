@@ -1,0 +1,1004 @@
+{
+    "ID": "4-C3JVA66XDEMCAN",
+    "name": "Rempapa by Damian D’silva - National Gallery Singapore",
+    "cuisine": "Nasi Lemak,Rendang,Laksa",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C3JVA66XDEMCAN/hero/0c4c3d4c-1c1a-451b-84a0-28aeac90e3e4__store_cover__2026__06__04__02__39__18.webp",
+    "description": "The name Rempapa comes from 'rempah, which is Malay for 'spice paste' -- the aromatic seasoning at the base of all Singaporean ethnic cuisines, and 'papa', in honour of Chef Damian D'Silva's reputation as 'the grandfather of heritage cuisine'. Rempapa is a new all-day-dining restaurant that showcases Singapore heritage food and extols its place in our national identity. In addition to the treasure trove of multi-cultural heritage recipes, Chef Damian introduces his 'Singapore New Heritage Cuisine', in which recipes drawn from the soul of tradition are reinvented with elements of different ethnicities, to create flavour profiles that resonate with today's diner.\n\nRempapa is not just a restaurant. It is the place where Chef Damian elevates Singapore's heritage food to a status among the great cuisines of the world. And where 'cultural sustainability' is nurtured through engaging the next generation of diners and mentoring fresh talent.",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:00am-6:00pm",
+        "mon": "10:00am-6:00pm",
+        "tue": "10:00am-6:00pm",
+        "wed": "10:00am-6:00pm",
+        "thu": "10:00am-6:00pm",
+        "fri": "10:00am-6:00pm",
+        "sat": "10:00am-6:00pm"
+    },
+    "address": {
+        "name": "Rempapa by Damian D’silva - National Gallery Singapore",
+        "combined_address": "1 Saint Andrew's Road, #01-02, #01-02A, #01-03, #01-K1, Downtown Core, 178957",
+        "combined_city": "Singapore",
+        "house": "#01-02, #01-02A, #01-03, #01-K1",
+        "street": "1 Saint Andrew's Road",
+        "suburb": "Downtown Core",
+        "postcode": "178957",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.2897045,
+        "lng": 103.8512862
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT2026081412492842212",
+                "name": "1-for-1 Flavoured Lattes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026081413145713092",
+                        "name": "Iced Hazelnut Latte",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413145713092/photo/menueditor_item_7956382abfe0401eaa9d064a8214cbe6_1786713893913329663.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026081413162296961",
+                                "name": "1 For 1 Flavoured Lattes",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260814131622017274",
+                                        "name": "Hot Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 바닐라 라떼",
+                                                    "zh": "热香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144011750",
+                                        "name": "Hot Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 카라멜 라떼",
+                                                    "zh": "热焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144028942",
+                                        "name": "Hot Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 헤이즐넛 라떼",
+                                                    "zh": "热榛子拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144033374",
+                                        "name": "Iced Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 바닐라 라떼",
+                                                    "zh": "冰香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144049014",
+                                        "name": "Iced Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 카라멜 라떼",
+                                                    "zh": "冰焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144051484",
+                                        "name": "Iced Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 헤이즐넛 라떼",
+                                                    "zh": "冰榛果拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "1+1 무료 맛 라떼",
+                                            "zh": "买一送一风味拿铁"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413145713092/photo/menueditor_item_7956382abfe0401eaa9d064a8214cbe6_1786713893913329663.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413145713092/detail/menueditor_item_7956382abfe0401eaa9d064a8214cbe6_1786713893913329663.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081413134845480",
+                        "name": "Iced Caramel Latte",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413134845480/photo/menueditor_item_1b0cb06a07a3486faf1729841d0218e7_1786713916320629779.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026081413162296961",
+                                "name": "1 For 1 Flavoured Lattes",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260814131622017274",
+                                        "name": "Hot Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 바닐라 라떼",
+                                                    "zh": "热香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144011750",
+                                        "name": "Hot Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 카라멜 라떼",
+                                                    "zh": "热焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144028942",
+                                        "name": "Hot Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 헤이즐넛 라떼",
+                                                    "zh": "热榛子拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144033374",
+                                        "name": "Iced Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 바닐라 라떼",
+                                                    "zh": "冰香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144049014",
+                                        "name": "Iced Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 카라멜 라떼",
+                                                    "zh": "冰焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144051484",
+                                        "name": "Iced Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 헤이즐넛 라떼",
+                                                    "zh": "冰榛果拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "1+1 무료 맛 라떼",
+                                            "zh": "买一送一风味拿铁"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413134845480/photo/menueditor_item_1b0cb06a07a3486faf1729841d0218e7_1786713916320629779.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413134845480/detail/menueditor_item_1b0cb06a07a3486faf1729841d0218e7_1786713916320629779.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081413085336466",
+                        "name": "Iced Vanilla Latte",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413085336466/photo/menueditor_item_ef558c7cfab2425bb228f5a8ac2baed2_1786713931933081436.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026081413162296961",
+                                "name": "1 For 1 Flavoured Lattes",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260814131622017274",
+                                        "name": "Hot Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 바닐라 라떼",
+                                                    "zh": "热香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144011750",
+                                        "name": "Hot Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 카라멜 라떼",
+                                                    "zh": "热焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144028942",
+                                        "name": "Hot Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 헤이즐넛 라떼",
+                                                    "zh": "热榛子拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144033374",
+                                        "name": "Iced Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 바닐라 라떼",
+                                                    "zh": "冰香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144049014",
+                                        "name": "Iced Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 카라멜 라떼",
+                                                    "zh": "冰焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144051484",
+                                        "name": "Iced Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 헤이즐넛 라떼",
+                                                    "zh": "冰榛果拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "1+1 무료 맛 라떼",
+                                            "zh": "买一送一风味拿铁"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413085336466/photo/menueditor_item_ef558c7cfab2425bb228f5a8ac2baed2_1786713931933081436.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413085336466/detail/menueditor_item_ef558c7cfab2425bb228f5a8ac2baed2_1786713931933081436.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081413062123927",
+                        "name": "Hot Caramel Latte",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413062123927/photo/menueditor_item_1d1c59a643784393990b360afb147c9b_1786712734257611413.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026081413162296961",
+                                "name": "1 For 1 Flavoured Lattes",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260814131622017274",
+                                        "name": "Hot Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 바닐라 라떼",
+                                                    "zh": "热香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144011750",
+                                        "name": "Hot Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 카라멜 라떼",
+                                                    "zh": "热焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144028942",
+                                        "name": "Hot Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 헤이즐넛 라떼",
+                                                    "zh": "热榛子拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144033374",
+                                        "name": "Iced Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 바닐라 라떼",
+                                                    "zh": "冰香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144049014",
+                                        "name": "Iced Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 카라멜 라떼",
+                                                    "zh": "冰焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144051484",
+                                        "name": "Iced Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 헤이즐넛 라떼",
+                                                    "zh": "冰榛果拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "1+1 무료 맛 라떼",
+                                            "zh": "买一送一风味拿铁"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413062123927/photo/menueditor_item_1d1c59a643784393990b360afb147c9b_1786712734257611413.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413062123927/detail/menueditor_item_1d1c59a643784393990b360afb147c9b_1786712734257611413.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081413052199861",
+                        "name": "Hot Hazelnut Latte",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413052199861/photo/menueditor_item_ad360ee58b3a4824b8b4a13fda4fbc20_1786712692783635264.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026081413162296961",
+                                "name": "1 For 1 Flavoured Lattes",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260814131622017274",
+                                        "name": "Hot Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 바닐라 라떼",
+                                                    "zh": "热香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144011750",
+                                        "name": "Hot Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 카라멜 라떼",
+                                                    "zh": "热焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144028942",
+                                        "name": "Hot Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 헤이즐넛 라떼",
+                                                    "zh": "热榛子拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144033374",
+                                        "name": "Iced Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 바닐라 라떼",
+                                                    "zh": "冰香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144049014",
+                                        "name": "Iced Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 카라멜 라떼",
+                                                    "zh": "冰焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144051484",
+                                        "name": "Iced Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 헤이즐넛 라떼",
+                                                    "zh": "冰榛果拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "1+1 무료 맛 라떼",
+                                            "zh": "买一送一风味拿铁"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413052199861/photo/menueditor_item_ad360ee58b3a4824b8b4a13fda4fbc20_1786712692783635264.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413052199861/detail/menueditor_item_ad360ee58b3a4824b8b4a13fda4fbc20_1786712692783635264.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081413043089956",
+                        "name": "Hot Vanilla Latte",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413043089956/photo/menueditor_item_0dffe3bd495e4e02a74a3c06e396fbab_1786712653366748919.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026081413162296961",
+                                "name": "1 For 1 Flavoured Lattes",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260814131622017274",
+                                        "name": "Hot Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 바닐라 라떼",
+                                                    "zh": "热香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144011750",
+                                        "name": "Hot Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 카라멜 라떼",
+                                                    "zh": "热焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144028942",
+                                        "name": "Hot Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫 헤이즐넛 라떼",
+                                                    "zh": "热榛子拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144033374",
+                                        "name": "Iced Vanilla Latte",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 바닐라 라떼",
+                                                    "zh": "冰香草拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144049014",
+                                        "name": "Iced Caramel Latte",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 카라멜 라떼",
+                                                    "zh": "冰焦糖拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260814132144051484",
+                                        "name": "Iced Hazelnut Latte",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아이스 헤이즐넛 라떼",
+                                                    "zh": "冰榛果拿铁"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "1+1 무료 맛 라떼",
+                                            "zh": "买一送一风味拿铁"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413043089956/photo/menueditor_item_0dffe3bd495e4e02a74a3c06e396fbab_1786712653366748919.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026081413043089956/detail/menueditor_item_0dffe3bd495e4e02a74a3c06e396fbab_1786712653366748919.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 50000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.8,
+    "voteCount": 123,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C3JVA66XDEMCAN/photos/0c4c3d4c-1c1a-451b-84a0-28aeac90e3e4__store_cover__2026__06__04__02__39__18.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Rempapa by Damian D’silva - National Gallery Singapore on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C3JVA66XDEMCAN"
+    },
+    "chainName": "Rempapa by Damian D’silva",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C3JVA66XDEMCAN/list/0c4c3d4c-1c1a-451b-84a0-28aeac90e3e4__listing_photo__2026__06__04__02__39__30.webp",
+    "branchName": "National Gallery Singapore",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Order for today, 10:30 AM or later",
+        "type": "CLOSED_SO_AVAILABLE",
+        "scheduledTime": "2026-08-23T02:00:00Z"
+    },
+    "translationTags": [
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

@@ -1,0 +1,3084 @@
+{
+    "ID": "4-C6V3JUE2L7K1RJ",
+    "name": "Sisig Plus - Changi General Hospital",
+    "cuisine": "Beer,BBQ,Beverage",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C6V3JUE2L7K1RJ/hero/eefebb6fc05f48699fc8fbe1da9e9e29_1725959721511280547.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:00am-6:00pm",
+        "mon": "10:00am-8:00pm",
+        "tue": "10:00am-8:00pm",
+        "wed": "10:00am-8:00pm",
+        "thu": "10:00am-8:00pm",
+        "fri": "10:00am-8:00pm",
+        "sat": "10:00am-6:00pm"
+    },
+    "address": {
+        "name": "Sisig Plus - Changi General Hospital",
+        "combined_address": "2 Simei Street 3, Kopitiam Stall 12, Tampines, 529906",
+        "combined_city": "Singapore",
+        "house": "Kopitiam Stall 12",
+        "street": "2 Simei Street 3",
+        "suburb": "Tampines",
+        "postcode": "529906",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3394935,
+        "lng": 103.9495518
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20240910091302014806",
+                "name": "Silog Meals",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20240910091302011723",
+                        "name": "Tapsilog",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302011723/photo/menueditor_item_ee6ac239a60b499b924ad3680c37440e_1726556362660961225.avif",
+                        "description": "comes with plain rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240920032119029883\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302011723/photo/menueditor_item_ee6ac239a60b499b924ad3680c37440e_1726556362660961225.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302011723/detail/menueditor_item_ee6ac239a60b499b924ad3680c37440e_1726556362660961225.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026061604370193157",
+                        "name": "Bangsilog",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061604370193157/photo/menueditor_item_76dbb5b3150949968016e2d3a2e19afa_1781584591759356190.avif",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061604370193157/photo/menueditor_item_76dbb5b3150949968016e2d3a2e19afa_1781584591759356190.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026061604370193157/detail/menueditor_item_76dbb5b3150949968016e2d3a2e19afa_1781584591759356190.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026041802591957436",
+                        "name": "BBQ Liempo Silog",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026041802591957436/photo/menueditor_item_11c10c17ae324217b767df77c35f6af6_1776481105273293815.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-07T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026041802591957436/photo/menueditor_item_11c10c17ae324217b767df77c35f6af6_1776481105273293815.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026041802591957436/detail/menueditor_item_11c10c17ae324217b767df77c35f6af6_1776481105273293815.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100402081746425",
+                        "name": "Porksilog",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100402081746425/photo/menueditor_item_098967e9000e4f8395b7271567ba3d43_1782019516602716064.avif",
+                        "description": "comes with plain rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100402081746425/photo/menueditor_item_098967e9000e4f8395b7271567ba3d43_1782019516602716064.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100402081746425/detail/menueditor_item_098967e9000e4f8395b7271567ba3d43_1782019516602716064.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025070501525883428",
+                        "name": "Tocilog",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070501525883428/photo/menueditor_item_aac3d996c0794e3a955aae373633b337_1751680339348162915.avif",
+                        "description": "comes with plain rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070501525883428/photo/menueditor_item_aac3d996c0794e3a955aae373633b337_1751680339348162915.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070501525883428/detail/menueditor_item_aac3d996c0794e3a955aae373633b337_1751680339348162915.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240910091302022980",
+                        "name": "Longsilog",
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302022980/photo/menueditor_item_c694071643724ddcb92e483ed213a991_1759628123432339756.avif",
+                        "description": "comes with plain rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302022980/photo/menueditor_item_c694071643724ddcb92e483ed213a991_1759628123432339756.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302022980/detail/menueditor_item_c694071643724ddcb92e483ed213a991_1759628123432339756.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240910091302061636",
+                        "name": "Lumpiang Shanghai Silog",
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302061636/photo/menueditor_item_d6993036cda24dfd8bf8a80bcf99cfe8_1726748117579789899.avif",
+                        "description": "comes with plain rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302061636/photo/menueditor_item_d6993036cda24dfd8bf8a80bcf99cfe8_1726748117579789899.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302061636/detail/menueditor_item_d6993036cda24dfd8bf8a80bcf99cfe8_1726748117579789899.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240910091302037434",
+                "name": "Ala Carte",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2024092600524498389",
+                        "name": "Rice",
+                        "available": true,
+                        "priceInMinorUnit": 150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/dish-photo-library/stock/photo/DIP-C7DWTYAZNXWDGJ0772.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C7DWTYAZNXWDGJ0772\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/dish-photo-library/stock/photo/DIP-C7DWTYAZNXWDGJ0772.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/dish-photo-library/stock/detail/DIP-C7DWTYAZNXWDGJ0772.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024092406005504246",
+                        "name": "salted egg and talong",
+                        "available": true,
+                        "priceInMinorUnit": 500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024092406005504246/photo/menueditor_item_82e6c766668c4f208a241c841c096958_1727157494554987480.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 500,
+                        "priceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 500,
+                            "amountDisplay": "5.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024092406005504246/photo/menueditor_item_82e6c766668c4f208a241c841c096958_1727157494554987480.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024092406005504246/detail/menueditor_item_82e6c766668c4f208a241c841c096958_1727157494554987480.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024092406573816530",
+                        "name": "Laing",
+                        "priceInMinorUnit": 400,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024092406573816530/photo/menueditor_item_e656a0bc376f49c8b39ea3f1facc5cfe_1759542581884577436.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 400,
+                        "priceV2": {
+                            "amountInMinor": 400,
+                            "amountDisplay": "4.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 400,
+                            "amountDisplay": "4.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024092406573816530/photo/menueditor_item_e656a0bc376f49c8b39ea3f1facc5cfe_1759542581884577436.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024092406573816530/detail/menueditor_item_e656a0bc376f49c8b39ea3f1facc5cfe_1759542581884577436.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024091902282218024",
+                        "name": "Sisig Kapampangan Small (Good for 2 Person)",
+                        "priceInMinorUnit": 1800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024091902282218024/photo/menueditor_item_7393fed8531945df9d02bfd08d9538c5_1726712885010561651.avif",
+                        "description": "Savory Sisig with crispy bits, topped with fresh green chilies, perfect for two.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1800,
+                        "priceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024091902282218024/photo/menueditor_item_7393fed8531945df9d02bfd08d9538c5_1726712885010561651.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024091902282218024/detail/menueditor_item_7393fed8531945df9d02bfd08d9538c5_1726712885010561651.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240910091302093373",
+                        "name": "Crispy Sisig  Small (Good for 2 Person)",
+                        "priceInMinorUnit": 1800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302093373/photo/menueditor_item_7d07edfab01644a4b2b732e3b1de7e52_1726557811065578382.avif",
+                        "description": "Crispy sisig with savory flavors, perfect for sharing with two people.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1800,
+                        "priceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\",\"modifier_tag\":{\"Popular\":[\"SGMOD20240920031435054080\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302093373/photo/menueditor_item_7d07edfab01644a4b2b732e3b1de7e52_1726557811065578382.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302093373/detail/menueditor_item_7d07edfab01644a4b2b732e3b1de7e52_1726557811065578382.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240910091302115701",
+                        "name": "Pansit Bihon with lumpia shanghai",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302115701/photo/menueditor_item_d5cf4634ced642e4bd06d3d442c99f9c_1782105036774577803.avif",
+                        "description": "Savory pancit bihon with crispy lumpia shanghai, a perfect combo.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302115701/photo/menueditor_item_d5cf4634ced642e4bd06d3d442c99f9c_1782105036774577803.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091302115701/detail/menueditor_item_d5cf4634ced642e4bd06d3d442c99f9c_1782105036774577803.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240910091302134222",
+                        "name": "Lumpiang Shanghai",
+                        "priceInMinorUnit": 1200,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2025100402020517323",
+                "name": "Vegetables",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025100501050165926",
+                        "name": "Ginisang Monggo/Balatong",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100501050165926/photo/menueditor_item_361e326e2d66493c85739e4a4ebe4958_1759626272717425387.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100501050165926/photo/menueditor_item_361e326e2d66493c85739e4a4ebe4958_1759626272717425387.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100501050165926/detail/menueditor_item_361e326e2d66493c85739e4a4ebe4958_1759626272717425387.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100402031074450",
+                        "name": "Ampalaya with egg",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100402031074450/photo/menueditor_item_afa4382a74064b7f9c0d39af757fda83_1759543373074488886.avif",
+                        "description": "comes with plain rice",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100402031074450/photo/menueditor_item_afa4382a74064b7f9c0d39af757fda83_1759543373074488886.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100402031074450/detail/menueditor_item_afa4382a74064b7f9c0d39af757fda83_1759543373074488886.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100806051208721",
+                        "name": "Ginisang Upo",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100806051208721/photo/menueditor_item_b56af9b36d2847b8ae225c8fc5f1a902_1759903489579138415.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100806051208721/photo/menueditor_item_b56af9b36d2847b8ae225c8fc5f1a902_1759903489579138415.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100806051208721/detail/menueditor_item_b56af9b36d2847b8ae225c8fc5f1a902_1759903489579138415.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100703010725194",
+                        "name": "Pinakbet",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100703010725194/photo/menueditor_item_0f5c69d5793c41669270a9e4962bb603_1759806044430771626.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100703010725194/photo/menueditor_item_0f5c69d5793c41669270a9e4962bb603_1759806044430771626.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100703010725194/detail/menueditor_item_0f5c69d5793c41669270a9e4962bb603_1759806044430771626.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100702594237688",
+                        "name": "Ginisang Toge",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100702594237688/photo/menueditor_item_0c0650e46cdf41e8aee5f15aff7a8a97_1759805955371990235.avif",
+                        "description": "comes with Plain rice",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100702594237688/photo/menueditor_item_0c0650e46cdf41e8aee5f15aff7a8a97_1759805955371990235.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100702594237688/detail/menueditor_item_0c0650e46cdf41e8aee5f15aff7a8a97_1759805955371990235.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100407192943744",
+                        "name": "Chopsuey",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100407192943744/photo/menueditor_item_c10748572b89412a8a434b9d47c45c18_1773711878005912727.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100407192943744/photo/menueditor_item_c10748572b89412a8a434b9d47c45c18_1773711878005912727.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100407192943744/detail/menueditor_item_c10748572b89412a8a434b9d47c45c18_1773711878005912727.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100402062273899",
+                        "name": "Ginataan kalabasa",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100402062273899/photo/menueditor_item_926eb91ab42f45b2a758291e1eec6557_1759543549637603545.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100402062273899/photo/menueditor_item_926eb91ab42f45b2a758291e1eec6557_1759543549637603545.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100402062273899/detail/menueditor_item_926eb91ab42f45b2a758291e1eec6557_1759543549637603545.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2025070306473832884",
+                "name": "Turo Turo Fiesta",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025071002441713836",
+                        "name": "chicken adobo",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025071002441713836/photo/menueditor_item_dd72c64736984f9fa3b77acf1e19e276_1752115393074129974.avif",
+                        "description": "comes with white rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025071002441713836/photo/menueditor_item_dd72c64736984f9fa3b77acf1e19e276_1752115393074129974.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025071002441713836/detail/menueditor_item_dd72c64736984f9fa3b77acf1e19e276_1752115393074129974.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026073104494946737",
+                        "name": "Pork Kaldereta",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026073104494946737/photo/menueditor_item_9cc0a6b6e91443a4972aa1dd136ec191_1785473342946907818.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026073104494946737/photo/menueditor_item_9cc0a6b6e91443a4972aa1dd136ec191_1785473342946907818.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026073104494946737/detail/menueditor_item_9cc0a6b6e91443a4972aa1dd136ec191_1785473342946907818.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026062205144183240",
+                        "name": "Tokwat Baboy",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062205144183240/photo/menueditor_item_48f29ee29be64e73bcfc6c3f3ec7b552_1782105191773888902.avif",
+                        "description": "comes with white rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062205144183240/photo/menueditor_item_48f29ee29be64e73bcfc6c3f3ec7b552_1782105191773888902.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026062205144183240/detail/menueditor_item_48f29ee29be64e73bcfc6c3f3ec7b552_1782105191773888902.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025102507191548841",
+                        "name": "Pork Menudo",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102507191548841/photo/menueditor_item_4ecdba2ae32941e5ab56da5efa777731_1761376731964656315.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102507191548841/photo/menueditor_item_4ecdba2ae32941e5ab56da5efa777731_1761376731964656315.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025102507191548841/detail/menueditor_item_4ecdba2ae32941e5ab56da5efa777731_1761376731964656315.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025101903272503764",
+                        "name": "ginataang tilapia",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101903272503764/photo/menueditor_item_1f75a633176c49d881290e08d1cecda7_1760844358110633700.avif",
+                        "description": "paksiw sa gata na tilapia with rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101903272503764/photo/menueditor_item_1f75a633176c49d881290e08d1cecda7_1760844358110633700.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101903272503764/detail/menueditor_item_1f75a633176c49d881290e08d1cecda7_1760844358110633700.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025101803193164252",
+                        "name": "Sarciadong Tilapia",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101803193164252/photo/menueditor_item_4e3cba37979748cea44354bac0729694_1760757553152740080.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101803193164252/photo/menueditor_item_4e3cba37979748cea44354bac0729694_1760757553152740080.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101803193164252/detail/menueditor_item_4e3cba37979748cea44354bac0729694_1760757553152740080.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025101406524810121",
+                        "name": "Pork Binagoongan",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101406524810121/photo/menueditor_item_8799398c090047708f24b94f5a1f5caa_1760424749375299228.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101406524810121/photo/menueditor_item_8799398c090047708f24b94f5a1f5caa_1760424749375299228.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101406524810121/detail/menueditor_item_8799398c090047708f24b94f5a1f5caa_1760424749375299228.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025101003513301363",
+                        "name": "chicken leg barbeque",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101003513301363/photo/menueditor_item_114226c8a70640378e277a521637eeae_1760068198009774866.avif",
+                        "description": "chicken leg with rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101003513301363/photo/menueditor_item_114226c8a70640378e277a521637eeae_1760068198009774866.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025101003513301363/detail/menueditor_item_114226c8a70640378e277a521637eeae_1760068198009774866.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100903365779426",
+                        "name": "Chicken Curry",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100903365779426/photo/menueditor_item_b12cb5752d4e4e9191f90c758160cbe4_1759980990983113727.avif",
+                        "description": "comes with plain rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100903365779426/photo/menueditor_item_b12cb5752d4e4e9191f90c758160cbe4_1759980990983113727.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100903365779426/detail/menueditor_item_b12cb5752d4e4e9191f90c758160cbe4_1759980990983113727.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100702165688332",
+                        "name": "Tinolang Manok",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100702165688332/photo/menueditor_item_0ba0c35ef90a47c2859f5182e05a0a1b_1759803395069150502.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100702165688332/photo/menueditor_item_0ba0c35ef90a47c2859f5182e05a0a1b_1759803395069150502.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100702165688332/detail/menueditor_item_0ba0c35ef90a47c2859f5182e05a0a1b_1759803395069150502.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100602593244805",
+                        "name": "Chicken Afritada",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100602593244805/photo/menueditor_item_067f583c1505455dbcb81bb5cd030d54_1759812998679398906.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100602593244805/photo/menueditor_item_067f583c1505455dbcb81bb5cd030d54_1759812998679398906.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100602593244805/detail/menueditor_item_067f583c1505455dbcb81bb5cd030d54_1759812998679398906.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100602123982086",
+                        "name": "Pork Sinigang",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100602123982086/photo/menueditor_item_6d1d13fc3b7d40439cce78450f136f64_1759716737838232237.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100602123982086/photo/menueditor_item_6d1d13fc3b7d40439cce78450f136f64_1759716737838232237.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100602123982086/detail/menueditor_item_6d1d13fc3b7d40439cce78450f136f64_1759716737838232237.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100403520263358",
+                        "name": "Pork Mechado",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100403520263358/photo/menueditor_item_b5c1bfd3a12840e698c587c52e5101d9_1759549895049127968.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100403520263358/photo/menueditor_item_b5c1bfd3a12840e698c587c52e5101d9_1759549895049127968.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100403520263358/detail/menueditor_item_b5c1bfd3a12840e698c587c52e5101d9_1759549895049127968.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025100203150185274",
+                        "name": "Bicol Express",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100203150185274/photo/menueditor_item_fbd153e9cdc2460d9ce21a59d7bf1783_1759374849701156483.avif",
+                        "description": "comes with rice",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100203150185274/photo/menueditor_item_fbd153e9cdc2460d9ce21a59d7bf1783_1759374849701156483.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025100203150185274/detail/menueditor_item_fbd153e9cdc2460d9ce21a59d7bf1783_1759374849701156483.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025072503365144802",
+                        "name": "Pork Nilaga",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025072503365144802/photo/menueditor_item_921c64fe8b6744df92933a44ae03f0eb_1759543478628641687.avif",
+                        "description": "comes with plain rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025072503365144802/photo/menueditor_item_921c64fe8b6744df92933a44ae03f0eb_1759543478628641687.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025072503365144802/detail/menueditor_item_921c64fe8b6744df92933a44ae03f0eb_1759543478628641687.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025070505131787863",
+                        "name": "Pork Adobo",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070505131787863/photo/menueditor_item_a71eb08cdb3843519368ee4f73963d23_1751692341373657159.avif",
+                        "description": "comes with white rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070505131787863/photo/menueditor_item_a71eb08cdb3843519368ee4f73963d23_1751692341373657159.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070505131787863/detail/menueditor_item_a71eb08cdb3843519368ee4f73963d23_1751692341373657159.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025070501561438054",
+                        "name": "Bopis",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070501561438054/photo/menueditor_item_a3153890093345b9bced8cdb3e656bbc_1751680528487105940.avif",
+                        "description": "comes with rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\"},\"keep_unavailable_until\":\"2026-05-09T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070501561438054/photo/menueditor_item_a3153890093345b9bced8cdb3e656bbc_1751680528487105940.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070501561438054/detail/menueditor_item_a3153890093345b9bced8cdb3e656bbc_1751680528487105940.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025070306495662962",
+                        "name": "Pork Picadillo",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070306495662962/photo/menueditor_item_0105504f03244295853e76198521fe6a_1751525318594338642.avif",
+                        "description": "served with white rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070306495662962/photo/menueditor_item_0105504f03244295853e76198521fe6a_1751525318594338642.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025070306495662962/detail/menueditor_item_0105504f03244295853e76198521fe6a_1751525318594338642.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240910091301017422",
+                "name": "Meals",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20240910091301021310",
+                        "name": "Crispy Sisig with Rice",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091301021310/photo/menueditor_item_6765abfce7f3460f876b7c5905a0b530_1782628105772216433.avif",
+                        "description": "comes with plain rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\",\"modifier_tag\":{\"Popular\":[\"SGMOD20240920031942014003\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091301021310/photo/menueditor_item_6765abfce7f3460f876b7c5905a0b530_1782628105772216433.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091301021310/detail/menueditor_item_6765abfce7f3460f876b7c5905a0b530_1782628105772216433.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240910091301033509",
+                        "name": "Dinakdakan with Rice",
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091301033509/photo/menueditor_item_9e7fcc3027e640fa9e2fe6bc1bb0655a_1726711933660982633.avif",
+                        "description": "comes with plain rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091301033509/photo/menueditor_item_9e7fcc3027e640fa9e2fe6bc1bb0655a_1726711933660982633.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091301033509/detail/menueditor_item_9e7fcc3027e640fa9e2fe6bc1bb0655a_1726711933660982633.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240910091302028097",
+                "name": "Pansit Express",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026020312314758147",
+                        "name": "Pansit Canton/Lumpiang Shanghai",
+                        "priceInMinorUnit": 4990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026020312314758147/photo/menueditor_item_ff3b9ed6a3dd452aa881929b40a865a3_1770121841834557067.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 4990,
+                        "priceV2": {
+                            "amountInMinor": 4990,
+                            "amountDisplay": "49.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4990,
+                            "amountDisplay": "49.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-02-06T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026020312314758147/photo/menueditor_item_ff3b9ed6a3dd452aa881929b40a865a3_1770121841834557067.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026020312314758147/detail/menueditor_item_ff3b9ed6a3dd452aa881929b40a865a3_1770121841834557067.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026020312222380883",
+                        "name": "Pansit Bihon/Lumpiang Shanghai",
+                        "priceInMinorUnit": 4990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026020312222380883/photo/menueditor_item_97e0467d3a7b4680b6ec42a62d256370_1770121143513561822.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024092003143578092",
+                                "name": "Add-ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240920032119029883",
+                                        "name": "Ube/Macapuno Delight",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베/마카푸노 디라이트",
+                                                    "zh": "紫薯/椰丝美味"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920032119030703",
+                                        "name": "Mais Con Yelo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마이스 콘 옐로",
+                                                    "zh": "麦斯康耶洛"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20240920031942014003",
+                                        "name": "Special Halo Halo",
+                                        "priceInMinorUnit": 750,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 750,
+                                            "amountDisplay": "7.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스페셜 할로 할로",
+                                                    "zh": "特制哈啰哈啰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 항목",
+                                            "zh": "附加项"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 4990,
+                        "priceV2": {
+                            "amountInMinor": 4990,
+                            "amountDisplay": "49.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4990,
+                            "amountDisplay": "49.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-02-06T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026020312222380883/photo/menueditor_item_97e0467d3a7b4680b6ec42a62d256370_1770121143513561822.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026020312222380883/detail/menueditor_item_97e0467d3a7b4680b6ec42a62d256370_1770121143513561822.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026020312081108639",
+                        "name": "Pansit Malabon /Lumpia Shanghai",
+                        "priceInMinorUnit": 4990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026020312081108639/photo/menueditor_item_5172e7d7592740208e8b8bf9dc5872b2_1770120308508125022.avif",
+                        "description": "Savory Pansit Palabok with shrimp, garlic, and crunchy chicharrón topping, served with pork Lumpia Shanghai.",
+                        "discountedPriceInMin": 4990,
+                        "priceV2": {
+                            "amountInMinor": 4990,
+                            "amountDisplay": "49.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4990,
+                            "amountDisplay": "49.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-02-10T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026020312081108639/photo/menueditor_item_5172e7d7592740208e8b8bf9dc5872b2_1770120308508125022.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026020312081108639/detail/menueditor_item_5172e7d7592740208e8b8bf9dc5872b2_1770120308508125022.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240910091303016076",
+                "name": "Sweet Delights",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025083104382666758",
+                        "name": "Special puto",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025083104382666758/photo/menueditor_item_40cf315088114852b6de92ad95b4d09b_1756614999260301157.avif",
+                        "description": "special puto 6pcs",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_profanity_ar\",\"teen_hatespeech_ar\"]}}},\"keep_unavailable_until\":\"2026-05-07T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025083104382666758/photo/menueditor_item_40cf315088114852b6de92ad95b4d09b_1756614999260301157.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025083104382666758/detail/menueditor_item_40cf315088114852b6de92ad95b4d09b_1756614999260301157.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240910091303021409",
+                        "name": "Special Halo Halo",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091303021409/photo/menueditor_item_3ab1cdbc63c1436cb27443e6790891f6_1726588536547771412.avif",
+                        "description": "used ube ice for today",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091303021409/photo/menueditor_item_3ab1cdbc63c1436cb27443e6790891f6_1726588536547771412.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091303021409/detail/menueditor_item_3ab1cdbc63c1436cb27443e6790891f6_1726588536547771412.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240910091303033170",
+                        "name": "Mais Con Yelo",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091303033170/photo/menueditor_item_81cde0c0e43b4991be85dacd72201371_1726588744973039984.avif",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091303033170/photo/menueditor_item_81cde0c0e43b4991be85dacd72201371_1726588744973039984.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091303033170/detail/menueditor_item_81cde0c0e43b4991be85dacd72201371_1726588744973039984.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240910091303048154",
+                        "name": "Ube/Macapuno  Delight",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091303048154/photo/menueditor_item_1925d7e6d46d4373b214b2006d98802b_1726588613562621188.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20240910091127012612",
+                                "name": "Choice Of:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20240910091127018802",
+                                        "name": "Ube",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "우베",
+                                                    "zh": "紫薯"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20240910091127025888",
+                                        "name": "Macapuno",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마카푸노",
+                                                    "zh": "椰丝"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "선택:",
+                                            "zh": "选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-03-21T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20240910091127018802\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091303048154/photo/menueditor_item_1925d7e6d46d4373b214b2006d98802b_1726588613562621188.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240910091303048154/detail/menueditor_item_1925d7e6d46d4373b214b2006d98802b_1726588613562621188.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.6,
+    "voteCount": 501,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Sisig Plus - Changi General Hospital on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C6V3JUE2L7K1RJ"
+    },
+    "chainName": "Sisig Plus",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C6V3JUE2L7K1RJ/list/eec44d84-cb0b-40e7-9844-a9586b56e01c__listing_photo__2024__09__19__02__32__55.avif",
+    "branchName": "Changi General Hospital",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:00:00Z"
+    },
+    "translationTags": [
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

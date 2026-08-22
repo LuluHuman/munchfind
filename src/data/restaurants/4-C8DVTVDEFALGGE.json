@@ -1,0 +1,94 @@
+{
+    "ID": "4-C8DVTVDEFALGGE",
+    "name": "Alchemist - Tampines Central 5",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C8DVTVDEFALGGE/hero/2e2276db45644c7285f8fa3d6e3aa9e3_1787303781878044900.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "9:00am-8:30pm",
+        "mon": "8:00am-7:30pm",
+        "tue": "8:00am-7:30pm",
+        "wed": "8:00am-7:30pm",
+        "thu": "8:00am-7:30pm",
+        "fri": "8:00am-7:30pm",
+        "sat": "9:00am-8:30pm",
+        "tempClosed": true
+    },
+    "address": {
+        "name": "Alchemist - Tampines Central 5",
+        "combined_address": "4, Tampines Central 5, Singapore, Singapore States, 529510, #01-40/41, 529510",
+        "combined_city": "Singapore",
+        "house": "#01-40/41",
+        "street": "4, Tampines Central 5, Singapore, Singapore States, 529510",
+        "postcode": "529510",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3524722,
+        "lng": 103.9452392
+    },
+    "menu": {
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C8DVTVDEFALGGE/photos/2e2276db45644c7285f8fa3d6e3aa9e3_1787303781878044900.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Alchemist - Tampines Central 5 on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C8DVTVDEFALGGE"
+    },
+    "chainName": "Alchemist",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C8DVTVDEFALGGE/list/a7557a69c0fa4894857c80129e4af443_1787303777363809018.webp",
+    "branchName": "Tampines Central 5",
+    "roofTopBanner": {
+        "title": "Closed",
+        "type": "CLOSED"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

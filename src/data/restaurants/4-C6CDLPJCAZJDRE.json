@@ -1,0 +1,2942 @@
+{
+    "ID": "4-C6CDLPJCAZJDRE",
+    "name": "Redhill 85 - Eastpoint Mall",
+    "cuisine": "Chinese,Fishball Noodle,Mee Pok,Noodle",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C6CDLPJCAZJDRE/hero/0cc2265fe0fa47d8a1c6323157887b8d_1704361957626963686.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "9:00am-8:00pm",
+        "mon": "9:00am-8:00pm",
+        "tue": "9:00am-8:00pm",
+        "wed": "9:00am-8:00pm",
+        "thu": "9:00am-8:00pm",
+        "fri": "9:00am-8:00pm",
+        "sat": "9:00am-8:00pm"
+    },
+    "address": {
+        "name": "Redhill 85 - Eastpoint Mall",
+        "combined_address": "3, Simei Street 6, #B1-16, Tampines, 528833",
+        "combined_city": "Singapore",
+        "house": "#B1-16",
+        "street": "3, Simei Street 6",
+        "suburb": "Tampines",
+        "postcode": "528833",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3427472,
+        "lng": 103.9530126
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20251003091433014410",
+                "name": "Specialty Noodles",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20251003091434014856",
+                        "name": "Signature 85 Noodles",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434014856/photo/fd21e319_50cce5c04ac.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260728032028016017",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260728032028015898",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"765\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028026092",
+                                        "name": "Mee Kia 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"766\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (얇은 국수)",
+                                                    "zh": "细面（幼面）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028030141",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"767\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028043392",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"768\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028057726",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"769\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028068337",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"8093\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20251003091437042473",
+                                "name": "Noodle Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437048609",
+                                        "name": "Add Noodles 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "metadata": "{\"external_data\":\"770\",\"keep_unavailable_until\":\"2026-05-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437082397",
+                                        "name": "Add Signature Fishcake (1pc) 加鱼饼",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"771\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 어묵 추가 (1개)",
+                                                    "zh": "加鱼饼（1个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437127030",
+                                        "name": "Add Fishballs (3pc) 加鱼圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"772\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선볼 추가 (3개)",
+                                                    "zh": "添加鱼丸（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437130057",
+                                        "name": "Add Fish Dumpling (3pc) 加鱼饺",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"773\",\"keep_unavailable_until\":\"2026-08-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 만두 추가 (3개)",
+                                                    "zh": "加鱼饺（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437147262",
+                                        "name": "Add Teochew Meatballs (3pc) 加潮州肉圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"774\",\"keep_unavailable_until\":\"2026-04-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "조주 미트볼 추가 (3개)",
+                                                    "zh": "加潮州肉圆（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437156400",
+                                        "name": "Add Sliced Pork 加猪肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"775\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "슬라이스 돼지고기 추가",
+                                                    "zh": "加猪肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437178939",
+                                        "name": "Add Minced Meat 加肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"776\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 추가",
+                                                    "zh": "加肉末"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437186609",
+                                        "name": "Plain Soup 加汤",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"777\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맑은 국물 加汤",
+                                                    "zh": "加汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 추가",
+                                            "zh": "加面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20240104095656031232",
+                                "name": "Choice of Preparation",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091438035563",
+                                        "name": "Dry(Chilli) 干(辣椒)",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41592\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(고추)",
+                                                    "zh": "干（辣椒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091438016083",
+                                        "name": "Dry(No Chilli) 干(不辣)",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41593\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(매운맛 없음) 干(不辣)",
+                                                    "zh": "干(不辣)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091438022313",
+                                        "name": "Soup 汤",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41594\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "조리 방법 선택",
+                                            "zh": "制作方式选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"external_data\":\"48290\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434014856/photo/fd21e319_50cce5c04ac.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434014856/detail/fd21e319_50cce5c04ac.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251003091434027401",
+                        "name": "Mushroom Soft Rib Noodles",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434027401/photo/696d9c1d_3a1a4a00bdf.avif",
+                        "description": "Mushroom Soft Rib Noodles",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260728032028016017",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260728032028015898",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"765\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028026092",
+                                        "name": "Mee Kia 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"766\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (얇은 국수)",
+                                                    "zh": "细面（幼面）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028030141",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"767\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028043392",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"768\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028057726",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"769\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028068337",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"8093\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20251003091437042473",
+                                "name": "Noodle Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437048609",
+                                        "name": "Add Noodles 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "metadata": "{\"external_data\":\"770\",\"keep_unavailable_until\":\"2026-05-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437082397",
+                                        "name": "Add Signature Fishcake (1pc) 加鱼饼",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"771\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 어묵 추가 (1개)",
+                                                    "zh": "加鱼饼（1个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437127030",
+                                        "name": "Add Fishballs (3pc) 加鱼圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"772\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선볼 추가 (3개)",
+                                                    "zh": "添加鱼丸（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437130057",
+                                        "name": "Add Fish Dumpling (3pc) 加鱼饺",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"773\",\"keep_unavailable_until\":\"2026-08-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 만두 추가 (3개)",
+                                                    "zh": "加鱼饺（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437147262",
+                                        "name": "Add Teochew Meatballs (3pc) 加潮州肉圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"774\",\"keep_unavailable_until\":\"2026-04-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "조주 미트볼 추가 (3개)",
+                                                    "zh": "加潮州肉圆（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437156400",
+                                        "name": "Add Sliced Pork 加猪肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"775\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "슬라이스 돼지고기 추가",
+                                                    "zh": "加猪肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437178939",
+                                        "name": "Add Minced Meat 加肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"776\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 추가",
+                                                    "zh": "加肉末"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437186609",
+                                        "name": "Plain Soup 加汤",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"777\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맑은 국물 加汤",
+                                                    "zh": "加汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 추가",
+                                            "zh": "加面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20251003091437028052",
+                                "name": "Choice of Preparation",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437012905",
+                                        "name": "Dry(Chilli) 干(辣椒)",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41645\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(고추)",
+                                                    "zh": "干（辣椒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437058595",
+                                        "name": "Dry(No Chilli) 干(不辣)",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41646\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(매운맛 없음) 干(不辣)",
+                                                    "zh": "干(不辣)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437098091",
+                                        "name": "Soup 汤",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41647\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "조리 방법 선택",
+                                            "zh": "制作方式选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"external_data\":\"48294\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434027401/photo/696d9c1d_3a1a4a00bdf.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434027401/detail/696d9c1d_3a1a4a00bdf.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251003091434030055",
+                        "name": "Laksa",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434030055/photo/8285cc7f_0f1489decfd.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260728032028016017",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260728032028015898",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"765\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028026092",
+                                        "name": "Mee Kia 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"766\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (얇은 국수)",
+                                                    "zh": "细面（幼面）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028030141",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"767\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028043392",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"768\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028057726",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"769\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028068337",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"8093\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20251003091437042473",
+                                "name": "Noodle Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437048609",
+                                        "name": "Add Noodles 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "metadata": "{\"external_data\":\"770\",\"keep_unavailable_until\":\"2026-05-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437082397",
+                                        "name": "Add Signature Fishcake (1pc) 加鱼饼",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"771\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 어묵 추가 (1개)",
+                                                    "zh": "加鱼饼（1个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437127030",
+                                        "name": "Add Fishballs (3pc) 加鱼圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"772\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선볼 추가 (3개)",
+                                                    "zh": "添加鱼丸（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437130057",
+                                        "name": "Add Fish Dumpling (3pc) 加鱼饺",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"773\",\"keep_unavailable_until\":\"2026-08-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 만두 추가 (3개)",
+                                                    "zh": "加鱼饺（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437147262",
+                                        "name": "Add Teochew Meatballs (3pc) 加潮州肉圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"774\",\"keep_unavailable_until\":\"2026-04-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "조주 미트볼 추가 (3개)",
+                                                    "zh": "加潮州肉圆（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437156400",
+                                        "name": "Add Sliced Pork 加猪肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"775\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "슬라이스 돼지고기 추가",
+                                                    "zh": "加猪肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437178939",
+                                        "name": "Add Minced Meat 加肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"776\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 추가",
+                                                    "zh": "加肉末"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437186609",
+                                        "name": "Plain Soup 加汤",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"777\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맑은 국물 加汤",
+                                                    "zh": "加汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 추가",
+                                            "zh": "加面条"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"external_data\":\"48291\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434030055/photo/8285cc7f_0f1489decfd.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434030055/detail/8285cc7f_0f1489decfd.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251003091434046717",
+                        "name": "Handmade Fish Dumpling Noodles",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434046717/photo/2b0a25d5_2a738e20999.avif",
+                        "description": "Choose your noodles! Served with Fish Dumplings.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260728032028016017",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260728032028015898",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"765\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028026092",
+                                        "name": "Mee Kia 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"766\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (얇은 국수)",
+                                                    "zh": "细面（幼面）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028030141",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"767\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028043392",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"768\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028057726",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"769\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028068337",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"8093\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20251003091437042473",
+                                "name": "Noodle Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437048609",
+                                        "name": "Add Noodles 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "metadata": "{\"external_data\":\"770\",\"keep_unavailable_until\":\"2026-05-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437082397",
+                                        "name": "Add Signature Fishcake (1pc) 加鱼饼",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"771\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 어묵 추가 (1개)",
+                                                    "zh": "加鱼饼（1个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437127030",
+                                        "name": "Add Fishballs (3pc) 加鱼圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"772\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선볼 추가 (3개)",
+                                                    "zh": "添加鱼丸（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437130057",
+                                        "name": "Add Fish Dumpling (3pc) 加鱼饺",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"773\",\"keep_unavailable_until\":\"2026-08-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 만두 추가 (3개)",
+                                                    "zh": "加鱼饺（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437147262",
+                                        "name": "Add Teochew Meatballs (3pc) 加潮州肉圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"774\",\"keep_unavailable_until\":\"2026-04-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "조주 미트볼 추가 (3개)",
+                                                    "zh": "加潮州肉圆（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437156400",
+                                        "name": "Add Sliced Pork 加猪肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"775\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "슬라이스 돼지고기 추가",
+                                                    "zh": "加猪肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437178939",
+                                        "name": "Add Minced Meat 加肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"776\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 추가",
+                                                    "zh": "加肉末"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437186609",
+                                        "name": "Plain Soup 加汤",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"777\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맑은 국물 加汤",
+                                                    "zh": "加汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 추가",
+                                            "zh": "加面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20251003091437037791",
+                                "name": "Choice of Preparation",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437037036",
+                                        "name": "Dry(Chilli) 干(辣椒)",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41670\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(고추)",
+                                                    "zh": "干（辣椒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437061651",
+                                        "name": "Dry(No Chilli) 干(不辣)",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41671\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(매운맛 없음) 干(不辣)",
+                                                    "zh": "干(不辣)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437105206",
+                                        "name": "Soup 汤",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41672\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "조리 방법 선택",
+                                            "zh": "制作方式选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"external_data\":\"48299\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434046717/photo/2b0a25d5_2a738e20999.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091434046717/detail/2b0a25d5_2a738e20999.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251003091435011039",
+                        "name": "Teochew Meatball Noodles",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435011039/photo/2e964b39_6513c76eccb.avif",
+                        "description": "Teochew Meatball Noodles",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260728032028016017",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260728032028015898",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"765\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028026092",
+                                        "name": "Mee Kia 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"766\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (얇은 국수)",
+                                                    "zh": "细面（幼面）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028030141",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"767\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028043392",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"768\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028057726",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"769\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028068337",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"8093\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20251003091437042473",
+                                "name": "Noodle Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437048609",
+                                        "name": "Add Noodles 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "metadata": "{\"external_data\":\"770\",\"keep_unavailable_until\":\"2026-05-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437082397",
+                                        "name": "Add Signature Fishcake (1pc) 加鱼饼",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"771\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 어묵 추가 (1개)",
+                                                    "zh": "加鱼饼（1个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437127030",
+                                        "name": "Add Fishballs (3pc) 加鱼圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"772\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선볼 추가 (3개)",
+                                                    "zh": "添加鱼丸（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437130057",
+                                        "name": "Add Fish Dumpling (3pc) 加鱼饺",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"773\",\"keep_unavailable_until\":\"2026-08-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 만두 추가 (3개)",
+                                                    "zh": "加鱼饺（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437147262",
+                                        "name": "Add Teochew Meatballs (3pc) 加潮州肉圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"774\",\"keep_unavailable_until\":\"2026-04-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "조주 미트볼 추가 (3개)",
+                                                    "zh": "加潮州肉圆（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437156400",
+                                        "name": "Add Sliced Pork 加猪肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"775\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "슬라이스 돼지고기 추가",
+                                                    "zh": "加猪肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437178939",
+                                        "name": "Add Minced Meat 加肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"776\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 추가",
+                                                    "zh": "加肉末"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437186609",
+                                        "name": "Plain Soup 加汤",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"777\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맑은 국물 加汤",
+                                                    "zh": "加汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 추가",
+                                            "zh": "加面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20240104095656027464",
+                                "name": "Choice of Preparation",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091438053092",
+                                        "name": "Dry(Chilli) 干(辣椒)",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41606\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(고추)",
+                                                    "zh": "干（辣椒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091438075745",
+                                        "name": "Dry(No Chilli) 干(不辣)",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41607\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(매운맛 없음) 干(不辣)",
+                                                    "zh": "干(不辣)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091438097683",
+                                        "name": "Soup 汤",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41608\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "조리 방법 선택",
+                                            "zh": "制作方式选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"external_data\":\"48292\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435011039/photo/2e964b39_6513c76eccb.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435011039/detail/2e964b39_6513c76eccb.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251003091435022087",
+                        "name": "Mushroom Minced Meat Noodles",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435022087/photo/ab116012_56f75c715cb.avif",
+                        "description": "Noodles served with sliced and minced pork, a pork ball and Ding Ji braised mushroom slices.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260728032028016017",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260728032028015898",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"765\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028026092",
+                                        "name": "Mee Kia 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"766\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (얇은 국수)",
+                                                    "zh": "细面（幼面）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028030141",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"767\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028043392",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"768\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028057726",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"769\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028068337",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"8093\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20251003091437042473",
+                                "name": "Noodle Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437048609",
+                                        "name": "Add Noodles 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "metadata": "{\"external_data\":\"770\",\"keep_unavailable_until\":\"2026-05-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437082397",
+                                        "name": "Add Signature Fishcake (1pc) 加鱼饼",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"771\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 어묵 추가 (1개)",
+                                                    "zh": "加鱼饼（1个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437127030",
+                                        "name": "Add Fishballs (3pc) 加鱼圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"772\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선볼 추가 (3개)",
+                                                    "zh": "添加鱼丸（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437130057",
+                                        "name": "Add Fish Dumpling (3pc) 加鱼饺",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"773\",\"keep_unavailable_until\":\"2026-08-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 만두 추가 (3개)",
+                                                    "zh": "加鱼饺（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437147262",
+                                        "name": "Add Teochew Meatballs (3pc) 加潮州肉圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"774\",\"keep_unavailable_until\":\"2026-04-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "조주 미트볼 추가 (3개)",
+                                                    "zh": "加潮州肉圆（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437156400",
+                                        "name": "Add Sliced Pork 加猪肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"775\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "슬라이스 돼지고기 추가",
+                                                    "zh": "加猪肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437178939",
+                                        "name": "Add Minced Meat 加肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"776\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 추가",
+                                                    "zh": "加肉末"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437186609",
+                                        "name": "Plain Soup 加汤",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"777\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맑은 국물 加汤",
+                                                    "zh": "加汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 추가",
+                                            "zh": "加面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20251003091437016599",
+                                "name": "Choice of Preparation",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437025813",
+                                        "name": "Dry(Chilli) 干(辣椒)",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41631\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(고추)",
+                                                    "zh": "干（辣椒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437072171",
+                                        "name": "Dry(No Chilli) 干(不辣)",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41632\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(매운맛 없음) 干(不辣)",
+                                                    "zh": "干(不辣)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437111498",
+                                        "name": "Soup 汤",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41633\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "조리 방법 선택",
+                                            "zh": "制作方式选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"external_data\":\"48293\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435022087/photo/ab116012_56f75c715cb.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435022087/detail/ab116012_56f75c715cb.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251003091435038390",
+                        "name": "Teochew Fishball Noodles",
+                        "available": true,
+                        "priceInMinorUnit": 630,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435038390/photo/84c9eb5d_977b1ec20b2.avif",
+                        "description": "Bouncy Teochew fishball with tender noodles",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260728032028016017",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260728032028015898",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"765\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028026092",
+                                        "name": "Mee Kia 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"766\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (얇은 국수)",
+                                                    "zh": "细面（幼面）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028030141",
+                                        "name": "Yellow Noodle 黄面",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"767\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028043392",
+                                        "name": "Kway Teow 粿条",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"768\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028057726",
+                                        "name": "Thin Bee Hoon 细米粉",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"769\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 쌀국수",
+                                                    "zh": "细米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260728032028068337",
+                                        "name": "Thick Bee Hoon 粗米粉",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"8093\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "굵은 쌀국수",
+                                                    "zh": "粗米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20251003091437042473",
+                                "name": "Noodle Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437048609",
+                                        "name": "Add Noodles 加面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "metadata": "{\"external_data\":\"770\",\"keep_unavailable_until\":\"2026-05-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면 추가",
+                                                    "zh": "加面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437082397",
+                                        "name": "Add Signature Fishcake (1pc) 加鱼饼",
+                                        "available": true,
+                                        "priceInMinorUnit": 350,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 350,
+                                            "amountDisplay": "3.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"771\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "시그니처 어묵 추가 (1개)",
+                                                    "zh": "加鱼饼（1个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437127030",
+                                        "name": "Add Fishballs (3pc) 加鱼圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"772\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선볼 추가 (3개)",
+                                                    "zh": "添加鱼丸（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437130057",
+                                        "name": "Add Fish Dumpling (3pc) 加鱼饺",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"773\",\"keep_unavailable_until\":\"2026-08-01T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 만두 추가 (3개)",
+                                                    "zh": "加鱼饺（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437147262",
+                                        "name": "Add Teochew Meatballs (3pc) 加潮州肉圆",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"774\",\"keep_unavailable_until\":\"2026-04-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "조주 미트볼 추가 (3개)",
+                                                    "zh": "加潮州肉圆（3个）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437156400",
+                                        "name": "Add Sliced Pork 加猪肉片",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"775\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "슬라이스 돼지고기 추가",
+                                                    "zh": "加猪肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437178939",
+                                        "name": "Add Minced Meat 加肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "metadata": "{\"external_data\":\"776\",\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 고기 추가",
+                                                    "zh": "加肉末"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437186609",
+                                        "name": "Plain Soup 加汤",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "metadata": "{\"external_data\":\"777\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맑은 국물 加汤",
+                                                    "zh": "加汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 추가",
+                                            "zh": "加面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20240104095656047348",
+                                "name": "Choice of Preparation",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251003091437165411",
+                                        "name": "Dry(Chilli) 干(辣椒)",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41578\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(고추)",
+                                                    "zh": "干（辣椒）"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437193887",
+                                        "name": "Dry(No Chilli) 干(不辣)",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41579\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조(매운맛 없음) 干(不辣)",
+                                                    "zh": "干(不辣)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20251003091437208200",
+                                        "name": "Soup 汤",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"41580\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수프",
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "조리 방법 선택",
+                                            "zh": "制作方式选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 630,
+                        "priceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "metadata": "{\"external_data\":\"48289\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435038390/photo/84c9eb5d_977b1ec20b2.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435038390/detail/84c9eb5d_977b1ec20b2.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20251003091435013071",
+                "name": "Soup",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20251003091435045275",
+                        "name": "Fishball Soup",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435045275/photo/bedb8384_2748c4b26fc.avif",
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"external_data\":\"48315\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435045275/photo/bedb8384_2748c4b26fc.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091435045275/detail/bedb8384_2748c4b26fc.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251003091436019690",
+                        "name": "Teochew Meatball Soup",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091436019690/photo/722b78f0_0722fbf10a30.avif",
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"external_data\":\"48317\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091436019690/photo/722b78f0_0722fbf10a30.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091436019690/detail/722b78f0_0722fbf10a30.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20251003091437013798",
+                        "name": "Fish Dumpling Soup",
+                        "available": true,
+                        "priceInMinorUnit": 720,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091437013798/photo/e7d1d913_7b91c8cb810d.avif",
+                        "discountedPriceInMin": 720,
+                        "priceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 720,
+                            "amountDisplay": "7.20"
+                        },
+                        "metadata": "{\"external_data\":\"48316\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-01T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091437013798/photo/e7d1d913_7b91c8cb810d.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20251003091437013798/detail/e7d1d913_7b91c8cb810d.avif"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.3,
+    "voteCount": 193,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Redhill 85 - Eastpoint Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C6CDLPJCAZJDRE"
+    },
+    "chainName": "Redhill 85",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C6CDLPJCAZJDRE/list/a55a7b9956604e3389a0ea3aed22e6c4_1704361954312053012.avif",
+    "branchName": "Eastpoint Mall",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 9:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T01:00:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

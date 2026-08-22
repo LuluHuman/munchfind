@@ -1,0 +1,3510 @@
+{
+    "ID": "4-C7W1R3JDLY2AJ2",
+    "name": "New Shah Alam - Circular Road",
+    "cuisine": "Malaysian,Noodle,Dosa",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7W1R3JDLY2AJ2/hero/c98e05c9a9ff4a3fa671c8ee45540663_1767779560485881348.webp",
+    "openingHours": {
+        "open": true,
+        "displayedHours": "00:01-04:00 08:00-23:59",
+        "sun": "12:01am-4:00am 8:00am-11:59pm",
+        "mon": "12:01am-5:00am 8:00am-11:59pm",
+        "tue": "12:01am-5:00am 8:00am-11:59pm",
+        "wed": "12:01am-5:00am 8:00am-11:59pm",
+        "thu": "12:01am-5:00am 8:00am-11:59pm",
+        "fri": "12:01am-5:00am 8:00am-11:59pm",
+        "sat": "12:01am-5:00am 8:00am-11:59pm"
+    },
+    "address": {
+        "name": "New Shah Alam - Circular Road",
+        "combined_address": "20-21, Circular Road, Level 1, 049367",
+        "combined_city": "Singapore",
+        "house": "Level 1",
+        "street": "20-21, Circular Road",
+        "postcode": "049367",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.2866714,
+        "lng": 103.8490196
+    },
+    "menu": {
+        "categories": [
+            {
+                "name": "For You",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026011403573065774",
+                        "name": "Maggie Goreng chicken",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVCWKE2UVN8436.webp",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRVCWKE2UVN8436\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVCWKE2UVN8436.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRVCWKE2UVN8436.webp"
+                        ],
+                        "tagLabels": [
+                            {
+                                "text": "Most ordered",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 3,
+                                "subLabelType": "MOST_ORDERED"
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094713015797",
+                        "name": "Bee Hoon Goreng with Meat",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVSEVAV63GRJ0080.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092245016528",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 4,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092245010509",
+                                        "name": "Hotdog",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫도그",
+                                                    "zh": "热狗"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245025471",
+                                        "name": "Fish Cake",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 케이크",
+                                                    "zh": "鱼饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245032990",
+                                        "name": "Toufu",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "두부",
+                                                    "zh": "豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245044832",
+                                        "name": "Potato",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "감자",
+                                                    "zh": "土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVSEVAV63GRJ0080\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVSEVAV63GRJ0080.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVSEVAV63GRJ0080.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094712117834",
+                        "name": "Nasi Goreng with Meat",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRYTCHCJKN29012.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092245016528",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 4,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092245010509",
+                                        "name": "Hotdog",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫도그",
+                                                    "zh": "热狗"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245025471",
+                                        "name": "Fish Cake",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 케이크",
+                                                    "zh": "鱼饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245032990",
+                                        "name": "Toufu",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "두부",
+                                                    "zh": "豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245044832",
+                                        "name": "Potato",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "감자",
+                                                    "zh": "土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRYTCHCJKN29012\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRYTCHCJKN29012.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRYTCHCJKN29012.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011403563018362",
+                        "name": "Keow teow Goreng",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRU3XCBMUNE2031.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRU3XCBMUNE2031\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRU3XCBMUNE2031.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRU3XCBMUNE2031.webp"
+                        ],
+                        "tagLabels": [
+                            {
+                                "text": "Signature dish",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 6,
+                                "subLabelType": "SIGNATURE_DISH"
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011403525698202",
+                        "name": "Mee Goreng",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVNDERKFL68499.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRVNDERKFL68499\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVNDERKFL68499.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRVNDERKFL68499.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011403551027328",
+                        "name": "Maggie Goreng",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVCFAJWVC69430.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRVCFAJWVC69430\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVCFAJWVC69430.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRVCFAJWVC69430.webp"
+                        ],
+                        "tagLabels": [
+                            {
+                                "text": "Signature dish",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 6,
+                                "subLabelType": "SIGNATURE_DISH"
+                            }
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094712107878",
+                        "name": "Maggie Goreng with Meat",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVBUJYMYL24998.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092245016528",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 4,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092245010509",
+                                        "name": "Hotdog",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫도그",
+                                                    "zh": "热狗"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245025471",
+                                        "name": "Fish Cake",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 케이크",
+                                                    "zh": "鱼饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245032990",
+                                        "name": "Toufu",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "두부",
+                                                    "zh": "豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245044832",
+                                        "name": "Potato",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "감자",
+                                                    "zh": "土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRVBUJYMYL24998\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVBUJYMYL24998.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRVBUJYMYL24998.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011403534394687",
+                        "name": "Nasi Goreng",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRUCEA8BBVJ3867.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRUCEA8BBVJ3867\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRUCEA8BBVJ3867.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRUCEA8BBVJ3867.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ],
+                "categoryType": 2
+            },
+            {
+                "ID": "SGCAT20260107094711011459",
+                "name": "Today's Special for Lunch",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094711027876",
+                        "name": "Friday - Fish Dum Briyani",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094711026750",
+                "name": "Briyani",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094711038121",
+                        "name": "Mutton Briyani",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094711048534",
+                        "name": "Chicken Briyani",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094711059426",
+                        "name": "Vegetable Briyani",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094711069045",
+                        "name": "Fish Briyani",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094711030336",
+                "name": "Chicken Varieties",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094711079516",
+                        "name": "Chicken 65",
+                        "available": true,
+                        "priceInMinorUnit": 475,
+                        "discountedPriceInMin": 475,
+                        "priceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094711082478",
+                        "name": "Chicken Sambal",
+                        "available": true,
+                        "priceInMinorUnit": 475,
+                        "discountedPriceInMin": 475,
+                        "priceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094711091778",
+                        "name": "Chicken Masala",
+                        "available": true,
+                        "priceInMinorUnit": 475,
+                        "discountedPriceInMin": 475,
+                        "priceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094711107142",
+                        "name": "Mysore Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 475,
+                        "discountedPriceInMin": 475,
+                        "priceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094711116227",
+                        "name": "SPL Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 475,
+                        "discountedPriceInMin": 475,
+                        "priceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094712018091",
+                "name": "Mutton Varieties",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094712014336",
+                        "name": "Mutton Masala",
+                        "available": true,
+                        "priceInMinorUnit": 540,
+                        "discountedPriceInMin": 540,
+                        "priceV2": {
+                            "amountInMinor": 540,
+                            "amountDisplay": "5.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 540,
+                            "amountDisplay": "5.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094712027863",
+                        "name": "Curry Mutton",
+                        "available": true,
+                        "priceInMinorUnit": 540,
+                        "discountedPriceInMin": 540,
+                        "priceV2": {
+                            "amountInMinor": 540,
+                            "amountDisplay": "5.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 540,
+                            "amountDisplay": "5.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094712037894",
+                "name": "Soup Varieties",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094712061938",
+                        "name": "Maggie Soup",
+                        "available": true,
+                        "priceInMinorUnit": 540,
+                        "discountedPriceInMin": 540,
+                        "priceV2": {
+                            "amountInMinor": 540,
+                            "amountDisplay": "5.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 540,
+                            "amountDisplay": "5.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094712076067",
+                        "name": "Mee Kwah",
+                        "available": true,
+                        "priceInMinorUnit": 675,
+                        "discountedPriceInMin": 675,
+                        "priceV2": {
+                            "amountInMinor": 675,
+                            "amountDisplay": "6.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 675,
+                            "amountDisplay": "6.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094712084846",
+                        "name": "Bee Hoon Kwah",
+                        "available": true,
+                        "priceInMinorUnit": 675,
+                        "discountedPriceInMin": 675,
+                        "priceV2": {
+                            "amountInMinor": 675,
+                            "amountDisplay": "6.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 675,
+                            "amountDisplay": "6.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094712098021",
+                        "name": "Kway Teow Kwah",
+                        "available": true,
+                        "priceInMinorUnit": 675,
+                        "discountedPriceInMin": 675,
+                        "priceV2": {
+                            "amountInMinor": 675,
+                            "amountDisplay": "6.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 675,
+                            "amountDisplay": "6.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094712044053",
+                "name": "Goreng Varieties with Meat",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026011403573065774",
+                        "name": "Maggie Goreng chicken",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVCWKE2UVN8436.webp",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRVCWKE2UVN8436\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVCWKE2UVN8436.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRVCWKE2UVN8436.webp"
+                        ],
+                        "tagLabels": [
+                            {
+                                "text": "Most ordered",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 3,
+                                "subLabelType": "MOST_ORDERED"
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094712107878",
+                        "name": "Maggie Goreng with Meat",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVBUJYMYL24998.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092245016528",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 4,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092245010509",
+                                        "name": "Hotdog",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫도그",
+                                                    "zh": "热狗"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245025471",
+                                        "name": "Fish Cake",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 케이크",
+                                                    "zh": "鱼饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245032990",
+                                        "name": "Toufu",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "두부",
+                                                    "zh": "豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245044832",
+                                        "name": "Potato",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "감자",
+                                                    "zh": "土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRVBUJYMYL24998\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVBUJYMYL24998.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRVBUJYMYL24998.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094712117834",
+                        "name": "Nasi Goreng with Meat",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRYTCHCJKN29012.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092245016528",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 4,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092245010509",
+                                        "name": "Hotdog",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫도그",
+                                                    "zh": "热狗"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245025471",
+                                        "name": "Fish Cake",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 케이크",
+                                                    "zh": "鱼饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245032990",
+                                        "name": "Toufu",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "두부",
+                                                    "zh": "豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245044832",
+                                        "name": "Potato",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "감자",
+                                                    "zh": "土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRYTCHCJKN29012\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRYTCHCJKN29012.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRYTCHCJKN29012.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094713015797",
+                        "name": "Bee Hoon Goreng with Meat",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVSEVAV63GRJ0080.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092245016528",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 4,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092245010509",
+                                        "name": "Hotdog",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫도그",
+                                                    "zh": "热狗"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245025471",
+                                        "name": "Fish Cake",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 케이크",
+                                                    "zh": "鱼饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245032990",
+                                        "name": "Toufu",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "두부",
+                                                    "zh": "豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245044832",
+                                        "name": "Potato",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "감자",
+                                                    "zh": "土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVSEVAV63GRJ0080\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVSEVAV63GRJ0080.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVSEVAV63GRJ0080.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094713020499",
+                        "name": "Mata Lembu with Meat",
+                        "available": true,
+                        "priceInMinorUnit": 70,
+                        "discountedPriceInMin": 70,
+                        "priceV2": {
+                            "amountInMinor": 70,
+                            "amountDisplay": "0.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 70,
+                            "amountDisplay": "0.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094713039135",
+                        "name": "Mee Goreng with Meat",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092245016528",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 4,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092245010509",
+                                        "name": "Hotdog",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫도그",
+                                                    "zh": "热狗"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245025471",
+                                        "name": "Fish Cake",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 케이크",
+                                                    "zh": "鱼饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245032990",
+                                        "name": "Toufu",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "두부",
+                                                    "zh": "豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245044832",
+                                        "name": "Potato",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "감자",
+                                                    "zh": "土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094713044810",
+                        "name": "Kway Teow Goreng with Meat",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092245016528",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 4,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092245010509",
+                                        "name": "Hotdog",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "핫도그",
+                                                    "zh": "热狗"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245025471",
+                                        "name": "Fish Cake",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "생선 케이크",
+                                                    "zh": "鱼饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245032990",
+                                        "name": "Toufu",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "두부",
+                                                    "zh": "豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092245044832",
+                                        "name": "Potato",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "감자",
+                                                    "zh": "土豆"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 4
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094713018736",
+                "name": "Goreng Varieties without Meat",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026011403563018362",
+                        "name": "Keow teow Goreng",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRU3XCBMUNE2031.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRU3XCBMUNE2031\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRU3XCBMUNE2031.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRU3XCBMUNE2031.webp"
+                        ],
+                        "tagLabels": [
+                            {
+                                "text": "Signature dish",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 6,
+                                "subLabelType": "SIGNATURE_DISH"
+                            }
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011403551027328",
+                        "name": "Maggie Goreng",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVCFAJWVC69430.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRVCFAJWVC69430\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVCFAJWVC69430.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRVCFAJWVC69430.webp"
+                        ],
+                        "tagLabels": [
+                            {
+                                "text": "Signature dish",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 6,
+                                "subLabelType": "SIGNATURE_DISH"
+                            }
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011403534394687",
+                        "name": "Nasi Goreng",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRUCEA8BBVJ3867.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRUCEA8BBVJ3867\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRUCEA8BBVJ3867.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRUCEA8BBVJ3867.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026011403525698202",
+                        "name": "Mee Goreng",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVNDERKFL68499.webp",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C6WVRVNDERKFL68499\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C6WVRVNDERKFL68499.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C6WVRVNDERKFL68499.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094713098286",
+                        "name": "Bee Hoon Goreng without Meat",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094713026547",
+                "name": "Set Lunch",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094714017497",
+                        "name": "White Rice with 2 Veg",
+                        "available": true,
+                        "priceInMinorUnit": 410,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092746015627",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092746019753",
+                                        "name": "Chappathi",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차파티",
+                                                    "zh": "恰帕蒂"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092746023288",
+                                        "name": "Prata",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프라타",
+                                                    "zh": "印度煎饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 410,
+                        "priceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 410,
+                            "amountDisplay": "4.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094714027696",
+                        "name": "White Rice with 1 Veg & 1 Meat",
+                        "available": true,
+                        "priceInMinorUnit": 570,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092746015627",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092746019753",
+                                        "name": "Chappathi",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차파티",
+                                                    "zh": "恰帕蒂"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092746023288",
+                                        "name": "Prata",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프라타",
+                                                    "zh": "印度煎饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 570,
+                        "priceV2": {
+                            "amountInMinor": 570,
+                            "amountDisplay": "5.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 570,
+                            "amountDisplay": "5.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094714035261",
+                        "name": "White Rice with 2 Veg & 1 Meat",
+                        "available": true,
+                        "priceInMinorUnit": 635,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092746015627",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092746019753",
+                                        "name": "Chappathi",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차파티",
+                                                    "zh": "恰帕蒂"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092746023288",
+                                        "name": "Prata",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프라타",
+                                                    "zh": "印度煎饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 635,
+                        "priceV2": {
+                            "amountInMinor": 635,
+                            "amountDisplay": "6.35"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 635,
+                            "amountDisplay": "6.35"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094714046032",
+                        "name": "White Rice with 1 Veg & 2 Meat",
+                        "available": true,
+                        "priceInMinorUnit": 945,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260107092746015627",
+                                "name": "Add On:",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260107092746019753",
+                                        "name": "Chappathi",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "차파티",
+                                                    "zh": "恰帕蒂"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20260107092746023288",
+                                        "name": "Prata",
+                                        "available": true,
+                                        "priceInMinorUnit": 135,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 135,
+                                            "amountDisplay": "1.35"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "프라타",
+                                                    "zh": "印度煎饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가:",
+                                            "zh": "加料："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 945,
+                        "priceV2": {
+                            "amountInMinor": 945,
+                            "amountDisplay": "9.45"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 945,
+                            "amountDisplay": "9.45"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094714013780",
+                "name": "Dosa Varieties",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094714051235",
+                        "name": "Ghee Roast",
+                        "available": true,
+                        "priceInMinorUnit": 340,
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094714066088",
+                        "name": "Masala Dosa",
+                        "available": true,
+                        "priceInMinorUnit": 340,
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094714071770",
+                        "name": "Plain Dosa",
+                        "available": true,
+                        "priceInMinorUnit": 215,
+                        "discountedPriceInMin": 215,
+                        "priceV2": {
+                            "amountInMinor": 215,
+                            "amountDisplay": "2.15"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 215,
+                            "amountDisplay": "2.15"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094714088042",
+                        "name": "Onion Dosa",
+                        "available": true,
+                        "priceInMinorUnit": 340,
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094714093976",
+                        "name": "Cheese Dosa",
+                        "available": true,
+                        "priceInMinorUnit": 340,
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094714108723",
+                        "name": "Egg Onion Dosa",
+                        "available": true,
+                        "priceInMinorUnit": 340,
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094714116634",
+                        "name": "Plain Uthappam",
+                        "available": true,
+                        "priceInMinorUnit": 225,
+                        "discountedPriceInMin": 225,
+                        "priceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094714121162",
+                        "name": "Onion Uthappam",
+                        "available": true,
+                        "priceInMinorUnit": 340,
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094715018279",
+                "name": "Murtabak Varieties",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094715012798",
+                        "name": "Mutton Murtabak",
+                        "available": true,
+                        "priceInMinorUnit": 810,
+                        "discountedPriceInMin": 810,
+                        "priceV2": {
+                            "amountInMinor": 810,
+                            "amountDisplay": "8.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 810,
+                            "amountDisplay": "8.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094715026082",
+                        "name": "Chicken Murtabak",
+                        "available": true,
+                        "priceInMinorUnit": 810,
+                        "discountedPriceInMin": 810,
+                        "priceV2": {
+                            "amountInMinor": 810,
+                            "amountDisplay": "8.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 810,
+                            "amountDisplay": "8.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094715039555",
+                        "name": "Sardine Murtabak",
+                        "available": true,
+                        "priceInMinorUnit": 810,
+                        "discountedPriceInMin": 810,
+                        "priceV2": {
+                            "amountInMinor": 810,
+                            "amountDisplay": "8.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 810,
+                            "amountDisplay": "8.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20260107094715046920",
+                        "name": "Vegetable Murtabak",
+                        "available": true,
+                        "priceInMinorUnit": 810,
+                        "discountedPriceInMin": 810,
+                        "priceV2": {
+                            "amountInMinor": 810,
+                            "amountDisplay": "8.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 810,
+                            "amountDisplay": "8.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094715022745",
+                "name": "Prata Varieties",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094715054446",
+                        "name": "Egg Prata",
+                        "available": true,
+                        "priceInMinorUnit": 225,
+                        "discountedPriceInMin": 225,
+                        "priceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "tagLabels": [
+                            {
+                                "text": "Most ordered",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 3,
+                                "subLabelType": "MOST_ORDERED"
+                            }
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094715063298",
+                        "name": "Plain Prata",
+                        "available": true,
+                        "priceInMinorUnit": 135,
+                        "discountedPriceInMin": 135,
+                        "priceV2": {
+                            "amountInMinor": 135,
+                            "amountDisplay": "1.35"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 135,
+                            "amountDisplay": "1.35"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "tagLabels": [
+                            {
+                                "text": "Most ordered",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 3,
+                                "subLabelType": "MOST_ORDERED"
+                            }
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094715077800",
+                        "name": "Chappathi",
+                        "available": true,
+                        "priceInMinorUnit": 135,
+                        "discountedPriceInMin": 135,
+                        "priceV2": {
+                            "amountInMinor": 135,
+                            "amountDisplay": "1.35"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 135,
+                            "amountDisplay": "1.35"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094715081397",
+                        "name": "Onion Prata",
+                        "available": true,
+                        "priceInMinorUnit": 225,
+                        "discountedPriceInMin": 225,
+                        "priceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094715093042",
+                        "name": "Plaster",
+                        "available": true,
+                        "priceInMinorUnit": 225,
+                        "discountedPriceInMin": 225,
+                        "priceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094715103187",
+                        "name": "Tissue Prata",
+                        "available": true,
+                        "priceInMinorUnit": 270,
+                        "discountedPriceInMin": 270,
+                        "priceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094715110326",
+                        "name": "Egg & Onion Prata",
+                        "available": true,
+                        "priceInMinorUnit": 270,
+                        "discountedPriceInMin": 270,
+                        "priceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094715124825",
+                        "name": "Cheese Prata",
+                        "available": true,
+                        "priceInMinorUnit": 340,
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "tagLabels": [
+                            {
+                                "text": "Most liked",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 5,
+                                "subLabelType": "MOST_LIKED"
+                            }
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094715130206",
+                        "name": "Mushroom Prata",
+                        "available": true,
+                        "priceInMinorUnit": 340,
+                        "discountedPriceInMin": 340,
+                        "priceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 340,
+                            "amountDisplay": "3.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094715148535",
+                        "name": "Egg Onion Cheese",
+                        "available": true,
+                        "priceInMinorUnit": 475,
+                        "discountedPriceInMin": 475,
+                        "priceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 475,
+                            "amountDisplay": "4.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716019647",
+                        "name": "Sardine Prata",
+                        "available": true,
+                        "priceInMinorUnit": 540,
+                        "discountedPriceInMin": 540,
+                        "priceV2": {
+                            "amountInMinor": 540,
+                            "amountDisplay": "5.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 540,
+                            "amountDisplay": "5.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094716013392",
+                "name": "Home Made Hot / Cold Drink",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094716024995",
+                        "name": "Teh Tarik",
+                        "available": true,
+                        "priceInMinorUnit": 135,
+                        "discountedPriceInMin": 135,
+                        "priceV2": {
+                            "amountInMinor": 135,
+                            "amountDisplay": "1.35"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 135,
+                            "amountDisplay": "1.35"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "tagLabels": [
+                            {
+                                "text": "Most ordered",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 3,
+                                "subLabelType": "MOST_ORDERED"
+                            }
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716039341",
+                        "name": "Neslo Hot",
+                        "available": true,
+                        "priceInMinorUnit": 185,
+                        "discountedPriceInMin": 185,
+                        "priceV2": {
+                            "amountInMinor": 185,
+                            "amountDisplay": "1.85"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 185,
+                            "amountDisplay": "1.85"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716045476",
+                        "name": "Coffee",
+                        "available": true,
+                        "priceInMinorUnit": 135,
+                        "discountedPriceInMin": 135,
+                        "priceV2": {
+                            "amountInMinor": 135,
+                            "amountDisplay": "1.35"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 135,
+                            "amountDisplay": "1.35"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716053940",
+                        "name": "Teh O Ice Lemon",
+                        "available": true,
+                        "priceInMinorUnit": 225,
+                        "discountedPriceInMin": 225,
+                        "priceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716063133",
+                        "name": "Sirup Lemon",
+                        "available": true,
+                        "priceInMinorUnit": 225,
+                        "discountedPriceInMin": 225,
+                        "priceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716077990",
+                        "name": "Teh Ice",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716089189",
+                        "name": "Teh Haliya",
+                        "available": true,
+                        "priceInMinorUnit": 145,
+                        "discountedPriceInMin": 145,
+                        "priceV2": {
+                            "amountInMinor": 145,
+                            "amountDisplay": "1.45"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 145,
+                            "amountDisplay": "1.45"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716098779",
+                        "name": "Teh 'O'",
+                        "available": true,
+                        "priceInMinorUnit": 130,
+                        "discountedPriceInMin": 130,
+                        "priceV2": {
+                            "amountInMinor": 130,
+                            "amountDisplay": "1.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 130,
+                            "amountDisplay": "1.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716104694",
+                        "name": "Coffee 'O'",
+                        "available": true,
+                        "priceInMinorUnit": 130,
+                        "discountedPriceInMin": 130,
+                        "priceV2": {
+                            "amountInMinor": 130,
+                            "amountDisplay": "1.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 130,
+                            "amountDisplay": "1.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716114604",
+                        "name": "Masala Teh",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716120814",
+                        "name": "Teh Cino Hot",
+                        "available": true,
+                        "priceInMinorUnit": 270,
+                        "discountedPriceInMin": 270,
+                        "priceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716132187",
+                        "name": "Teh Cino Ice",
+                        "available": true,
+                        "priceInMinorUnit": 270,
+                        "discountedPriceInMin": 270,
+                        "priceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716146666",
+                        "name": "Nescafe",
+                        "available": true,
+                        "priceInMinorUnit": 155,
+                        "discountedPriceInMin": 155,
+                        "priceV2": {
+                            "amountInMinor": 155,
+                            "amountDisplay": "1.55"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 155,
+                            "amountDisplay": "1.55"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "tagLabels": [
+                            {
+                                "text": "Most liked",
+                                "textColor": "#FFFFFF",
+                                "backgroundColor": "#00B14F",
+                                "textColorOnList": "#00B14F",
+                                "labelType": 5,
+                                "subLabelType": "MOST_LIKED"
+                            }
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094716157833",
+                        "name": "Neslo Ice",
+                        "available": true,
+                        "priceInMinorUnit": 270,
+                        "discountedPriceInMin": 270,
+                        "priceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717013830",
+                        "name": "Coffee Cino Hot",
+                        "available": true,
+                        "priceInMinorUnit": 270,
+                        "discountedPriceInMin": 270,
+                        "priceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717029694",
+                        "name": "Coffee Cino Ice",
+                        "available": true,
+                        "priceInMinorUnit": 270,
+                        "discountedPriceInMin": 270,
+                        "priceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717033129",
+                        "name": "Milo Hot",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717041175",
+                        "name": "Milo Ice",
+                        "available": true,
+                        "priceInMinorUnit": 225,
+                        "discountedPriceInMin": 225,
+                        "priceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717052148",
+                        "name": "Milo Dinosaur",
+                        "available": true,
+                        "priceInMinorUnit": 270,
+                        "discountedPriceInMin": 270,
+                        "priceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717065145",
+                        "name": "Horlicks Hot",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717070704",
+                        "name": "Horlicks Ice",
+                        "available": true,
+                        "priceInMinorUnit": 225,
+                        "discountedPriceInMin": 225,
+                        "priceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717086156",
+                        "name": "Teh O Mint",
+                        "available": true,
+                        "priceInMinorUnit": 165,
+                        "discountedPriceInMin": 165,
+                        "priceV2": {
+                            "amountInMinor": 165,
+                            "amountDisplay": "1.65"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 165,
+                            "amountDisplay": "1.65"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717094449",
+                        "name": "Lime Juice",
+                        "available": true,
+                        "priceInMinorUnit": 225,
+                        "discountedPriceInMin": 225,
+                        "priceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 225,
+                            "amountDisplay": "2.25"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717105761",
+                        "name": "Bandung",
+                        "available": true,
+                        "priceInMinorUnit": 270,
+                        "discountedPriceInMin": 270,
+                        "priceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 270,
+                            "amountDisplay": "2.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260107094717017660",
+                "name": "Can Drinks",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260107094717110661",
+                        "name": "Mineral Water",
+                        "available": true,
+                        "priceInMinorUnit": 135,
+                        "discountedPriceInMin": 135,
+                        "priceV2": {
+                            "amountInMinor": 135,
+                            "amountDisplay": "1.35"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 135,
+                            "amountDisplay": "1.35"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717128514",
+                        "name": "Coca Cola",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717138375",
+                        "name": "Coke Light",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094717140376",
+                        "name": "Coke Zero",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718018988",
+                        "name": "Fanta Orange",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718027367",
+                        "name": "Fanta Grape",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718030658",
+                        "name": "A&W Root Beer",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"hitLabels\":[\"alcohol\"],\"hitPolicies\":[\"Contains prohibited content\"],\"againstFields\":{\"textFields\":[\"Name\"]},\"streamStatus\":\"FAILED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\"]}}}}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718042306",
+                        "name": "Kickapoo",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718050036",
+                        "name": "100 Plus",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718064334",
+                        "name": "Pepsi",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718077432",
+                        "name": "Sprite",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718080426",
+                        "name": "7Up",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718099917",
+                        "name": "Ice Lemon Tea",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718101197",
+                        "name": "Green Tea",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718112037",
+                        "name": "Ice Lemon Green Tea",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718123410",
+                        "name": "Chrysanthemum",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718136925",
+                        "name": "Soya Milk",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718142212",
+                        "name": "Guava",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094718152216",
+                        "name": "Herbal Tea",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260107094719012844",
+                        "name": "Oolong Tea",
+                        "available": true,
+                        "priceInMinorUnit": 175,
+                        "discountedPriceInMin": 175,
+                        "priceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 175,
+                            "amountDisplay": "1.75"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 3.4,
+    "voteCount": 28,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C7W1R3JDLY2AJ2/photos/c98e05c9a9ff4a3fa671c8ee45540663_1767779560485881348.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out New Shah Alam - Circular Road on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7W1R3JDLY2AJ2"
+    },
+    "chainName": "New Shah Alam",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7W1R3JDLY2AJ2/list/1f6f172144994553852d48eacb74f81f_1767779312472573479.webp",
+    "branchName": "Circular Road",
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal",
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

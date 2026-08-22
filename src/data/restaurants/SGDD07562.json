@@ -1,0 +1,3292 @@
+{
+    "ID": "SGDD07562",
+    "name": "Chulop! - East Village",
+    "cuisine": "Spanish,Dessert,Beverage,Snack",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/SGDD07562/hero/f5c0bb50c2b04e34ac3bc6249b7ec6ce_1649659798972421589.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "12:00pm-8:00pm",
+        "mon": "12:00pm-8:00pm",
+        "tue": "12:00pm-8:00pm",
+        "wed": "12:00pm-8:00pm",
+        "thu": "12:00pm-8:00pm",
+        "fri": "12:00pm-8:00pm",
+        "sat": "12:00pm-8:00pm"
+    },
+    "address": {
+        "name": "Chulop! - East Village",
+        "combined_address": "430 Upper Changi Road, 01-59, Bedok, 487048",
+        "combined_city": "Singapore",
+        "house": "01-59",
+        "street": "430 Upper Changi Road",
+        "suburb": "Bedok",
+        "postcode": "487048",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3318464,
+        "lng": 103.9463496
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20250916085633018447",
+                "name": "Buns",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250916085633341901",
+                        "name": "Classic Bun Box",
+                        "available": true,
+                        "priceInMinorUnit": 1590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071612070059238/photo/menueditor_item_567f8da3be5346af95cced9cbb211f82_1721912102278720209.avif",
+                        "description": "Items include:\nx2 Cinnamon Bun\n*with cream cheese frosting.",
+                        "discountedPriceInMin": 1590,
+                        "priceV2": {
+                            "amountInMinor": 1590,
+                            "amountDisplay": "15.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1590,
+                            "amountDisplay": "15.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071612070059238/photo/menueditor_item_567f8da3be5346af95cced9cbb211f82_1721912102278720209.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071612070059238/detail/menueditor_item_567f8da3be5346af95cced9cbb211f82_1721912102278720209.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633334830",
+                        "name": "Cinnamon Bun",
+                        "available": true,
+                        "priceInMinorUnit": 695,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071612045869033/photo/menueditor_item_094d58f0691547d6b4209351924c0b38_1721912156806289533.avif",
+                        "description": "Buttery bun generously filled with cinnamon brown sugar.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250916085634211731",
+                                "name": "Choice of Cream Cheese Frosting",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634797662",
+                                        "name": "With Cream Cheese",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634787413",
+                                        "name": "Without Cream Cheese",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 695,
+                        "priceV2": {
+                            "amountInMinor": 695,
+                            "amountDisplay": "6.95"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 695,
+                            "amountDisplay": "6.95"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071612045869033/photo/menueditor_item_094d58f0691547d6b4209351924c0b38_1721912156806289533.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071612045869033/detail/menueditor_item_094d58f0691547d6b4209351924c0b38_1721912156806289533.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250916085633024923",
+                "name": "Boms",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250916085633353865",
+                        "name": "Assorted Box of 10",
+                        "available": true,
+                        "priceInMinorUnit": 6900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530528263/photo/menueditor_item_26defa41cc9b4608ac997d5af4241cf8_1749553804992901762.avif",
+                        "description": "*Note: All flavours are fixed.\nx1 Nutella\nx1 Kaya Butter\nx2 Vanilla Salted Caramel\nx2 Susu Keju (Milk & Cheese)\nx2 Rocher\nx2 Raspberry Lychee",
+                        "discountedPriceInMin": 6900,
+                        "priceV2": {
+                            "amountInMinor": 6900,
+                            "amountDisplay": "69.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6900,
+                            "amountDisplay": "69.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530528263/photo/menueditor_item_26defa41cc9b4608ac997d5af4241cf8_1749553804992901762.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530528263/detail/menueditor_item_26defa41cc9b4608ac997d5af4241cf8_1749553804992901762.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633212197",
+                        "name": "Box of 10 (5 Nutella & 5 Kaya Butter)",
+                        "available": true,
+                        "priceInMinorUnit": 6250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611463812400/photo/menueditor_item_ea323eda50ec4746b645b8e5c90c065c_1721912303598797558.avif",
+                        "description": "*All flavours are fixed.",
+                        "discountedPriceInMin": 6250,
+                        "priceV2": {
+                            "amountInMinor": 6250,
+                            "amountDisplay": "62.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6250,
+                            "amountDisplay": "62.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611463812400/photo/menueditor_item_ea323eda50ec4746b645b8e5c90c065c_1721912303598797558.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611463812400/detail/menueditor_item_ea323eda50ec4746b645b8e5c90c065c_1721912303598797558.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633233687",
+                        "name": "Box of 10 Nutella",
+                        "available": true,
+                        "priceInMinorUnit": 6250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611471960361/photo/menueditor_item_f2fe749424cf467ba9489fec9beaf3a8_1721912324283578816.avif",
+                        "description": "*All flavours are fixed.",
+                        "discountedPriceInMin": 6250,
+                        "priceV2": {
+                            "amountInMinor": 6250,
+                            "amountDisplay": "62.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6250,
+                            "amountDisplay": "62.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611471960361/photo/menueditor_item_f2fe749424cf467ba9489fec9beaf3a8_1721912324283578816.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611471960361/detail/menueditor_item_f2fe749424cf467ba9489fec9beaf3a8_1721912324283578816.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633225090",
+                        "name": "Box of 10 Kaya Butter",
+                        "available": true,
+                        "priceInMinorUnit": 6250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611465921145/photo/menueditor_item_82ccd0b815f348f6815a68328ef59172_1721912340455744467.avif",
+                        "description": "*All flavours are fixed.",
+                        "discountedPriceInMin": 6250,
+                        "priceV2": {
+                            "amountInMinor": 6250,
+                            "amountDisplay": "62.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6250,
+                            "amountDisplay": "62.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611465921145/photo/menueditor_item_82ccd0b815f348f6815a68328ef59172_1721912340455744467.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611465921145/detail/menueditor_item_82ccd0b815f348f6815a68328ef59172_1721912340455744467.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633257447",
+                        "name": "Assorted Box of 6",
+                        "available": true,
+                        "priceInMinorUnit": 4080,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530401706/photo/menueditor_item_5e33f8a7280148c1b3350cde610546dc_1749553857721995993.avif",
+                        "description": "Box of 6 consists of the following flavour:\n(Flavours are fixed and cannot be changed)\nx1 Nutella\nx1 Kaya Butter\nx1 Vanilla Salted Caramel\nx1 Susu Keju (Milk & Cheese)\nx1 Rocher\nx1 Raspberry Lychee",
+                        "discountedPriceInMin": 4080,
+                        "priceV2": {
+                            "amountInMinor": 4080,
+                            "amountDisplay": "40.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4080,
+                            "amountDisplay": "40.80"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530401706/photo/menueditor_item_5e33f8a7280148c1b3350cde610546dc_1749553857721995993.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530401706/detail/menueditor_item_5e33f8a7280148c1b3350cde610546dc_1749553857721995993.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633249064",
+                        "name": "Bombag",
+                        "available": true,
+                        "priceInMinorUnit": 2990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611502413862/photo/menueditor_item_223d92812b6946b6bcdd8b6fc0760444_1721912376807773217.avif",
+                        "description": "Box includes the following flavours:\nx2 Nutella\nx2 Raspberry Lychee\nx1 Gift Card\n*All flavours are fixed.",
+                        "discountedPriceInMin": 2990,
+                        "priceV2": {
+                            "amountInMinor": 2990,
+                            "amountDisplay": "29.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2990,
+                            "amountDisplay": "29.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611502413862/photo/menueditor_item_223d92812b6946b6bcdd8b6fc0760444_1721912376807773217.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611502413862/detail/menueditor_item_223d92812b6946b6bcdd8b6fc0760444_1721912376807773217.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633268845",
+                        "name": "Nutella",
+                        "available": true,
+                        "priceInMinorUnit": 625,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611521940576/photo/menueditor_item_d920c69d92fe462e86bf1466518b9534_1721912395540167392.avif",
+                        "description": "Nutella, whipped mascarpone, cream and hazelnut praline.",
+                        "discountedPriceInMin": 625,
+                        "priceV2": {
+                            "amountInMinor": 625,
+                            "amountDisplay": "6.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 625,
+                            "amountDisplay": "6.25"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611521940576/photo/menueditor_item_d920c69d92fe462e86bf1466518b9534_1721912395540167392.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611521940576/detail/menueditor_item_d920c69d92fe462e86bf1466518b9534_1721912395540167392.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633273672",
+                        "name": "Kaya Butter",
+                        "available": true,
+                        "priceInMinorUnit": 625,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611554923416/photo/menueditor_item_0a337ec0d64742ae80a6d00b7d9969c1_1721912411956203970.avif",
+                        "description": "Pandan custard, whipped mascarpone, cream, whipped butter topped with charcoal sea salt flakes.",
+                        "discountedPriceInMin": 625,
+                        "priceV2": {
+                            "amountInMinor": 625,
+                            "amountDisplay": "6.25"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 625,
+                            "amountDisplay": "6.25"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-11T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611554923416/photo/menueditor_item_0a337ec0d64742ae80a6d00b7d9969c1_1721912411956203970.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611554923416/detail/menueditor_item_0a337ec0d64742ae80a6d00b7d9969c1_1721912411956203970.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633291961",
+                        "name": "Susu Keju",
+                        "available": true,
+                        "priceInMinorUnit": 680,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611563290082/photo/menueditor_item_27e7f524d578481ebd0a47d0f9d78148_1721912430561948735.avif",
+                        "description": "Light milky cream cheese filling topped with cheddar and white chocolate.",
+                        "discountedPriceInMin": 680,
+                        "priceV2": {
+                            "amountInMinor": 680,
+                            "amountDisplay": "6.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 680,
+                            "amountDisplay": "6.80"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-10T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611563290082/photo/menueditor_item_27e7f524d578481ebd0a47d0f9d78148_1721912430561948735.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611563290082/detail/menueditor_item_27e7f524d578481ebd0a47d0f9d78148_1721912430561948735.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633307056",
+                        "name": "Rocher",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530456957/photo/menueditor_item_e2ea8b2a6eb149479874ec017b2ae27d_1755782725860342302.avif",
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530456957/photo/menueditor_item_e2ea8b2a6eb149479874ec017b2ae27d_1755782725860342302.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530456957/detail/menueditor_item_e2ea8b2a6eb149479874ec017b2ae27d_1755782725860342302.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633285088",
+                        "name": "Vanilla Salted Caramel",
+                        "available": true,
+                        "priceInMinorUnit": 640,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611561313435/photo/menueditor_item_de1c039711c34b169e4016353011a7c1_1721912470047905523.avif",
+                        "description": "Vanilla custard, salted caramel, vanilla cream chantilly.",
+                        "discountedPriceInMin": 640,
+                        "priceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611561313435/photo/menueditor_item_de1c039711c34b169e4016353011a7c1_1721912470047905523.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611561313435/detail/menueditor_item_de1c039711c34b169e4016353011a7c1_1721912470047905523.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633311989",
+                        "name": "Raspberry Lychee",
+                        "available": true,
+                        "priceInMinorUnit": 695,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611572463120/photo/menueditor_item_59872d3c2ece40e480bca3f2923f6f28_1721912487353928026.avif",
+                        "description": "Raspberry cream, lychee coulis, raspberry coulis, vanilla chantilly.",
+                        "discountedPriceInMin": 695,
+                        "priceV2": {
+                            "amountInMinor": 695,
+                            "amountDisplay": "6.95"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 695,
+                            "amountDisplay": "6.95"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\"},\"keep_unavailable_until\":\"2026-08-13T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611572463120/photo/menueditor_item_59872d3c2ece40e480bca3f2923f6f28_1721912487353928026.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024071611572463120/detail/menueditor_item_59872d3c2ece40e480bca3f2923f6f28_1721912487353928026.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250916085633036774",
+                "name": "Office / Party Bundles",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250916085633180443",
+                        "name": "Assorted Churros with Toppings",
+                        "available": true,
+                        "priceInMinorUnit": 3500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530336134/photo/menueditor_item_44c29590feb74572b46b06b1ebff9a6e_1733237576915415733.avif",
+                        "description": "x1 Set of Cookie Crunch Churros\nx1 Set of Smores Churros\nx1 Set of Choc & Cheese Churros\nx1 Set of Banana Nutella Churros\n\n**All flavours are fixed.\n(1 Set consists of 5 Sticks)",
+                        "discountedPriceInMin": 3500,
+                        "priceV2": {
+                            "amountInMinor": 3500,
+                            "amountDisplay": "35.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3500,
+                            "amountDisplay": "35.00"
+                        },
+                        "metadata": "{\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "DEP-C35YLT2HEN4EGA0975",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530336134/photo/menueditor_item_44c29590feb74572b46b06b1ebff9a6e_1733237576915415733.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530336134/detail/menueditor_item_44c29590feb74572b46b06b1ebff9a6e_1733237576915415733.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633192110",
+                        "name": "Party Set",
+                        "available": true,
+                        "priceInMinorUnit": 8990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600197961/photo/menueditor_item_a73478292bea4645b7446859dfa0d123_1758078599353764271.avif",
+                        "description": "48 Churros with 12 Assorted Dips + 4 Iced Beverages of your choice\n- Feeds up to 12-15 pax\n- Packed in our Family Box (16 Churros/Box)",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250916085634372059",
+                                "name": "Choice of Iced Beverage for Party Set (Option 1)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341391657",
+                                        "name": "Iced Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341400955",
+                                        "name": "Kiwi Mango Cooler",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341419409",
+                                        "name": "Berry Apple Cooler",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341423911",
+                                        "name": "Homemade Lemonade",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "ID": "SGMOG20250916085634388413",
+                                "name": "Choice of Iced Beverage for Party Set (Option 2)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341433537",
+                                        "name": "Iced Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341448550",
+                                        "name": "Kiwi Mango Cooler",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341458670",
+                                        "name": "Berry Apple Cooler",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341468109",
+                                        "name": "Homemade Lemonade",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "ID": "SGMOG20250916085634396340",
+                                "name": "Choice of Iced Beverage for Party Set (Option 3)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341471488",
+                                        "name": "Iced Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341484294",
+                                        "name": "Kiwi Mango Cooler",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341499234",
+                                        "name": "Berry Apple Cooler",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341502370",
+                                        "name": "Homemade Lemonade",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "ID": "SGMOG20250916085634405375",
+                                "name": "Choice of Iced Beverage for Party Set (Option 4)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341544010",
+                                        "name": "Iced Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341511420",
+                                        "name": "Kiwi Mango Cooler",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341529772",
+                                        "name": "Berry Apple Cooler",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341539518",
+                                        "name": "Homemade Lemonade",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 8990,
+                        "priceV2": {
+                            "amountInMinor": 8990,
+                            "amountDisplay": "89.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 8990,
+                            "amountDisplay": "89.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600197961/photo/menueditor_item_a73478292bea4645b7446859dfa0d123_1758078599353764271.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600197961/detail/menueditor_item_a73478292bea4645b7446859dfa0d123_1758078599353764271.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633163013",
+                        "name": "Office Bundle",
+                        "available": true,
+                        "priceInMinorUnit": 12290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530316407/photo/menueditor_item_00214fa93f5343b0a4336f91e2d1a0d6_1733238110935349215.avif",
+                        "description": "80 Churros with 20 Assorted Dips\n- Feeds up to 15-20 pax\n- Packed in our Family Box (16 Churros/Box)",
+                        "discountedPriceInMin": 12290,
+                        "priceV2": {
+                            "amountInMinor": 12290,
+                            "amountDisplay": "122.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 12290,
+                            "amountDisplay": "122.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530316407/photo/menueditor_item_00214fa93f5343b0a4336f91e2d1a0d6_1733238110935349215.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530316407/detail/menueditor_item_00214fa93f5343b0a4336f91e2d1a0d6_1733238110935349215.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633175191",
+                        "name": "Corporate Bundle",
+                        "available": true,
+                        "priceInMinorUnit": 23900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530327169/photo/menueditor_item_2a734a1334274df4beabca88ee04ef57_1733238136347271508.avif",
+                        "description": "160 Churros with 40 Assorted Dips.\n- Feeds up to 20-40 pax\n- Packed in our Family Box (16 Churros/Box)",
+                        "discountedPriceInMin": 23900,
+                        "priceV2": {
+                            "amountInMinor": 23900,
+                            "amountDisplay": "239.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 23900,
+                            "amountDisplay": "239.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530327169/photo/menueditor_item_2a734a1334274df4beabca88ee04ef57_1733238136347271508.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530327169/detail/menueditor_item_2a734a1334274df4beabca88ee04ef57_1733238136347271508.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250916085633060319",
+                "name": "Set Deals!",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260511030651011936",
+                        "name": "Family Bites",
+                        "available": true,
+                        "priceInMinorUnit": 2645,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026051103064934298/photo/menueditor_item_4ae98f71d9fb420eb9f8874723ea9cce_1778468783337028352.avif",
+                        "description": "50 Churro Bites + 4 Assorted Dips",
+                        "discountedPriceInMin": 2645,
+                        "priceV2": {
+                            "amountInMinor": 2645,
+                            "amountDisplay": "26.45"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2645,
+                            "amountDisplay": "26.45"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026051103064934298/photo/menueditor_item_4ae98f71d9fb420eb9f8874723ea9cce_1778468783337028352.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026051103064934298/detail/menueditor_item_4ae98f71d9fb420eb9f8874723ea9cce_1778468783337028352.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633514198",
+                        "name": "Churros For Us",
+                        "available": true,
+                        "priceInMinorUnit": 2990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600431006/photo/menueditor_item_77a49398d469432580b11b376a0f3d8c_1758078630332892334.avif",
+                        "description": "U.P: $31.60\n5 Pandan Churros with Gula Melaka Dip + 6 Chocolate Churro Fries with 1 Dip + 2 Iced Beverages of your choice.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250916085634282653",
+                                "name": "Choice of Dip",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634978874",
+                                        "name": "Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634962678",
+                                        "name": "Spanish Caramel",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634956733",
+                                        "name": "White Chocolate",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634947359",
+                                        "name": "Mexican Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择蘸酱"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250916085634240497",
+                                "name": "Choice of 2 Iced Beverages",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 2,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634840216",
+                                        "name": "Iced Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "冰巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341365422",
+                                        "name": "Kiwi Mango Cooler",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341373887",
+                                        "name": "Berry Apple Cooler",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341385005",
+                                        "name": "Homemade Lemonade",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 2990,
+                        "priceV2": {
+                            "amountInMinor": 2990,
+                            "amountDisplay": "29.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2990,
+                            "amountDisplay": "29.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600431006/photo/menueditor_item_77a49398d469432580b11b376a0f3d8c_1758078630332892334.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600431006/detail/menueditor_item_77a49398d469432580b11b376a0f3d8c_1758078630332892334.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633098009",
+                        "name": "Churros For Me",
+                        "available": true,
+                        "priceInMinorUnit": 1450,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600094868/photo/menueditor_item_c9787dc308374f6fb05fd4de9f6a1de2_1758078659003585825.avif",
+                        "description": "U.P: $15.10\n4 Churros with 1 Signature Dip + 1 Iced Beverage of your choice.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250916085634349254",
+                                "name": "Choice of Dip for Churros For Me",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341139811",
+                                        "name": "Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341124210",
+                                        "name": "Spanish Caramel",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341113191",
+                                        "name": "White Chocolate",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341104348",
+                                        "name": "Mexican Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "ID": "SGMOG20250916085634353172",
+                                "name": "Choice of Iced Beverage for Churros For Me",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341148609",
+                                        "name": "Iced Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "冰巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341201629",
+                                        "name": "Kiwi Mango Cooler",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341210433",
+                                        "name": "Berry Apple Cooler",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341224989",
+                                        "name": "Homemade Lemonade",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1450,
+                        "priceV2": {
+                            "amountInMinor": 1450,
+                            "amountDisplay": "14.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1450,
+                            "amountDisplay": "14.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "itemClassID": "DEP-C35YLT2HEN4EGA0975",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600094868/photo/menueditor_item_c9787dc308374f6fb05fd4de9f6a1de2_1758078659003585825.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600094868/detail/menueditor_item_c9787dc308374f6fb05fd4de9f6a1de2_1758078659003585825.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633101816",
+                        "name": "Bites & Us",
+                        "available": true,
+                        "priceInMinorUnit": 3050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600107132/photo/menueditor_item_7c98ac15297e4abba4177424bcd93940_1758078704573380897.avif",
+                        "description": "U.P: $32.80\n40 Churro Bites with 2 Normal Dips + 2 Iced Beverages of your choice.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250916085634335558",
+                                "name": "Choice of Dip for Bites & Us (Option 1)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341091653",
+                                        "name": "Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341085481",
+                                        "name": "Spanish Caramel",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341076635",
+                                        "name": "White Chocolate",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341060132",
+                                        "name": "Mexican Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "可供选择的蘸酱供咬和我们使用(选项 1)"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250916085634323697",
+                                "name": "Choice of Dip for Bites & Us (Option 2)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341054165",
+                                        "name": "Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341049500",
+                                        "name": "Spanish Caramel",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341034200",
+                                        "name": "White Chocolate",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341020784",
+                                        "name": "Mexican Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "可供选择的蘸酱供咬和我们使用(选项 2)"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250916085634315211",
+                                "name": "Choice of Iced Beverage for Bites & Us (Option 1)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341018525",
+                                        "name": "Iced Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "冰巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341231477",
+                                        "name": "Kiwi Mango Cooler",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341241091",
+                                        "name": "Berry Apple Cooler",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341257067",
+                                        "name": "Homemade Lemonade",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "ID": "SGMOG20250916085634305406",
+                                "name": "Choice of Iced Beverage for Bites & Us (Option 2)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341005009",
+                                        "name": "Iced Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "冰巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341268955",
+                                        "name": "Kiwi Mango Cooler",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341272274",
+                                        "name": "Berry Apple Cooler",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341288661",
+                                        "name": "Homemade Lemonade",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 3050,
+                        "priceV2": {
+                            "amountInMinor": 3050,
+                            "amountDisplay": "30.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3050,
+                            "amountDisplay": "30.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600107132/photo/menueditor_item_7c98ac15297e4abba4177424bcd93940_1758078704573380897.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600107132/detail/menueditor_item_7c98ac15297e4abba4177424bcd93940_1758078704573380897.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633112070",
+                        "name": "Family Set",
+                        "available": true,
+                        "priceInMinorUnit": 2490,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530151913/photo/menueditor_item_a90afee9fd6d4507a2434804e3b47280_1733238468415234026.avif",
+                        "description": "U.P: $26.40\n16 Churros with 4 Assorted Dips.",
+                        "discountedPriceInMin": 2490,
+                        "priceV2": {
+                            "amountInMinor": 2490,
+                            "amountDisplay": "24.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2490,
+                            "amountDisplay": "24.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530151913/photo/menueditor_item_a90afee9fd6d4507a2434804e3b47280_1733238468415234026.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530151913/detail/menueditor_item_a90afee9fd6d4507a2434804e3b47280_1733238468415234026.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633365141",
+                        "name": "Treat Me More",
+                        "available": true,
+                        "priceInMinorUnit": 3360,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024120315112670740/photo/menueditor_item_16a0a8d1d7484718b32ecd57ce5eb3a7_1733238519944485634.avif",
+                        "description": "U.P: $35.50\n16 Churros with 4 Assorted Dips, 1 Vanilla Salted Caramel Bom, 1 Nutella Bom.\n\n*All flavours are fixed.",
+                        "discountedPriceInMin": 3360,
+                        "priceV2": {
+                            "amountInMinor": 3360,
+                            "amountDisplay": "33.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3360,
+                            "amountDisplay": "33.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024120315112670740/photo/menueditor_item_16a0a8d1d7484718b32ecd57ce5eb3a7_1733238519944485634.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024120315112670740/detail/menueditor_item_16a0a8d1d7484718b32ecd57ce5eb3a7_1733238519944485634.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633382688",
+                        "name": "Churros Platter Box",
+                        "available": true,
+                        "priceInMinorUnit": 3290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024120315193583816/photo/menueditor_item_f50052de1dcc4b65887fac8512327c96_1733239037369886739.avif",
+                        "description": "UP: $36.90\nChurro Platter Box includes the following churros with toppings:\nx4 Cookie Crunch Churros\nx4 Smores Churros\nx3 Choc & Cheese Churros\nx3 Banana Nutella Churros\n\n**All flavours are fixed.",
+                        "discountedPriceInMin": 3290,
+                        "priceV2": {
+                            "amountInMinor": 3290,
+                            "amountDisplay": "32.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3290,
+                            "amountDisplay": "32.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-09T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024120315193583816/photo/menueditor_item_f50052de1dcc4b65887fac8512327c96_1733239037369886739.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024120315193583816/detail/menueditor_item_f50052de1dcc4b65887fac8512327c96_1733239037369886739.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633122988",
+                        "name": "Family Feast",
+                        "available": true,
+                        "priceInMinorUnit": 7700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600124869/photo/menueditor_item_05dc7085c50e4a139690054a858d4554_1758078740851070520.avif",
+                        "description": "U.P: $82.70\nx1 Family Set with 4 Dips\nx1 Chocolate Churro Fries with 1 Dip\nx1 Pandan Churros with Gula Melaka Dip\nx2 Iced Beverages of your choice\nx2 Milkshakes of your choice\n*Whipped cream is not available for delivery.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250916085634295237",
+                                "name": "Choice of Ice Beverage for Family Feast (Option 1)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634990316",
+                                        "name": "Iced Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "冰巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634983071",
+                                        "name": "Kiwi Mango Cooler",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "香蕉布蕾"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341291632",
+                                        "name": "Berry Apple Cooler",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341309694",
+                                        "name": "Homemade Lemonade",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "ID": "SGMOG20250916085634259854",
+                                "name": "Choice of Milkshake for Family Feast (Option 2)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634901065",
+                                        "name": "Cookies & Cream",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "饼干和奶油"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634893070",
+                                        "name": "Premium Coconut Shake",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "椰子奶昔"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634867961",
+                                        "name": "Vanilla Milkshake",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "香草杜尔西"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634856217",
+                                        "name": "Chocolate Milkshake",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "花生酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341354830",
+                                        "name": "Speculoos Milkshake",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "家庭盛宴的选择(选项2)"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250916085634276922",
+                                "name": "Choice of Ice Beverage for Family Feast (Option 2)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634936682",
+                                        "name": "Iced Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "冰巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341314277",
+                                        "name": "Kiwi Mango Cooler",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341326863",
+                                        "name": "Berry Apple Cooler",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341330994",
+                                        "name": "Homemade Lemonade",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            },
+                            {
+                                "ID": "SGMOG20250916085634263250",
+                                "name": "Choice of Milkshake for Family Feast (Option 1)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634928607",
+                                        "name": "Cookies & Cream",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "饼干和奶油"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634917046",
+                                        "name": "Premium Coconut Shake",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "椰子奶昔"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634882414",
+                                        "name": "Vanilla Milkshake",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "香草杜尔西"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634878655",
+                                        "name": "Chocolate Milkshake",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "花生酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341349217",
+                                        "name": "Speculoos Milkshake",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "家庭盛宴的选择(选项 1)"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250916085634282653",
+                                "name": "Choice of Dip",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634978874",
+                                        "name": "Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634962678",
+                                        "name": "Spanish Caramel",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634956733",
+                                        "name": "White Chocolate",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634947359",
+                                        "name": "Mexican Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择蘸酱"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 7700,
+                        "priceV2": {
+                            "amountInMinor": 7700,
+                            "amountDisplay": "77.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 7700,
+                            "amountDisplay": "77.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600124869/photo/menueditor_item_05dc7085c50e4a139690054a858d4554_1758078740851070520.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600124869/detail/menueditor_item_05dc7085c50e4a139690054a858d4554_1758078740851070520.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250916085633081447",
+                "name": "Basic Sets",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250916085633080428",
+                        "name": "20 Churro Bites + 1 Dip",
+                        "available": true,
+                        "priceInMinorUnit": 730,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530091199/photo/menueditor_item_0e9096efc377470d812812d380b6ac8e_1733239207007453438.avif",
+                        "description": "20 Mini Addictive Churros with a choice of your dip.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250916085634282653",
+                                "name": "Choice of Dip",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634978874",
+                                        "name": "Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634962678",
+                                        "name": "Spanish Caramel",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634956733",
+                                        "name": "White Chocolate",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634947359",
+                                        "name": "Mexican Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择蘸酱"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250916085634368375",
+                                "name": "Additional Dip",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 5,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341199950",
+                                        "name": "Milk Chocolate Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341183667",
+                                        "name": "Spanish Caramel Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341170115",
+                                        "name": "White Chocolate Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341164141",
+                                        "name": "Mexican Chocolate Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341152114",
+                                        "name": "Gula Melaka",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "椰糖糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "额外的蘸酱"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 730,
+                        "priceV2": {
+                            "amountInMinor": 730,
+                            "amountDisplay": "7.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 730,
+                            "amountDisplay": "7.30"
+                        },
+                        "metadata": "{\"discounts\":{},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_tobacco_ar\"]}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20220916080136101001\"]}}",
+                        "itemClassID": "DEP-C35YLT2HEN4EGA0975",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530091199/photo/menueditor_item_0e9096efc377470d812812d380b6ac8e_1733239207007453438.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530091199/detail/menueditor_item_0e9096efc377470d812812d380b6ac8e_1733239207007453438.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260601021435017686",
+                        "name": "20 Chocolate Bites + 1 Dip",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026060102143423318/photo/menueditor_item_167f0ec9c76945a9a3379e4eeb1a134a_1780280019460364312.avif",
+                        "description": "20 Mini Chocolate Churros with a choice of dip",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250916085634282653",
+                                "name": "Choice of Dip",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634978874",
+                                        "name": "Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634962678",
+                                        "name": "Spanish Caramel",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634956733",
+                                        "name": "White Chocolate",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634947359",
+                                        "name": "Mexican Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择蘸酱"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026060102143423318/photo/menueditor_item_167f0ec9c76945a9a3379e4eeb1a134a_1780280019460364312.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026060102143423318/detail/menueditor_item_167f0ec9c76945a9a3379e4eeb1a134a_1780280019460364312.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260601021540076954",
+                        "name": "20 Pandan Bites + 1 Gula Melaka Dip",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026060102153972081/photo/menueditor_item_9472a6e4c5fa442a9d6fd79d6872350a_1780280109673380670.avif",
+                        "description": "20 Mini Pandan Churros with a gula melaka dip",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026060102153972081/photo/menueditor_item_9472a6e4c5fa442a9d6fd79d6872350a_1780280109673380670.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026060102153972081/detail/menueditor_item_9472a6e4c5fa442a9d6fd79d6872350a_1780280109673380670.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633029396",
+                        "name": "4 Churros + 1 Normal Dip",
+                        "available": true,
+                        "priceInMinorUnit": 660,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530038116/photo/menueditor_item_67388beb0a2e4a738a169e473988cd88_1733238837386860351.avif",
+                        "description": "Original Churros coated with cinnamon sugar with your choice of artisanal dips.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250916085634282653",
+                                "name": "Choice of Dip",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634978874",
+                                        "name": "Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634962678",
+                                        "name": "Spanish Caramel",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634956733",
+                                        "name": "White Chocolate",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634947359",
+                                        "name": "Mexican Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择蘸酱"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250916085634368375",
+                                "name": "Additional Dip",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 5,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341199950",
+                                        "name": "Milk Chocolate Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341183667",
+                                        "name": "Spanish Caramel Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341170115",
+                                        "name": "White Chocolate Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341164141",
+                                        "name": "Mexican Chocolate Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341152114",
+                                        "name": "Gula Melaka",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "椰糖糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "额外的蘸酱"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 660,
+                        "priceV2": {
+                            "amountInMinor": 660,
+                            "amountDisplay": "6.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 660,
+                            "amountDisplay": "6.60"
+                        },
+                        "metadata": "{\"discounts\":{},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "DEP-C35YLT2HEN4EGA0975",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530038116/photo/menueditor_item_67388beb0a2e4a738a169e473988cd88_1733238837386860351.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530038116/detail/menueditor_item_67388beb0a2e4a738a169e473988cd88_1733238837386860351.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633031327",
+                        "name": "5 Pandan Churros + 1 Gula Melaka Dip",
+                        "available": true,
+                        "priceInMinorUnit": 730,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530048069/photo/menueditor_item_990791d3802a423e80e06f32bb9da763_1733238865003183085.avif",
+                        "description": "Pandan Churros coated with desicated coconut, accompanied with our in-house gula melaka dip.",
+                        "discountedPriceInMin": 730,
+                        "priceV2": {
+                            "amountInMinor": 730,
+                            "amountDisplay": "7.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 730,
+                            "amountDisplay": "7.30"
+                        },
+                        "metadata": "{\"discounts\":{},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "itemClassID": "DEP-C35YLT2HEN4EGA0975",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530048069/photo/menueditor_item_990791d3802a423e80e06f32bb9da763_1733238865003183085.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530048069/detail/menueditor_item_990791d3802a423e80e06f32bb9da763_1733238865003183085.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633208847",
+                        "name": "6 Chocolate Churro Fries with A Dip",
+                        "available": true,
+                        "priceInMinorUnit": 730,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530355989/photo/menueditor_item_3c3c035d12f8465b8e426c5968c6de4b_1733238886609157593.avif",
+                        "description": "6 sticks of churro fries, coated in sugar & cocoa power.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250916085634368375",
+                                "name": "Additional Dip",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 5,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202509160856341199950",
+                                        "name": "Milk Chocolate Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341183667",
+                                        "name": "Spanish Caramel Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341170115",
+                                        "name": "White Chocolate Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341164141",
+                                        "name": "Mexican Chocolate Dip",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力蘸酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD202509160856341152114",
+                                        "name": "Gula Melaka",
+                                        "available": true,
+                                        "priceInMinorUnit": 265,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 265,
+                                            "amountDisplay": "2.65"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "椰糖糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "额外的蘸酱"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250916085634282653",
+                                "name": "Choice of Dip",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250916085634978874",
+                                        "name": "Milk Chocolate",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "牛奶巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634962678",
+                                        "name": "Spanish Caramel",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "西班牙焦糖"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634956733",
+                                        "name": "White Chocolate",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "白巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250916085634947359",
+                                        "name": "Mexican Chocolate",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "墨西哥巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "选择蘸酱"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 730,
+                        "priceV2": {
+                            "amountInMinor": 730,
+                            "amountDisplay": "7.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 730,
+                            "amountDisplay": "7.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-07-26T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530355989/photo/menueditor_item_3c3c035d12f8465b8e426c5968c6de4b_1733238886609157593.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530355989/detail/menueditor_item_3c3c035d12f8465b8e426c5968c6de4b_1733238886609157593.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250916085633072130",
+                "name": "Churros with Toppings",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250916085633045447",
+                        "name": "Cookie Crunch Churros",
+                        "available": true,
+                        "priceInMinorUnit": 900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530055868/photo/menueditor_item_8eb773f0d8e540d59d6dabc4e0cd483b_1733238922448240007.avif",
+                        "description": "Caramelised Cookie Butter Sauce, Crumbs and Almonds.",
+                        "discountedPriceInMin": 900,
+                        "priceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-07-16T00:00:00+08:00\"}",
+                        "itemClassID": "DEP-C35YLT2HEN4EGA0975",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530055868/photo/menueditor_item_8eb773f0d8e540d59d6dabc4e0cd483b_1733238922448240007.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530055868/detail/menueditor_item_8eb773f0d8e540d59d6dabc4e0cd483b_1733238922448240007.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633051097",
+                        "name": "Smores Churros",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530060156/photo/menueditor_item_2080235b5e5244c7a9e359c033604ceb_1733238946183137659.avif",
+                        "description": "Mexican Chocolate Drizzle, Crumbs and Torched Meringue.",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"discounts\":{},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-08-09T00:00:00+08:00\"}",
+                        "itemClassID": "DEP-C35YLT2HEN4EGA0975",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530060156/photo/menueditor_item_2080235b5e5244c7a9e359c033604ceb_1733238946183137659.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530060156/detail/menueditor_item_2080235b5e5244c7a9e359c033604ceb_1733238946183137659.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633065367",
+                        "name": "Banana Nutella Churros",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530079982/photo/menueditor_item_ab6714d160914d7b96869dc55bb4b718_1733238973990971652.avif",
+                        "description": "Nutella Drizzle, Banana Slices and Crumbs.",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-07-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530079982/photo/menueditor_item_ab6714d160914d7b96869dc55bb4b718_1733238973990971652.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530079982/detail/menueditor_item_ab6714d160914d7b96869dc55bb4b718_1733238973990971652.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633075966",
+                        "name": "Choc & Cheese Churros",
+                        "available": true,
+                        "priceInMinorUnit": 930,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530080212/photo/menueditor_item_e2c7984499144740b2afb2eee49da89f_1733238997101528878.avif",
+                        "description": "Mexican Chocolate Drizzle, Grated Cheese and Condensed Milk.",
+                        "discountedPriceInMin": 930,
+                        "priceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 930,
+                            "amountDisplay": "9.30"
+                        },
+                        "metadata": "{\"discounts\":{},\"tag_operators\":{\"item_class_id\":0},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{}}}",
+                        "itemClassID": "DEP-C35YLT2HEN4EGA0975",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530080212/photo/menueditor_item_e2c7984499144740b2afb2eee49da89f_1733238997101528878.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530080212/detail/menueditor_item_e2c7984499144740b2afb2eee49da89f_1733238997101528878.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250916085633052429",
+                "name": "Milkshakes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250916085633534959",
+                        "name": "Speculoos Milkshake",
+                        "available": true,
+                        "priceInMinorUnit": 1470,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600443967/photo/menueditor_item_f94de6792ca24155a0bf7caa1788e63d_1758078532560183825.avif",
+                        "discountedPriceInMin": 1470,
+                        "priceV2": {
+                            "amountInMinor": 1470,
+                            "amountDisplay": "14.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1470,
+                            "amountDisplay": "14.70"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600443967/photo/menueditor_item_f94de6792ca24155a0bf7caa1788e63d_1758078532560183825.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600443967/detail/menueditor_item_f94de6792ca24155a0bf7caa1788e63d_1758078532560183825.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633439683",
+                        "name": "Premium Coconut Shake",
+                        "available": true,
+                        "priceInMinorUnit": 1500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600399548/photo/menueditor_item_54cedea2382542d6bf1f6b2958f4b23d_1758078779609761996.avif",
+                        "description": "Creamy and Refreshing.",
+                        "discountedPriceInMin": 1500,
+                        "priceV2": {
+                            "amountInMinor": 1500,
+                            "amountDisplay": "15.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1500,
+                            "amountDisplay": "15.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600399548/photo/menueditor_item_54cedea2382542d6bf1f6b2958f4b23d_1758078779609761996.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600399548/detail/menueditor_item_54cedea2382542d6bf1f6b2958f4b23d_1758078779609761996.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633410341",
+                        "name": "Cookies & Cream",
+                        "available": true,
+                        "priceInMinorUnit": 1390,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600389360/photo/menueditor_item_b58e826e642a4dd588fe2a89120dd5ac_1758078807311982184.avif",
+                        "description": "Cookies and Cream based milkshake.\n*Whipped cream is not available for delivery.",
+                        "discountedPriceInMin": 1390,
+                        "priceV2": {
+                            "amountInMinor": 1390,
+                            "amountDisplay": "13.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1390,
+                            "amountDisplay": "13.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600389360/photo/menueditor_item_b58e826e642a4dd588fe2a89120dd5ac_1758078807311982184.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600389360/detail/menueditor_item_b58e826e642a4dd588fe2a89120dd5ac_1758078807311982184.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633133811",
+                        "name": "Chocolate Milkshake",
+                        "available": true,
+                        "priceInMinorUnit": 1390,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600137273/photo/menueditor_item_325fa59caff0454dbf969b60561000ad_1758078561230521097.avif",
+                        "description": "*Whipped cream is not available for delivery.",
+                        "discountedPriceInMin": 1390,
+                        "priceV2": {
+                            "amountInMinor": 1390,
+                            "amountDisplay": "13.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1390,
+                            "amountDisplay": "13.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600137273/photo/menueditor_item_325fa59caff0454dbf969b60561000ad_1758078561230521097.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600137273/detail/menueditor_item_325fa59caff0454dbf969b60561000ad_1758078561230521097.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633144381",
+                        "name": "Vanilla Milkshake",
+                        "available": true,
+                        "priceInMinorUnit": 1280,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600146729/photo/menueditor_item_29286c5c253646a9a87758cbfc3a1604_1758078846285755552.avif",
+                        "description": "Vanilla based milk with dulcey.\n*Whipped cream is not available for delivery.",
+                        "discountedPriceInMin": 1280,
+                        "priceV2": {
+                            "amountInMinor": 1280,
+                            "amountDisplay": "12.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1280,
+                            "amountDisplay": "12.80"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600146729/photo/menueditor_item_29286c5c253646a9a87758cbfc3a1604_1758078846285755552.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600146729/detail/menueditor_item_29286c5c253646a9a87758cbfc3a1604_1758078846285755552.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250916085633046352",
+                "name": "Iced Beverages",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250916085633495942",
+                        "name": "Homemade Lemonade",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600421216/photo/menueditor_item_69f6b7fe0f9f466dae6786eb4dcba5b5_1758078869753633059.avif",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600421216/photo/menueditor_item_69f6b7fe0f9f466dae6786eb4dcba5b5_1758078869753633059.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600421216/detail/menueditor_item_69f6b7fe0f9f466dae6786eb4dcba5b5_1758078869753633059.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633474143",
+                        "name": "Berry Apple Cooler",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600413433/photo/menueditor_item_ea93ec1121b849dcb1bcd929f5de83aa_1758078892777837865.avif",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600413433/photo/menueditor_item_ea93ec1121b849dcb1bcd929f5de83aa_1758078892777837865.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600413433/detail/menueditor_item_ea93ec1121b849dcb1bcd929f5de83aa_1758078892777837865.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633456002",
+                        "name": "Kiwi Mango Cooler",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600402366/photo/menueditor_item_dfe82af8c85e4728848633d9a2019564_1758078914889025740.avif",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600402366/photo/menueditor_item_dfe82af8c85e4728848633d9a2019564_1758078914889025740.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600402366/detail/menueditor_item_dfe82af8c85e4728848633d9a2019564_1758078914889025740.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250916085633152244",
+                        "name": "Iced Chocolate",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600154258/photo/menueditor_item_179f29397ce343859246c29f1db1c43c_1758078934689404976.avif",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"discounts\":{\"currency_code\":\"SGD\"},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600154258/photo/menueditor_item_179f29397ce343859246c29f1db1c43c_1758078934689404976.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250916085600154258/detail/menueditor_item_179f29397ce343859246c29f1db1c43c_1758078934689404976.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260524134118023471",
+                "name": "Dips",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260524134153018971",
+                        "name": "Milk Chocolate",
+                        "available": true,
+                        "priceInMinorUnit": 265,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413415246765/photo/menueditor_item_02f13697b8a24a7ea98928001b6cad40_1779630102722734381.avif",
+                        "discountedPriceInMin": 265,
+                        "priceV2": {
+                            "amountInMinor": 265,
+                            "amountDisplay": "2.65"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 265,
+                            "amountDisplay": "2.65"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413415246765/photo/menueditor_item_02f13697b8a24a7ea98928001b6cad40_1779630102722734381.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413415246765/detail/menueditor_item_02f13697b8a24a7ea98928001b6cad40_1779630102722734381.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260524134236017013",
+                        "name": "White Chocolate",
+                        "available": true,
+                        "priceInMinorUnit": 265,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413423624184/photo/menueditor_item_6e7bdab3eb044868a07746636cbad28f_1779630147289370378.avif",
+                        "discountedPriceInMin": 265,
+                        "priceV2": {
+                            "amountInMinor": 265,
+                            "amountDisplay": "2.65"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 265,
+                            "amountDisplay": "2.65"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413423624184/photo/menueditor_item_6e7bdab3eb044868a07746636cbad28f_1779630147289370378.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413423624184/detail/menueditor_item_6e7bdab3eb044868a07746636cbad28f_1779630147289370378.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260524134300018171",
+                        "name": "Mexican Chocolate",
+                        "available": true,
+                        "priceInMinorUnit": 265,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413425957805/photo/menueditor_item_9beaffade58c4aa2823261cf4ebdeb34_1779630169356051311.avif",
+                        "discountedPriceInMin": 265,
+                        "priceV2": {
+                            "amountInMinor": 265,
+                            "amountDisplay": "2.65"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 265,
+                            "amountDisplay": "2.65"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413425957805/photo/menueditor_item_9beaffade58c4aa2823261cf4ebdeb34_1779630169356051311.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413425957805/detail/menueditor_item_9beaffade58c4aa2823261cf4ebdeb34_1779630169356051311.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260524134323011544",
+                        "name": "Spanish Caramel",
+                        "available": true,
+                        "priceInMinorUnit": 265,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413432207666/photo/menueditor_item_5f6a8190c76042abb2b12f3a189b3b0a_1779630193854990193.avif",
+                        "discountedPriceInMin": 265,
+                        "priceV2": {
+                            "amountInMinor": 265,
+                            "amountDisplay": "2.65"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 265,
+                            "amountDisplay": "2.65"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413432207666/photo/menueditor_item_5f6a8190c76042abb2b12f3a189b3b0a_1779630193854990193.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413432207666/detail/menueditor_item_5f6a8190c76042abb2b12f3a189b3b0a_1779630193854990193.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260524134343017302",
+                        "name": "Gula Melaka",
+                        "available": true,
+                        "priceInMinorUnit": 265,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413434136326/photo/menueditor_item_78ad1830ca5d49b59e29e479a1926799_1779630214610319109.avif",
+                        "discountedPriceInMin": 265,
+                        "priceV2": {
+                            "amountInMinor": 265,
+                            "amountDisplay": "2.65"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 265,
+                            "amountDisplay": "2.65"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413434136326/photo/menueditor_item_78ad1830ca5d49b59e29e479a1926799_1779630214610319109.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052413434136326/detail/menueditor_item_78ad1830ca5d49b59e29e479a1926799_1779630214610319109.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250916085633091035",
+                "name": "Gift Card",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250916085633013530",
+                        "name": "Gift Card",
+                        "available": true,
+                        "priceInMinorUnit": 195,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530017824/photo/menueditor_item_d19756af531f4cf6aa9b04ed3c33acf6_1757264766094511816.avif",
+                        "description": "Giftcard with personalised message (not more than 50 words).",
+                        "discountedPriceInMin": 195,
+                        "priceV2": {
+                            "amountInMinor": 195,
+                            "amountDisplay": "1.95"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 195,
+                            "amountDisplay": "1.95"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530017824/photo/menueditor_item_d19756af531f4cf6aa9b04ed3c33acf6_1757264766094511816.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20241203144530017824/detail/menueditor_item_d19756af531f4cf6aa9b04ed3c33acf6_1757264766094511816.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.8,
+    "voteCount": 3016,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Chulop! - East Village on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-SGDD07562"
+    },
+    "chainName": "Chulop!",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/SGDD07562/list/28b51308c4a944219bfefaf96cafcb4c_1649659812371450550.avif",
+    "branchName": "East Village",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#FFEC8F",
+            "text": "5-Star Eats",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200002/iconv3/d649c6d9ea9b4e87b0f3896b02f40a74_1769400755885577643.webp",
+            "labelID": "1200002",
+            "labelName": "5 Star Eats",
+            "type": "FoodAuthority",
+            "fontColor": "#005339",
+            "icon": "StarFilled",
+            "deeplink": "grab://open?screenType=GRABFOOD&campaignLandingID=16927&landingSource=foodAuthority&isNewTask=true"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 12:00 PM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T04:00:00Z"
+    },
+    "translationTags": [
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

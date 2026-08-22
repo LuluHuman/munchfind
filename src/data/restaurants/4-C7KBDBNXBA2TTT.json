@@ -1,0 +1,2819 @@
+{
+    "ID": "4-C7KBDBNXBA2TTT",
+    "name": "Tai Wah Pork Noodle - Eastpoint Mall",
+    "cuisine": "Malaysian,Noodle",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7KBDBNXBA2TTT/hero/d75dbb3bc9cd45e9b9053a4b798e22a1_1752124049991776155.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "9:00am-8:45pm",
+        "mon": "9:00am-8:45pm",
+        "tue": "9:00am-8:45pm",
+        "wed": "9:00am-8:45pm",
+        "thu": "9:00am-8:45pm",
+        "fri": "9:00am-8:45pm",
+        "sat": "9:00am-8:45pm"
+    },
+    "address": {
+        "name": "Tai Wah Pork Noodle - Eastpoint Mall",
+        "combined_address": "3, Simei Street 6, Level 3, Tampines, 528833",
+        "combined_city": "Singapore",
+        "house": "Level 3",
+        "street": "3, Simei Street 6",
+        "suburb": "Tampines",
+        "postcode": "528833",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3427472,
+        "lng": 103.9530126
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20250710045216028228",
+                "name": "Mains 主菜",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250710045216044452",
+                        "name": "Signature Tai Wah Pork Noodle 大华招牌肉脞面 (Soup 汤)",
+                        "available": true,
+                        "priceInMinorUnit": 1340,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071719010845/photo/2961164b86b549c3a86ea7a56980eab2_1724743039829495574.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217053973",
+                                "name": "Choice of Noodles 选择面类",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218167444",
+                                        "name": "Mee Kia 面仔",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (면의 얼굴)",
+                                                    "zh": "面仔"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218100616",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218084520",
+                                        "name": "Kway Tiao 粿条",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218125793",
+                                        "name": "Yellow Mee 熟面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수 (조리된 국수)",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 종류 선택",
+                                            "zh": "自选面条"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1340,
+                        "priceV2": {
+                            "amountInMinor": 1340,
+                            "amountDisplay": "13.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1340,
+                            "amountDisplay": "13.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071400023477\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071719010845/photo/2961164b86b549c3a86ea7a56980eab2_1724743039829495574.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071719010845/detail/2961164b86b549c3a86ea7a56980eab2_1724743039829495574.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045217017703",
+                        "name": "Signature Tai Wah Pork Noodle 大华招牌肉脞面 (Dry 干)",
+                        "available": true,
+                        "priceInMinorUnit": 1340,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720013783/photo/e40120d92e834e30b0128ccb09f474c7_1724743040124918031.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217053973",
+                                "name": "Choice of Noodles 选择面类",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218167444",
+                                        "name": "Mee Kia 面仔",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (면의 얼굴)",
+                                                    "zh": "面仔"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218100616",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218084520",
+                                        "name": "Kway Tiao 粿条",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218125793",
+                                        "name": "Yellow Mee 熟面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수 (조리된 국수)",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 종류 선택",
+                                            "zh": "自选面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217042139",
+                                "name": "Spiciness Level 辣度",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218111031",
+                                        "name": "No Spicy 无辣",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않음",
+                                                    "zh": "不辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "0##not_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218032693",
+                                        "name": "Less Spicy 少辣",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "덜 매운맛",
+                                                    "zh": "少辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "2##medium_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218149619",
+                                        "name": "Standard 标准",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "표준",
+                                                    "zh": "标准"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045217062376",
+                                        "name": "More Spicy 加辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "특별히 매운",
+                                                    "zh": "更辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "4##extra_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운 정도",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217034007",
+                                "name": "Vinegar Level 醋度",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218094368",
+                                        "name": "No Vinegar 无醋",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 없음",
+                                                    "zh": "无醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218028550",
+                                        "name": "Less Vinegar少醋",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 적게",
+                                                    "zh": "少醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218052655",
+                                        "name": "Standard 标准",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "표준",
+                                                    "zh": "标准"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218073799",
+                                        "name": "More Vinegar 多醋",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 추가",
+                                                    "zh": "多加醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "식초 도수",
+                                            "zh": "醋量"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1340,
+                        "priceV2": {
+                            "amountInMinor": 1340,
+                            "amountDisplay": "13.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1340,
+                            "amountDisplay": "13.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071400023477\",\"SGMOD20240827071343037868\",\"SGMOD20240827071308036793\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720013783/photo/e40120d92e834e30b0128ccb09f474c7_1724743040124918031.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720013783/detail/e40120d92e834e30b0128ccb09f474c7_1724743040124918031.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045217082849",
+                        "name": "Pork Noodle 肉脞面 (Soup 汤)",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720021008/photo/6a8ef8c96aab461191f1d3e25cc22a32_1724743040394777355.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217053973",
+                                "name": "Choice of Noodles 选择面类",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218167444",
+                                        "name": "Mee Kia 面仔",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (면의 얼굴)",
+                                                    "zh": "面仔"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218100616",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218084520",
+                                        "name": "Kway Tiao 粿条",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218125793",
+                                        "name": "Yellow Mee 熟面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수 (조리된 국수)",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 종류 선택",
+                                            "zh": "自选面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217024609",
+                                "name": "Size (小/大)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218159499",
+                                        "name": "Small 小",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "작은 小",
+                                                    "zh": "小"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218131487",
+                                        "name": "Big 大",
+                                        "available": true,
+                                        "priceInMinorUnit": 260,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 260,
+                                            "amountDisplay": "2.60"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "Big 큰",
+                                                    "zh": "大 Big"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈 (소/대)",
+                                            "zh": "尺寸 (小/大)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071244013814\",\"SGMOD20240827071400035381\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720021008/photo/6a8ef8c96aab461191f1d3e25cc22a32_1724743040394777355.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720021008/detail/6a8ef8c96aab461191f1d3e25cc22a32_1724743040394777355.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045217020091",
+                        "name": "Pork Noodle 肉脞面 (Dry 干)",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720038413/photo/3f0e59b9d4214a23bfeec64b7594d1f4_1724743040632780198.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217053973",
+                                "name": "Choice of Noodles 选择面类",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218167444",
+                                        "name": "Mee Kia 面仔",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (면의 얼굴)",
+                                                    "zh": "面仔"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218100616",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218084520",
+                                        "name": "Kway Tiao 粿条",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218125793",
+                                        "name": "Yellow Mee 熟面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수 (조리된 국수)",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 종류 선택",
+                                            "zh": "自选面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217024609",
+                                "name": "Size (小/大)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218159499",
+                                        "name": "Small 小",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "작은 小",
+                                                    "zh": "小"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218131487",
+                                        "name": "Big 大",
+                                        "available": true,
+                                        "priceInMinorUnit": 260,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 260,
+                                            "amountDisplay": "2.60"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "Big 큰",
+                                                    "zh": "大 Big"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈 (소/대)",
+                                            "zh": "尺寸 (小/大)"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217042139",
+                                "name": "Spiciness Level 辣度",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218111031",
+                                        "name": "No Spicy 无辣",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않음",
+                                                    "zh": "不辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "0##not_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218032693",
+                                        "name": "Less Spicy 少辣",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "덜 매운맛",
+                                                    "zh": "少辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "2##medium_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218149619",
+                                        "name": "Standard 标准",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "표준",
+                                                    "zh": "标准"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045217062376",
+                                        "name": "More Spicy 加辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "특별히 매운",
+                                                    "zh": "更辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "4##extra_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운 정도",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217034007",
+                                "name": "Vinegar Level 醋度",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218094368",
+                                        "name": "No Vinegar 无醋",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 없음",
+                                                    "zh": "无醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218028550",
+                                        "name": "Less Vinegar少醋",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 적게",
+                                                    "zh": "少醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218052655",
+                                        "name": "Standard 标准",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "표준",
+                                                    "zh": "标准"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218073799",
+                                        "name": "More Vinegar 多醋",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 추가",
+                                                    "zh": "多加醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "식초 도수",
+                                            "zh": "醋量"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071244013814\",\"SGMOD20240827071343037868\",\"SGMOD20240827071400023477\",\"SGMOD20240827071308036793\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720038413/photo/3f0e59b9d4214a23bfeec64b7594d1f4_1724743040632780198.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720038413/detail/3f0e59b9d4214a23bfeec64b7594d1f4_1724743040632780198.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045216010414",
+                        "name": "Dumpling Noodle 水饺面 (Soup 汤)",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720042764/photo/0dabb0899adb48148698c7f471ae6e17_1724744093732476563.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217053973",
+                                "name": "Choice of Noodles 选择面类",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218167444",
+                                        "name": "Mee Kia 面仔",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (면의 얼굴)",
+                                                    "zh": "面仔"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218100616",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218084520",
+                                        "name": "Kway Tiao 粿条",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218125793",
+                                        "name": "Yellow Mee 熟面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수 (조리된 국수)",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 종류 선택",
+                                            "zh": "自选面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217013266",
+                                "name": "Size (小/中/大)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218047009",
+                                        "name": "Small 小",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "작은 小",
+                                                    "zh": "小"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218068904",
+                                        "name": "Medium 中",
+                                        "available": true,
+                                        "priceInMinorUnit": 260,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 260,
+                                            "amountDisplay": "2.60"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "중간 크기 중",
+                                                    "zh": "中份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218014821",
+                                        "name": "Big 大",
+                                        "available": true,
+                                        "priceInMinorUnit": 520,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 520,
+                                            "amountDisplay": "5.20"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "Big 큰",
+                                                    "zh": "大 Big"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "크기 (소/중/대)",
+                                            "zh": "尺寸 (小/中/大)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071229018499\",\"SGMOD20240827071400017747\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720042764/photo/0dabb0899adb48148698c7f471ae6e17_1724744093732476563.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720042764/detail/0dabb0899adb48148698c7f471ae6e17_1724744093732476563.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045217094991",
+                        "name": "Dumpling Noodle 水饺面 (Dry 干)",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720057493/photo/3536162b453f40edb1712f3267798b5b_1724744102449636767.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217053973",
+                                "name": "Choice of Noodles 选择面类",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218167444",
+                                        "name": "Mee Kia 面仔",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (면의 얼굴)",
+                                                    "zh": "面仔"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218100616",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218084520",
+                                        "name": "Kway Tiao 粿条",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218125793",
+                                        "name": "Yellow Mee 熟面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수 (조리된 국수)",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 종류 선택",
+                                            "zh": "自选面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217013266",
+                                "name": "Size (小/中/大)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218047009",
+                                        "name": "Small 小",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "작은 小",
+                                                    "zh": "小"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218068904",
+                                        "name": "Medium 中",
+                                        "available": true,
+                                        "priceInMinorUnit": 260,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 260,
+                                            "amountDisplay": "2.60"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "중간 크기 중",
+                                                    "zh": "中份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218014821",
+                                        "name": "Big 大",
+                                        "available": true,
+                                        "priceInMinorUnit": 520,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 520,
+                                            "amountDisplay": "5.20"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "Big 큰",
+                                                    "zh": "大 Big"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "크기 (소/중/대)",
+                                            "zh": "尺寸 (小/中/大)"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217042139",
+                                "name": "Spiciness Level 辣度",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218111031",
+                                        "name": "No Spicy 无辣",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않음",
+                                                    "zh": "不辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "0##not_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218032693",
+                                        "name": "Less Spicy 少辣",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "덜 매운맛",
+                                                    "zh": "少辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "2##medium_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218149619",
+                                        "name": "Standard 标准",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "표준",
+                                                    "zh": "标准"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045217062376",
+                                        "name": "More Spicy 加辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "특별히 매운",
+                                                    "zh": "更辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "4##extra_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운 정도",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217034007",
+                                "name": "Vinegar Level 醋度",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218094368",
+                                        "name": "No Vinegar 无醋",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 없음",
+                                                    "zh": "无醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218028550",
+                                        "name": "Less Vinegar少醋",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 적게",
+                                                    "zh": "少醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218052655",
+                                        "name": "Standard 标准",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "표준",
+                                                    "zh": "标准"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218073799",
+                                        "name": "More Vinegar 多醋",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 추가",
+                                                    "zh": "多加醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "식초 도수",
+                                            "zh": "醋量"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071229018499\",\"SGMOD20240827071400023477\",\"SGMOD20240827071343037868\",\"SGMOD20240827071308024459\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720057493/photo/3536162b453f40edb1712f3267798b5b_1724744102449636767.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071720057493/detail/3536162b453f40edb1712f3267798b5b_1724744102449636767.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045216050721",
+                        "name": "Pork Meatball Noodle 肉丸面 (Soup 汤)",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721012713/photo/7472d533d2b145a09b57373d38e9f9f8_1724744112451905251.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217053973",
+                                "name": "Choice of Noodles 选择面类",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218167444",
+                                        "name": "Mee Kia 面仔",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (면의 얼굴)",
+                                                    "zh": "面仔"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218100616",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218084520",
+                                        "name": "Kway Tiao 粿条",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218125793",
+                                        "name": "Yellow Mee 熟面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수 (조리된 국수)",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 종류 선택",
+                                            "zh": "自选面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217013266",
+                                "name": "Size (小/中/大)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218047009",
+                                        "name": "Small 小",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "작은 小",
+                                                    "zh": "小"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218068904",
+                                        "name": "Medium 中",
+                                        "available": true,
+                                        "priceInMinorUnit": 260,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 260,
+                                            "amountDisplay": "2.60"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "중간 크기 중",
+                                                    "zh": "中份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218014821",
+                                        "name": "Big 大",
+                                        "available": true,
+                                        "priceInMinorUnit": 520,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 520,
+                                            "amountDisplay": "5.20"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "Big 큰",
+                                                    "zh": "大 Big"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "크기 (소/중/대)",
+                                            "zh": "尺寸 (小/中/大)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071229018499\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721012713/photo/7472d533d2b145a09b57373d38e9f9f8_1724744112451905251.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721012713/detail/7472d533d2b145a09b57373d38e9f9f8_1724744112451905251.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045216024779",
+                        "name": "Pork Meatball Noodle 肉丸面 (Dry 干)",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721020022/photo/3c22634ee6fa439a9d3d9f2948107d04_1724744121326717033.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217053973",
+                                "name": "Choice of Noodles 选择面类",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218167444",
+                                        "name": "Mee Kia 面仔",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미키아 (면의 얼굴)",
+                                                    "zh": "面仔"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218100616",
+                                        "name": "Mee Pok 面薄",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미팍 (얇은 면)",
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218084520",
+                                        "name": "Kway Tiao 粿条",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-18T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218125793",
+                                        "name": "Yellow Mee 熟面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노란 국수 (조리된 국수)",
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 종류 선택",
+                                            "zh": "自选面条"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217013266",
+                                "name": "Size (小/中/大)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218047009",
+                                        "name": "Small 小",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "작은 小",
+                                                    "zh": "小"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218068904",
+                                        "name": "Medium 中",
+                                        "available": true,
+                                        "priceInMinorUnit": 260,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 260,
+                                            "amountDisplay": "2.60"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "중간 크기 중",
+                                                    "zh": "中份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218014821",
+                                        "name": "Big 大",
+                                        "available": true,
+                                        "priceInMinorUnit": 520,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 520,
+                                            "amountDisplay": "5.20"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "Big 큰",
+                                                    "zh": "大 Big"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "크기 (소/중/대)",
+                                            "zh": "尺寸 (小/中/大)"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217042139",
+                                "name": "Spiciness Level 辣度",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218111031",
+                                        "name": "No Spicy 无辣",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않음",
+                                                    "zh": "不辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "0##not_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218032693",
+                                        "name": "Less Spicy 少辣",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "덜 매운맛",
+                                                    "zh": "少辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "2##medium_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218149619",
+                                        "name": "Standard 标准",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "표준",
+                                                    "zh": "标准"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045217062376",
+                                        "name": "More Spicy 加辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "특별히 매운",
+                                                    "zh": "更辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "4##extra_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운 정도",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217034007",
+                                "name": "Vinegar Level 醋度",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218094368",
+                                        "name": "No Vinegar 无醋",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 없음",
+                                                    "zh": "无醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218028550",
+                                        "name": "Less Vinegar少醋",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 적게",
+                                                    "zh": "少醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218052655",
+                                        "name": "Standard 标准",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "표준",
+                                                    "zh": "标准"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218073799",
+                                        "name": "More Vinegar 多醋",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 추가",
+                                                    "zh": "多加醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "식초 도수",
+                                            "zh": "醋量"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071229018499\",\"SGMOD20240827071308036793\",\"SGMOD20240827071343037868\",\"SGMOD20240827071400023477\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721020022/photo/3c22634ee6fa439a9d3d9f2948107d04_1724744121326717033.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721020022/detail/3c22634ee6fa439a9d3d9f2948107d04_1724744121326717033.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250710045216039218",
+                "name": "Side Dishes 小吃",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250710045217039285",
+                        "name": "Pork Liver 猪肝 (Soup 汤)",
+                        "available": true,
+                        "priceInMinorUnit": 640,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721036349/photo/89298307cc7341b18a75f52e3ebf9728_1724743041464268754.webp",
+                        "discountedPriceInMin": 640,
+                        "priceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721036349/photo/89298307cc7341b18a75f52e3ebf9728_1724743041464268754.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721036349/detail/89298307cc7341b18a75f52e3ebf9728_1724743041464268754.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045217058687",
+                        "name": "Pork Liver 猪肝 (Dry 干)",
+                        "available": true,
+                        "priceInMinorUnit": 640,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721047893/photo/676037f1dbac4970bd160328f672dce6_1724743041692537683.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217034007",
+                                "name": "Vinegar Level 醋度",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218094368",
+                                        "name": "No Vinegar 无醋",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 없음",
+                                                    "zh": "无醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218028550",
+                                        "name": "Less Vinegar少醋",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 적게",
+                                                    "zh": "少醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218052655",
+                                        "name": "Standard 标准",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "표준",
+                                                    "zh": "标准"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218073799",
+                                        "name": "More Vinegar 多醋",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "식초 추가",
+                                                    "zh": "多加醋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "식초 도수",
+                                            "zh": "醋量"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOD20250710045217042139",
+                                "name": "Spiciness Level 辣度",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218111031",
+                                        "name": "No Spicy 无辣",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않음",
+                                                    "zh": "不辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "0##not_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218032693",
+                                        "name": "Less Spicy 少辣",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "덜 매운맛",
+                                                    "zh": "少辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "2##medium_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218149619",
+                                        "name": "Standard 标准",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "표준",
+                                                    "zh": "标准"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045217062376",
+                                        "name": "More Spicy 加辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "특별히 매운",
+                                                    "zh": "更辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "4##extra_spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운 정도",
+                                            "zh": "辣度"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 640,
+                        "priceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071343037868\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721047893/photo/676037f1dbac4970bd160328f672dce6_1724743041692537683.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721047893/detail/676037f1dbac4970bd160328f672dce6_1724743041692537683.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045217049243",
+                        "name": "Meatball Soup 肉丸汤",
+                        "available": true,
+                        "priceInMinorUnit": 770,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721056643/photo/c92f11cfb588422ab0fbbbddea588353_1724743041883416251.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217013266",
+                                "name": "Size (小/中/大)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218047009",
+                                        "name": "Small 小",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "작은 小",
+                                                    "zh": "小"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218068904",
+                                        "name": "Medium 中",
+                                        "available": true,
+                                        "priceInMinorUnit": 260,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 260,
+                                            "amountDisplay": "2.60"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "중간 크기 중",
+                                                    "zh": "中份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218014821",
+                                        "name": "Big 大",
+                                        "available": true,
+                                        "priceInMinorUnit": 520,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 520,
+                                            "amountDisplay": "5.20"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "Big 큰",
+                                                    "zh": "大 Big"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "크기 (소/중/대)",
+                                            "zh": "尺寸 (小/中/大)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 770,
+                        "priceV2": {
+                            "amountInMinor": 770,
+                            "amountDisplay": "7.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 770,
+                            "amountDisplay": "7.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2024-11-01T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071229018499\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721056643/photo/c92f11cfb588422ab0fbbbddea588353_1724743041883416251.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071721056643/detail/c92f11cfb588422ab0fbbbddea588353_1724743041883416251.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045216035733",
+                        "name": "Mixed Pork Soup 肉脞汤",
+                        "available": true,
+                        "priceInMinorUnit": 770,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722018284/photo/7b983e8362704c25891c9a74e928ce72_1724743042145180345.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217024609",
+                                "name": "Size (小/大)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218159499",
+                                        "name": "Small 小",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "작은 小",
+                                                    "zh": "小"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218131487",
+                                        "name": "Big 大",
+                                        "available": true,
+                                        "priceInMinorUnit": 260,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 260,
+                                            "amountDisplay": "2.60"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "Big 큰",
+                                                    "zh": "大 Big"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈 (소/대)",
+                                            "zh": "尺寸 (小/大)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 770,
+                        "priceV2": {
+                            "amountInMinor": 770,
+                            "amountDisplay": "7.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 770,
+                            "amountDisplay": "7.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071244013814\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722018284/photo/7b983e8362704c25891c9a74e928ce72_1724743042145180345.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722018284/detail/7b983e8362704c25891c9a74e928ce72_1724743042145180345.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045217123784",
+                        "name": "Dumpling Soup 水饺汤",
+                        "available": true,
+                        "priceInMinorUnit": 770,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722026744/photo/ed5d94b697a34932b8bcfec3f4ed47c0_1724743042403552455.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20250710045217013266",
+                                "name": "Size (小/中/大)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250710045218047009",
+                                        "name": "Small 小",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "작은 小",
+                                                    "zh": "小"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218068904",
+                                        "name": "Medium 中",
+                                        "available": true,
+                                        "priceInMinorUnit": 260,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 260,
+                                            "amountDisplay": "2.60"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "중간 크기 중",
+                                                    "zh": "中份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250710045218014821",
+                                        "name": "Big 大",
+                                        "available": true,
+                                        "priceInMinorUnit": 520,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 520,
+                                            "amountDisplay": "5.20"
+                                        },
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "Big 큰",
+                                                    "zh": "大 Big"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "크기 (소/중/대)",
+                                            "zh": "尺寸 (小/中/大)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 770,
+                        "priceV2": {
+                            "amountInMinor": 770,
+                            "amountDisplay": "7.70"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 770,
+                            "amountDisplay": "7.70"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20240827071229018499\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722026744/photo/ed5d94b697a34932b8bcfec3f4ed47c0_1724743042403552455.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722026744/detail/ed5d94b697a34932b8bcfec3f4ed47c0_1724743042403552455.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045217108135",
+                        "name": "Dumpling 水饺( Dry 干)",
+                        "available": true,
+                        "priceInMinorUnit": 640,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722039709/photo/bf45cd39b9fc443a87ca2943ca7c3cf1_1724743042671685177.webp",
+                        "discountedPriceInMin": 640,
+                        "priceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722039709/photo/bf45cd39b9fc443a87ca2943ca7c3cf1_1724743042671685177.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722039709/detail/bf45cd39b9fc443a87ca2943ca7c3cf1_1724743042671685177.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045217115107",
+                        "name": "Fried Dumpling 炸水饺",
+                        "available": true,
+                        "priceInMinorUnit": 640,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722046686/photo/menueditor_item_dad1154659af4ff196137009d679a5b9_1724746915781773776.webp",
+                        "discountedPriceInMin": 640,
+                        "priceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722046686/photo/menueditor_item_dad1154659af4ff196137009d679a5b9_1724746915781773776.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722046686/detail/menueditor_item_dad1154659af4ff196137009d679a5b9_1724746915781773776.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250710045217063883",
+                        "name": "Fried Sole Fish 炸扁鱼",
+                        "available": true,
+                        "priceInMinorUnit": 640,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722055215/photo/5cf46793fada4304a08b26647bcadc15_1724743042960137321.webp",
+                        "discountedPriceInMin": 640,
+                        "priceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 640,
+                            "amountDisplay": "6.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-02-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722055215/photo/5cf46793fada4304a08b26647bcadc15_1724743042960137321.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240827071722055215/detail/5cf46793fada4304a08b26647bcadc15_1724743042960137321.webp"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4,
+    "voteCount": 47,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1200,
+        "thresholdForDisplay": {
+            "amountInMinor": 1200,
+            "amountDisplay": "S$12.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$12.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$12.00, a small order fee of the difference between your order value & S$12.00 applies."
+        }
+    },
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C7KBDBNXBA2TTT/photos/d75dbb3bc9cd45e9b9053a4b798e22a1_1752124049991776155.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Tai Wah Pork Noodle - Eastpoint Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7KBDBNXBA2TTT"
+    },
+    "chainName": "Tai Wah Pork Noodle",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7KBDBNXBA2TTT/list/9e6136ac155d4eb29be3345e3e71efd5_1752124045529583910.webp",
+    "branchName": "Eastpoint Mall",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 9:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T01:00:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

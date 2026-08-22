@@ -1,0 +1,852 @@
+{
+    "ID": "4-C7LTMFXUTALZAX",
+    "name": "Kou Kou Xiang: 中华小吃 - Tampines Mrt Station",
+    "cuisine": "Chinese,Zi Char,Dim Sum",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7LTMFXUTALZAX/hero/c3e90c0a807640fda061289b1fc027dc_1755068764460640675.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "9:30am-8:00pm",
+        "mon": "9:30am-8:00pm",
+        "tue": "9:30am-8:00pm",
+        "wed": "9:30am-8:00pm",
+        "thu": "9:30am-8:00pm",
+        "fri": "9:30am-8:00pm",
+        "sat": "9:30am-8:00pm"
+    },
+    "address": {
+        "name": "Kou Kou Xiang: 中华小吃 - Tampines Mrt Station",
+        "combined_address": "DT 32 Tampines MRT (blue line); 15 Tampines central 1 #B1-08 S(529544)",
+        "combined_city": "Singapore",
+        "street": "DT 32 Tampines MRT (blue line); 15 Tampines central 1 #B1-08 S(529544)",
+        "postcode": "529544",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3544648,
+        "lng": 103.9427628
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20250813065802010945",
+                "name": "Mains",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026040908033767755",
+                        "name": "素凉拌菜（小份）",
+                        "available": true,
+                        "priceInMinorUnit": 300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026040908033767755/photo/menueditor_item_9288a85ee6534cc39fa313883d7dc5a5_1775721788923185479.webp",
+                        "discountedPriceInMin": 300,
+                        "priceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026040908033767755/photo/menueditor_item_9288a85ee6534cc39fa313883d7dc5a5_1775721788923185479.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026040908033767755/detail/menueditor_item_9288a85ee6534cc39fa313883d7dc5a5_1775721788923185479.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026040908022636274",
+                        "name": "中国饮料",
+                        "available": true,
+                        "priceInMinorUnit": 300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026040908022636274/photo/menueditor_item_ccfe3eb788534ce5bd44fa60e97a8e23_1775721717620299190.webp",
+                        "discountedPriceInMin": 300,
+                        "priceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026040908022636274/photo/menueditor_item_ccfe3eb788534ce5bd44fa60e97a8e23_1775721717620299190.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026040908022636274/detail/menueditor_item_ccfe3eb788534ce5bd44fa60e97a8e23_1775721717620299190.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025113006464999668",
+                        "name": "鸡丝凉面",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006464999668/photo/menueditor_item_f45354e1094540f7a894ed6cbcaf8a59_1764485196052717325.webp",
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006464999668/photo/menueditor_item_f45354e1094540f7a894ed6cbcaf8a59_1764485196052717325.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006464999668/detail/menueditor_item_f45354e1094540f7a894ed6cbcaf8a59_1764485196052717325.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025113006454341221",
+                        "name": "麻辣牛肉干拌粉",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006454341221/photo/menueditor_item_c467bfa6d3a94e439be394e6ffc9dc19_1764485127617569944.webp",
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006454341221/photo/menueditor_item_c467bfa6d3a94e439be394e6ffc9dc19_1764485127617569944.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006454341221/detail/menueditor_item_c467bfa6d3a94e439be394e6ffc9dc19_1764485127617569944.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025113006445829359",
+                        "name": "麻辣牛肉粉",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006445829359/photo/menueditor_item_191bb15dae49484e89cd3bdd6883e4b6_1764485059157960709.webp",
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006445829359/photo/menueditor_item_191bb15dae49484e89cd3bdd6883e4b6_1764485059157960709.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006445829359/detail/menueditor_item_191bb15dae49484e89cd3bdd6883e4b6_1764485059157960709.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025113006300118081",
+                        "name": "小笼包（小笼包）",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006300118081/photo/menueditor_item_4caaf4a4285f44b394e4c5750588d000_1764484152665416550.webp",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006300118081/photo/menueditor_item_4caaf4a4285f44b394e4c5750588d000_1764484152665416550.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025113006300118081/detail/menueditor_item_4caaf4a4285f44b394e4c5750588d000_1764484152665416550.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025082803291092238",
+                        "name": "北京炸酱面 Beijing zhajiang noodle",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082803291092238/photo/menueditor_item_41e44eb4a52e40baa059282cca9e587d_1756351725292918002.webp",
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082803291092238/photo/menueditor_item_41e44eb4a52e40baa059282cca9e587d_1756351725292918002.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082803291092238/detail/menueditor_item_41e44eb4a52e40baa059282cca9e587d_1756351725292918002.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025082803275883056",
+                        "name": "重庆小面 chongqing Mala noodle",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082803275883056/photo/menueditor_item_398fffe41d3d4621bbc6f8793825f2c7_1756351654274862894.webp",
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082803275883056/photo/menueditor_item_398fffe41d3d4621bbc6f8793825f2c7_1756351654274862894.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082803275883056/detail/menueditor_item_398fffe41d3d4621bbc6f8793825f2c7_1756351654274862894.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025082307222236948",
+                        "name": "鸡腿饭chicken rice",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082307222236948/photo/menueditor_item_b6dbf0d58959422382c9c3b1fac8d347_1755933723133861629.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082307222236948/photo/menueditor_item_b6dbf0d58959422382c9c3b1fac8d347_1755933723133861629.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082307222236948/detail/menueditor_item_b6dbf0d58959422382c9c3b1fac8d347_1755933723133861629.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025082307211198034",
+                        "name": "猪脚饭 pig’s feet rice",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082307211198034/photo/menueditor_item_3a1a8130c51c488398e3b20a49b95648_1755933642293227227.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-18T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082307211198034/photo/menueditor_item_3a1a8130c51c488398e3b20a49b95648_1755933642293227227.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082307211198034/detail/menueditor_item_3a1a8130c51c488398e3b20a49b95648_1755933642293227227.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065802015378",
+                        "name": "Clear Soup Noodle 清汤面",
+                        "available": true,
+                        "priceInMinorUnit": 480,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065802015378/photo/menueditor_item_b87a2a95566146c79559b3e3279c16bf_1755087619156697650.webp",
+                        "discountedPriceInMin": 480,
+                        "priceV2": {
+                            "amountInMinor": 480,
+                            "amountDisplay": "4.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 480,
+                            "amountDisplay": "4.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065802015378/photo/menueditor_item_b87a2a95566146c79559b3e3279c16bf_1755087619156697650.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065802015378/detail/menueditor_item_b87a2a95566146c79559b3e3279c16bf_1755087619156697650.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065802025346",
+                        "name": "Beef Noodles 牛肉面",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065802025346/photo/menueditor_item_48e15d24857441ff90562168e2ef9031_1755087638617219121.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065802025346/photo/menueditor_item_48e15d24857441ff90562168e2ef9031_1755087638617219121.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065802025346/detail/menueditor_item_48e15d24857441ff90562168e2ef9031_1755087638617219121.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065803016873",
+                        "name": "Intestine Noodles 肥肠面",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803016873/photo/menueditor_item_ca1878da2da241c19cbeddd83d957f35_1755087696881011557.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803016873/photo/menueditor_item_ca1878da2da241c19cbeddd83d957f35_1755087696881011557.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803016873/detail/menueditor_item_ca1878da2da241c19cbeddd83d957f35_1755087696881011557.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065803020145",
+                        "name": "Pig's Feet Noodle 猪脚面",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803020145/photo/menueditor_item_367040c9e74f4a029a81f59a640d9880_1755087722838446199.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803020145/photo/menueditor_item_367040c9e74f4a029a81f59a640d9880_1755087722838446199.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803020145/detail/menueditor_item_367040c9e74f4a029a81f59a640d9880_1755087722838446199.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065803036021",
+                        "name": "Chicken Noodles 鸡腿面",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803036021/photo/menueditor_item_6c451ec2759e461cbc492e42590c4fbc_1755087744599465230.webp",
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-20T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803036021/photo/menueditor_item_6c451ec2759e461cbc492e42590c4fbc_1755087744599465230.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803036021/detail/menueditor_item_6c451ec2759e461cbc492e42590c4fbc_1755087744599465230.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065803042972",
+                        "name": "Dumplings 饺子",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803042972/photo/menueditor_item_bafcd0ea141d4ef09d12ff183e6e4804_1755087775473113330.webp",
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803042972/photo/menueditor_item_bafcd0ea141d4ef09d12ff183e6e4804_1755087775473113330.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803042972/detail/menueditor_item_bafcd0ea141d4ef09d12ff183e6e4804_1755087775473113330.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065803056745",
+                        "name": "Wonton Soup 馄饨汤",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803056745/photo/menueditor_item_161dfb6231c64fe397efde5035122410_1755087892207236031.webp",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803056745/photo/menueditor_item_161dfb6231c64fe397efde5035122410_1755087892207236031.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803056745/detail/menueditor_item_161dfb6231c64fe397efde5035122410_1755087892207236031.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065803068216",
+                        "name": "Spicy Wontons 红油抄手",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803068216/photo/menueditor_item_77eb8769645d4e24806cbbec396d9e2c_1755087965923338607.webp",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803068216/photo/menueditor_item_77eb8769645d4e24806cbbec396d9e2c_1755087965923338607.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803068216/detail/menueditor_item_77eb8769645d4e24806cbbec396d9e2c_1755087965923338607.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065803079995",
+                        "name": "Steamed Bao 包子",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803079995/photo/menueditor_item_15b9cdae592c4b378001dddbef66e196_1755087985944395308.webp",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803079995/photo/menueditor_item_15b9cdae592c4b378001dddbef66e196_1755087985944395308.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803079995/detail/menueditor_item_15b9cdae592c4b378001dddbef66e196_1755087985944395308.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065803155114",
+                        "name": "Cold Noodles 凉皮",
+                        "available": true,
+                        "priceInMinorUnit": 580,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803155114/photo/menueditor_item_9e2da5eaff144d21a56ec4d617052148_1755088457524412482.webp",
+                        "discountedPriceInMin": 580,
+                        "priceV2": {
+                            "amountInMinor": 580,
+                            "amountDisplay": "5.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 580,
+                            "amountDisplay": "5.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803155114/photo/menueditor_item_9e2da5eaff144d21a56ec4d617052148_1755088457524412482.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803155114/detail/menueditor_item_9e2da5eaff144d21a56ec4d617052148_1755088457524412482.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065803180015",
+                        "name": "Lemon Chicken Feet 柠檬鸡爪",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803180015/photo/menueditor_item_bdc9a5e076eb4b63be076fe93d2d4eba_1755088499112234692.webp",
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803180015/photo/menueditor_item_bdc9a5e076eb4b63be076fe93d2d4eba_1755088499112234692.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803180015/detail/menueditor_item_bdc9a5e076eb4b63be076fe93d2d4eba_1755088499112234692.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065804013698",
+                        "name": "Spicy Chicken Feet 泡椒鸡爪",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804013698/photo/menueditor_item_cacdcdcf7e444908af90e6359d6dcf27_1755088527952130438.webp",
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804013698/photo/menueditor_item_cacdcdcf7e444908af90e6359d6dcf27_1755088527952130438.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804013698/detail/menueditor_item_cacdcdcf7e444908af90e6359d6dcf27_1755088527952130438.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065804021134",
+                        "name": "Thai-Style Chicken Feet 泰式鸡爪",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804021134/photo/menueditor_item_847a5096e8b94c70a47898aaf0cb145f_1755088714979842318.webp",
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804021134/photo/menueditor_item_847a5096e8b94c70a47898aaf0cb145f_1755088714979842318.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804021134/detail/menueditor_item_847a5096e8b94c70a47898aaf0cb145f_1755088714979842318.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065804032197",
+                        "name": "Mala Chicken Feet 麻辣鸡爪",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804032197/photo/menueditor_item_a140e09b2fc44afba8c3827ff6c160dd_1755088743426979604.webp",
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804032197/photo/menueditor_item_a140e09b2fc44afba8c3827ff6c160dd_1755088743426979604.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804032197/detail/menueditor_item_a140e09b2fc44afba8c3827ff6c160dd_1755088743426979604.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065804043851",
+                        "name": "Garlic Chicken Feet 蒜香鸡爪",
+                        "available": true,
+                        "priceInMinorUnit": 880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804043851/photo/menueditor_item_547e2edcdc1a4ffdb314d6b887927080_1755088768701428606.webp",
+                        "discountedPriceInMin": 880,
+                        "priceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 880,
+                            "amountDisplay": "8.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804043851/photo/menueditor_item_547e2edcdc1a4ffdb314d6b887927080_1755088768701428606.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804043851/detail/menueditor_item_547e2edcdc1a4ffdb314d6b887927080_1755088768701428606.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065804087998",
+                        "name": "Red Sausage 哈尔滨红肠",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804087998/photo/menueditor_item_32055c6569254af783aa7c4eb6aca5ac_1755088805125914204.webp",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804087998/photo/menueditor_item_32055c6569254af783aa7c4eb6aca5ac_1755088805125914204.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804087998/detail/menueditor_item_32055c6569254af783aa7c4eb6aca5ac_1755088805125914204.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065804092751",
+                        "name": "Smoked Pig Claw 熏猪爪",
+                        "available": true,
+                        "priceInMinorUnit": 680,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804092751/photo/menueditor_item_4b2367f901df46d6a11cc482a0870910_1755088826501458838.webp",
+                        "discountedPriceInMin": 680,
+                        "priceV2": {
+                            "amountInMinor": 680,
+                            "amountDisplay": "6.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 680,
+                            "amountDisplay": "6.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804092751/photo/menueditor_item_4b2367f901df46d6a11cc482a0870910_1755088826501458838.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065804092751/detail/menueditor_item_4b2367f901df46d6a11cc482a0870910_1755088826501458838.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025082209030766674",
+                        "name": "红焖牛肉饭 Beef rice",
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082209030766674/photo/menueditor_item_f4aeb944871448e6803ebc18cebd021b_1755853351737441419.webp",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-05-06T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082209030766674/photo/menueditor_item_f4aeb944871448e6803ebc18cebd021b_1755853351737441419.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025082209030766674/detail/menueditor_item_f4aeb944871448e6803ebc18cebd021b_1755853351737441419.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250813065803089855",
+                        "name": "Hua Juan 花卷",
+                        "priceInMinorUnit": 150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803089855/photo/menueditor_item_0c255669bc054c9092ec9e7036ee497c_1755088386283607743.webp",
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-09-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803089855/photo/menueditor_item_0c255669bc054c9092ec9e7036ee497c_1755088386283607743.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250813065803089855/detail/menueditor_item_0c255669bc054c9092ec9e7036ee497c_1755088386283607743.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.3,
+    "voteCount": 22,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C7LTMFXUTALZAX/photos/c3e90c0a807640fda061289b1fc027dc_1755068764460640675.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Kou Kou Xiang: 中华小吃 - Tampines Mrt Station on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7LTMFXUTALZAX"
+    },
+    "chainName": "Kou Kou Xiang: 中华小吃",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7LTMFXUTALZAX/list/57980364bc4c4a1db1859c0c89de0027_1755068759238161836.webp",
+    "branchName": "Tampines Mrt Station",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 9:30 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T01:30:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

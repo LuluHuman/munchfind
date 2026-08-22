@@ -11,4 +11,4 @@ export const CUISINE_OPTIONS = [
   "Thai",
 ] as const;
 
-export const DIETARY_OPTIONS = ["None", "Vegetarian", "Halal", "Gluten-free"] as const;
+export const DIETARY_OPTIONS = ["None", "Vegetarian", "Halal"] as const;

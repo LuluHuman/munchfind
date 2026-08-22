@@ -1,0 +1,1916 @@
+{
+    "ID": "4-C8AALCEFTKMAA6",
+    "name": "The Palate Arabian Grill Indian Biriyani - Singapore Expo",
+    "cuisine": "Arabian,Grilled Chicken,Grilled Fish,Biryani",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C8AALCEFTKMAA6/hero/ed9e5a8c2f564cec8818831ddd429310_1780367683477091529.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:30am-10:00pm",
+        "mon": "10:30am-10:00pm",
+        "tue": "Closed",
+        "wed": "10:30am-10:00pm",
+        "thu": "10:30am-10:00pm",
+        "fri": "10:30am-10:00pm",
+        "sat": "10:30am-10:00pm"
+    },
+    "address": {
+        "name": "The Palate Arabian Grill Indian Biriyani - Singapore Expo",
+        "combined_address": "1, Expo Drive, Singapore, Singapore States, 486150, 486150",
+        "combined_city": "Singapore",
+        "street": "1, Expo Drive, Singapore, Singapore States, 486150",
+        "postcode": "486150",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3334948,
+        "lng": 103.9586333
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT2026060309261584175",
+                "name": "Main Dishes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026060309270631501",
+                        "name": "Al Faham Chicken Original",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309270631501/photo/menueditor_item_86f4e0b4d182427ca26bb52d47d95d43_1780551083456118088.webp",
+                        "description": "Arabian style grilled chicken in original flavour",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022056013480",
+                                "name": "Choice of Size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022056018385",
+                                        "name": "Quarter",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쿼터",
+                                                    "zh": "四分之一"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022056024178",
+                                        "name": "Half",
+                                        "available": true,
+                                        "priceInMinorUnit": 700,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 700,
+                                            "amountDisplay": "7.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "하프",
+                                                    "zh": "一半"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022056032238",
+                                        "name": "Full",
+                                        "available": true,
+                                        "priceInMinorUnit": 1900,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1900,
+                                            "amountDisplay": "19.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "풀",
+                                                    "zh": "全"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈 선택",
+                                            "zh": "尺寸选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022239011787",
+                                "name": "Choice of Side",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022239015899",
+                                        "name": "Mandhi Rice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만디 라이스",
+                                                    "zh": "曼迪饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022239020524",
+                                        "name": "Pita Bread",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "피타 브레드",
+                                                    "zh": "皮塔饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 선택",
+                                            "zh": "选择配菜"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309270631501/photo/menueditor_item_86f4e0b4d182427ca26bb52d47d95d43_1780551083456118088.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309270631501/detail/menueditor_item_86f4e0b4d182427ca26bb52d47d95d43_1780551083456118088.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309304883231",
+                        "name": "Al Faham Chicken Bird's Eye Chilli",
+                        "available": true,
+                        "priceInMinorUnit": 1190,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309304883231/photo/menueditor_item_a4a1958276c445e5a9925beeb4ba7dd6_1780551131149527634.webp",
+                        "description": "Arabian style grilled chicken in Bird's Eye Chilli flavour",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022056013480",
+                                "name": "Choice of Size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022056018385",
+                                        "name": "Quarter",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쿼터",
+                                                    "zh": "四分之一"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022056024178",
+                                        "name": "Half",
+                                        "available": true,
+                                        "priceInMinorUnit": 700,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 700,
+                                            "amountDisplay": "7.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "하프",
+                                                    "zh": "一半"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022056032238",
+                                        "name": "Full",
+                                        "available": true,
+                                        "priceInMinorUnit": 1900,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1900,
+                                            "amountDisplay": "19.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "풀",
+                                                    "zh": "全"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈 선택",
+                                            "zh": "尺寸选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022239011787",
+                                "name": "Choice of Side",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022239015899",
+                                        "name": "Mandhi Rice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만디 라이스",
+                                                    "zh": "曼迪饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022239020524",
+                                        "name": "Pita Bread",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "피타 브레드",
+                                                    "zh": "皮塔饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 선택",
+                                            "zh": "选择配菜"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1190,
+                        "priceV2": {
+                            "amountInMinor": 1190,
+                            "amountDisplay": "11.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1190,
+                            "amountDisplay": "11.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309304883231/photo/menueditor_item_a4a1958276c445e5a9925beeb4ba7dd6_1780551131149527634.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309304883231/detail/menueditor_item_a4a1958276c445e5a9925beeb4ba7dd6_1780551131149527634.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309323374601",
+                        "name": "Al Faham Chicken Peri Peri",
+                        "available": true,
+                        "priceInMinorUnit": 1190,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309323374601/photo/menueditor_item_70c932ed15234a6cb23ffaebdb734796_1780551296984646875.webp",
+                        "description": "Arabian style grilled chicken in Peri Peri flavour",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022239011787",
+                                "name": "Choice of Side",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022239015899",
+                                        "name": "Mandhi Rice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만디 라이스",
+                                                    "zh": "曼迪饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022239020524",
+                                        "name": "Pita Bread",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "피타 브레드",
+                                                    "zh": "皮塔饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 선택",
+                                            "zh": "选择配菜"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022056013480",
+                                "name": "Choice of Size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022056018385",
+                                        "name": "Quarter",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쿼터",
+                                                    "zh": "四分之一"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022056024178",
+                                        "name": "Half",
+                                        "available": true,
+                                        "priceInMinorUnit": 700,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 700,
+                                            "amountDisplay": "7.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "하프",
+                                                    "zh": "一半"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022056032238",
+                                        "name": "Full",
+                                        "available": true,
+                                        "priceInMinorUnit": 1900,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1900,
+                                            "amountDisplay": "19.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "풀",
+                                                    "zh": "全"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈 선택",
+                                            "zh": "尺寸选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1190,
+                        "priceV2": {
+                            "amountInMinor": 1190,
+                            "amountDisplay": "11.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1190,
+                            "amountDisplay": "11.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309323374601/photo/menueditor_item_70c932ed15234a6cb23ffaebdb734796_1780551296984646875.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309323374601/detail/menueditor_item_70c932ed15234a6cb23ffaebdb734796_1780551296984646875.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309331382756",
+                        "name": "Al Faham Chicken Sambal",
+                        "available": true,
+                        "priceInMinorUnit": 1190,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309331382756/photo/menueditor_item_f7ecc43e76c644b3bdfa448390792541_1780551311418788740.webp",
+                        "description": "Arabian style chicken grilled using local sambal paste.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022056013480",
+                                "name": "Choice of Size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022056018385",
+                                        "name": "Quarter",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쿼터",
+                                                    "zh": "四分之一"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022056024178",
+                                        "name": "Half",
+                                        "available": true,
+                                        "priceInMinorUnit": 700,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 700,
+                                            "amountDisplay": "7.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "하프",
+                                                    "zh": "一半"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022056032238",
+                                        "name": "Full",
+                                        "available": true,
+                                        "priceInMinorUnit": 1900,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1900,
+                                            "amountDisplay": "19.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "풀",
+                                                    "zh": "全"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈 선택",
+                                            "zh": "尺寸选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022239011787",
+                                "name": "Choice of Side",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022239015899",
+                                        "name": "Mandhi Rice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만디 라이스",
+                                                    "zh": "曼迪饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022239020524",
+                                        "name": "Pita Bread",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "피타 브레드",
+                                                    "zh": "皮塔饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 선택",
+                                            "zh": "选择配菜"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1190,
+                        "priceV2": {
+                            "amountInMinor": 1190,
+                            "amountDisplay": "11.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1190,
+                            "amountDisplay": "11.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309331382756/photo/menueditor_item_f7ecc43e76c644b3bdfa448390792541_1780551311418788740.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309331382756/detail/menueditor_item_f7ecc43e76c644b3bdfa448390792541_1780551311418788740.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309335548526",
+                        "name": "Al Faham Chicken Malai Cream",
+                        "available": true,
+                        "priceInMinorUnit": 1190,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309335548526/photo/menueditor_item_02defd57d29d46c8a1445f320cc741ed_1780551326054109178.webp",
+                        "description": "Arabian style grilled chicken cooked in rich cashew and butter paste, poured over with a layer of rich cream to make it extra juicy",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022239011787",
+                                "name": "Choice of Side",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022239015899",
+                                        "name": "Mandhi Rice",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만디 라이스",
+                                                    "zh": "曼迪饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022239020524",
+                                        "name": "Pita Bread",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "피타 브레드",
+                                                    "zh": "皮塔饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이드 선택",
+                                            "zh": "选择配菜"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022056013480",
+                                "name": "Choice of Size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022056018385",
+                                        "name": "Quarter",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쿼터",
+                                                    "zh": "四分之一"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022056024178",
+                                        "name": "Half",
+                                        "available": true,
+                                        "priceInMinorUnit": 700,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 700,
+                                            "amountDisplay": "7.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "하프",
+                                                    "zh": "一半"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022056032238",
+                                        "name": "Full",
+                                        "available": true,
+                                        "priceInMinorUnit": 1900,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 1900,
+                                            "amountDisplay": "19.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "풀",
+                                                    "zh": "全"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "사이즈 선택",
+                                            "zh": "尺寸选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1190,
+                        "priceV2": {
+                            "amountInMinor": 1190,
+                            "amountDisplay": "11.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1190,
+                            "amountDisplay": "11.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309335548526/photo/menueditor_item_02defd57d29d46c8a1445f320cc741ed_1780551326054109178.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309335548526/detail/menueditor_item_02defd57d29d46c8a1445f320cc741ed_1780551326054109178.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309353524021",
+                        "name": "Grilled Seabass Mandhi",
+                        "available": true,
+                        "priceInMinorUnit": 1490,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309353524021/photo/menueditor_item_722904aa712b4c309eff8ba2f3b54912_1780551433632724063.webp",
+                        "description": "Arabian style grilled seabass (half) with mandhi rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1490,
+                        "priceV2": {
+                            "amountInMinor": 1490,
+                            "amountDisplay": "14.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1490,
+                            "amountDisplay": "14.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309353524021/photo/menueditor_item_722904aa712b4c309eff8ba2f3b54912_1780551433632724063.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309353524021/detail/menueditor_item_722904aa712b4c309eff8ba2f3b54912_1780551433632724063.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026072510002326531",
+                        "name": "Grilled Peri Peri Prawn Mandhi",
+                        "available": true,
+                        "priceInMinorUnit": 1490,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026072510002326531/photo/menueditor_item_663e4a54da734151870c06935a046c3f_1784973589653864732.webp",
+                        "discountedPriceInMin": 1490,
+                        "priceV2": {
+                            "amountInMinor": 1490,
+                            "amountDisplay": "14.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1490,
+                            "amountDisplay": "14.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026072510002326531/photo/menueditor_item_663e4a54da734151870c06935a046c3f_1784973589653864732.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026072510002326531/detail/menueditor_item_663e4a54da734151870c06935a046c3f_1784973589653864732.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309390450895",
+                        "name": "Lamb Mandhi",
+                        "available": true,
+                        "priceInMinorUnit": 1790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309390450895/photo/menueditor_item_fed5bd3ba33e41358d64ec38fc4134d9_1780551465567709790.webp",
+                        "description": "Arabian style grilled lamb with mandhi rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1790,
+                        "priceV2": {
+                            "amountInMinor": 1790,
+                            "amountDisplay": "17.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1790,
+                            "amountDisplay": "17.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309390450895/photo/menueditor_item_fed5bd3ba33e41358d64ec38fc4134d9_1780551465567709790.webp",
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309390450895/photo/menueditor_item_a1c48c889697406ab8ed8ade4d4191f4_1780551466660185583.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309390450895/detail/menueditor_item_fed5bd3ba33e41358d64ec38fc4134d9_1780551465567709790.webp",
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309390450895/detail/menueditor_item_a1c48c889697406ab8ed8ade4d4191f4_1780551466660185583.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309400702009",
+                        "name": "Beef Koobideh Mandhi",
+                        "available": true,
+                        "priceInMinorUnit": 1590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309400702009/photo/menueditor_item_bb6433c70a0341f783b38df8effbcda2_1780551479836353140.webp",
+                        "description": "Minced beef skewer served with mandhi rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1590,
+                        "priceV2": {
+                            "amountInMinor": 1590,
+                            "amountDisplay": "15.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1590,
+                            "amountDisplay": "15.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309400702009/photo/menueditor_item_bb6433c70a0341f783b38df8effbcda2_1780551479836353140.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309400702009/detail/menueditor_item_bb6433c70a0341f783b38df8effbcda2_1780551479836353140.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309373414395",
+                        "name": "Moroccan Infused Chicken",
+                        "priceInMinorUnit": 1990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309373414395/photo/menueditor_item_f8adf8ad73784247a3eae38997e788a8_1780551449484117466.webp",
+                        "description": "Served with mash potato & rice",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1990,
+                        "priceV2": {
+                            "amountInMinor": 1990,
+                            "amountDisplay": "19.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1990,
+                            "amountDisplay": "19.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309373414395/photo/menueditor_item_f8adf8ad73784247a3eae38997e788a8_1780551449484117466.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309373414395/detail/menueditor_item_f8adf8ad73784247a3eae38997e788a8_1780551449484117466.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309405475415",
+                        "name": "Biryani",
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309405475415/photo/menueditor_item_0de6424a11af41a2a566ce67242dd3a4_1780551496681426241.webp",
+                        "description": "Dum biryani",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260602022452010893",
+                                "name": "Choice of Meat",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260602022452013591",
+                                        "name": "Chicken",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022452027313",
+                                        "name": "Mutton",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "양고기",
+                                                    "zh": "羊肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260602022452034590",
+                                        "name": "Beef",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기",
+                                                    "zh": "牛肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "고기 선택",
+                                            "zh": "选择肉类"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309405475415/photo/menueditor_item_0de6424a11af41a2a566ce67242dd3a4_1780551496681426241.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309405475415/detail/menueditor_item_0de6424a11af41a2a566ce67242dd3a4_1780551496681426241.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026060309414052524",
+                "name": "Sides",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026071309163566868",
+                        "name": "Hummus",
+                        "available": true,
+                        "priceInMinorUnit": 400,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026071309163566868/photo/menueditor_item_748a889348fe48eca677b8eb1495d96d_1783933664716497532.webp",
+                        "discountedPriceInMin": 400,
+                        "priceV2": {
+                            "amountInMinor": 400,
+                            "amountDisplay": "4.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 400,
+                            "amountDisplay": "4.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026071309163566868/photo/menueditor_item_748a889348fe48eca677b8eb1495d96d_1783933664716497532.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026071309163566868/detail/menueditor_item_748a889348fe48eca677b8eb1495d96d_1783933664716497532.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309424303127",
+                        "name": "Mandhi Rice",
+                        "available": true,
+                        "priceInMinorUnit": 390,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309424303127/photo/menueditor_item_e153065e1d9745aa8b454d27ee82586a_1780551967867272105.webp",
+                        "description": "Arabian rice",
+                        "discountedPriceInMin": 390,
+                        "priceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309424303127/photo/menueditor_item_e153065e1d9745aa8b454d27ee82586a_1780551967867272105.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309424303127/detail/menueditor_item_e153065e1d9745aa8b454d27ee82586a_1780551967867272105.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309434567888",
+                        "name": "Garlic Mayonanise",
+                        "available": true,
+                        "priceInMinorUnit": 220,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309434567888/photo/menueditor_item_1ae3f0ce695843a4bd4fabe93cf5951c_1780551675639034148.webp",
+                        "description": "Inhouse garlic mayonnaise",
+                        "discountedPriceInMin": 220,
+                        "priceV2": {
+                            "amountInMinor": 220,
+                            "amountDisplay": "2.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 220,
+                            "amountDisplay": "2.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309434567888/photo/menueditor_item_1ae3f0ce695843a4bd4fabe93cf5951c_1780551675639034148.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309434567888/detail/menueditor_item_1ae3f0ce695843a4bd4fabe93cf5951c_1780551675639034148.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309441311626",
+                        "name": "Spicy Tomato Chutney",
+                        "available": true,
+                        "priceInMinorUnit": 300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309441311626/photo/menueditor_item_ea40fdf24f8a487eb5be7d8d1314169a_1780551854503058659.webp",
+                        "description": "Fresh blend of tomato, coriander leaves and herbs",
+                        "discountedPriceInMin": 300,
+                        "priceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 300,
+                            "amountDisplay": "3.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309441311626/photo/menueditor_item_ea40fdf24f8a487eb5be7d8d1314169a_1780551854503058659.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309441311626/detail/menueditor_item_ea40fdf24f8a487eb5be7d8d1314169a_1780551854503058659.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060309431594355",
+                        "name": "Pita Bread",
+                        "priceInMinorUnit": 220,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309431594355/photo/menueditor_item_ea1a207d5c134cdf96e5565fdb772834_1780551593405043973.webp",
+                        "description": "Fluffy bread",
+                        "discountedPriceInMin": 220,
+                        "priceV2": {
+                            "amountInMinor": 220,
+                            "amountDisplay": "2.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 220,
+                            "amountDisplay": "2.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309431594355/photo/menueditor_item_ea1a207d5c134cdf96e5565fdb772834_1780551593405043973.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060309431594355/detail/menueditor_item_ea1a207d5c134cdf96e5565fdb772834_1780551593405043973.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026060310041121168",
+                "name": "Drinks",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026060405535221204",
+                        "name": "Coke",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405535221204/photo/menueditor_item_41900c6d9a2a4c32bc85c2002fcbf012_1780552510340337692.webp",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405535221204/photo/menueditor_item_41900c6d9a2a4c32bc85c2002fcbf012_1780552510340337692.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405535221204/detail/menueditor_item_41900c6d9a2a4c32bc85c2002fcbf012_1780552510340337692.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060405541910138",
+                        "name": "Sprite",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405541910138/photo/menueditor_item_b3c679f445c242109063459c57c53c27_1780552448575396127.webp",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405541910138/photo/menueditor_item_b3c679f445c242109063459c57c53c27_1780552448575396127.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405541910138/detail/menueditor_item_b3c679f445c242109063459c57c53c27_1780552448575396127.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060405563000870",
+                        "name": "Coke 1.5L",
+                        "available": true,
+                        "priceInMinorUnit": 420,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405563000870/photo/menueditor_item_db7d8432cc6e40ab81ab759945c77fdf_1780552572294266688.webp",
+                        "discountedPriceInMin": 420,
+                        "priceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405563000870/photo/menueditor_item_db7d8432cc6e40ab81ab759945c77fdf_1780552572294266688.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405563000870/detail/menueditor_item_db7d8432cc6e40ab81ab759945c77fdf_1780552572294266688.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060405585006359",
+                        "name": "Coke Zero 1.5L",
+                        "available": true,
+                        "priceInMinorUnit": 420,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405585006359/photo/menueditor_item_4acd3754db4848cebff7e9580620cc82_1780552715441238138.webp",
+                        "discountedPriceInMin": 420,
+                        "priceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405585006359/photo/menueditor_item_4acd3754db4848cebff7e9580620cc82_1780552715441238138.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405585006359/detail/menueditor_item_4acd3754db4848cebff7e9580620cc82_1780552715441238138.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060405571152082",
+                        "name": "Sprite 1.5L",
+                        "available": true,
+                        "priceInMinorUnit": 420,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405571152082/photo/menueditor_item_65fbf68918084d8c912569fcaa8b2a82_1780552614479054903.webp",
+                        "discountedPriceInMin": 420,
+                        "priceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405571152082/photo/menueditor_item_65fbf68918084d8c912569fcaa8b2a82_1780552614479054903.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405571152082/detail/menueditor_item_65fbf68918084d8c912569fcaa8b2a82_1780552614479054903.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060405573255859",
+                        "name": "Fanta Orange 1.5L",
+                        "available": true,
+                        "priceInMinorUnit": 420,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405573255859/photo/menueditor_item_2257ca2bccdd4d72a9588fb96d2220c1_1780552659739463850.webp",
+                        "discountedPriceInMin": 420,
+                        "priceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 420,
+                            "amountDisplay": "4.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405573255859/photo/menueditor_item_2257ca2bccdd4d72a9588fb96d2220c1_1780552659739463850.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405573255859/detail/menueditor_item_2257ca2bccdd4d72a9588fb96d2220c1_1780552659739463850.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060405555313604",
+                        "name": "Coke Zero",
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405555313604/photo/menueditor_item_761b5194994243739e539e9aa2b0a0ea_1780552541345164548.webp",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405555313604/photo/menueditor_item_761b5194994243739e539e9aa2b0a0ea_1780552541345164548.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405555313604/detail/menueditor_item_761b5194994243739e539e9aa2b0a0ea_1780552541345164548.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026060405544927557",
+                        "name": "Fanta Orange",
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405544927557/photo/menueditor_item_06dd8d393ead460f933b782614c7ffa4_1780552474578142317.webp",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405544927557/photo/menueditor_item_06dd8d393ead460f933b782614c7ffa4_1780552474578142317.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060405544927557/detail/menueditor_item_06dd8d393ead460f933b782614c7ffa4_1780552474578142317.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026060309420953546",
+                "name": "Combo Feast",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026060310032680251",
+                        "name": "Arabian Mixed Grill Platter",
+                        "priceInMinorUnit": 6990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060310032680251/photo/menueditor_item_8bed58cb869e47f8985b067dfa06bd6c_1780489122954527657.webp",
+                        "description": "Grilled Platter (4 to 5 pax)\nAlFaham Quarter Chicken\nLamb Mandhi\nBeef Koobideh \nGrilled Seabass\nGrilled Prawns\nMandhi Rice\nPita Bread\nGarlic Mayo\nSpicy Tomato Chutney",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026071309183184299",
+                                "name": "Add on",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260713091832010209",
+                                        "name": "Hummus",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "후무스",
+                                                    "zh": "鹰嘴豆泥"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加购"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 6990,
+                        "priceV2": {
+                            "amountInMinor": 6990,
+                            "amountDisplay": "69.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6990,
+                            "amountDisplay": "69.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060310032680251/photo/menueditor_item_8bed58cb869e47f8985b067dfa06bd6c_1780489122954527657.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026060310032680251/detail/menueditor_item_8bed58cb869e47f8985b067dfa06bd6c_1780489122954527657.webp"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.7,
+    "voteCount": 28,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C8AALCEFTKMAA6/photos/ed9e5a8c2f564cec8818831ddd429310_1780367683477091529.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out The Palate Arabian Grill Indian Biriyani - Singapore Expo on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C8AALCEFTKMAA6"
+    },
+    "chainName": "The Palate Arabian Grill Indian Biriyani",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C8AALCEFTKMAA6/list/445823c3-8f6d-4f3f-abc8-a31380d4abcc__listing_photo__2026__06__04__06__56__48.webp",
+    "branchName": "Singapore Expo",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:30 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:30:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

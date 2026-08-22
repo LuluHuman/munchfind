@@ -1,0 +1,2557 @@
+{
+    "ID": "4-C63VAAXWR8CFAA",
+    "name": "Qiu Lian Ban Mian - Tampines Mall",
+    "cuisine": "Chinese,Ban Mian,Noodle,Handmade Noodle",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C63VAAXWR8CFAA/hero/46e6870eca254f4dbbfca1913e793d6a_1733207702534500106.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:00am-9:00pm",
+        "mon": "10:00am-9:00pm",
+        "tue": "10:00am-9:00pm",
+        "wed": "10:00am-9:00pm",
+        "thu": "10:00am-9:00pm",
+        "fri": "10:00am-9:00pm",
+        "sat": "10:00am-9:00pm"
+    },
+    "address": {
+        "name": "Qiu Lian Ban Mian - Tampines Mall",
+        "combined_address": "4, Tampines Central 5, #04-27, Tampines, 529510",
+        "combined_city": "Singapore",
+        "house": "#04-27",
+        "street": "4, Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529510",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3526813,
+        "lng": 103.9447121
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20241203080916010683",
+                "name": "Mains",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20241203080916016501",
+                        "name": "1 Qiu Lian Ban Mian  秋莲板面",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080916016501/photo/menueditor_item_d31acc80a8614c0f8d37a4b1e11204a2_1733321842436161363.webp",
+                        "description": "Savory noodles topped with tender meatballs, a poached egg, and greens.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241203064241017529",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064241019305",
+                                        "name": "Ban Mian 板面",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "반면 (손으로 뽑은 납작한 면)",
+                                                    "zh": "板面"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241027229",
+                                        "name": "You Mian 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 국수",
+                                                    "zh": "幼面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241032752",
+                                        "name": "Mee Hoon Kuay 面粉粿",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "손으로 찢은 면 수프",
+                                                    "zh": "面粉粿"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241045906",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241059023",
+                                        "name": "Mee Suan 面线",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미수안 (얇은 국수)",
+                                                    "zh": "面线"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241061198",
+                                        "name": "Yi Mee 伊面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "이면",
+                                                    "zh": "伊面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20241203064343019208",
+                                "name": "Add On",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064343013420",
+                                        "name": "Egg 蛋",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달걀",
+                                                    "zh": "Egg 蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343021392",
+                                        "name": "Vegetables 菜",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "채소",
+                                                    "zh": "蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343034987",
+                                        "name": "Minced Pork 肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 돼지고기",
+                                                    "zh": "猪肉碎"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064344012783",
+                                        "name": "Fried Anchoives 炸江鱼",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 멸치",
+                                                    "zh": "炸凤尾鱼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331016226",
+                                        "name": "Dumpling per pc / 饺子1粒",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만두 1개당",
+                                                    "zh": "饺子每个"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331060248",
+                                        "name": "Noodles 面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면",
+                                                    "zh": "面条 面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331072599",
+                                        "name": "Pork Balls per set / 肉丸1份",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "돼지고기 미트볼 세트당 / 돼지고기 미트볼 (1인분)",
+                                                    "zh": "猪肉丸每套/每份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20250101023512015671",
+                                        "name": "No need for additional Items.",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 항목이 필요하지 않습니다.",
+                                                    "zh": "无需额外添加物品。"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20241203064241019305\",\"SGMOD20241203064343034987\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080916016501/photo/menueditor_item_d31acc80a8614c0f8d37a4b1e11204a2_1733321842436161363.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080916016501/detail/menueditor_item_d31acc80a8614c0f8d37a4b1e11204a2_1733321842436161363.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024120414431051665",
+                        "name": "Fresh Prawns Ban Mian Soup 鲜虾板面汤",
+                        "available": true,
+                        "priceInMinorUnit": 940,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024120414431051665/photo/menueditor_item_83457e8fbbd74e618c6a73173bc29041_1733323362978008048.webp",
+                        "description": "Delicious ban mian topped with fresh prawns, savory meat, and a poached egg.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241203064343019208",
+                                "name": "Add On",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064343013420",
+                                        "name": "Egg 蛋",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달걀",
+                                                    "zh": "Egg 蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343021392",
+                                        "name": "Vegetables 菜",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "채소",
+                                                    "zh": "蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343034987",
+                                        "name": "Minced Pork 肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 돼지고기",
+                                                    "zh": "猪肉碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064344012783",
+                                        "name": "Fried Anchoives 炸江鱼",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 멸치",
+                                                    "zh": "炸凤尾鱼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331016226",
+                                        "name": "Dumpling per pc / 饺子1粒",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만두 1개당",
+                                                    "zh": "饺子每个"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331060248",
+                                        "name": "Noodles 面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면",
+                                                    "zh": "面条 面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331072599",
+                                        "name": "Pork Balls per set / 肉丸1份",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "돼지고기 미트볼 세트당 / 돼지고기 미트볼 (1인분)",
+                                                    "zh": "猪肉丸每套/每份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20250101023512015671",
+                                        "name": "No need for additional Items.",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 항목이 필요하지 않습니다.",
+                                                    "zh": "无需额外添加物品。"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20241203064241017529",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064241019305",
+                                        "name": "Ban Mian 板面",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "반면 (손으로 뽑은 납작한 면)",
+                                                    "zh": "板面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241027229",
+                                        "name": "You Mian 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 국수",
+                                                    "zh": "幼面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241032752",
+                                        "name": "Mee Hoon Kuay 面粉粿",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "손으로 찢은 면 수프",
+                                                    "zh": "面粉粿"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241045906",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241059023",
+                                        "name": "Mee Suan 面线",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미수안 (얇은 국수)",
+                                                    "zh": "面线"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241061198",
+                                        "name": "Yi Mee 伊面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "이면",
+                                                    "zh": "伊面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 940,
+                        "priceV2": {
+                            "amountInMinor": 940,
+                            "amountDisplay": "9.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 940,
+                            "amountDisplay": "9.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024120414431051665/photo/menueditor_item_83457e8fbbd74e618c6a73173bc29041_1733323362978008048.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024120414431051665/detail/menueditor_item_83457e8fbbd74e618c6a73173bc29041_1733323362978008048.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024120414342587414",
+                        "name": "Minced Pork Dry Ban Mian 肉碎干捞板面",
+                        "available": true,
+                        "priceInMinorUnit": 900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024120414342587414/photo/menueditor_item_6489c8130fad49c989a70eecd57b45ed_1733322780349105748.webp",
+                        "description": "Savory minced meat on silky noodles, topped with crispy bits and fresh greens.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024120414341537328",
+                                "name": "Choice Of Noodle",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241204143415017607",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241204143415027843",
+                                        "name": "You Mian 幼面",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 국수",
+                                                    "zh": "幼面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241204143415038803",
+                                        "name": "Ban Mian 板面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "반면 (손으로 뽑은 납작한 면)",
+                                                    "zh": "板面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20241203064343019208",
+                                "name": "Add On",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064343013420",
+                                        "name": "Egg 蛋",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달걀",
+                                                    "zh": "Egg 蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343021392",
+                                        "name": "Vegetables 菜",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "채소",
+                                                    "zh": "蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343034987",
+                                        "name": "Minced Pork 肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 돼지고기",
+                                                    "zh": "猪肉碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064344012783",
+                                        "name": "Fried Anchoives 炸江鱼",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 멸치",
+                                                    "zh": "炸凤尾鱼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331016226",
+                                        "name": "Dumpling per pc / 饺子1粒",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만두 1개당",
+                                                    "zh": "饺子每个"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331060248",
+                                        "name": "Noodles 面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면",
+                                                    "zh": "面条 面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331072599",
+                                        "name": "Pork Balls per set / 肉丸1份",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "돼지고기 미트볼 세트당 / 돼지고기 미트볼 (1인분)",
+                                                    "zh": "猪肉丸每套/每份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20250101023512015671",
+                                        "name": "No need for additional Items.",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 항목이 필요하지 않습니다.",
+                                                    "zh": "无需额外添加物品。"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 900,
+                        "priceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024120414342587414/photo/menueditor_item_6489c8130fad49c989a70eecd57b45ed_1733322780349105748.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024120414342587414/detail/menueditor_item_6489c8130fad49c989a70eecd57b45ed_1733322780349105748.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241203080916034825",
+                        "name": "3. Porkball Ban Mian Soup 肉丸板面汤",
+                        "available": true,
+                        "priceInMinorUnit": 820,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080916034825/photo/menueditor_item_aad1c95895ce4ae290731e7532c4407f_1733322162964012318.webp",
+                        "description": "Savory pork balls, silky noodles, fresh greens, and a runny egg.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241203064241017529",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064241019305",
+                                        "name": "Ban Mian 板面",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "반면 (손으로 뽑은 납작한 면)",
+                                                    "zh": "板面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241027229",
+                                        "name": "You Mian 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 국수",
+                                                    "zh": "幼面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241032752",
+                                        "name": "Mee Hoon Kuay 面粉粿",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "손으로 찢은 면 수프",
+                                                    "zh": "面粉粿"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241045906",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241059023",
+                                        "name": "Mee Suan 面线",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미수안 (얇은 국수)",
+                                                    "zh": "面线"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241061198",
+                                        "name": "Yi Mee 伊面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "이면",
+                                                    "zh": "伊面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20241203064343019208",
+                                "name": "Add On",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064343013420",
+                                        "name": "Egg 蛋",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달걀",
+                                                    "zh": "Egg 蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343021392",
+                                        "name": "Vegetables 菜",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "채소",
+                                                    "zh": "蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343034987",
+                                        "name": "Minced Pork 肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 돼지고기",
+                                                    "zh": "猪肉碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064344012783",
+                                        "name": "Fried Anchoives 炸江鱼",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 멸치",
+                                                    "zh": "炸凤尾鱼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331016226",
+                                        "name": "Dumpling per pc / 饺子1粒",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만두 1개당",
+                                                    "zh": "饺子每个"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331060248",
+                                        "name": "Noodles 面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면",
+                                                    "zh": "面条 面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331072599",
+                                        "name": "Pork Balls per set / 肉丸1份",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "돼지고기 미트볼 세트당 / 돼지고기 미트볼 (1인분)",
+                                                    "zh": "猪肉丸每套/每份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20250101023512015671",
+                                        "name": "No need for additional Items.",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 항목이 필요하지 않습니다.",
+                                                    "zh": "无需额外添加物品。"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 820,
+                        "priceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 820,
+                            "amountDisplay": "8.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080916034825/photo/menueditor_item_aad1c95895ce4ae290731e7532c4407f_1733322162964012318.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080916034825/detail/menueditor_item_aad1c95895ce4ae290731e7532c4407f_1733322162964012318.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2024120414363744361",
+                        "name": "Porkball Dry Ban Mian 肉丸干捞板面",
+                        "available": true,
+                        "priceInMinorUnit": 900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024120414363744361/photo/menueditor_item_623c0858ea654f3d919f710be36534b0_1733322952386152846.webp",
+                        "description": "Savory meatballs atop springy noodles with rich chili sauce and fresh greens.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2024120414341537328",
+                                "name": "Choice Of Noodle",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241204143415017607",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241204143415027843",
+                                        "name": "You Mian 幼面",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 국수",
+                                                    "zh": "幼面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241204143415038803",
+                                        "name": "Ban Mian 板面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "반면 (손으로 뽑은 납작한 면)",
+                                                    "zh": "板面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20241203064343019208",
+                                "name": "Add On",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064343013420",
+                                        "name": "Egg 蛋",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달걀",
+                                                    "zh": "Egg 蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343021392",
+                                        "name": "Vegetables 菜",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "채소",
+                                                    "zh": "蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343034987",
+                                        "name": "Minced Pork 肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 돼지고기",
+                                                    "zh": "猪肉碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064344012783",
+                                        "name": "Fried Anchoives 炸江鱼",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 멸치",
+                                                    "zh": "炸凤尾鱼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331016226",
+                                        "name": "Dumpling per pc / 饺子1粒",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만두 1개당",
+                                                    "zh": "饺子每个"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331060248",
+                                        "name": "Noodles 面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면",
+                                                    "zh": "面条 面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331072599",
+                                        "name": "Pork Balls per set / 肉丸1份",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "돼지고기 미트볼 세트당 / 돼지고기 미트볼 (1인분)",
+                                                    "zh": "猪肉丸每套/每份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20250101023512015671",
+                                        "name": "No need for additional Items.",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 항목이 필요하지 않습니다.",
+                                                    "zh": "无需额外添加物品。"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 900,
+                        "priceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024120414363744361/photo/menueditor_item_623c0858ea654f3d919f710be36534b0_1733322952386152846.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024120414363744361/detail/menueditor_item_623c0858ea654f3d919f710be36534b0_1733322952386152846.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241203080916020935",
+                        "name": "2 Tomyum Ban Mian 冬炎板面",
+                        "available": true,
+                        "priceInMinorUnit": 840,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080916020935/photo/menueditor_item_5ccaa5670c9e4edd8243bc6f6bd1c689_1733322097621564687.webp",
+                        "description": "Spicy broth, tender noodles, fresh greens, and a savory egg.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241203064241017529",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064241019305",
+                                        "name": "Ban Mian 板面",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "반면 (손으로 뽑은 납작한 면)",
+                                                    "zh": "板面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241027229",
+                                        "name": "You Mian 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 국수",
+                                                    "zh": "幼面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241032752",
+                                        "name": "Mee Hoon Kuay 面粉粿",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "손으로 찢은 면 수프",
+                                                    "zh": "面粉粿"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241045906",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241059023",
+                                        "name": "Mee Suan 面线",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미수안 (얇은 국수)",
+                                                    "zh": "面线"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241061198",
+                                        "name": "Yi Mee 伊面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "이면",
+                                                    "zh": "伊面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20241203064343019208",
+                                "name": "Add On",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064343013420",
+                                        "name": "Egg 蛋",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달걀",
+                                                    "zh": "Egg 蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343021392",
+                                        "name": "Vegetables 菜",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "채소",
+                                                    "zh": "蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343034987",
+                                        "name": "Minced Pork 肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 돼지고기",
+                                                    "zh": "猪肉碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064344012783",
+                                        "name": "Fried Anchoives 炸江鱼",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 멸치",
+                                                    "zh": "炸凤尾鱼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331016226",
+                                        "name": "Dumpling per pc / 饺子1粒",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만두 1개당",
+                                                    "zh": "饺子每个"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331060248",
+                                        "name": "Noodles 面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면",
+                                                    "zh": "面条 面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331072599",
+                                        "name": "Pork Balls per set / 肉丸1份",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "돼지고기 미트볼 세트당 / 돼지고기 미트볼 (1인분)",
+                                                    "zh": "猪肉丸每套/每份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20250101023512015671",
+                                        "name": "No need for additional Items.",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 항목이 필요하지 않습니다.",
+                                                    "zh": "无需额外添加物品。"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 840,
+                        "priceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20241203064241032752\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080916020935/photo/menueditor_item_5ccaa5670c9e4edd8243bc6f6bd1c689_1733322097621564687.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080916020935/detail/menueditor_item_5ccaa5670c9e4edd8243bc6f6bd1c689_1733322097621564687.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241203080917014044",
+                        "name": "4. Dumplings Ban Mian Soup 饺子板面汤",
+                        "available": true,
+                        "priceInMinorUnit": 940,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080917014044/photo/menueditor_item_3b888c80bab74619978198450c7f8be1_1733322223717990664.webp",
+                        "description": "Savory dumplings, tender noodles, fresh greens, and a perfectly cooked egg.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241203064241017529",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064241019305",
+                                        "name": "Ban Mian 板面",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "반면 (손으로 뽑은 납작한 면)",
+                                                    "zh": "板面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241027229",
+                                        "name": "You Mian 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 국수",
+                                                    "zh": "幼面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241032752",
+                                        "name": "Mee Hoon Kuay 面粉粿",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "손으로 찢은 면 수프",
+                                                    "zh": "面粉粿"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241045906",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241059023",
+                                        "name": "Mee Suan 面线",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미수안 (얇은 국수)",
+                                                    "zh": "面线"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241061198",
+                                        "name": "Yi Mee 伊面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "이면",
+                                                    "zh": "伊面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20241203064343019208",
+                                "name": "Add On",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064343013420",
+                                        "name": "Egg 蛋",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달걀",
+                                                    "zh": "Egg 蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343021392",
+                                        "name": "Vegetables 菜",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "채소",
+                                                    "zh": "蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343034987",
+                                        "name": "Minced Pork 肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 돼지고기",
+                                                    "zh": "猪肉碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064344012783",
+                                        "name": "Fried Anchoives 炸江鱼",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 멸치",
+                                                    "zh": "炸凤尾鱼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331016226",
+                                        "name": "Dumpling per pc / 饺子1粒",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만두 1개당",
+                                                    "zh": "饺子每个"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331060248",
+                                        "name": "Noodles 面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면",
+                                                    "zh": "面条 面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331072599",
+                                        "name": "Pork Balls per set / 肉丸1份",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "돼지고기 미트볼 세트당 / 돼지고기 미트볼 (1인분)",
+                                                    "zh": "猪肉丸每套/每份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20250101023512015671",
+                                        "name": "No need for additional Items.",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 항목이 필요하지 않습니다.",
+                                                    "zh": "无需额外添加物品。"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 940,
+                        "priceV2": {
+                            "amountInMinor": 940,
+                            "amountDisplay": "9.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 940,
+                            "amountDisplay": "9.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080917014044/photo/menueditor_item_3b888c80bab74619978198450c7f8be1_1733322223717990664.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080917014044/detail/menueditor_item_3b888c80bab74619978198450c7f8be1_1733322223717990664.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241203080917025828",
+                        "name": "5. Dumplings Soup 饺子汤",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080917025828/photo/menueditor_item_b4748837b9414775801543779e04ff8c_1733322269652549406.webp",
+                        "description": "Delicate dumplings in a savory broth with fresh greens and egg.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241203064343019208",
+                                "name": "Add On",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 8,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064343013420",
+                                        "name": "Egg 蛋",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "달걀",
+                                                    "zh": "Egg 蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343021392",
+                                        "name": "Vegetables 菜",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "채소",
+                                                    "zh": "蔬菜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064343034987",
+                                        "name": "Minced Pork 肉碎",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다진 돼지고기",
+                                                    "zh": "猪肉碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064344012783",
+                                        "name": "Fried Anchoives 炸江鱼",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 멸치",
+                                                    "zh": "炸凤尾鱼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331016226",
+                                        "name": "Dumpling per pc / 饺子1粒",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "만두 1개당",
+                                                    "zh": "饺子每个"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331060248",
+                                        "name": "Noodles 面",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "면",
+                                                    "zh": "面条 面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203075331072599",
+                                        "name": "Pork Balls per set / 肉丸1份",
+                                        "available": true,
+                                        "priceInMinorUnit": 170,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 170,
+                                            "amountDisplay": "1.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "돼지고기 미트볼 세트당 / 돼지고기 미트볼 (1인분)",
+                                                    "zh": "猪肉丸每套/每份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    },
+                                    {
+                                        "ID": "SGMOD20250101023512015671",
+                                        "name": "No need for additional Items.",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 항목이 필요하지 않습니다.",
+                                                    "zh": "无需额外添加物品。"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 8
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20241203064241017529",
+                                "name": "Choice of Noodles",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241203064241019305",
+                                        "name": "Ban Mian 板面",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "반면 (손으로 뽑은 납작한 면)",
+                                                    "zh": "板面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241027229",
+                                        "name": "You Mian 幼面",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "얇은 국수",
+                                                    "zh": "幼面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241032752",
+                                        "name": "Mee Hoon Kuay 面粉粿",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "손으로 찢은 면 수프",
+                                                    "zh": "面粉粿"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241045906",
+                                        "name": "Bee Hoon 米粉",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "쌀국수",
+                                                    "zh": "米粉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241059023",
+                                        "name": "Mee Suan 面线",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미수안 (얇은 국수)",
+                                                    "zh": "面线"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241203064241061198",
+                                        "name": "Yi Mee 伊面",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "이면",
+                                                    "zh": "伊面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "면 선택",
+                                            "zh": "面条选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080917025828/photo/menueditor_item_b4748837b9414775801543779e04ff8c_1733322269652549406.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20241203080917025828/detail/menueditor_item_b4748837b9414775801543779e04ff8c_1733322269652549406.webp"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 3.9,
+    "voteCount": 36,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C63VAAXWR8CFAA/photos/46e6870eca254f4dbbfca1913e793d6a_1733207702534500106.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Qiu Lian Ban Mian - Tampines Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C63VAAXWR8CFAA"
+    },
+    "chainName": "Qiu Lian Ban Mian",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C63VAAXWR8CFAA/list/d2bf7cd4275c45f8a5cef1f6a32d4618_1733207694558123044.webp",
+    "branchName": "Tampines Mall",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:00:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

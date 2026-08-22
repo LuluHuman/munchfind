@@ -90,7 +90,7 @@ export default function FiltersForm({
               onChange={(_, value) => setDistance(value as number)}
               min={distanceRange.min}
               max={distanceRange.max}
-              step={0.1}
+              step={0.5}
               color="primary"
             />
           </Box>

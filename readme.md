@@ -26,11 +26,10 @@ MUNCH FIND! is a [Next.js](https://nextjs.org) Productivity app that solves deci
 # Overview
 
 > [!NOTE]
-> ### The cake is a lie
-> * Results dont show the distance relative to your location and is purely based on where the data was scraped.
-> * Dishes are AI suggested by claude and will definately not match (Old Chang Kee doesnt sell Korean chicken) and is purely for protorype purposes
-> * Geolocation is set to SG, Simei and does not reflect your actual location
-> 
+> ### The cake is (mostly) not a lie anymore
+> * ~~Results dont show the distance relative to your location and is purely based on where the data was scraped.~~
+> * ~~Dishes are AI suggested by claude and will definately not match (Old Chang Kee doesnt sell Korean chicken) and is purely for protorype purposes~~
+> * Geolocation display on the homepage is hardcoded to Simei, SG and does not reflect your actual location
 
 Munch Find\! is a mobile/web application that solves decision fatigue around food choices by randomly selecting a store and dish for the user, rather than presenting yet another list to scroll through. When a user can't decide what to eat, they simply open the app, apply optional filters such as budget, location, or dietary needs, and let the app choose for them. For groups, Munch Find\! offers a shared decision mode, where everyone joins a session and the app picks one option that the whole group commits to, removing the usual back-and-forth of "you choose" and the blame that follows a bad pick.
 
@@ -44,7 +43,7 @@ The expected outcome is a working prototype that demonstrates this core decision
 - **Optional filters** &mdash; narrow the pool by budget, cuisine, dietary restriction, and distance (`/filters`) before rolling. Filter choices persist in a cookie (`mf_filters`) so they stick between visits.
 - **Reroll cap** &mdash; rerolling a result is capped at 10 rolls per hour (tracked client-side via `localStorage`), so the app still nudges you toward committing instead of re-rolling forever. See [rolls.ts](/src/lib/rolls.ts).
 - **Result page** &mdash; `/result` calls the result API, shows the picked dish/restaurant, and lets you reroll within the cap.
-- **Seeded local dataset** &mdash; restaurant and dish data is scraped/compiled into JSON/CSV under [src/data/](/src/data/) and built into a local SQLite database ([munchfind.sqlite](/src/data/munchfind.sqlite)) via `npm run db:build` ([build-db.mjs](/scripts/build-db.mjs)).
+- **Seeded local dataset** &mdash; real restaurant + full menu data scraped from Grab, one JSON file per restaurant under [src/data/restaurants/](/src/data/restaurants/), built into a local SQLite database ([munchfind.sqlite](/src/data/munchfind.sqlite)) via `npm run db:build` ([build-db.mjs](/scripts/build-db.mjs)). See [disclosure.md](/src/data/disclosure.md).
 - **Small API surface** &mdash; `/api/result` (pick a dish given current filters), `/api/restaurants/count` (pool size for the current filters), `/api/location` (currently hardcoded to Simei, SG &mdash; see the disclaimer above).
 
 # Tech Stack
@@ -52,7 +51,7 @@ The expected outcome is a working prototype that demonstrates this core decision
 - [Next.js](https://nextjs.org) 16 (App Router) + React 19 + TypeScript
 - [MUI](https://mui.com/material-ui/) with a custom Material 3 theme ([src/theme/](/src/theme/)) for the UI
 - Tailwind CSS 4 for the odds and ends
-- Node's built-in `node:sqlite` for the local restaurant/dish database, built from JSON/CSV source data via a script, not an ORM
+- Node's built-in `node:sqlite` for the local restaurant/dish database, built from scraped JSON source data via a script, not an ORM
 
 # Getting Started
 
@@ -90,7 +89,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see this monstrosity.
 
-The repo already ships a built [munchfind.sqlite](/src/data/munchfind.sqlite), so this is optional, but if you touch the source data under [src/data/](/src/data/) (the restaurant JSON or [dishes.csv](/src/data/dishes.csv)) you'll want to regenerate the database:
+The repo already ships a built [munchfind.sqlite](/src/data/munchfind.sqlite), so this is optional, but if you touch the source data under [src/data/restaurants/](/src/data/restaurants/) you'll want to regenerate the database:
 
 ```bash
 npm run db:build

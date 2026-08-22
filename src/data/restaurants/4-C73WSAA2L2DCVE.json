@@ -1,0 +1,515 @@
+{
+    "ID": "4-C73WSAA2L2DCVE",
+    "name": "Hokkien Man  Hokkien Mee - Hawkers' Street @ Tampines 1",
+    "cuisine": "Malaysian,Hokkien Noodle",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C73WSAA2L2DCVE/hero/098bb2ada1614a08a898dd74c84cdb31_1774430735650821527.webp",
+    "description": "New Menu",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:30am-8:50pm",
+        "mon": "10:30am-8:50pm",
+        "tue": "10:30am-8:50pm",
+        "wed": "10:30am-8:50pm",
+        "thu": "10:30am-8:50pm",
+        "fri": "10:30am-8:50pm",
+        "sat": "10:30am-8:50pm"
+    },
+    "address": {
+        "name": "Hokkien Man  Hokkien Mee - Hawkers' Street @ Tampines 1",
+        "combined_address": "10, Tampines Central 1, Singapore, Singapore States, 529536, 529536",
+        "combined_city": "Singapore",
+        "street": "10, Tampines Central 1, Singapore, Singapore States, 529536",
+        "postcode": "529536",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.354212,
+        "lng": 103.9450352
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT2026031809420176061",
+                "name": "Mains 主食",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026031809434856477",
+                        "name": "Fried Hokkien Prawn Mee (Small) 炒福建虾面 (小)",
+                        "available": true,
+                        "priceInMinorUnit": 940,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026031809434856477/photo/menueditor_item_5baaf269ee7548f68a66cda4aa5bb387_1773827012074896502.webp",
+                        "description": "Hokkien mee with yellow noodles and rice vermicelli in rich prawn broth, stir-fried with squid and egg, topped with 2 prawns, served with sambal chilli and lime.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026031809463506332",
+                                "name": "No Spice/Spicy 无辣/辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260318094635012055",
+                                        "name": "No Spice 不辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260318094635022311",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "무매운맛/매운맛 无辣/辣",
+                                            "zh": "无辣/辣"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG2026031809450987683",
+                                "name": "Add-On 加料",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 5,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260318094509015785",
+                                        "name": "Extra Pork Lard 加猪油渣",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 돼지기름",
+                                                    "zh": "加猪油渣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260318094509022519",
+                                        "name": "Extra Chili 加辣椒",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "엑스트라 칠리",
+                                                    "zh": "加辣椒"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260318094509036767",
+                                        "name": "Add Prawn (3pcs) 加虾 (三只)",
+                                        "available": true,
+                                        "priceInMinorUnit": 410,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 410,
+                                            "amountDisplay": "4.10"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "새우 추가 (3마리)",
+                                                    "zh": "加虾 (3只)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260318094509043551",
+                                        "name": "Add Sotong 加苏东",
+                                        "available": true,
+                                        "priceInMinorUnit": 410,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 410,
+                                            "amountDisplay": "4.10"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "오징어 추가",
+                                                    "zh": "加苏东"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260318094510010693",
+                                        "name": "Add Pork Belly 加三层肉",
+                                        "available": true,
+                                        "priceInMinorUnit": 410,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 410,
+                                            "amountDisplay": "4.10"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "삼겹살 추가 (3층 고기 추가)",
+                                                    "zh": "加五花肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 940,
+                        "priceV2": {
+                            "amountInMinor": 940,
+                            "amountDisplay": "9.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 940,
+                            "amountDisplay": "9.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-03-30T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026031809434856477/photo/menueditor_item_5baaf269ee7548f68a66cda4aa5bb387_1773827012074896502.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026031809434856477/detail/menueditor_item_5baaf269ee7548f68a66cda4aa5bb387_1773827012074896502.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026031809431953212",
+                        "name": "Fried Hokkien Prawn Mee (Large) 炒福建虾面 (大)",
+                        "available": true,
+                        "priceInMinorUnit": 1340,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026031809431953212/photo/menueditor_item_f5115c9f29614a3690ad1f1d1b3be14e_1773826952170875787.webp",
+                        "description": "Hokkien mee with yellow noodles and rice vermicelli in rich prawn broth, stir-fried with squid and egg, topped with 4 prawns, served with sambal chilli and lime.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026031809463506332",
+                                "name": "No Spice/Spicy 无辣/辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260318094635012055",
+                                        "name": "No Spice 不辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "맵지 않음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260318094635022311",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "무매운맛/매운맛 无辣/辣",
+                                            "zh": "无辣/辣"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG2026031809450987683",
+                                "name": "Add-On 加料",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 5,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260318094509015785",
+                                        "name": "Extra Pork Lard 加猪油渣",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 돼지기름",
+                                                    "zh": "加猪油渣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260318094509022519",
+                                        "name": "Extra Chili 加辣椒",
+                                        "available": true,
+                                        "priceInMinorUnit": 140,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 140,
+                                            "amountDisplay": "1.40"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "엑스트라 칠리",
+                                                    "zh": "加辣椒"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260318094509036767",
+                                        "name": "Add Prawn (3pcs) 加虾 (三只)",
+                                        "available": true,
+                                        "priceInMinorUnit": 410,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 410,
+                                            "amountDisplay": "4.10"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "새우 추가 (3마리)",
+                                                    "zh": "加虾 (3只)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260318094509043551",
+                                        "name": "Add Sotong 加苏东",
+                                        "available": true,
+                                        "priceInMinorUnit": 410,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 410,
+                                            "amountDisplay": "4.10"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "오징어 추가",
+                                                    "zh": "加苏东"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260318094510010693",
+                                        "name": "Add Pork Belly 加三层肉",
+                                        "available": true,
+                                        "priceInMinorUnit": 410,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 410,
+                                            "amountDisplay": "4.10"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "삼겹살 추가 (3층 고기 추가)",
+                                                    "zh": "加五花肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가 옵션",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1340,
+                        "priceV2": {
+                            "amountInMinor": 1340,
+                            "amountDisplay": "13.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1340,
+                            "amountDisplay": "13.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-03-30T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026031809431953212/photo/menueditor_item_f5115c9f29614a3690ad1f1d1b3be14e_1773826952170875787.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026031809431953212/detail/menueditor_item_f5115c9f29614a3690ad1f1d1b3be14e_1773826952170875787.webp"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.3,
+    "voteCount": 42,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1200,
+        "thresholdForDisplay": {
+            "amountInMinor": 1200,
+            "amountDisplay": "S$12.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$12.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$12.00, a small order fee of the difference between your order value & S$12.00 applies."
+        }
+    },
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C73WSAA2L2DCVE/photos/098bb2ada1614a08a898dd74c84cdb31_1774430735650821527.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Hokkien Man  Hokkien Mee - Hawkers' Street @ Tampines 1 on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C73WSAA2L2DCVE"
+    },
+    "chainName": "Hokkien Man  Hokkien Mee",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C73WSAA2L2DCVE/list/0f814f8b23944b92a463b8dcda1744a3_1774430726550381528.webp",
+    "branchName": "Hawkers' Street @ Tampines 1",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:30 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:30:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

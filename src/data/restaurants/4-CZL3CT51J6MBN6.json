@@ -1,0 +1,1795 @@
+{
+    "ID": "4-CZL3CT51J6MBN6",
+    "name": "Jalan Tua Kong Ahlimmeepok - Bedok Shopping Complex",
+    "cuisine": "Mee Pok,Noodle,Seafood Dish",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-CZL3CT51J6MBN6/hero/79062def4eba4bd58713e90c48c92911_1630913786328370092.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "6:02am-6:15pm",
+        "mon": "6:02am-6:15pm",
+        "tue": "6:10am-6:15pm",
+        "wed": "6:02am-6:15pm",
+        "thu": "6:02am-6:15pm",
+        "fri": "6:02am-6:15pm",
+        "sat": "6:02am-6:15pm"
+    },
+    "address": {
+        "name": "Jalan Tua Kong Ahlimmeepok - Bedok Shopping Complex",
+        "combined_address": "324 Bedok Road, #01-324, Bedok, 469493",
+        "combined_city": "Singapore",
+        "house": "#01-324",
+        "street": "324 Bedok Road",
+        "suburb": "Bedok",
+        "postcode": "469493",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.33098,
+        "lng": 103.9482114
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20200728061026018388",
+                "name": "main menu",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2021072705273949599",
+                        "name": "Fried Fish Cake (small/Big)",
+                        "available": true,
+                        "priceInMinorUnit": 1000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705273949599/photo/2e50b6b9ea21487f81e22b70a198e9e0_1630914660075272884.avif",
+                        "description": "Crispy on the outside, tender fish cake goodness inside",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1000,
+                        "priceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-20T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705273949599/photo/2e50b6b9ea21487f81e22b70a198e9e0_1630914660075272884.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705273949599/detail/2e50b6b9ea21487f81e22b70a198e9e0_1630914660075272884.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2021072705270660555",
+                        "name": "Prawn Rolls (Big)",
+                        "available": true,
+                        "priceInMinorUnit": 1400,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705270660555/photo/1de94bcfe02a42a5b53732c8b31b87db_1630914592314002520.avif",
+                        "description": "Crispy prawn rolls with savory flavors.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1400,
+                        "priceV2": {
+                            "amountInMinor": 1400,
+                            "amountDisplay": "14.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1400,
+                            "amountDisplay": "14.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-11T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20210809022145019680\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705270660555/photo/1de94bcfe02a42a5b53732c8b31b87db_1630914592314002520.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705270660555/detail/1de94bcfe02a42a5b53732c8b31b87db_1630914592314002520.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2021072705220940712",
+                        "name": "Fried fish Cake(small)",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705220940712/photo/afe5fe14153f41c2b837891f1d6755ad_1630914677489264293.avif",
+                        "description": "Deliciously crispy fish cakes served on a bed of fresh lettuce.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-11T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20210809022145019680\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705220940712/photo/afe5fe14153f41c2b837891f1d6755ad_1630914677489264293.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705220940712/detail/afe5fe14153f41c2b837891f1d6755ad_1630914677489264293.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2021072705185954964",
+                        "name": "Prawn Rolls(Small)",
+                        "available": true,
+                        "priceInMinorUnit": 1000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705185954964/photo/menueditor_item_fbd0b904f42644c7a3034e07ba7097db_1724622818166094323.avif",
+                        "description": "Crispy prawn rolls, full of juicy prawns!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1000,
+                        "priceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-11T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20210809022145019680\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705185954964/photo/menueditor_item_fbd0b904f42644c7a3034e07ba7097db_1724622818166094323.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705185954964/detail/menueditor_item_fbd0b904f42644c7a3034e07ba7097db_1724622818166094323.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2021072705182020718",
+                        "name": "Fish dumpling soup",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705182020718/photo/016485dd69634d0caebdbac6e9a3127e_1630914731993851525.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20210809022145019680\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705182020718/photo/016485dd69634d0caebdbac6e9a3127e_1630914731993851525.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705182020718/detail/016485dd69634d0caebdbac6e9a3127e_1630914731993851525.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2021072705175505051",
+                        "name": "Dumpling soup",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705175505051/photo/87e359f965454f40a8da930f25de8253_1630914771233437988.avif",
+                        "description": "Delicious dumpling soup with flavorful broth.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-11T00:00:00+08:00\",\"modifier_tag\":{\"Popular\":[\"SGMOD20210809022145019680\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705175505051/photo/87e359f965454f40a8da930f25de8253_1630914771233437988.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2021072705175505051/detail/87e359f965454f40a8da930f25de8253_1630914771233437988.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2020122309534285139",
+                        "name": "Meatball soup",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309534285139/photo/5e4261dc39ff435f99e0567c70d6db8f_1630914608835817809.avif",
+                        "description": "Delicious meatballs in savory broth.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20210809022145019680\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309534285139/photo/5e4261dc39ff435f99e0567c70d6db8f_1630914608835817809.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309534285139/detail/5e4261dc39ff435f99e0567c70d6db8f_1630914608835817809.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2020122309524969227",
+                        "name": "Fishball soup",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309524969227/photo/c6f036ab69324743801436dc95a538a5_1630914700208923971.avif",
+                        "description": "Delicious fishball soup with fresh greens. 湯頭鮮美, 魚丸彈牙, 再搭配新鮮生菜.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"modifier_tag\":{\"Popular\":[\"SGMOD20210809022145019680\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309524969227/photo/c6f036ab69324743801436dc95a538a5_1630914700208923971.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309524969227/detail/c6f036ab69324743801436dc95a538a5_1630914700208923971.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20200728061250017176",
+                        "name": "Mee Pok (Dry/Soup)",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200728061250017176/photo/ccecb5be65c54c7b92737ec274b4eec6_1630914576309440721.avif",
+                        "description": "Tantalizing Mee Pok with rich ingredients.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20210809021310011553",
+                                "name": "Choice of size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809021310016327",
+                                        "name": "large",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "大份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20210809021310026352",
+                                        "name": "medium",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "中份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20210809021310039881",
+                                        "name": "small",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "小份"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "尺码的选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20200728062528016064",
+                                "name": "Choice of Noodle",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201223100532011308",
+                                        "name": "Mee tai bak",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "Tai Bak面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201223100532026380",
+                                        "name": "Yellow noodles",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528016592",
+                                        "name": "Mee Pok",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528025295",
+                                        "name": "Mee Kia",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "面粿"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528037718",
+                                        "name": "Kway Teow",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528042301",
+                                        "name": "Bee Hoon",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "面条的选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20200728062453016735",
+                                "name": "Choice of Preparation",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20200728062453018599",
+                                        "name": "Chilli (Dry)",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "辣椒 (干)"
+                                                }
+                                            }
+                                        },
+                                        "tagLabel": [
+                                            {
+                                                "text": "Popular",
+                                                "textColor": "#F76708",
+                                                "icon": "https://assets-mobile.grab.com/deliveries/food/menu/menu_item_modifier_tag_popular@3x.png"
+                                            }
+                                        ],
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062453028564",
+                                        "name": "Non-chilli (Ketchup, Dry)",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "非辣椒(奶酪,干)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062453033291",
+                                        "name": "Non-chilli ( White, Dry)",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062453049258",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "准备选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"modifier_tag\":{\"Popular\":[\"SGMOD20210809022145019680\",\"SGMOD20200728062453018599\",\"SGMOD20200728062528016592\",\"SGMOD20210809021310039881\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200728061250017176/photo/ccecb5be65c54c7b92737ec274b4eec6_1630914576309440721.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20200728061250017176/detail/ccecb5be65c54c7b92737ec274b4eec6_1630914576309440721.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2020122309540312099",
+                        "name": "Fishcake noodles",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309540312099/photo/0eca26684d4648cda17e8af60291f1b0_1630914749443842117.avif",
+                        "description": "Fresh fishcake with savory noodles.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20200728062528016064",
+                                "name": "Choice of Noodle",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201223100532011308",
+                                        "name": "Mee tai bak",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "Tai Bak面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201223100532026380",
+                                        "name": "Yellow noodles",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528016592",
+                                        "name": "Mee Pok",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528025295",
+                                        "name": "Mee Kia",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "面粿"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528037718",
+                                        "name": "Kway Teow",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528042301",
+                                        "name": "Bee Hoon",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "面条的选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20210809021310011553",
+                                "name": "Choice of size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809021310016327",
+                                        "name": "large",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "大份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20210809021310026352",
+                                        "name": "medium",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "中份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20210809021310039881",
+                                        "name": "small",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "小份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "尺码的选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20200728061943013901",
+                                "name": "Add-Ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201223100446025803",
+                                        "name": "Fishcake",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "鱼饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728061943019426",
+                                        "name": "Prawn (2 Pieces)",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "虾(2块)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728061943022455",
+                                        "name": "Fishball (3 Pieces)",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "鱼丸(3个)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728061943039261",
+                                        "name": "Meatball (3 Pieces)",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "肉丸(3个)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728061943048857",
+                                        "name": "Minced Meat",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "肉碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728061943053606",
+                                        "name": "Sliced Meat",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "附加组件"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-02-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309540312099/photo/0eca26684d4648cda17e8af60291f1b0_1630914749443842117.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309540312099/detail/0eca26684d4648cda17e8af60291f1b0_1630914749443842117.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2020122309520050342",
+                        "name": "Fishball noodles",
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309520050342/photo/8897ffd3c1a6496198c7badc574ec76e_1630914715224073187.avif",
+                        "description": "Flavorful fishballs and noodles in savory broth.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20210809022145014279",
+                                "name": "Add Packaging Cost",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809022145019680",
+                                        "name": "Packaging Cost",
+                                        "available": true,
+                                        "priceInMinorUnit": 30,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 30,
+                                            "amountDisplay": "0.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "打包费"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "打包费"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20210809021310011553",
+                                "name": "Choice of size",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20210809021310016327",
+                                        "name": "large",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "大份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20210809021310026352",
+                                        "name": "medium",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "中份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20210809021310039881",
+                                        "name": "small",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "小份"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "尺码的选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20200728061943013901",
+                                "name": "Add-Ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 6,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201223100446025803",
+                                        "name": "Fishcake",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "鱼饼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728061943019426",
+                                        "name": "Prawn (2 Pieces)",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "虾(2块)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728061943022455",
+                                        "name": "Fishball (3 Pieces)",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "鱼丸(3个)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728061943039261",
+                                        "name": "Meatball (3 Pieces)",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "肉丸(3个)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728061943048857",
+                                        "name": "Minced Meat",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "肉碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728061943053606",
+                                        "name": "Sliced Meat",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "肉片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 6
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "附加组件"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20200728062453016735",
+                                "name": "Choice of Preparation",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20200728062453018599",
+                                        "name": "Chilli (Dry)",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "辣椒 (干)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062453028564",
+                                        "name": "Non-chilli (Ketchup, Dry)",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "非辣椒(奶酪,干)"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062453033291",
+                                        "name": "Non-chilli ( White, Dry)",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062453049258",
+                                        "name": "Soup",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "准备选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20200728062528016064",
+                                "name": "Choice of Noodle",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20201223100532011308",
+                                        "name": "Mee tai bak",
+                                        "available": true,
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "Tai Bak面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20201223100532026380",
+                                        "name": "Yellow noodles",
+                                        "available": true,
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "黄面"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528016592",
+                                        "name": "Mee Pok",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "面薄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528025295",
+                                        "name": "Mee Kia",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "面粿"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528037718",
+                                        "name": "Kway Teow",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "zh": "粿条"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20200728062528042301",
+                                        "name": "Bee Hoon",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "zh": "面条的选择"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-01T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309520050342/photo/8897ffd3c1a6496198c7badc574ec76e_1630914715224073187.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2020122309520050342/detail/8897ffd3c1a6496198c7badc574ec76e_1630914715224073187.avif"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 50000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.2,
+    "voteCount": 647,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Jalan Tua Kong Ahlimmeepok - Bedok Shopping Complex on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-CZL3CT51J6MBN6"
+    },
+    "chainName": "Jalan Tua Kong Ahlimmeepok",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-CZL3CT51J6MBN6/list/e1cf1af68f944f0ea2c8fcbefc4080bc_1630913798761245758.avif",
+    "branchName": "Bedok Shopping Complex",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        },
+        {
+            "labelType": 1,
+            "backgroundColor": "#00B14F",
+            "text": "Islandwide",
+            "labelID": "SGCLID20210901042322014844",
+            "labelName": "Food Islandwide"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Order for today, 7:00 AM or later",
+        "type": "CLOSED_SO_AVAILABLE",
+        "scheduledTime": "2026-08-22T22:02:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

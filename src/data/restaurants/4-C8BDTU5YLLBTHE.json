@@ -1,0 +1,2879 @@
+{
+    "ID": "4-C8BDTU5YLLBTHE",
+    "name": "Seng Heng Atas Roasted Delight - Tampines Mall",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C8BDTU5YLLBTHE/hero/4d566f2663af45ae9d241a47a67d56c3_1782442937162678907.webp",
+    "description": "Please see attached file",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "9:00am-8:00pm",
+        "mon": "9:00am-8:00pm",
+        "tue": "9:00am-8:00pm",
+        "wed": "9:00am-8:00pm",
+        "thu": "9:00am-8:00pm",
+        "fri": "9:00am-8:00pm",
+        "sat": "9:00am-8:00pm"
+    },
+    "address": {
+        "name": "Seng Heng Atas Roasted Delight - Tampines Mall",
+        "combined_address": "4 Tampines Central 5, # 04 - 27 / 28  Tampines Mall, Singapore (Chinatown Danggui Roast Duck) (4 Tampines Central 5, # 04 - 27 / 28  Tampines Mall, Singapore (Chinatown Danggui Roast Duck)), 529510",
+        "combined_city": "Singapore",
+        "street": "4 Tampines Central 5, # 04 - 27 / 28  Tampines Mall, Singapore (Chinatown Danggui Roast Duck) (4 Tampines Central 5, # 04 - 27 / 28  Tampines Mall, Singapore (Chinatown Danggui Roast Duck)), 529510",
+        "postcode": "529510",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.352451,
+        "lng": 103.9446732
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20260626025345088258",
+                "name": "Special Limited Time Offer 限时促销",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260626025348041509",
+                        "name": "Promo Soy Sauce Chicken Rice 油鸡饭促销",
+                        "available": true,
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713243345137/photo/menueditor_item_f902bc0147ea4a6aa0008e134c49247e_1754573063451482279.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352031636",
+                                "name": "Free Side Dish",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352077329",
+                                        "name": "Thai Fried Beancurd 泰式豆腐",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "태국식 튀긴 두부",
+                                                    "zh": "泰式豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352089742",
+                                        "name": "Fried Beancurd Roll 酥炸腐皮卷",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 두부 롤",
+                                                    "zh": "酥炸腐皮卷"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352092480",
+                                        "name": "Fried Ngoh Hiang 酥炸五香",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 오향",
+                                                    "zh": "酥炸五香"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352055079",
+                                        "name": "Beansprout 豆芽",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콩나물",
+                                                    "zh": "豆芽"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "무료 반찬",
+                                            "zh": "免费配菜"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713243345137/photo/menueditor_item_f902bc0147ea4a6aa0008e134c49247e_1754573063451482279.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713243345137/detail/menueditor_item_f902bc0147ea4a6aa0008e134c49247e_1754573063451482279.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025348101393",
+                        "name": "Promo Char Siew Rice 蜜汁叉烧饭促销",
+                        "available": true,
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713262037517/photo/menueditor_item_117e111afa65495d869f77db9253e03b_1754573171679134294.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352031636",
+                                "name": "Free Side Dish",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352077329",
+                                        "name": "Thai Fried Beancurd 泰式豆腐",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "태국식 튀긴 두부",
+                                                    "zh": "泰式豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352089742",
+                                        "name": "Fried Beancurd Roll 酥炸腐皮卷",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 두부 롤",
+                                                    "zh": "酥炸腐皮卷"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352092480",
+                                        "name": "Fried Ngoh Hiang 酥炸五香",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 오향",
+                                                    "zh": "酥炸五香"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352055079",
+                                        "name": "Beansprout 豆芽",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콩나물",
+                                                    "zh": "豆芽"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "무료 반찬",
+                                            "zh": "免费配菜"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713262037517/photo/menueditor_item_117e111afa65495d869f77db9253e03b_1754573171679134294.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713262037517/detail/menueditor_item_117e111afa65495d869f77db9253e03b_1754573171679134294.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025346071330",
+                        "name": "Promo Roasted Duck Rice 当归烧鸭饭促销",
+                        "available": true,
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713255613357/photo/menueditor_item_d4d52424d3d14b64ab1609b367ef9a2a_1754573148093629643.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352031636",
+                                "name": "Free Side Dish",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352077329",
+                                        "name": "Thai Fried Beancurd 泰式豆腐",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "태국식 튀긴 두부",
+                                                    "zh": "泰式豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352089742",
+                                        "name": "Fried Beancurd Roll 酥炸腐皮卷",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 두부 롤",
+                                                    "zh": "酥炸腐皮卷"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352092480",
+                                        "name": "Fried Ngoh Hiang 酥炸五香",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 오향",
+                                                    "zh": "酥炸五香"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352055079",
+                                        "name": "Beansprout 豆芽",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콩나물",
+                                                    "zh": "豆芽"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "무료 반찬",
+                                            "zh": "免费配菜"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713255613357/photo/menueditor_item_d4d52424d3d14b64ab1609b367ef9a2a_1754573148093629643.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713255613357/detail/menueditor_item_d4d52424d3d14b64ab1609b367ef9a2a_1754573148093629643.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025351026315",
+                        "name": "Promo Set F Quarter Roast Duck 促销双人当归烧鸭套餐F",
+                        "available": true,
+                        "priceInMinorUnit": 2680,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713252284054/photo/menueditor_item_65970997b28f466983696af84071d05e_1754573111313059539.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352031636",
+                                "name": "Free Side Dish",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352077329",
+                                        "name": "Thai Fried Beancurd 泰式豆腐",
+                                        "available": true,
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "태국식 튀긴 두부",
+                                                    "zh": "泰式豆腐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352089742",
+                                        "name": "Fried Beancurd Roll 酥炸腐皮卷",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 두부 롤",
+                                                    "zh": "酥炸腐皮卷"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352092480",
+                                        "name": "Fried Ngoh Hiang 酥炸五香",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "튀긴 오향",
+                                                    "zh": "酥炸五香"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352055079",
+                                        "name": "Beansprout 豆芽",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "콩나물",
+                                                    "zh": "豆芽"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "무료 반찬",
+                                            "zh": "免费配菜"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2680,
+                        "priceV2": {
+                            "amountInMinor": 2680,
+                            "amountDisplay": "26.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2680,
+                            "amountDisplay": "26.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713252284054/photo/menueditor_item_65970997b28f466983696af84071d05e_1754573111313059539.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025080713252284054/detail/menueditor_item_65970997b28f466983696af84071d05e_1754573111313059539.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260626025345019450",
+                "name": "Hongkong Style Roasted Dang Gui Duck  港式当归烧鸭",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260626025349115919",
+                        "name": "Roasted Duck Rice  当归鸭饭",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618059745/photo/menueditor_item_373bc38a8b6f43059dc0cbacad40fec8_1716970301726952648.webp",
+                        "description": "Roasted Duck Rice 当归鸭饭",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618059745/photo/menueditor_item_373bc38a8b6f43059dc0cbacad40fec8_1716970301726952648.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618059745/detail/menueditor_item_373bc38a8b6f43059dc0cbacad40fec8_1716970301726952648.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025348056433",
+                        "name": "Roasted Duck Noodle  当归烧鸭面",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900354485237/photo/menueditor_item_527a04c7aae845da87ca41d847bbe8de_1739925317273729942.webp",
+                        "description": "Tender duck glazed with a sweet and tangy gravy. Served with springy noodles.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352027286",
+                                "name": "Spicy/Non-spicy 辣/不辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352111487",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352046311",
+                                        "name": "Non-spicy 不辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛/안 매운맛",
+                                            "zh": "辣/不辣"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900354485237/photo/menueditor_item_527a04c7aae845da87ca41d847bbe8de_1739925317273729942.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900354485237/detail/menueditor_item_527a04c7aae845da87ca41d847bbe8de_1739925317273729942.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025350111620",
+                        "name": "Roasted Duck Drumstick Rice  当归鸭腿饭",
+                        "available": true,
+                        "priceInMinorUnit": 1200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618069479/photo/menueditor_item_e618c126d79c48e7a342b262e363e780_1716970322966278115.webp",
+                        "description": "Roasted Duck Drumstick Rice  当归鸭腿饭",
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618069479/photo/menueditor_item_e618c126d79c48e7a342b262e363e780_1716970322966278115.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618069479/detail/menueditor_item_e618c126d79c48e7a342b262e363e780_1716970322966278115.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025351064070",
+                        "name": "Roasted Duck Trio Platter Rice 当归烧鸭三宝饭",
+                        "available": true,
+                        "priceInMinorUnit": 1380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024121903081905411/photo/menueditor_item_2277283193d94726bf818c2f5c9d706d_1734577686832400527.webp",
+                        "description": "Roasted Duck Trio Platter Rice 当归烧鸭三宝饭",
+                        "discountedPriceInMin": 1380,
+                        "priceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024121903081905411/photo/menueditor_item_2277283193d94726bf818c2f5c9d706d_1734577686832400527.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024121903081905411/detail/menueditor_item_2277283193d94726bf818c2f5c9d706d_1734577686832400527.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025350015587",
+                        "name": "1/4 Roasted Duck-Upper  1/4 上庄当归烧鸭",
+                        "available": true,
+                        "priceInMinorUnit": 1800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618044269/photo/menueditor_item_565c6e180c5b4a14a240f23ae466634d_1716970278575373154.webp",
+                        "description": "1/4 Roasted Duck-Upper  1/4 上庄当归烧鸭",
+                        "discountedPriceInMin": 1800,
+                        "priceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618044269/photo/menueditor_item_565c6e180c5b4a14a240f23ae466634d_1716970278575373154.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618044269/detail/menueditor_item_565c6e180c5b4a14a240f23ae466634d_1716970278575373154.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347071873",
+                        "name": "1/4 Roasted Duck-Lower part 1/4 下庄当归烧鸭",
+                        "available": true,
+                        "priceInMinorUnit": 2100,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618034562/photo/menueditor_item_b85e9c55e4ae4b6088d6c83e267a02f7_1716970259483014002.webp",
+                        "discountedPriceInMin": 2100,
+                        "priceV2": {
+                            "amountInMinor": 2100,
+                            "amountDisplay": "21.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2100,
+                            "amountDisplay": "21.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618034562/photo/menueditor_item_b85e9c55e4ae4b6088d6c83e267a02f7_1716970259483014002.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618034562/detail/menueditor_item_b85e9c55e4ae4b6088d6c83e267a02f7_1716970259483014002.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347058975",
+                        "name": "Half Danggui Roasted Duck  半只当归烧鸭",
+                        "available": true,
+                        "priceInMinorUnit": 2900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618029061/photo/menueditor_item_a889e569284a44bf93b9dee13c742ce7_1716970243663909308.webp",
+                        "discountedPriceInMin": 2900,
+                        "priceV2": {
+                            "amountInMinor": 2900,
+                            "amountDisplay": "29.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2900,
+                            "amountDisplay": "29.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618029061/photo/menueditor_item_a889e569284a44bf93b9dee13c742ce7_1716970243663909308.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618029061/detail/menueditor_item_a889e569284a44bf93b9dee13c742ce7_1716970243663909308.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025348091772",
+                        "name": "Whole Roasted Duck  一只当归烧鸭",
+                        "available": true,
+                        "priceInMinorUnit": 5800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618012225/photo/menueditor_item_3909ad1e0a884ac2a399ae1091ac110e_1716970229194003719.webp",
+                        "description": "Whole Roasted Duck 一只当归烧鸭",
+                        "discountedPriceInMin": 5800,
+                        "priceV2": {
+                            "amountInMinor": 5800,
+                            "amountDisplay": "58.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5800,
+                            "amountDisplay": "58.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618012225/photo/menueditor_item_3909ad1e0a884ac2a399ae1091ac110e_1716970229194003719.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095618012225/detail/menueditor_item_3909ad1e0a884ac2a399ae1091ac110e_1716970229194003719.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260626025345022687",
+                "name": "Soy Sauce Chicken  油鸡",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260626025349047244",
+                        "name": "Soy Sauce Chicken Rice 油鸡饭",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940147026/photo/menueditor_item_d57b3c61100e4dbebd7ef515e26e8971_1739925849104147108.webp",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940147026/photo/menueditor_item_d57b3c61100e4dbebd7ef515e26e8971_1739925849104147108.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940147026/detail/menueditor_item_d57b3c61100e4dbebd7ef515e26e8971_1739925849104147108.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025346054126",
+                        "name": "Soy Sauce Chicken Noodle 油鸡面",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900460164181/photo/menueditor_item_fcd74bc1d39a43d78b0d3eaddc68023a_1739925951696999949.webp",
+                        "description": "Soy Sauce Chicken Noodle 油鸡面",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-14T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900460164181/photo/menueditor_item_fcd74bc1d39a43d78b0d3eaddc68023a_1739925951696999949.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900460164181/detail/menueditor_item_fcd74bc1d39a43d78b0d3eaddc68023a_1739925951696999949.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025351118009",
+                        "name": "Soy Sauce Chicken Drumstick Rice 油鸡腿饭",
+                        "available": true,
+                        "priceInMinorUnit": 900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940058823/photo/menueditor_item_d2d9197484f34613b5eb279e35647b77_1739925871844182247.webp",
+                        "discountedPriceInMin": 900,
+                        "priceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940058823/photo/menueditor_item_d2d9197484f34613b5eb279e35647b77_1739925871844182247.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940058823/detail/menueditor_item_d2d9197484f34613b5eb279e35647b77_1739925871844182247.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025349087084",
+                        "name": "Soy Sauce Chicken 3 Roast Rice 油鸡三宝饭",
+                        "available": true,
+                        "priceInMinorUnit": 1380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941054508/photo/menueditor_item_24f44e11cf8144f39b898e232794a27c_1739925922351923808.webp",
+                        "description": "Soy Sauce Chicken 3 Roast Rice 油鸡三宝饭",
+                        "discountedPriceInMin": 1380,
+                        "priceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941054508/photo/menueditor_item_24f44e11cf8144f39b898e232794a27c_1739925922351923808.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941054508/detail/menueditor_item_24f44e11cf8144f39b898e232794a27c_1739925922351923808.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025348073705",
+                        "name": "1/4 Soy Sauce Chicken - Upper  1/4 上庄油鸡",
+                        "available": true,
+                        "priceInMinorUnit": 1200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940100141/photo/menueditor_item_97ac7e74eb3342958738a65c37a5d66a_1739925731945129239.webp",
+                        "discountedPriceInMin": 1200,
+                        "priceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1200,
+                            "amountDisplay": "12.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940100141/photo/menueditor_item_97ac7e74eb3342958738a65c37a5d66a_1739925731945129239.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940100141/detail/menueditor_item_97ac7e74eb3342958738a65c37a5d66a_1739925731945129239.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347084169",
+                        "name": "1/4 Soy Sauce Chicken - Lower  1/4 下庄油鸡",
+                        "available": true,
+                        "priceInMinorUnit": 1400,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940136835/photo/menueditor_item_b12c08bf37df44f1b693304ff8fc0597_1739925634898968068.webp",
+                        "discountedPriceInMin": 1400,
+                        "priceV2": {
+                            "amountInMinor": 1400,
+                            "amountDisplay": "14.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1400,
+                            "amountDisplay": "14.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940136835/photo/menueditor_item_b12c08bf37df44f1b693304ff8fc0597_1739925634898968068.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940136835/detail/menueditor_item_b12c08bf37df44f1b693304ff8fc0597_1739925634898968068.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347060696",
+                        "name": "Half Soy Sauce Chicken  半只油鸡",
+                        "available": true,
+                        "priceInMinorUnit": 1800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940151420/photo/menueditor_item_fcf3464bdb4b4ce7b062f5035ccfb2b5_1739925619926085194.webp",
+                        "discountedPriceInMin": 1800,
+                        "priceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1800,
+                            "amountDisplay": "18.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940151420/photo/menueditor_item_fcf3464bdb4b4ce7b062f5035ccfb2b5_1739925619926085194.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940151420/detail/menueditor_item_fcf3464bdb4b4ce7b062f5035ccfb2b5_1739925619926085194.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025349026589",
+                        "name": "Whole Soy Sauce Chicken  一只油鸡",
+                        "available": true,
+                        "priceInMinorUnit": 2490,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940116642/photo/menueditor_item_db3146fb9c6641f8bfb03f89634110a2_1739925531099258014.webp",
+                        "discountedPriceInMin": 2490,
+                        "priceV2": {
+                            "amountInMinor": 2490,
+                            "amountDisplay": "24.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2490,
+                            "amountDisplay": "24.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940116642/photo/menueditor_item_db3146fb9c6641f8bfb03f89634110a2_1739925531099258014.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940116642/detail/menueditor_item_db3146fb9c6641f8bfb03f89634110a2_1739925531099258014.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260626025345075112",
+                "name": "烧腊三宝拼盘 Trio Roast Platter",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260626025346028570",
+                        "name": "Signature Trio Roaster Platter （Small）三宝拼盘 (小）",
+                        "available": true,
+                        "priceInMinorUnit": 2500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900314447170/photo/menueditor_item_8db05ab99f53483d88aee0c3c1260138_1739925096625189008.webp",
+                        "description": "( Roasted Pork, Char Siew, Roasted Duck ) (烧肉，叉烧，烧鸭)",
+                        "discountedPriceInMin": 2500,
+                        "priceV2": {
+                            "amountInMinor": 2500,
+                            "amountDisplay": "25.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2500,
+                            "amountDisplay": "25.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900314447170/photo/menueditor_item_8db05ab99f53483d88aee0c3c1260138_1739925096625189008.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900314447170/detail/menueditor_item_8db05ab99f53483d88aee0c3c1260138_1739925096625189008.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025350088318",
+                        "name": "Signature Trio Roaster Platter （Medium）三宝拼盘 (中）",
+                        "available": true,
+                        "priceInMinorUnit": 3800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900322299362/photo/menueditor_item_1e10fd3e951540b589b1ddd89f337020_1739925134899532126.webp",
+                        "description": "( Roasted Pork, Char Siew, Roasted Duck ) (烧肉，叉烧，烧鸭)",
+                        "discountedPriceInMin": 3800,
+                        "priceV2": {
+                            "amountInMinor": 3800,
+                            "amountDisplay": "38.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3800,
+                            "amountDisplay": "38.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900322299362/photo/menueditor_item_1e10fd3e951540b589b1ddd89f337020_1739925134899532126.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900322299362/detail/menueditor_item_1e10fd3e951540b589b1ddd89f337020_1739925134899532126.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260626025345039742",
+                "name": "Rice  饭",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260626025351078870",
+                        "name": "Soy Sauce Chicken Rice 油鸡饭",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014939022006/photo/menueditor_item_9ebc185b66f742e383a270ff2df2aaf6_1739925978956130802.webp",
+                        "description": "Soy Sauce Chicken Rice 油鸡饭",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014939022006/photo/menueditor_item_9ebc185b66f742e383a270ff2df2aaf6_1739925978956130802.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014939022006/detail/menueditor_item_9ebc185b66f742e383a270ff2df2aaf6_1739925978956130802.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025350072925",
+                        "name": "Smoked Duck Rice  熏鸭饭",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900495238205/photo/menueditor_item_3a757983999b4cadbc1d3b3c9a6633db_1739926180043417963.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900495238205/photo/menueditor_item_3a757983999b4cadbc1d3b3c9a6633db_1739926180043417963.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900495238205/detail/menueditor_item_3a757983999b4cadbc1d3b3c9a6633db_1739926180043417963.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025350040971",
+                        "name": "Roasted Duck Rice 当归烧鸭饭",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900512743059/photo/menueditor_item_ec4441ff19a8416da0da3c9e464a5512_1739926278643022863.webp",
+                        "description": "Roasted Duck Rice 当归烧鸭饭",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900512743059/photo/menueditor_item_ec4441ff19a8416da0da3c9e464a5512_1739926278643022863.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900512743059/detail/menueditor_item_ec4441ff19a8416da0da3c9e464a5512_1739926278643022863.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025348024141",
+                        "name": "Char Siew Rice  叉烧饭",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621040538/photo/menueditor_item_1bc3e32303c74da2aef4919f7587bac8_1716970983078419514.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621040538/photo/menueditor_item_1bc3e32303c74da2aef4919f7587bac8_1716970983078419514.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621040538/detail/menueditor_item_1bc3e32303c74da2aef4919f7587bac8_1716970983078419514.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025351045516",
+                        "name": "Roasted Pork Rice  烧肉饭",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621051811/photo/menueditor_item_26cb9a4e6f5b4d2088a2b1e1bcc21f84_1716971015008297355.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621051811/photo/menueditor_item_26cb9a4e6f5b4d2088a2b1e1bcc21f84_1716971015008297355.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621051811/detail/menueditor_item_26cb9a4e6f5b4d2088a2b1e1bcc21f84_1716971015008297355.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347023834",
+                        "name": "Roasted Sausage Rice 烧肠饭",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621069384/photo/menueditor_item_ad6d1fd4677d406bb4d77fbd3c022622_1709425488649490412.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621069384/photo/menueditor_item_ad6d1fd4677d406bb4d77fbd3c022622_1709425488649490412.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621069384/detail/menueditor_item_ad6d1fd4677d406bb4d77fbd3c022622_1709425488649490412.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025346092704",
+                        "name": "Char Siew & Roasted Pork Rice  叉烧烧肉饭",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621078012/photo/menueditor_item_35e653792cc048ab9957a62adeed9aa2_1716971041373553155.webp",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621078012/photo/menueditor_item_35e653792cc048ab9957a62adeed9aa2_1716971041373553155.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095621078012/detail/menueditor_item_35e653792cc048ab9957a62adeed9aa2_1716971041373553155.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025351032496",
+                        "name": "Soy Sauce Chicken & Roasted Pork Rice  油鸡烧肉饭",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942113863/photo/menueditor_item_2048aa0ee42949d5b5c968de7d8e4e5e_1744031325394967956.webp",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942113863/photo/menueditor_item_2048aa0ee42949d5b5c968de7d8e4e5e_1744031325394967956.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942113863/detail/menueditor_item_2048aa0ee42949d5b5c968de7d8e4e5e_1744031325394967956.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025350021251",
+                        "name": "Soy Sauce Chicken & Char Siew Rice  油鸡叉烧饭",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942024926/photo/menueditor_item_c2422abca4f14d26a3bda032ef628539_1739926096596668989.webp",
+                        "description": "Roasted Chicken & Char Siew Rice  烧鸡叉烧饭",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942024926/photo/menueditor_item_c2422abca4f14d26a3bda032ef628539_1739926096596668989.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942024926/detail/menueditor_item_c2422abca4f14d26a3bda032ef628539_1739926096596668989.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025348012001",
+                        "name": "Roasted Duck & Char Siew Rice  当归烧鸭叉烧饭",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940121098/photo/menueditor_item_766d02d8c05e4372b4fc6c56407e0e53_1744031276854062819.webp",
+                        "description": "Roasted Duck & Char Siew Rice  当归烧鸭叉烧饭",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940121098/photo/menueditor_item_766d02d8c05e4372b4fc6c56407e0e53_1744031276854062819.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940121098/detail/menueditor_item_766d02d8c05e4372b4fc6c56407e0e53_1744031276854062819.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025345016269",
+                        "name": "Roasted Duck & Roasted Pork Rice  当归烧鸭烧肉饭",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024121903223662844/photo/menueditor_item_a70d13ad0c8c4fa0a36b893c8eec5825_1734578553058663868.webp",
+                        "description": "Roasted Duck & Roasted Pork Rice  当归烧鸭烧肉饭",
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024121903223662844/photo/menueditor_item_a70d13ad0c8c4fa0a36b893c8eec5825_1734578553058663868.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024121903223662844/detail/menueditor_item_a70d13ad0c8c4fa0a36b893c8eec5825_1734578553058663868.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025349031425",
+                        "name": "Soy Sauce Chicken 3 Roast Rice 油鸡三宝饭",
+                        "available": true,
+                        "priceInMinorUnit": 1380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900521038706/photo/menueditor_item_895e20b2324b4d479f42bf58cc6dc291_1739926321240718801.webp",
+                        "description": "Soy Sauce Chicken 3 Roast Rice 油鸡三宝饭",
+                        "discountedPriceInMin": 1380,
+                        "priceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900521038706/photo/menueditor_item_895e20b2324b4d479f42bf58cc6dc291_1739926321240718801.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900521038706/detail/menueditor_item_895e20b2324b4d479f42bf58cc6dc291_1739926321240718801.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025351100207",
+                        "name": "Pork Trio Roast Rice 猪三宝饭",
+                        "available": true,
+                        "priceInMinorUnit": 1380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900534419981/photo/menueditor_item_eb3d0f2dc49c4aa3b352e98f99bf60c8_1739926416528301579.webp",
+                        "description": "Roasted Pork, Char Siew, Roasted Sausage",
+                        "discountedPriceInMin": 1380,
+                        "priceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900534419981/photo/menueditor_item_eb3d0f2dc49c4aa3b352e98f99bf60c8_1739926416528301579.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900534419981/detail/menueditor_item_eb3d0f2dc49c4aa3b352e98f99bf60c8_1739926416528301579.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025346062084",
+                        "name": "Roasted Duck 3 Roast Rice 当归烧鸭三宝饭",
+                        "available": true,
+                        "priceInMinorUnit": 1380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900541987621/photo/menueditor_item_5b30c79033d04407b323f9df6fbf6c19_1739926442867522994.webp",
+                        "description": "Roasted Duck, Roasted Pork, Char Siew 烧鸭，烧肉，叉烧",
+                        "discountedPriceInMin": 1380,
+                        "priceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900541987621/photo/menueditor_item_5b30c79033d04407b323f9df6fbf6c19_1739926442867522994.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900541987621/detail/menueditor_item_5b30c79033d04407b323f9df6fbf6c19_1739926442867522994.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260626025345051158",
+                "name": "Noodles 面",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260626025350106727",
+                        "name": "Soy Sauce Chicken Noodle 油鸡面",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014943022830/photo/menueditor_item_8f9a082ca8a04875b76646715dea0828_1739926603923803470.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352027286",
+                                "name": "Spicy/Non-spicy 辣/不辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352111487",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352046311",
+                                        "name": "Non-spicy 不辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛/안 매운맛",
+                                            "zh": "辣/不辣"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014943022830/photo/menueditor_item_8f9a082ca8a04875b76646715dea0828_1739926603923803470.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014943022830/detail/menueditor_item_8f9a082ca8a04875b76646715dea0828_1739926603923803470.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347030657",
+                        "name": "Roast Duck Noodle 当归烧鸭面",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900582713866/photo/menueditor_item_10e3c4615b5544559ede73cc3e3ff1c3_1739926695433616194.webp",
+                        "description": "Roast Duck Noodle 当归烧鸭面",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352027286",
+                                "name": "Spicy/Non-spicy 辣/不辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352111487",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352046311",
+                                        "name": "Non-spicy 不辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛/안 매운맛",
+                                            "zh": "辣/不辣"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900582713866/photo/menueditor_item_10e3c4615b5544559ede73cc3e3ff1c3_1739926695433616194.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900582713866/detail/menueditor_item_10e3c4615b5544559ede73cc3e3ff1c3_1739926695433616194.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025352018614",
+                        "name": "Smoked Duck Noodle 熏鸭面",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900590882248/photo/menueditor_item_4d847b6a407a4e2599a0216fca6fc879_1739926735314796827.webp",
+                        "description": "Smoked Duck Noodle 熏鸭面",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352027286",
+                                "name": "Spicy/Non-spicy 辣/不辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352111487",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352046311",
+                                        "name": "Non-spicy 不辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛/안 매운맛",
+                                            "zh": "辣/不辣"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900590882248/photo/menueditor_item_4d847b6a407a4e2599a0216fca6fc879_1739926735314796827.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900590882248/detail/menueditor_item_4d847b6a407a4e2599a0216fca6fc879_1739926735314796827.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025349100738",
+                        "name": "Char Siew Noodle  叉烧面",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250630101613126566/photo/menueditor_item_d52e544c002046d49be77895aa3e2e49_1754573302484941064.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352027286",
+                                "name": "Spicy/Non-spicy 辣/不辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352111487",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352046311",
+                                        "name": "Non-spicy 不辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛/안 매운맛",
+                                            "zh": "辣/不辣"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250630101613126566/photo/menueditor_item_d52e544c002046d49be77895aa3e2e49_1754573302484941064.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250630101613126566/detail/menueditor_item_d52e544c002046d49be77895aa3e2e49_1754573302484941064.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025349061709",
+                        "name": "Braised Chicken Feet W Mushroom Noodle 冬菇卤鸡脚面",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901005950042/photo/menueditor_item_82bc86858e4d4f14aa0614b6492e57e0_1739926846734039662.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352027286",
+                                "name": "Spicy/Non-spicy 辣/不辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352111487",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352046311",
+                                        "name": "Non-spicy 不辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛/안 매운맛",
+                                            "zh": "辣/不辣"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901005950042/photo/menueditor_item_82bc86858e4d4f14aa0614b6492e57e0_1739926846734039662.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901005950042/detail/menueditor_item_82bc86858e4d4f14aa0614b6492e57e0_1739926846734039662.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025346118515",
+                        "name": "Roasted Duck & Roasted Pork Noodle 当归烧鸭烧肉面",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901013514120/photo/menueditor_item_ddb519f666484b859d0b61711d1451a2_1744031387372993438.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352027286",
+                                "name": "Spicy/Non-spicy 辣/不辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352111487",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352046311",
+                                        "name": "Non-spicy 不辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛/안 매운맛",
+                                            "zh": "辣/不辣"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901013514120/photo/menueditor_item_ddb519f666484b859d0b61711d1451a2_1744031387372993438.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901013514120/detail/menueditor_item_ddb519f666484b859d0b61711d1451a2_1744031387372993438.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025348062173",
+                        "name": "Soy Sauce Chicken & Roasted Pork Noodle 油鸡烧肉面",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942121876/photo/menueditor_item_bd2e4d7a42da47fe8dcd7ea8eb1641d5_1743814248592087543.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352027286",
+                                "name": "Spicy/Non-spicy 辣/不辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352111487",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352046311",
+                                        "name": "Non-spicy 不辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛/안 매운맛",
+                                            "zh": "辣/不辣"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942121876/photo/menueditor_item_bd2e4d7a42da47fe8dcd7ea8eb1641d5_1743814248592087543.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942121876/detail/menueditor_item_bd2e4d7a42da47fe8dcd7ea8eb1641d5_1743814248592087543.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025346108868",
+                        "name": "Soy Sauce Chicken & Char Siew Noodle 油鸡叉烧面",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941141380/photo/menueditor_item_3ac90417445f48edb772c2f253933a44_1744031367348997832.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352027286",
+                                "name": "Spicy/Non-spicy 辣/不辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352111487",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352046311",
+                                        "name": "Non-spicy 不辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛/안 매운맛",
+                                            "zh": "辣/不辣"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941141380/photo/menueditor_item_3ac90417445f48edb772c2f253933a44_1744031367348997832.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941141380/detail/menueditor_item_3ac90417445f48edb772c2f253933a44_1744031367348997832.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025350121722",
+                        "name": "Char Siew & Roasted Pork Noodle 叉烧烧肉面",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941066413/photo/menueditor_item_83748c0cb98147a3a0dfa5edebb85f4f_1744031350319430808.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOD20260626025352027286",
+                                "name": "Spicy/Non-spicy 辣/不辣",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260626025352111487",
+                                        "name": "Spicy 辣",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛",
+                                                    "zh": "辣"
+                                                }
+                                            },
+                                            "Standardization": {
+                                                "Value": {
+                                                    "Value": "3##spicy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260626025352046311",
+                                        "name": "Non-spicy 不辣",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "매운맛 없음",
+                                                    "zh": "不辣"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Category": {
+                                        "Value": {
+                                            "Name": "spiciness"
+                                        }
+                                    },
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "매운맛/안 매운맛",
+                                            "zh": "辣/不辣"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941066413/photo/menueditor_item_83748c0cb98147a3a0dfa5edebb85f4f_1744031350319430808.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941066413/detail/menueditor_item_83748c0cb98147a3a0dfa5edebb85f4f_1744031350319430808.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025348084903",
+                        "name": "Soy Sauce Chicken 3 Roast Noodle 油鸡三拼面",
+                        "available": true,
+                        "priceInMinorUnit": 1380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901020531312/photo/menueditor_item_b2b596ffecac4b0ba2f6f630cd8cd157_1743814205259320139.webp",
+                        "description": "Soy Sauce Chicken， Roasted Pork，Char Siew  油鸡，烧肉，叉烧",
+                        "discountedPriceInMin": 1380,
+                        "priceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901020531312/photo/menueditor_item_b2b596ffecac4b0ba2f6f630cd8cd157_1743814205259320139.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901020531312/detail/menueditor_item_b2b596ffecac4b0ba2f6f630cd8cd157_1743814205259320139.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025349019294",
+                        "name": "Roast Duck 3 Roast Noodle 当归烧鸭三拼面",
+                        "available": true,
+                        "priceInMinorUnit": 1380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901023254905/photo/menueditor_item_57ade68347e54d2dbb3d53004cde4269_1743814178612300730.webp",
+                        "description": "Roasted Duck， Roasted Pork， Char Siew  烧鸭，烧肉，叉烧",
+                        "discountedPriceInMin": 1380,
+                        "priceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901023254905/photo/menueditor_item_57ade68347e54d2dbb3d53004cde4269_1743814178612300730.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901023254905/detail/menueditor_item_57ade68347e54d2dbb3d53004cde4269_1743814178612300730.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025346047646",
+                        "name": "Curry Noodle  南洋咖哩鸡面",
+                        "available": true,
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414301192038/photo/menueditor_item_6edd659e4ef24adcabb4d8c65880d7f3_1765726866641670331.webp",
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414301192038/photo/menueditor_item_6edd659e4ef24adcabb4d8c65880d7f3_1765726866641670331.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414301192038/detail/menueditor_item_6edd659e4ef24adcabb4d8c65880d7f3_1765726866641670331.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025350058500",
+                        "name": "Signature Curry Noodle 招牌南洋咖哩三宝面",
+                        "available": true,
+                        "priceInMinorUnit": 1380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414304456208/photo/menueditor_item_f2ddb8744cfe493eb73033f7960a6251_1765726917247965415.webp",
+                        "discountedPriceInMin": 1380,
+                        "priceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414304456208/photo/menueditor_item_f2ddb8744cfe493eb73033f7960a6251_1765726917247965415.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414304456208/detail/menueditor_item_f2ddb8744cfe493eb73033f7960a6251_1765726917247965415.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260626025345060002",
+                "name": "Set Meal",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260626025350039630",
+                        "name": "Value Set Meal A 超值套餐A",
+                        "available": true,
+                        "priceInMinorUnit": 1080,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941116772/photo/menueditor_item_0c86b90aae404ee4bfb9d19dac67e33c_1739924584507793154.webp",
+                        "description": "(Soy Sauce Chicken, Beansprouts, Dou Gan, Egg, Braised Beancurd Skin ) (油鸡，豆芽，豆干，鸡蛋，卤豆支)",
+                        "discountedPriceInMin": 1080,
+                        "priceV2": {
+                            "amountInMinor": 1080,
+                            "amountDisplay": "10.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1080,
+                            "amountDisplay": "10.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941116772/photo/menueditor_item_0c86b90aae404ee4bfb9d19dac67e33c_1739924584507793154.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941116772/detail/menueditor_item_0c86b90aae404ee4bfb9d19dac67e33c_1739924584507793154.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347041533",
+                        "name": "Single Roast Set Meal B 个人套餐B",
+                        "available": true,
+                        "priceInMinorUnit": 1080,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942091432/photo/menueditor_item_a0badc2e8dbd4d9fb3a64d7c317cf8be_1739924708025530874.webp",
+                        "description": "(Soy Sauce Chicken, Lettuce ) (油鸡，玻璃生菜)",
+                        "discountedPriceInMin": 1080,
+                        "priceV2": {
+                            "amountInMinor": 1080,
+                            "amountDisplay": "10.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1080,
+                            "amountDisplay": "10.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942091432/photo/menueditor_item_a0badc2e8dbd4d9fb3a64d7c317cf8be_1739924708025530874.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942091432/detail/menueditor_item_a0badc2e8dbd4d9fb3a64d7c317cf8be_1739924708025530874.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025348039349",
+                        "name": "Roast Duck & Braised Set Meal C 烧鸭卤料套餐 C",
+                        "available": true,
+                        "priceInMinorUnit": 1280,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900303803072/photo/menueditor_item_6b4270b3d33049bab4af4d17e01da637_1739925032482667804.webp",
+                        "description": "( Roasted Duck, Beancurd, Egg, Braised Chicken Feet ) (鸭，豆干，鸡蛋，卤鸡脚)",
+                        "discountedPriceInMin": 1280,
+                        "priceV2": {
+                            "amountInMinor": 1280,
+                            "amountDisplay": "12.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1280,
+                            "amountDisplay": "12.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900303803072/photo/menueditor_item_6b4270b3d33049bab4af4d17e01da637_1739925032482667804.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900303803072/detail/menueditor_item_6b4270b3d33049bab4af4d17e01da637_1739925032482667804.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025348111350",
+                        "name": "Roast Duck & Veg Set Meal D  烧鸭蔬菜套餐 D",
+                        "available": true,
+                        "priceInMinorUnit": 1280,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025030300265033784/photo/menueditor_item_faaa2d22a9d94a168d7642033d2a0a1e_1740961597030390753.webp",
+                        "description": "Roasted Duck with Oyster Sauce Vegetables (鸭，玻璃生菜)",
+                        "discountedPriceInMin": 1280,
+                        "priceV2": {
+                            "amountInMinor": 1280,
+                            "amountDisplay": "12.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1280,
+                            "amountDisplay": "12.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-13T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025030300265033784/photo/menueditor_item_faaa2d22a9d94a168d7642033d2a0a1e_1740961597030390753.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025030300265033784/detail/menueditor_item_faaa2d22a9d94a168d7642033d2a0a1e_1740961597030390753.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025351082564",
+                        "name": "Half Chicken Set Meal E 双人半只油鸡套餐 E",
+                        "available": true,
+                        "priceInMinorUnit": 2680,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414230259194/photo/menueditor_item_0d9f8ded91eb43f39a3fa5633a5493c9_1765722157122189931.webp",
+                        "description": "Half Soy Sauce Chicken with 2 rice  （半只油鸡，2碗饭）",
+                        "discountedPriceInMin": 2680,
+                        "priceV2": {
+                            "amountInMinor": 2680,
+                            "amountDisplay": "26.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2680,
+                            "amountDisplay": "26.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414230259194/photo/menueditor_item_0d9f8ded91eb43f39a3fa5633a5493c9_1765722157122189931.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414230259194/detail/menueditor_item_0d9f8ded91eb43f39a3fa5633a5493c9_1765722157122189931.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347100460",
+                        "name": "Quarter Roast Duck Set Meal F 人气双人当归烧鸭套餐 F",
+                        "available": true,
+                        "priceInMinorUnit": 2680,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414240823202/photo/menueditor_item_a1266ddcfe984fc98ed9d89596797c40_1765722236158444270.webp",
+                        "description": "Roast Duck Upper Part with 2 Rice  （鸭上庄，2碗饭）",
+                        "discountedPriceInMin": 2680,
+                        "priceV2": {
+                            "amountInMinor": 2680,
+                            "amountDisplay": "26.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2680,
+                            "amountDisplay": "26.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414240823202/photo/menueditor_item_a1266ddcfe984fc98ed9d89596797c40_1765722236158444270.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414240823202/detail/menueditor_item_a1266ddcfe984fc98ed9d89596797c40_1765722236158444270.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025351052153",
+                        "name": "Double Roast & Veg Set Meal H 双宝蔬菜套餐 H",
+                        "available": true,
+                        "priceInMinorUnit": 1180,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414211175248/photo/menueditor_item_c79329461c3845d186387c97e33693ac_1765722012171508684.webp",
+                        "description": "(Roasted Pork, Char Siew, Lettuce and Rice, 烧肉，叉烧，油菜 和饭 ）",
+                        "discountedPriceInMin": 1180,
+                        "priceV2": {
+                            "amountInMinor": 1180,
+                            "amountDisplay": "11.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1180,
+                            "amountDisplay": "11.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414211175248/photo/menueditor_item_c79329461c3845d186387c97e33693ac_1765722012171508684.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025121414211175248/detail/menueditor_item_c79329461c3845d186387c97e33693ac_1765722012171508684.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347115808",
+                        "name": "Famous 3 Roast Set Meal 人气佐敦三宝套餐",
+                        "available": true,
+                        "priceInMinorUnit": 1480,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900285104119/photo/menueditor_item_71124fcd13394ac2adcc161d16bd5008_1742278559937126661.webp",
+                        "description": "(Chicken, Roasted Pork, Char Siew, Vegetable, Fried Egg, 油鸡, 烧肉, 叉烧, 蔬菜, 开心荷包蛋)",
+                        "discountedPriceInMin": 1480,
+                        "priceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900285104119/photo/menueditor_item_71124fcd13394ac2adcc161d16bd5008_1742278559937126661.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021900285104119/detail/menueditor_item_71124fcd13394ac2adcc161d16bd5008_1742278559937126661.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260626025345041780",
+                "name": "Others  其他小菜",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260626025346081132",
+                        "name": "Fried Beancurd Roll 酥炸腐皮卷",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025070215181852819/photo/menueditor_item_f8f08088c1cc47f792256a0dbdc8e552_1751469483932617732.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025070215181852819/photo/menueditor_item_f8f08088c1cc47f792256a0dbdc8e552_1751469483932617732.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025070215181852819/detail/menueditor_item_f8f08088c1cc47f792256a0dbdc8e552_1751469483932617732.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347013016",
+                        "name": "Fried Ngoh Hiang 酥炸五香",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025070215160912027/photo/menueditor_item_f05a1eed7edb4753927b2f434a05e4e3_1751469301767636460.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025070215160912027/photo/menueditor_item_f05a1eed7edb4753927b2f434a05e4e3_1751469301767636460.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025070215160912027/detail/menueditor_item_f05a1eed7edb4753927b2f434a05e4e3_1751469301767636460.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025346039683",
+                        "name": "Braised beancurd (1 piece) 豆干 (1片)",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942100012/photo/menueditor_item_754dac4696e348d4a46a5f5dbb6bf872_1744075499611212927.webp",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942100012/photo/menueditor_item_754dac4696e348d4a46a5f5dbb6bf872_1744075499611212927.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014942100012/detail/menueditor_item_754dac4696e348d4a46a5f5dbb6bf872_1744075499611212927.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025349052026",
+                        "name": "Braised eggs (1 piece)  卤蛋 (1粒）",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940033394/photo/menueditor_item_0799c9e9cf034c2f83d79587dd9ef058_1744075524585469619.webp",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940033394/photo/menueditor_item_0799c9e9cf034c2f83d79587dd9ef058_1744075524585469619.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014940033394/detail/menueditor_item_0799c9e9cf034c2f83d79587dd9ef058_1744075524585469619.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025350069857",
+                        "name": "Braised Chicken Feet With Mushrooms  冬菇焖鸡脚 （ 3支 ）",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901064170970/photo/menueditor_item_feb98e3df2b1416eb6afbe8fd7980cbe_1739927194062324553.webp",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901064170970/photo/menueditor_item_feb98e3df2b1416eb6afbe8fd7980cbe_1739927194062324553.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901064170970/detail/menueditor_item_feb98e3df2b1416eb6afbe8fd7980cbe_1739927194062324553.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025351093572",
+                        "name": "Braised beancurd skin 卤腐竹",
+                        "available": true,
+                        "priceInMinorUnit": 700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024030203545498837/photo/menueditor_item_1c67a0f5df594aa9b509e9e2084b5d90_1716971319755466731.webp",
+                        "discountedPriceInMin": 700,
+                        "priceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 700,
+                            "amountDisplay": "7.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024030203545498837/photo/menueditor_item_1c67a0f5df594aa9b509e9e2084b5d90_1716971319755466731.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2024030203545498837/detail/menueditor_item_1c67a0f5df594aa9b509e9e2084b5d90_1716971319755466731.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025346015243",
+                        "name": "Beansprouts 豆芽",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901053368814/photo/menueditor_item_d9245cb8ed814707a69f3a92ba00936b_1739927125838602204.webp",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901053368814/photo/menueditor_item_d9245cb8ed814707a69f3a92ba00936b_1739927125838602204.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901053368814/detail/menueditor_item_d9245cb8ed814707a69f3a92ba00936b_1739927125838602204.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025350091663",
+                        "name": "Oyster Sauce Vegetables ( lettuce)  油菜 (玻璃生菜）",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095622060360/photo/menueditor_item_009c322e505944e8872fe96c0d0fc52a_1716971380362636809.webp",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-13T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095622060360/photo/menueditor_item_009c322e505944e8872fe96c0d0fc52a_1716971380362636809.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095622060360/detail/menueditor_item_009c322e505944e8872fe96c0d0fc52a_1716971380362636809.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025347099999",
+                        "name": "Thai Style Fried Beancurd 泰式酥炸豆腐",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901061903137/photo/menueditor_item_b88deb7cece14f329097dea6724626a0_1739927171577318977.webp",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901061903137/photo/menueditor_item_b88deb7cece14f329097dea6724626a0_1739927171577318977.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901061903137/detail/menueditor_item_b88deb7cece14f329097dea6724626a0_1739927171577318977.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025351018583",
+                        "name": "Fried Eggs 荷包蛋",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901075822153/photo/menueditor_item_b933ba2c855f478ba7e44389ca1a402b_1739927272368912006.webp",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901075822153/photo/menueditor_item_b933ba2c855f478ba7e44389ca1a402b_1739927272368912006.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025021901075822153/detail/menueditor_item_b933ba2c855f478ba7e44389ca1a402b_1739927272368912006.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025349095190",
+                        "name": "Fragrant Rice  油饭",
+                        "available": true,
+                        "priceInMinorUnit": 200,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095622097654/photo/menueditor_item_8ea60e9e80c446d69d89b1ed59abe99d_1716971416994888985.webp",
+                        "description": "Oil Rice  油饭",
+                        "discountedPriceInMin": 200,
+                        "priceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 200,
+                            "amountDisplay": "2.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095622097654/photo/menueditor_item_8ea60e9e80c446d69d89b1ed59abe99d_1716971416994888985.webp",
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095622097654/photo/menueditor_item_7cde0a4ce2764a9d8574117453780df9_1716971418871208887.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095622097654/detail/menueditor_item_8ea60e9e80c446d69d89b1ed59abe99d_1716971416994888985.webp",
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20240126095622097654/detail/menueditor_item_7cde0a4ce2764a9d8574117453780df9_1716971418871208887.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260626025349076084",
+                        "name": "White Rice 白饭",
+                        "available": true,
+                        "priceInMinorUnit": 180,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941027323/photo/menueditor_item_cef420da249a4cf0a99d9e1045481090_1744032489039786232.webp",
+                        "discountedPriceInMin": 180,
+                        "priceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 180,
+                            "amountDisplay": "1.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941027323/photo/menueditor_item_cef420da249a4cf0a99d9e1045481090_1744032489039786232.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250217014941027323/detail/menueditor_item_cef420da249a4cf0a99d9e1045481090_1744032489039786232.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.3,
+    "voteCount": 10,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1200,
+        "thresholdForDisplay": {
+            "amountInMinor": 1200,
+            "amountDisplay": "S$12.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$12.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$12.00, a small order fee of the difference between your order value & S$12.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C8BDTU5YLLBTHE/photos/4d566f2663af45ae9d241a47a67d56c3_1782442937162678907.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Seng Heng Atas Roasted Delight - Tampines Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C8BDTU5YLLBTHE"
+    },
+    "chainName": "Seng Heng Atas Roasted Delight",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C8BDTU5YLLBTHE/list/bf4d18227efe4692a56cf4e6bf9adfd8_1782442929286525173.webp",
+    "branchName": "Tampines Mall",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 9:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T01:00:00Z"
+    },
+    "translationTags": [
+        "non-pork"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

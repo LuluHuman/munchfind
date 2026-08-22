@@ -1,0 +1,797 @@
+{
+    "ID": "4-C7J3PEWDLFXTTA",
+    "name": "Bibimbap/Dosirak - Eastpoint Mall",
+    "cuisine": "Korean,Bibimbap,Rice Bowl",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C7J3PEWDLFXTTA/hero/4e73992b36094e43a0d0cceb10514cf2_1752029141606246242.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:00am-8:45pm",
+        "mon": "10:00am-8:45pm",
+        "tue": "10:00am-8:45pm",
+        "wed": "10:00am-8:45pm",
+        "thu": "10:00am-8:45pm",
+        "fri": "10:00am-8:45pm",
+        "sat": "10:00am-8:45pm"
+    },
+    "address": {
+        "name": "Bibimbap/Dosirak - Eastpoint Mall",
+        "combined_address": "3, Simei Street 6, #B1-13, Tampines, 528833",
+        "combined_city": "Singapore",
+        "house": "#B1-13",
+        "street": "3, Simei Street 6",
+        "suburb": "Tampines",
+        "postcode": "528833",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.342666,
+        "lng": 103.9527504
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20250709021311017477",
+                "name": "Signature Dish 招牌菜品",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250709021311018105",
+                        "name": "1 Hotstone Bibimbap 石锅拌饭",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021311018105/photo/menueditor_item_d7477e3ca04e49c0a882426f90cb7904_1752588031559622889.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250709021416016189",
+                                "name": "Choice of:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250709021416011656",
+                                        "name": "Chicken 鸡肉",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "닭고기",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250709021416026888",
+                                        "name": "Beef 牛肉",
+                                        "available": true,
+                                        "priceInMinorUnit": 70,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 70,
+                                            "amountDisplay": "0.70"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기",
+                                                    "zh": "牛肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250709021416034744",
+                                        "name": "Salmon 三文鱼",
+                                        "available": true,
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "연어",
+                                                    "zh": "Salmon 三文鱼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "선택:",
+                                            "zh": "选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021311018105/photo/menueditor_item_d7477e3ca04e49c0a882426f90cb7904_1752588031559622889.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021311018105/detail/menueditor_item_d7477e3ca04e49c0a882426f90cb7904_1752588031559622889.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250709021822017633",
+                "name": "Rice 米饭",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250709021822017123",
+                        "name": "2 Chicken Rice 韩式鸡肉饭",
+                        "available": true,
+                        "priceInMinorUnit": 900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822017123/photo/menueditor_item_baa17ef348414e07842bdb40323be121_1752588115704697571.avif",
+                        "discountedPriceInMin": 900,
+                        "priceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822017123/photo/menueditor_item_baa17ef348414e07842bdb40323be121_1752588115704697571.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822017123/detail/menueditor_item_baa17ef348414e07842bdb40323be121_1752588115704697571.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709021822062515",
+                        "name": "3 Beef Rice 韩式牛肉饭",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822062515/photo/menueditor_item_52f24806e06e441386adbcaaf0aa3da3_1752588139719457772.avif",
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822062515/photo/menueditor_item_52f24806e06e441386adbcaaf0aa3da3_1752588139719457772.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822062515/detail/menueditor_item_52f24806e06e441386adbcaaf0aa3da3_1752588139719457772.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709021822053415",
+                        "name": "4 Kimchi Fried Rice 泡菜炒饭",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822053415/photo/menueditor_item_f215ef66e7f24c28b1189e1d4f7ddf02_1752588166220647122.avif",
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822053415/photo/menueditor_item_f215ef66e7f24c28b1189e1d4f7ddf02_1752588166220647122.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822053415/detail/menueditor_item_f215ef66e7f24c28b1189e1d4f7ddf02_1752588166220647122.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709021822031355",
+                        "name": "5 Chicken Katsu Don 炸鸡亲子饭",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822031355/photo/menueditor_item_d0bad128aafe4af9a8e505844616712c_1752588185832182761.avif",
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-14T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822031355/photo/menueditor_item_d0bad128aafe4af9a8e505844616712c_1752588185832182761.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822031355/detail/menueditor_item_d0bad128aafe4af9a8e505844616712c_1752588185832182761.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709021822027009",
+                        "name": "6 Salmon Don 三文鱼条子饭",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822027009/photo/menueditor_item_120244dc2b7145eb95967c40c1ff90a1_1752588207467192211.avif",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822027009/photo/menueditor_item_120244dc2b7145eb95967c40c1ff90a1_1752588207467192211.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822027009/detail/menueditor_item_120244dc2b7145eb95967c40c1ff90a1_1752588207467192211.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709021822043978",
+                        "name": "7 Ebi Tempura Don 炸虾亲子饭",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822043978/photo/menueditor_item_a36c7c41407b4721b17578c7465aecfb_1752588224569181719.avif",
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822043978/photo/menueditor_item_a36c7c41407b4721b17578c7465aecfb_1752588224569181719.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709021822043978/detail/menueditor_item_a36c7c41407b4721b17578c7465aecfb_1752588224569181719.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250709022230019603",
+                "name": "Dosirak 饭盒",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250709022231014019",
+                        "name": "8 Chicken Katsu+Salmon 炸鸡+三文鱼",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231014019/photo/menueditor_item_a950793d9da7443b9135679d3880aaee_1752588254667846997.avif",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-14T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231014019/photo/menueditor_item_a950793d9da7443b9135679d3880aaee_1752588254667846997.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231014019/detail/menueditor_item_a950793d9da7443b9135679d3880aaee_1752588254667846997.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709022231024768",
+                        "name": "9 Chicken Katsu+Chicken/Beef 炸鸡+鸡肉/牛肉",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231024768/photo/menueditor_item_094d51f1efd14ecc8e4afd55fde4573d_1752588291531922659.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250709022316016285",
+                                "name": "Choice of:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250709022316010935",
+                                        "name": "Chicken 鸡肉",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "닭고기",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250709022316027362",
+                                        "name": "Beef 牛肉",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기",
+                                                    "zh": "牛肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "선택:",
+                                            "zh": "选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231024768/photo/menueditor_item_094d51f1efd14ecc8e4afd55fde4573d_1752588291531922659.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231024768/detail/menueditor_item_094d51f1efd14ecc8e4afd55fde4573d_1752588291531922659.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709022231043397",
+                        "name": "10 Chicken Katsu+Ebi Tempura 炸鸡+炸虾",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231043397/photo/menueditor_item_94d1977f31d746a9bc9525e87428f215_1752588316928447024.avif",
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-14T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231043397/photo/menueditor_item_94d1977f31d746a9bc9525e87428f215_1752588316928447024.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231043397/detail/menueditor_item_94d1977f31d746a9bc9525e87428f215_1752588316928447024.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709022231063855",
+                        "name": "11 Salmon+Chicken/Beef 三文鱼+鸡肉/牛肉",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231063855/photo/menueditor_item_a16d62163e3643399d6892fa10e38a99_1752588351633464810.avif",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250709022316016285",
+                                "name": "Choice of:",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250709022316010935",
+                                        "name": "Chicken 鸡肉",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "닭고기",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250709022316027362",
+                                        "name": "Beef 牛肉",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "소고기",
+                                                    "zh": "牛肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "선택:",
+                                            "zh": "选择："
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-27T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231063855/photo/menueditor_item_a16d62163e3643399d6892fa10e38a99_1752588351633464810.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231063855/detail/menueditor_item_a16d62163e3643399d6892fa10e38a99_1752588351633464810.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709022231036317",
+                        "name": "12 Salmon+Ebi Tempura 三文鱼+炸虾",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231036317/photo/menueditor_item_a0597697798f46b1ae7a16f2d8fed795_1752588370402475696.avif",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231036317/photo/menueditor_item_a0597697798f46b1ae7a16f2d8fed795_1752588370402475696.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231036317/detail/menueditor_item_a0597697798f46b1ae7a16f2d8fed795_1752588370402475696.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709022231058834",
+                        "name": "13 Fried Chicken Dumpling 鸡肉炸饺",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231058834/photo/menueditor_item_a193505935364dfaa1a73a464f9ebc74_1752588393230446362.avif",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231058834/photo/menueditor_item_a193505935364dfaa1a73a464f9ebc74_1752588393230446362.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709022231058834/detail/menueditor_item_a193505935364dfaa1a73a464f9ebc74_1752588393230446362.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250709023524015510",
+                "name": "Noodles 面",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250709023524023666",
+                        "name": "14 Shin Ramyun-Chicken 鸡肉辛拉面",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023524023666/photo/menueditor_item_26495b86cbfe4ab1900302a70973a0ce_1752588417308158227.avif",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023524023666/photo/menueditor_item_26495b86cbfe4ab1900302a70973a0ce_1752588417308158227.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023524023666/detail/menueditor_item_26495b86cbfe4ab1900302a70973a0ce_1752588417308158227.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709023525012907",
+                        "name": "15 Shin Ramyun-Beef 牛肉辛拉面",
+                        "available": true,
+                        "priceInMinorUnit": 900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023525012907/photo/menueditor_item_5041e78b9dc4458a84a3425a976dc81b_1752588432482146063.avif",
+                        "discountedPriceInMin": 900,
+                        "priceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023525012907/photo/menueditor_item_5041e78b9dc4458a84a3425a976dc81b_1752588432482146063.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023525012907/detail/menueditor_item_5041e78b9dc4458a84a3425a976dc81b_1752588432482146063.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709023524017051",
+                        "name": "16 Shin Ramyun-Seafood 海鲜 辛拉面",
+                        "available": true,
+                        "priceInMinorUnit": 1150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023524017051/photo/menueditor_item_3f5b2b462cf6426d9def3176241afaa4_1752588452073489873.avif",
+                        "discountedPriceInMin": 1150,
+                        "priceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1150,
+                            "amountDisplay": "11.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023524017051/photo/menueditor_item_3f5b2b462cf6426d9def3176241afaa4_1752588452073489873.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023524017051/detail/menueditor_item_3f5b2b462cf6426d9def3176241afaa4_1752588452073489873.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250709023645014521",
+                "name": "Pancake 煎饼",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250709023645029710",
+                        "name": "18 Seafood Pancake 海鲜煎饼",
+                        "available": true,
+                        "priceInMinorUnit": 1380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023645029710/photo/menueditor_item_a2fc818d612545bbbe37a85ad6e54eb9_1752588472250572239.avif",
+                        "discountedPriceInMin": 1380,
+                        "priceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1380,
+                            "amountDisplay": "13.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023645029710/photo/menueditor_item_a2fc818d612545bbbe37a85ad6e54eb9_1752588472250572239.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023645029710/detail/menueditor_item_a2fc818d612545bbbe37a85ad6e54eb9_1752588472250572239.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250709023645019684",
+                        "name": "17 Kimchi Pancake 泡菜煎饼",
+                        "available": true,
+                        "priceInMinorUnit": 1280,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023645019684/photo/menueditor_item_0f779023f0464f96b38525aaeb69f9e6_1752588493222882253.avif",
+                        "discountedPriceInMin": 1280,
+                        "priceV2": {
+                            "amountInMinor": 1280,
+                            "amountDisplay": "12.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1280,
+                            "amountDisplay": "12.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-21T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023645019684/photo/menueditor_item_0f779023f0464f96b38525aaeb69f9e6_1752588493222882253.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20250709023645019684/detail/menueditor_item_0f779023f0464f96b38525aaeb69f9e6_1752588493222882253.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.7,
+    "voteCount": 133,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Bibimbap/Dosirak - Eastpoint Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7J3PEWDLFXTTA"
+    },
+    "chainName": "Bibimbap/Dosirak",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C7J3PEWDLFXTTA/list/04fcab2db623474282208c9858b0df91_1752029123712020742.avif",
+    "branchName": "Eastpoint Mall",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:00:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal",
+        "non-pork"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

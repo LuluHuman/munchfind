@@ -1,0 +1,724 @@
+{
+    "ID": "4-C7EDEJVKLKBFC2",
+    "name": "Man Kou Xiang Herbal Bak Kut Teh - East Link Mall",
+    "cuisine": "Chinese,Zi Char,Fried Rice",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C7EDEJVKLKBFC2/hero/24d857b8-c8e2-4c30-911e-daf0fdcaee4f__store_cover__2026__01__04__13__11__01.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:00am-9:10pm",
+        "mon": "10:00am-9:10pm",
+        "tue": "10:00am-9:10pm",
+        "wed": "10:00am-9:10pm",
+        "thu": "10:00am-9:10pm",
+        "fri": "10:00am-9:10pm",
+        "sat": "10:00am-9:10pm",
+        "tempClosed": true
+    },
+    "address": {
+        "name": "Man Kou Xiang Herbal Bak Kut Teh - East Link Mall",
+        "combined_address": "8, Tampines Central 1, #01-18, Tampines, 529543",
+        "combined_city": "Singapore",
+        "house": "#01-18",
+        "street": "8, Tampines Central 1",
+        "suburb": "Tampines",
+        "postcode": "529543",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3544444,
+        "lng": 103.9441667
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT2025120808240524598",
+                "name": "Bak Kut Teh/Soup",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025120807565554970",
+                        "name": "Herbal Bak Kut Teh",
+                        "available": true,
+                        "priceInMinorUnit": 1232,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120807565554970/photo/menueditor_item_0d879d376cff46bd9b927078dd348143_1765180584554569356.avif",
+                        "discountedPriceInMin": 1232,
+                        "priceV2": {
+                            "amountInMinor": 1232,
+                            "amountDisplay": "12.32"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1232,
+                            "amountDisplay": "12.32"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120807565554970/photo/menueditor_item_0d879d376cff46bd9b927078dd348143_1765180584554569356.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120807565554970/detail/menueditor_item_0d879d376cff46bd9b927078dd348143_1765180584554569356.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808022990657",
+                        "name": "Herbal Bak Kut Teh (Pork Ribs only)",
+                        "available": true,
+                        "priceInMinorUnit": 840,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808022990657/photo/menueditor_item_09b8168353ee4d679674d99836243b77_1765180926050238362.avif",
+                        "discountedPriceInMin": 840,
+                        "priceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808022990657/photo/menueditor_item_09b8168353ee4d679674d99836243b77_1765180926050238362.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808022990657/detail/menueditor_item_09b8168353ee4d679674d99836243b77_1765180926050238362.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808003869222",
+                        "name": "Bak Kut Teh (Dry)",
+                        "available": true,
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808003869222/photo/menueditor_item_929165d29f9e4817ad57097a4cb8ef9d_1765180796873376241.avif",
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808003869222/photo/menueditor_item_929165d29f9e4817ad57097a4cb8ef9d_1765180796873376241.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808003869222/detail/menueditor_item_929165d29f9e4817ad57097a4cb8ef9d_1765180796873376241.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808154333150",
+                        "name": "Old Cucumber w Pork Ribs Soup",
+                        "available": true,
+                        "priceInMinorUnit": 840,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808154333150/photo/menueditor_item_bb7be844c05a45abaa5c74f1fa2b14bb_1765181710721555188.avif",
+                        "discountedPriceInMin": 840,
+                        "priceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-24T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808154333150/photo/menueditor_item_bb7be844c05a45abaa5c74f1fa2b14bb_1765181710721555188.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808154333150/detail/menueditor_item_bb7be844c05a45abaa5c74f1fa2b14bb_1765181710721555188.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250527103817011914",
+                "name": "Mains",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025120808054401963",
+                        "name": "Curry Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 840,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808054401963/photo/menueditor_item_f5b13232ef2a43d2874230a64fb68577_1765181116861733408.avif",
+                        "discountedPriceInMin": 840,
+                        "priceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-28T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808054401963/photo/menueditor_item_f5b13232ef2a43d2874230a64fb68577_1765181116861733408.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808054401963/detail/menueditor_item_f5b13232ef2a43d2874230a64fb68577_1765181116861733408.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808044740996",
+                        "name": "Sesame Oil Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 840,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808044740996/photo/menueditor_item_65b736bc7d604d109bbd2a21bfae6268_1765181037420705123.avif",
+                        "discountedPriceInMin": 840,
+                        "priceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-13T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808044740996/photo/menueditor_item_65b736bc7d604d109bbd2a21bfae6268_1765181037420705123.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808044740996/detail/menueditor_item_65b736bc7d604d109bbd2a21bfae6268_1765181037420705123.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808213245819",
+                        "name": "Pork Patty w Salted Fish",
+                        "priceInMinorUnit": 840,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808213245819/photo/menueditor_item_b742c8fc58bd4f6ca4fb6853e4ac14e6_1765182012029923677.avif",
+                        "discountedPriceInMin": 840,
+                        "priceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-29T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808213245819/photo/menueditor_item_b742c8fc58bd4f6ca4fb6853e4ac14e6_1765182012029923677.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808213245819/detail/menueditor_item_b742c8fc58bd4f6ca4fb6853e4ac14e6_1765182012029923677.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808114270836",
+                        "name": "Braised Chicken Feet",
+                        "priceInMinorUnit": 560,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808114270836/photo/menueditor_item_4235bd25d6b44a79a8f9e9ab72ba3fcd_1765181477873243712.avif",
+                        "discountedPriceInMin": 560,
+                        "priceV2": {
+                            "amountInMinor": 560,
+                            "amountDisplay": "5.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 560,
+                            "amountDisplay": "5.60"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-04T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808114270836/photo/menueditor_item_4235bd25d6b44a79a8f9e9ab72ba3fcd_1765181477873243712.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808114270836/detail/menueditor_item_4235bd25d6b44a79a8f9e9ab72ba3fcd_1765181477873243712.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808105345832",
+                        "name": "Pork Trotter w Vinegar Sauce",
+                        "priceInMinorUnit": 1092,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808105345832/photo/menueditor_item_82a13ef201ed41a38eb35d94211c8863_1765181407574589005.avif",
+                        "discountedPriceInMin": 1092,
+                        "priceV2": {
+                            "amountInMinor": 1092,
+                            "amountDisplay": "10.92"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1092,
+                            "amountDisplay": "10.92"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808105345832/photo/menueditor_item_82a13ef201ed41a38eb35d94211c8863_1765181407574589005.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808105345832/detail/menueditor_item_82a13ef201ed41a38eb35d94211c8863_1765181407574589005.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808033383499",
+                        "name": "Ginger and Wine Chicken",
+                        "priceInMinorUnit": 840,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808033383499/photo/menueditor_item_7eca52104ee54c4d9a1fa3b517c32570_1765180974570369996.avif",
+                        "discountedPriceInMin": 840,
+                        "priceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"hitLabels\":[\"alcohol\",\"alcohol\"],\"hitPolicies\":[\"Contains prohibited content\",\"Contains prohibited content\"],\"againstFields\":{\"textFields\":[\"Name\"],\"imageFields\":[\"Photos\"]},\"streamStatus\":\"FAILED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\"]}}},\"keep_unavailable_until\":\"2026-07-04T00:00:00+08:00\"}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808033383499/photo/menueditor_item_7eca52104ee54c4d9a1fa3b517c32570_1765180974570369996.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808033383499/detail/menueditor_item_7eca52104ee54c4d9a1fa3b517c32570_1765180974570369996.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20251208083306011746",
+                "name": "Rice/Sides",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025120808223651607",
+                        "name": "Plain Rice",
+                        "available": true,
+                        "priceInMinorUnit": 150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808223651607/photo/menueditor_item_b501452bbf81430e8a2a991c760f46b0_1765182127576802440.avif",
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808223651607/photo/menueditor_item_b501452bbf81430e8a2a991c760f46b0_1765182127576802440.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808223651607/detail/menueditor_item_b501452bbf81430e8a2a991c760f46b0_1765182127576802440.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808231758616",
+                        "name": "Scallion Oil Rice",
+                        "priceInMinorUnit": 210,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808231758616/photo/menueditor_item_74e67d2e4dbc4f908b53c76dd5c88420_1765182166899971657.avif",
+                        "discountedPriceInMin": 210,
+                        "priceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808231758616/photo/menueditor_item_74e67d2e4dbc4f908b53c76dd5c88420_1765182166899971657.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808231758616/detail/menueditor_item_74e67d2e4dbc4f908b53c76dd5c88420_1765182166899971657.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808191717639",
+                        "name": "Braised Egg (1 pcs)",
+                        "priceInMinorUnit": 150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808191717639/photo/menueditor_item_f92f8135c2b040bca8dfd63f98007602_1765181933701074122.avif",
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-20T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808191717639/photo/menueditor_item_f92f8135c2b040bca8dfd63f98007602_1765181933701074122.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808191717639/detail/menueditor_item_f92f8135c2b040bca8dfd63f98007602_1765181933701074122.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808183209759",
+                        "name": "Braised Tofu",
+                        "priceInMinorUnit": 150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808183209759/photo/menueditor_item_0fa3c3b38cf34d60a85d075a85d89332_1765181872060264602.avif",
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808183209759/photo/menueditor_item_0fa3c3b38cf34d60a85d075a85d89332_1765181872060264602.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808183209759/detail/menueditor_item_0fa3c3b38cf34d60a85d075a85d89332_1765181872060264602.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808172547763",
+                        "name": "You Tiao",
+                        "priceInMinorUnit": 210,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808172547763/photo/menueditor_item_5b8d9d6e33b042cd9cfd2b75ad7fa768_1765181815621865481.avif",
+                        "discountedPriceInMin": 210,
+                        "priceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808172547763/photo/menueditor_item_5b8d9d6e33b042cd9cfd2b75ad7fa768_1765181815621865481.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808172547763/detail/menueditor_item_5b8d9d6e33b042cd9cfd2b75ad7fa768_1765181815621865481.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20251208083307026237",
+                "name": "Vegetable",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025120808133794673",
+                        "name": "Lettuce w Scallion Oil",
+                        "available": true,
+                        "priceInMinorUnit": 840,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808133794673/photo/menueditor_item_2c15be2e8cc04552a1bdec458f420e1d_1765181592193644837.avif",
+                        "discountedPriceInMin": 840,
+                        "priceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808133794673/photo/menueditor_item_2c15be2e8cc04552a1bdec458f420e1d_1765181592193644837.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808133794673/detail/menueditor_item_2c15be2e8cc04552a1bdec458f420e1d_1765181592193644837.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808124967413",
+                        "name": "Bok Choy w Scallion Oil",
+                        "available": true,
+                        "priceInMinorUnit": 840,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808124967413/photo/menueditor_item_2064a069fd784cc5a17667160ae6e7e8_1765181527688203859.avif",
+                        "discountedPriceInMin": 840,
+                        "priceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 840,
+                            "amountDisplay": "8.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808124967413/photo/menueditor_item_2064a069fd784cc5a17667160ae6e7e8_1765181527688203859.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808124967413/detail/menueditor_item_2064a069fd784cc5a17667160ae6e7e8_1765181527688203859.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808195633543",
+                        "name": "Teo Chew Salted Vege",
+                        "priceInMinorUnit": 210,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808195633543/photo/menueditor_item_7ce97bccfb454775a60ac32a98ee0bb3_1765181972874541450.avif",
+                        "discountedPriceInMin": 210,
+                        "priceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 210,
+                            "amountDisplay": "2.10"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-06-20T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808195633543/photo/menueditor_item_7ce97bccfb454775a60ac32a98ee0bb3_1765181972874541450.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808195633543/detail/menueditor_item_7ce97bccfb454775a60ac32a98ee0bb3_1765181972874541450.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20251208083307031247",
+                "name": "Noodles",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025120808163823652",
+                        "name": "Scallion Oil Noodle w Minced Pork",
+                        "priceInMinorUnit": 630,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808163823652/photo/menueditor_item_deba9b00ccd54e4f849afc36a20a54d8_1765181765702468560.avif",
+                        "discountedPriceInMin": 630,
+                        "priceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 630,
+                            "amountDisplay": "6.30"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-05-13T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808163823652/photo/menueditor_item_deba9b00ccd54e4f849afc36a20a54d8_1765181765702468560.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808163823652/detail/menueditor_item_deba9b00ccd54e4f849afc36a20a54d8_1765181765702468560.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808070932517",
+                        "name": "Pork Trotter Noodle",
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808070932517/photo/menueditor_item_352350a60b2441cb8981aa0a839e77f8_1765181188118879070.avif",
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-05-13T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808070932517/photo/menueditor_item_352350a60b2441cb8981aa0a839e77f8_1765181188118879070.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808070932517/detail/menueditor_item_352350a60b2441cb8981aa0a839e77f8_1765181188118879070.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20251208083307047560",
+                "name": "Fish",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025120808094151120",
+                        "name": "Steamed Fish w Black Bean Sauce",
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808094151120/photo/menueditor_item_e11bae291756495ba31ccdfc82de5e26_1765181349752640249.avif",
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-08T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808094151120/photo/menueditor_item_e11bae291756495ba31ccdfc82de5e26_1765181349752640249.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808094151120/detail/menueditor_item_e11bae291756495ba31ccdfc82de5e26_1765181349752640249.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025120808083030611",
+                        "name": "HK Style Steamed Fish",
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808083030611/photo/menueditor_item_879db61f7c894d548dc76bedabb7b23c_1765181296246144831.avif",
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-08T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808083030611/photo/menueditor_item_879db61f7c894d548dc76bedabb7b23c_1765181296246144831.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120808083030611/detail/menueditor_item_879db61f7c894d548dc76bedabb7b23c_1765181296246144831.avif"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.1,
+    "voteCount": 56,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1200,
+        "thresholdForDisplay": {
+            "amountInMinor": 1200,
+            "amountDisplay": "S$12.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$12.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$12.00, a small order fee of the difference between your order value & S$12.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Man Kou Xiang Herbal Bak Kut Teh - East Link Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7EDEJVKLKBFC2"
+    },
+    "chainName": "Man Kou Xiang Herbal Bak Kut Teh",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C7EDEJVKLKBFC2/list/24d857b8-c8e2-4c30-911e-daf0fdcaee4f__listing_photo__2026__01__03__10__30__35.avif",
+    "branchName": "East Link Mall",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "type": "CLOSED"
+    },
+    "translationTags": [
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

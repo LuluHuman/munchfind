@@ -1,0 +1,2467 @@
+{
+    "ID": "4-C7JGTA2FJUJJKE",
+    "name": "llaollao - Tampines 1",
+    "cuisine": "European,Yoghurt,Dessert,Ice Cream",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7JGTA2FJUJJKE/hero/62c7c595f020455496e2c087363b2842_1750737333193561229.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:30am-8:30pm",
+        "mon": "11:30am-8:30pm",
+        "tue": "11:30am-8:30pm",
+        "wed": "11:30am-8:30pm",
+        "thu": "11:30am-8:30pm",
+        "fri": "11:30am-8:30pm",
+        "sat": "11:30am-8:30pm",
+        "tempClosed": true
+    },
+    "address": {
+        "name": "llaollao - Tampines 1",
+        "combined_address": "10, Tampines Central 1, #02-K2, Tampines, 529536",
+        "combined_city": "Singapore",
+        "house": "#02-K2",
+        "street": "10, Tampines Central 1",
+        "suburb": "Tampines",
+        "postcode": "529536",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.354212,
+        "lng": 103.9450352
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20250624032533027903",
+                "name": "Ice Cream & Dessert",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026080916252059927",
+                        "name": "Single llaobox",
+                        "available": true,
+                        "priceInMinorUnit": 2500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026080916252059927/photo/menueditor_item_0791c835ef8740dca1043329e925539f_1786292761344583175.webp",
+                        "description": "Comes with 3 Toppings (Select any 3 toppings from fruits, sauces and crunches)",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250624032531017577",
+                                "name": "Choose any 3 toppings (Crunch, Sauce & Fruit)",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 3,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250624032531036861",
+                                        "name": "Almond Brittle",
+                                        "available": true,
+                                        "sortOrder": 29,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아몬드 브리틀",
+                                                    "zh": "杏仁脆片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531040426",
+                                        "name": "Chips Ahoy",
+                                        "available": true,
+                                        "sortOrder": 28,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "칩스 아호이",
+                                                    "zh": "Chips Ahoy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531060914",
+                                        "name": "Caramelised biscuit",
+                                        "available": true,
+                                        "sortOrder": 26,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "카라멜라이즈드 비스킷",
+                                                    "zh": "焦糖饼干"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531078042",
+                                        "name": "Lacasitos",
+                                        "available": true,
+                                        "sortOrder": 25,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라카시토스",
+                                                    "zh": "Lacasitos"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531090474",
+                                        "name": "Muesli (No Sugar)",
+                                        "available": true,
+                                        "sortOrder": 23,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "뮤즐리 (무설탕)",
+                                                    "zh": "无糖麦片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531104232",
+                                        "name": "Oreo Crushed Cookies",
+                                        "available": true,
+                                        "sortOrder": 22,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "오레오 크러쉬 쿠키",
+                                                    "zh": "奥利奥碎饼干"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531115116",
+                                        "name": "Dark Chocolate Sauce",
+                                        "available": true,
+                                        "sortOrder": 21,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다크 초콜릿 소스",
+                                                    "zh": "黑巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531122638",
+                                        "name": "Wafernut noir sauce",
+                                        "available": true,
+                                        "sortOrder": 20,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웨이퍼넛 누아르 소스",
+                                                    "zh": "巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531135189",
+                                        "name": "Mixed berry sauce",
+                                        "available": true,
+                                        "sortOrder": 19,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "혼합 베리 소스",
+                                                    "zh": "混合莓果酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531143834",
+                                        "name": "Caramelised biscuit sauce",
+                                        "available": true,
+                                        "sortOrder": 18,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "카라멜 비스킷 소스",
+                                                    "zh": "焦糖饼干酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531154009",
+                                        "name": "Nocciola sauce",
+                                        "available": true,
+                                        "sortOrder": 17,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노치올라 소스",
+                                                    "zh": "榛子酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531169887",
+                                        "name": "Pistachio Sauce",
+                                        "available": true,
+                                        "sortOrder": 16,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "피스타치오 소스",
+                                                    "zh": "开心果酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531176510",
+                                        "name": "Wild Strawberry Sauce",
+                                        "available": true,
+                                        "sortOrder": 15,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "야생 딸기 소스",
+                                                    "zh": "野草莓酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531188084",
+                                        "name": "White Chocolate Sauce",
+                                        "available": true,
+                                        "sortOrder": 14,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 초콜릿 소스",
+                                                    "zh": "白巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531222108",
+                                        "name": "Grapes",
+                                        "available": true,
+                                        "sortOrder": 10,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "포도",
+                                                    "zh": "葡萄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531239083",
+                                        "name": "Melon",
+                                        "available": true,
+                                        "sortOrder": 9,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멜론",
+                                                    "zh": "甜瓜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531245684",
+                                        "name": "Pineapple",
+                                        "available": true,
+                                        "sortOrder": 8,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "파인애플",
+                                                    "zh": "菠萝"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531258151",
+                                        "name": "Watermelon",
+                                        "available": true,
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수박",
+                                                    "zh": "西瓜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809162909026131",
+                                        "name": "Madagascar bites",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마다가스카르 한입 크기",
+                                                    "zh": "马达加斯加小食"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809162909032318",
+                                        "name": "Raspberry Cookie Crumble",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라즈베리 쿠키 크럼블",
+                                                    "zh": "覆盆子曲奇碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531051301",
+                                        "name": "Dried Cranberries",
+                                        "sortOrder": 27,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조 크랜베리",
+                                                    "zh": "干蔓越莓"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531089049",
+                                        "name": "Mini Chips Ahoy",
+                                        "sortOrder": 24,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 칩스 아호이",
+                                                    "zh": "迷你巧克力曲奇"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531193282",
+                                        "name": "White chocolate, coconut & wafer sauce",
+                                        "sortOrder": 13,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 초콜릿, 코코넛 & 웨이퍼 소스",
+                                                    "zh": "白巧克力、椰子和威化酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531203557",
+                                        "name": "White Dragon Fruit",
+                                        "sortOrder": 12,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 드래곤 프루트",
+                                                    "zh": "白火龙果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531219732",
+                                        "name": "Red Dragon Fruit",
+                                        "sortOrder": 11,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레드 드래곤 프루트",
+                                                    "zh": "红龙果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026143412016740",
+                                        "name": "Mango",
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "망고",
+                                                    "zh": "芒果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026143412023869",
+                                        "name": "Kiwi",
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "키위",
+                                                    "zh": "奇异果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026143412030827",
+                                        "name": "Pomelo",
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "자몽",
+                                                    "zh": "柚子"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809162909018385",
+                                        "name": "Crunchy Pearls",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크런치 펄",
+                                                    "zh": "脆珍珠"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "토핑 3개 선택 (크런치, 소스 & 과일)",
+                                            "zh": "选择任意3种配料（脆片、酱料和水果）"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250624032532012471",
+                                "name": "Llaobox Additional Toppings",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250624032532035739",
+                                        "name": "Almond Brittle",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 29,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아몬드 브리틀",
+                                                    "zh": "杏仁脆片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532043796",
+                                        "name": "Chips Ahoy",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 28,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "칩스 아호이",
+                                                    "zh": "Chips Ahoy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532068566",
+                                        "name": "Caramelised biscuit",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 26,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "카라멜라이즈드 비스킷",
+                                                    "zh": "焦糖饼干"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532074217",
+                                        "name": "Lacasitos",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 25,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라카시토스",
+                                                    "zh": "Lacasitos"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532093559",
+                                        "name": "Muesli (No Sugar)",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 23,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "뮤즐리 (무설탕)",
+                                                    "zh": "无糖麦片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532101396",
+                                        "name": "Oreo Crushed Cookies",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 22,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "오레오 크러쉬 쿠키",
+                                                    "zh": "奥利奥碎饼干"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532110208",
+                                        "name": "Dark Chocolate Sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 21,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다크 초콜릿 소스",
+                                                    "zh": "黑巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532129273",
+                                        "name": "Wafernut noir sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 20,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웨이퍼넛 누아르 소스",
+                                                    "zh": "巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532133549",
+                                        "name": "Mixed berry sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 19,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "혼합 베리 소스",
+                                                    "zh": "混合莓果酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532142861",
+                                        "name": "Caramelised biscuit sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 18,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "카라멜 비스킷 소스",
+                                                    "zh": "焦糖饼干酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532159505",
+                                        "name": "Nocciola sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 17,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노치올라 소스",
+                                                    "zh": "榛子酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532167013",
+                                        "name": "Pistachio Sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 16,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "피스타치오 소스",
+                                                    "zh": "开心果酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532174412",
+                                        "name": "Wild Strawberry Sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 15,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "야생 딸기 소스",
+                                                    "zh": "野草莓酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532182479",
+                                        "name": "White Chocolate Sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 14,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 초콜릿 소스",
+                                                    "zh": "白巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532220637",
+                                        "name": "Grapes",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 10,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "포도",
+                                                    "zh": "葡萄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532232814",
+                                        "name": "Melon",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멜론",
+                                                    "zh": "甜瓜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532248102",
+                                        "name": "Pineapple",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "파인애플",
+                                                    "zh": "菠萝"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532250823",
+                                        "name": "Watermelon",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수박",
+                                                    "zh": "西瓜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809163021018250",
+                                        "name": "Raspberry Cookie Crumble",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라즈베리 쿠키 크럼블",
+                                                    "zh": "覆盆子曲奇碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809163021029491",
+                                        "name": "Madagascar bites",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마다가스카르 한입 크기",
+                                                    "zh": "马达加斯加小食"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532051391",
+                                        "name": "Dried Cranberries",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 27,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조 크랜베리",
+                                                    "zh": "干蔓越莓"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532080969",
+                                        "name": "Mini Chips Ahoy",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 24,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 칩스 아호이",
+                                                    "zh": "迷你巧克力曲奇"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532191555",
+                                        "name": "White chocolate, coconut & wafer sauce",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 13,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 초콜릿, 코코넛 & 웨이퍼 소스",
+                                                    "zh": "白巧克力、椰子和威化酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532202383",
+                                        "name": "White Dragon Fruit",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 12,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 드래곤 프루트",
+                                                    "zh": "白火龙果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532217297",
+                                        "name": "Red Dragon Fruit",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 11,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레드 드래곤 프루트",
+                                                    "zh": "红龙果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026142524018716",
+                                        "name": "Mango",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "망고",
+                                                    "zh": "芒果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026142524028598",
+                                        "name": "Kiwi",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "키위",
+                                                    "zh": "奇异果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026142524039856",
+                                        "name": "Pomelo",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "자몽",
+                                                    "zh": "柚子"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809163021034702",
+                                        "name": "Crunchy Pearls",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크런치 펄",
+                                                    "zh": "脆珍珠"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "Llaobox 추가 토핑",
+                                            "zh": "Llaobox额外配料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250624032530025883",
+                                "name": "Add On",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250624032530052208",
+                                        "name": "LLAOLLAO SPOON",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "LLAOLLAO 스푼",
+                                                    "zh": "LLAOLLAO 勺子"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032530066334",
+                                        "name": "PAPER BAG",
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "종이봉투",
+                                                    "zh": "纸袋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2500,
+                        "priceV2": {
+                            "amountInMinor": 2500,
+                            "amountDisplay": "25.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2500,
+                            "amountDisplay": "25.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026080916252059927/photo/menueditor_item_0791c835ef8740dca1043329e925539f_1786292761344583175.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026080916252059927/detail/menueditor_item_0791c835ef8740dca1043329e925539f_1786292761344583175.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026080916273723259",
+                        "name": "Double llaobox",
+                        "available": true,
+                        "priceInMinorUnit": 3990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026080916273723259/photo/menueditor_item_0b39f1ff94e542008e44774cd1dfd186_1786292814170645971.webp",
+                        "description": "Comes with 5 toppings (choose any 5 from crunches, sauces and fruits)",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250624032531027390",
+                                "name": "Choose any 5 toppings (Crunch, Sauce & Fruit)",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 5,
+                                "selectionRangeMax": 5,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250624032531285558",
+                                        "name": "Almond Brittle",
+                                        "available": true,
+                                        "sortOrder": 29,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아몬드 브리틀",
+                                                    "zh": "杏仁脆片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531291869",
+                                        "name": "Chips Ahoy",
+                                        "available": true,
+                                        "sortOrder": 28,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "칩스 아호이",
+                                                    "zh": "Chips Ahoy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531317050",
+                                        "name": "Caramelised biscuit",
+                                        "available": true,
+                                        "sortOrder": 26,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "카라멜라이즈드 비스킷",
+                                                    "zh": "焦糖饼干"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531321203",
+                                        "name": "Lacasitos",
+                                        "available": true,
+                                        "sortOrder": 25,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라카시토스",
+                                                    "zh": "Lacasitos"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531345930",
+                                        "name": "Muesli (No Sugar)",
+                                        "available": true,
+                                        "sortOrder": 23,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "뮤즐리 (무설탕)",
+                                                    "zh": "无糖麦片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531350766",
+                                        "name": "Oreo Crushed Cookies",
+                                        "available": true,
+                                        "sortOrder": 22,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "오레오 크러쉬 쿠키",
+                                                    "zh": "奥利奥碎饼干"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531368647",
+                                        "name": "Dark Chocolate Sauce",
+                                        "available": true,
+                                        "sortOrder": 21,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다크 초콜릿 소스",
+                                                    "zh": "黑巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531377221",
+                                        "name": "Wafernut noir sauce",
+                                        "available": true,
+                                        "sortOrder": 20,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웨이퍼넛 누아르 소스",
+                                                    "zh": "巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531384514",
+                                        "name": "Mixed berry sauce",
+                                        "available": true,
+                                        "sortOrder": 19,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "혼합 베리 소스",
+                                                    "zh": "混合莓果酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531399013",
+                                        "name": "Caramelised biscuit sauce",
+                                        "available": true,
+                                        "sortOrder": 18,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "카라멜 비스킷 소스",
+                                                    "zh": "焦糖饼干酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531404201",
+                                        "name": "Nocciola sauce",
+                                        "available": true,
+                                        "sortOrder": 17,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노치올라 소스",
+                                                    "zh": "榛子酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531412322",
+                                        "name": "Pistachio Sauce",
+                                        "available": true,
+                                        "sortOrder": 16,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "피스타치오 소스",
+                                                    "zh": "开心果酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531423424",
+                                        "name": "Wild Strawberry Sauce",
+                                        "available": true,
+                                        "sortOrder": 15,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "야생 딸기 소스",
+                                                    "zh": "野草莓酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531436696",
+                                        "name": "White Chocolate Sauce",
+                                        "available": true,
+                                        "sortOrder": 14,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 초콜릿 소스",
+                                                    "zh": "白巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531477074",
+                                        "name": "Grapes",
+                                        "available": true,
+                                        "sortOrder": 10,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "포도",
+                                                    "zh": "葡萄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531481493",
+                                        "name": "Melon",
+                                        "available": true,
+                                        "sortOrder": 9,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멜론",
+                                                    "zh": "甜瓜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531495258",
+                                        "name": "Pineapple",
+                                        "available": true,
+                                        "sortOrder": 8,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "파인애플",
+                                                    "zh": "菠萝"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531506162",
+                                        "name": "Watermelon",
+                                        "available": true,
+                                        "sortOrder": 7,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수박",
+                                                    "zh": "西瓜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809162945024459",
+                                        "name": "Madagascar bites",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마다가스카르 한입 크기",
+                                                    "zh": "马达加斯加小食"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809162945037782",
+                                        "name": "Raspberry Cookie Crumble",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라즈베리 쿠키 크럼블",
+                                                    "zh": "覆盆子曲奇碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531305967",
+                                        "name": "Dried Cranberries",
+                                        "sortOrder": 27,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조 크랜베리",
+                                                    "zh": "干蔓越莓"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531338648",
+                                        "name": "Mini Chips Ahoy",
+                                        "sortOrder": 24,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 칩스 아호이",
+                                                    "zh": "迷你巧克力曲奇"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531440027",
+                                        "name": "White chocolate, coconut & wafer sauce",
+                                        "sortOrder": 13,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 초콜릿, 코코넛 & 웨이퍼 소스",
+                                                    "zh": "白巧克力、椰子和威化酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531454188",
+                                        "name": "White Dragon Fruit",
+                                        "sortOrder": 12,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 드래곤 프루트",
+                                                    "zh": "白火龙果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032531460901",
+                                        "name": "Red Dragon Fruit",
+                                        "sortOrder": 11,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레드 드래곤 프루트",
+                                                    "zh": "红龙果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026143206018217",
+                                        "name": "Mango",
+                                        "sortOrder": 6,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "망고",
+                                                    "zh": "芒果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026143206023726",
+                                        "name": "Kiwi",
+                                        "sortOrder": 5,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "키위",
+                                                    "zh": "奇异果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026143206035343",
+                                        "name": "Pomelo",
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "자몽",
+                                                    "zh": "柚子"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809162945015071",
+                                        "name": "Crunchy Pearls",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크런치 펄",
+                                                    "zh": "脆珍珠"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "토핑 5개 선택 (크런치, 소스 & 과일)",
+                                            "zh": "选择任意5种配料（脆片、酱料和水果）"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250624032532012471",
+                                "name": "Llaobox Additional Toppings",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250624032532035739",
+                                        "name": "Almond Brittle",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 29,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "아몬드 브리틀",
+                                                    "zh": "杏仁脆片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532043796",
+                                        "name": "Chips Ahoy",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 28,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "칩스 아호이",
+                                                    "zh": "Chips Ahoy"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532068566",
+                                        "name": "Caramelised biscuit",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 26,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "카라멜라이즈드 비스킷",
+                                                    "zh": "焦糖饼干"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532074217",
+                                        "name": "Lacasitos",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 25,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라카시토스",
+                                                    "zh": "Lacasitos"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532093559",
+                                        "name": "Muesli (No Sugar)",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 23,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "뮤즐리 (무설탕)",
+                                                    "zh": "无糖麦片"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532101396",
+                                        "name": "Oreo Crushed Cookies",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 22,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "오레오 크러쉬 쿠키",
+                                                    "zh": "奥利奥碎饼干"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532110208",
+                                        "name": "Dark Chocolate Sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 21,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다크 초콜릿 소스",
+                                                    "zh": "黑巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532129273",
+                                        "name": "Wafernut noir sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 20,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웨이퍼넛 누아르 소스",
+                                                    "zh": "巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532133549",
+                                        "name": "Mixed berry sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 19,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "혼합 베리 소스",
+                                                    "zh": "混合莓果酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532142861",
+                                        "name": "Caramelised biscuit sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 18,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "카라멜 비스킷 소스",
+                                                    "zh": "焦糖饼干酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532159505",
+                                        "name": "Nocciola sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 17,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "노치올라 소스",
+                                                    "zh": "榛子酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532167013",
+                                        "name": "Pistachio Sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 16,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "피스타치오 소스",
+                                                    "zh": "开心果酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532174412",
+                                        "name": "Wild Strawberry Sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 15,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "야생 딸기 소스",
+                                                    "zh": "野草莓酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532182479",
+                                        "name": "White Chocolate Sauce",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 14,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 초콜릿 소스",
+                                                    "zh": "白巧克力酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532220637",
+                                        "name": "Grapes",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 10,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "포도",
+                                                    "zh": "葡萄"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532232814",
+                                        "name": "Melon",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "멜론",
+                                                    "zh": "甜瓜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532248102",
+                                        "name": "Pineapple",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 8,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "파인애플",
+                                                    "zh": "菠萝"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532250823",
+                                        "name": "Watermelon",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 7,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "수박",
+                                                    "zh": "西瓜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809163021018250",
+                                        "name": "Raspberry Cookie Crumble",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라즈베리 쿠키 크럼블",
+                                                    "zh": "覆盆子曲奇碎"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809163021029491",
+                                        "name": "Madagascar bites",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "마다가스카르 한입 크기",
+                                                    "zh": "马达加斯加小食"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532051391",
+                                        "name": "Dried Cranberries",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 27,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "건조 크랜베리",
+                                                    "zh": "干蔓越莓"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532080969",
+                                        "name": "Mini Chips Ahoy",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 24,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미니 칩스 아호이",
+                                                    "zh": "迷你巧克力曲奇"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532191555",
+                                        "name": "White chocolate, coconut & wafer sauce",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 13,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 초콜릿, 코코넛 & 웨이퍼 소스",
+                                                    "zh": "白巧克力、椰子和威化酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532202383",
+                                        "name": "White Dragon Fruit",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 12,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "화이트 드래곤 프루트",
+                                                    "zh": "白火龙果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032532217297",
+                                        "name": "Red Dragon Fruit",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 11,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레드 드래곤 프루트",
+                                                    "zh": "红龙果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026142524018716",
+                                        "name": "Mango",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 6,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "망고",
+                                                    "zh": "芒果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026142524028598",
+                                        "name": "Kiwi",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "키위",
+                                                    "zh": "奇异果"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20251026142524039856",
+                                        "name": "Pomelo",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "자몽",
+                                                    "zh": "柚子"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260809163021034702",
+                                        "name": "Crunchy Pearls",
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "크런치 펄",
+                                                    "zh": "脆珍珠"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "Llaobox 추가 토핑",
+                                            "zh": "Llaobox额外配料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250624032530025883",
+                                "name": "Add On",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250624032530052208",
+                                        "name": "LLAOLLAO SPOON",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "LLAOLLAO 스푼",
+                                                    "zh": "LLAOLLAO 勺子"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20250624032530066334",
+                                        "name": "PAPER BAG",
+                                        "priceInMinorUnit": 100,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 100,
+                                            "amountDisplay": "1.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "종이봉투",
+                                                    "zh": "纸袋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加料"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3990,
+                        "priceV2": {
+                            "amountInMinor": 3990,
+                            "amountDisplay": "39.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3990,
+                            "amountDisplay": "39.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026080916273723259/photo/menueditor_item_0b39f1ff94e542008e44774cd1dfd186_1786292814170645971.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2026080916273723259/detail/menueditor_item_0b39f1ff94e542008e44774cd1dfd186_1786292814170645971.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.8,
+    "voteCount": 6,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1200,
+        "thresholdForDisplay": {
+            "amountInMinor": 1200,
+            "amountDisplay": "S$12.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$12.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$12.00, a small order fee of the difference between your order value & S$12.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C7JGTA2FJUJJKE/photos/62c7c595f020455496e2c087363b2842_1750737333193561229.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out llaollao - Tampines 1 on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7JGTA2FJUJJKE"
+    },
+    "chainName": "Llao Llao",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7JGTA2FJUJJKE/list/3701cc7e5284466e83ed53990de09f69_1750737328614391158.webp",
+    "roofTopBanner": {
+        "title": "Closed",
+        "type": "CLOSED"
+    },
+    "translationTags": [
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

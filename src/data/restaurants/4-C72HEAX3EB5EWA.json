@@ -1,0 +1,2588 @@
+{
+    "ID": "4-C72HEAX3EB5EWA",
+    "name": "Cat & the Fiddle - Tampines 1",
+    "cuisine": "Western,Cake,Pastry",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C72HEAX3EB5EWA/hero/92ecbbd0-a040-4e74-87b8-1c2b1de03fac__store_cover__2026__07__07__03__21__57.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:00am-9:30pm",
+        "mon": "11:00am-9:30pm",
+        "tue": "11:00am-9:30pm",
+        "wed": "11:00am-9:30pm",
+        "thu": "11:00am-9:30pm",
+        "fri": "11:00am-9:30pm",
+        "sat": "11:00am-9:30pm"
+    },
+    "address": {
+        "name": "Cat & the Fiddle - Tampines 1",
+        "combined_address": "10 Tampines Central 1, #01-41/42, 529536",
+        "combined_city": "Singapore",
+        "street": "10 Tampines Central 1, #01-41/42, 529536",
+        "postcode": "529536",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3543864,
+        "lng": 103.9448187
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT2026021303015712179",
+                "name": "Seasonal Promotions",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026070114185038884",
+                        "name": "Mao Shan Wang Durian Mooncake Set",
+                        "available": true,
+                        "priceInMinorUnit": 8290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026070114185038884/photo/menueditor_item_f799105a03114b3eacb8206d16b7fcaa_1786517004600585715.avif",
+                        "description": "A Mid-Autumn favourite for durian lovers, CAT’s Mao Shan Wang Durian Snowskin Mooncake brings together pillowy snowskin and the creamy richness of premium MSW durian for a treat that is bold, fragrant, and irresistibly indulgent.\n*Comes with six 70g mooncakes, and a $10 return voucher.",
+                        "discountedPriceInMin": 8290,
+                        "priceV2": {
+                            "amountInMinor": 8290,
+                            "amountDisplay": "82.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 8290,
+                            "amountDisplay": "82.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026070114185038884/photo/menueditor_item_f799105a03114b3eacb8206d16b7fcaa_1786517004600585715.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026070114185038884/detail/menueditor_item_f799105a03114b3eacb8206d16b7fcaa_1786517004600585715.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026070114155944627",
+                        "name": "Ice Kacang Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026070114155944627/photo/menueditor_item_849168ba33a24367865491229e806c4a_1782915334904969578.avif",
+                        "description": "A Singapore-inspired cheesecake featuring luscious gula melaka cheese mousse with red beans, pandan jelly cubes, sweet corn jelly, and a soft rose-infused sponge centre. Finished with smooth red bean topping and red-and-white Chantilly cream for a nostalgic local treat.",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026070114155944627/photo/menueditor_item_849168ba33a24367865491229e806c4a_1782915334904969578.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026070114155944627/detail/menueditor_item_849168ba33a24367865491229e806c4a_1782915334904969578.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026041609490001771",
+                        "name": "Strawberry Cookies & Cream Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026041609490001771/photo/menueditor_item_191ebaacf1304d8cb0641c70d47d29e0_1777865975070760028.avif",
+                        "description": "Our Strawberry Cookies & Cream Cheesecake brings together the comforting richness of strawberry-infused cream cheese and the familiar crunch of Oreo chocolate biscuit. \n\n*Our Strawberry Cookies & Cream Cheesecake is Halal-Certified",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026041609490001771/photo/menueditor_item_191ebaacf1304d8cb0641c70d47d29e0_1777865975070760028.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026041609490001771/detail/menueditor_item_191ebaacf1304d8cb0641c70d47d29e0_1777865975070760028.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021303234914483",
+                        "name": "The Basque-Wich Duo",
+                        "available": true,
+                        "priceInMinorUnit": 3500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021303234914483/photo/menueditor_item_fc5616c303034397bece60e7460c6aa1_1777946034344977283.avif",
+                        "description": "Your perfect pick-me-up consisting of your choice of sandwich and to end off on a sweet note - your choice of our freshly baked basque cheesecake.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026021303292136420",
+                                "name": "Basque-Wich Duo - Choice of Basque Cheesecake",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260213032921024190",
+                                        "name": "Original Basque Cheesecake",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "오리지널 바스크 치즈케이크",
+                                                    "zh": "原味巴斯克芝士蛋糕"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260213032921034665",
+                                        "name": "Matcha Basque Cheesecake",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "말차 바스크 치즈케이크",
+                                                    "zh": "抹茶巴斯克芝士蛋糕"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260213032921046218",
+                                        "name": "Matcha Strawberry Basque Cheesecake",
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "말차 딸기 바스크 치즈케이크",
+                                                    "zh": "抹茶草莓巴斯克芝士蛋糕"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "바스크-위치 듀오 - 바스크 치즈케이크 선택",
+                                            "zh": "巴斯克三明治双拼 - 可选巴斯克芝士蛋糕"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG2026021303243063094",
+                                "name": "Basque-Wich Duo - Choice of Sandwich",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260213032430017152",
+                                        "name": "Beef Pastrami",
+                                        "available": true,
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "비프 파스트라미",
+                                                    "zh": "牛肉帕斯特拉米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260213032430029459",
+                                        "name": "Honey Baked Chicken Ham",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "꿀로 구운 치킨 햄",
+                                                    "zh": "蜂蜜烤鸡火腿"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260520072650016815",
+                                        "name": "Smoked Salmon",
+                                        "available": true,
+                                        "priceInMinorUnit": 200,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 200,
+                                            "amountDisplay": "2.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "훈제 연어",
+                                                    "zh": "熏三文鱼"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "바스크-위치 듀오 - 샌드위치 선택",
+                                            "zh": "巴斯克三明治双拼 - 自选三明治口味"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3500,
+                        "priceV2": {
+                            "amountInMinor": 3500,
+                            "amountDisplay": "35.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3500,
+                            "amountDisplay": "35.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021303234914483/photo/menueditor_item_fc5616c303034397bece60e7460c6aa1_1777946034344977283.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021303234914483/detail/menueditor_item_fc5616c303034397bece60e7460c6aa1_1777946034344977283.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021303443897303",
+                        "name": "Basque Cheesecake + Cookie Set",
+                        "available": true,
+                        "priceInMinorUnit": 3000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021303443897303/photo/menueditor_item_1baa39f41a7348c9b7de539da7e6bbea_1770954107447889413.avif",
+                        "description": "A Valentine's Day Special - Enjoy the creamy goodness of our Freshly Baked Basque Cheesecake, along with our GIANT Dark Chocolate Sea Salt Cookie - a perfect match made in heaven for you and your lover.",
+                        "discountedPriceInMin": 3000,
+                        "priceV2": {
+                            "amountInMinor": 3000,
+                            "amountDisplay": "30.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3000,
+                            "amountDisplay": "30.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021303443897303/photo/menueditor_item_1baa39f41a7348c9b7de539da7e6bbea_1770954107447889413.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021303443897303/detail/menueditor_item_1baa39f41a7348c9b7de539da7e6bbea_1770954107447889413.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026021214450844718",
+                "name": "Freshly Baked",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026021214474008696",
+                        "name": "Basque Cheesecake - Original",
+                        "available": true,
+                        "priceInMinorUnit": 2590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214474008696/photo/menueditor_item_5fff8ff98b1d4b2fb4c742595e737120_1770907642023281650.avif",
+                        "description": "Enjoy the rich, creamy goodness of our Freshly Baked Basque Cheesecake — perfectly caramelised on the outside and luxuriously soft at the centre. Each cheesecake is baked fresh upon order, so you can savour it warm and at its best!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026081206383165346",
+                                "name": "Basque Valrhona Chocolate Filling",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 5,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260812063831026507",
+                                        "name": "Matcha Valrhona",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "말차 발루로나",
+                                                    "zh": "抹茶法芙娜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260812063831015032",
+                                        "name": "Strawberry Valrhona",
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "딸기 발루로나",
+                                                    "zh": "草莓法芙娜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260812063831039855",
+                                        "name": "Dark Chocolate Valrhona",
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다크 초콜릿 Valrhona",
+                                                    "zh": "法芙娜黑巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260812063831044036",
+                                        "name": "Raspberry Valrhona",
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라즈베리 발루로나",
+                                                    "zh": "树莓法芙娜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260812063831054294",
+                                        "name": "Yuzu Valrhona",
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "유자 발루로나",
+                                                    "zh": "柚子法芙娜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "바스크 발루로나 초콜릿 필링",
+                                            "zh": "巴斯克法芙娜巧克力夹心"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2590,
+                        "priceV2": {
+                            "amountInMinor": 2590,
+                            "amountDisplay": "25.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2590,
+                            "amountDisplay": "25.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214474008696/photo/menueditor_item_5fff8ff98b1d4b2fb4c742595e737120_1770907642023281650.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214474008696/detail/menueditor_item_5fff8ff98b1d4b2fb4c742595e737120_1770907642023281650.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081206295410832",
+                        "name": "Basque Cheesecake - Matcha",
+                        "available": true,
+                        "priceInMinorUnit": 2790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026081206295410832/photo/menueditor_item_fd664d34c6784615a776a1682f0d8df5_1786516383788795610.avif",
+                        "description": "Enjoy the rich, creamy goodness of our Freshly Baked Basque Cheesecake with an earthy twist — perfectly caramelised on the outside and luxuriously soft at the centre. Each cheesecake is baked fresh upon order, so you can savour it warm and at its best!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2026081206383165346",
+                                "name": "Basque Valrhona Chocolate Filling",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 5,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260812063831026507",
+                                        "name": "Matcha Valrhona",
+                                        "available": true,
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 4,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "말차 발루로나",
+                                                    "zh": "抹茶法芙娜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260812063831015032",
+                                        "name": "Strawberry Valrhona",
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 5,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "딸기 발루로나",
+                                                    "zh": "草莓法芙娜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260812063831039855",
+                                        "name": "Dark Chocolate Valrhona",
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "다크 초콜릿 Valrhona",
+                                                    "zh": "法芙娜黑巧克力"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260812063831044036",
+                                        "name": "Raspberry Valrhona",
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "라즈베리 발루로나",
+                                                    "zh": "树莓法芙娜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    },
+                                    {
+                                        "ID": "SGMOD20260812063831054294",
+                                        "name": "Yuzu Valrhona",
+                                        "priceInMinorUnit": 500,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 500,
+                                            "amountDisplay": "5.00"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "유자 발루로나",
+                                                    "zh": "柚子法芙娜"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 5
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "바스크 발루로나 초콜릿 필링",
+                                            "zh": "巴斯克法芙娜巧克力夹心"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2790,
+                        "priceV2": {
+                            "amountInMinor": 2790,
+                            "amountDisplay": "27.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2790,
+                            "amountDisplay": "27.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026081206295410832/photo/menueditor_item_fd664d34c6784615a776a1682f0d8df5_1786516383788795610.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026081206295410832/detail/menueditor_item_fd664d34c6784615a776a1682f0d8df5_1786516383788795610.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026081207291383522",
+                        "name": "Cookies & Cream Basque Cheesecake",
+                        "available": true,
+                        "priceInMinorUnit": 3090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026081207291383522/photo/menueditor_item_2a26b88a25a04c079b507839b6263c05_1786519736809912823.avif",
+                        "description": "Enjoy the rich, creamy goodness of our Freshly Baked Basque Cheesecake with a cookie twist — perfectly caramelised on the outside and luxuriously soft at the centre. Each cheesecake is baked fresh upon order, so you can savour it warm and at its best!",
+                        "discountedPriceInMin": 3090,
+                        "priceV2": {
+                            "amountInMinor": 3090,
+                            "amountDisplay": "30.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3090,
+                            "amountDisplay": "30.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026081207291383522/photo/menueditor_item_2a26b88a25a04c079b507839b6263c05_1786519736809912823.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026081207291383522/detail/menueditor_item_2a26b88a25a04c079b507839b6263c05_1786519736809912823.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021302123241615",
+                        "name": "Dark Chocolate Sea Salt Cookie",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302123241615/photo/menueditor_item_a664cb51f5ac489585fcb548e17c4760_1770948692116043463.avif",
+                        "description": "Giant Dark Chocolate Sea Salt Cookie with Cream Cheese Filling.",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302123241615/photo/menueditor_item_a664cb51f5ac489585fcb548e17c4760_1770948692116043463.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302123241615/detail/menueditor_item_a664cb51f5ac489585fcb548e17c4760_1770948692116043463.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026021223250944865",
+                "name": "Whole Cheesecakes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026021223425903701",
+                        "name": "Milo Dinosaur Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 5590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223425903701/photo/menueditor_item_5efd5b2687ce4de9a686390adf1e52d8_1770950412423526504.avif",
+                        "description": "Creamy cheesecake loaded with milo powder topped with another decadent heap of milo powder.\n*Delivered frozen",
+                        "discountedPriceInMin": 5590,
+                        "priceV2": {
+                            "amountInMinor": 5590,
+                            "amountDisplay": "55.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5590,
+                            "amountDisplay": "55.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223425903701/photo/menueditor_item_5efd5b2687ce4de9a686390adf1e52d8_1770950412423526504.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223425903701/detail/menueditor_item_5efd5b2687ce4de9a686390adf1e52d8_1770950412423526504.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223421626173",
+                        "name": "Tangy Yuzu Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 6590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223421626173/photo/menueditor_item_d016defcc65046b0977080d48b76858a_1770950424125677227.avif",
+                        "description": "Tangy and refreshing yuzu cheesecake invigorated with mandarin, orange, and lemon.\n*Delivered frozen",
+                        "discountedPriceInMin": 6590,
+                        "priceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223421626173/photo/menueditor_item_d016defcc65046b0977080d48b76858a_1770950424125677227.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223421626173/detail/menueditor_item_d016defcc65046b0977080d48b76858a_1770950424125677227.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223413259932",
+                        "name": "Mango Passionfruit Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 6290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223413259932/photo/menueditor_item_d87e894782bd409981d4908cdda7173f_1770939672981455192.avif",
+                        "description": "Delivered frozen. Please thaw before consumption. Additional details can be found on the packaging.",
+                        "discountedPriceInMin": 6290,
+                        "priceV2": {
+                            "amountInMinor": 6290,
+                            "amountDisplay": "62.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6290,
+                            "amountDisplay": "62.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223413259932/photo/menueditor_item_d87e894782bd409981d4908cdda7173f_1770939672981455192.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223413259932/detail/menueditor_item_d87e894782bd409981d4908cdda7173f_1770939672981455192.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223404764284",
+                        "name": "Blissful Blueberry Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 5990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223404764284/photo/menueditor_item_bab4ffbcf824402db2aec941732116c4_1770950443297863655.avif",
+                        "description": "Blueberry cheesecake with luscious Canadian blueberries.\n*Delivered frozen",
+                        "discountedPriceInMin": 5990,
+                        "priceV2": {
+                            "amountInMinor": 5990,
+                            "amountDisplay": "59.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5990,
+                            "amountDisplay": "59.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223404764284/photo/menueditor_item_bab4ffbcf824402db2aec941732116c4_1770950443297863655.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223404764284/detail/menueditor_item_bab4ffbcf824402db2aec941732116c4_1770950443297863655.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223400626205",
+                        "name": "Lychee Rose Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 6290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223400626205/photo/menueditor_item_31fbb0f560754b16a49b5249d58b190e_1770950461780159874.avif",
+                        "description": "classic. lychee raspberry rose\n*Delivered frozen",
+                        "discountedPriceInMin": 6290,
+                        "priceV2": {
+                            "amountInMinor": 6290,
+                            "amountDisplay": "62.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6290,
+                            "amountDisplay": "62.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223400626205/photo/menueditor_item_31fbb0f560754b16a49b5249d58b190e_1770950461780159874.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223400626205/detail/menueditor_item_31fbb0f560754b16a49b5249d58b190e_1770950461780159874.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223391951718",
+                        "name": "Devil's Chocolate Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 5590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223391951718/photo/menueditor_item_8269cec862bb4cdd9d6546aee0835719_1770950515662992966.avif",
+                        "description": "classic. chocolate\n*Delivered frozen",
+                        "discountedPriceInMin": 5590,
+                        "priceV2": {
+                            "amountInMinor": 5590,
+                            "amountDisplay": "55.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5590,
+                            "amountDisplay": "55.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223391951718/photo/menueditor_item_8269cec862bb4cdd9d6546aee0835719_1770950515662992966.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223391951718/detail/menueditor_item_8269cec862bb4cdd9d6546aee0835719_1770950515662992966.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223375147933",
+                        "name": "Apple Crumble Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 5990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223375147933/photo/menueditor_item_5e0a1784672143bc9b57136a77bd3d76_1770950546561052432.avif",
+                        "description": "Refreshing and fragrant apple crumble cheesecake invigorated with cinnamon, and lemon.\n*Delivered frozen",
+                        "discountedPriceInMin": 5990,
+                        "priceV2": {
+                            "amountInMinor": 5990,
+                            "amountDisplay": "59.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5990,
+                            "amountDisplay": "59.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223375147933/photo/menueditor_item_5e0a1784672143bc9b57136a77bd3d76_1770950546561052432.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223375147933/detail/menueditor_item_5e0a1784672143bc9b57136a77bd3d76_1770950546561052432.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223370488885",
+                        "name": "Red Velvet Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 5990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223370488885/photo/menueditor_item_121d6a7f4c824d6eb2f338ba144ceac6_1770950558480104148.avif",
+                        "description": "classic. red velvet.\n*Delivered frozen",
+                        "discountedPriceInMin": 5990,
+                        "priceV2": {
+                            "amountInMinor": 5990,
+                            "amountDisplay": "59.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5990,
+                            "amountDisplay": "59.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223370488885/photo/menueditor_item_121d6a7f4c824d6eb2f338ba144ceac6_1770950558480104148.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223370488885/detail/menueditor_item_121d6a7f4c824d6eb2f338ba144ceac6_1770950558480104148.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223362114234",
+                        "name": "Toasty Burnt Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 6290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223362114234/photo/menueditor_item_1d95c932859d4b5fa1c96d7d1798617d_1770950569604569022.avif",
+                        "description": "classic. burnt cheesecake\n*Delivered frozen",
+                        "discountedPriceInMin": 6290,
+                        "priceV2": {
+                            "amountInMinor": 6290,
+                            "amountDisplay": "62.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6290,
+                            "amountDisplay": "62.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223362114234/photo/menueditor_item_1d95c932859d4b5fa1c96d7d1798617d_1770950569604569022.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223362114234/detail/menueditor_item_1d95c932859d4b5fa1c96d7d1798617d_1770950569604569022.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223345993259",
+                        "name": "Tiramisu Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 5990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223345993259/photo/menueditor_item_6fba590f615f4eb4be82aea7cb782eb9_1770950598537241075.avif",
+                        "description": "local delights. Tiramisu cheesecake\n*Delivered frozen",
+                        "discountedPriceInMin": 5990,
+                        "priceV2": {
+                            "amountInMinor": 5990,
+                            "amountDisplay": "59.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5990,
+                            "amountDisplay": "59.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223345993259/photo/menueditor_item_6fba590f615f4eb4be82aea7cb782eb9_1770950598537241075.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223345993259/detail/menueditor_item_6fba590f615f4eb4be82aea7cb782eb9_1770950598537241075.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223341591432",
+                        "name": "Pistachio Raspberry Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 6590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223341591432/photo/menueditor_item_568be2d2e95b43369146665a4e143380_1770950611234108359.avif",
+                        "description": "Pistachio Raspberry Cheesecake\n*Delivered frozen",
+                        "discountedPriceInMin": 6590,
+                        "priceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223341591432/photo/menueditor_item_568be2d2e95b43369146665a4e143380_1770950611234108359.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223341591432/detail/menueditor_item_568be2d2e95b43369146665a4e143380_1770950611234108359.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223333303732",
+                        "name": "Hazelnut Chocolate Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 6590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223333303732/photo/menueditor_item_6995c2e5b67f4901b0f5ce45a54b7e6f_1770950628633021709.avif",
+                        "description": "*Delivered frozen\n\nThis ultimate cheesecake masterpiece starts with a heavenly Sacher Sponge base, providing a delicate and light foundation.",
+                        "discountedPriceInMin": 6590,
+                        "priceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223333303732/photo/menueditor_item_6995c2e5b67f4901b0f5ce45a54b7e6f_1770950628633021709.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223333303732/detail/menueditor_item_6995c2e5b67f4901b0f5ce45a54b7e6f_1770950628633021709.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223323882940",
+                        "name": "Salted Caramel Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 5590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223323882940/photo/menueditor_item_f0910ad6141644079295e4114800f940_1770950640787376170.avif",
+                        "description": "A toffee sweet and salty perfection of salted caramel cheesecake on an oreo biscuit crust.\n*Delivered frozen",
+                        "discountedPriceInMin": 5590,
+                        "priceV2": {
+                            "amountInMinor": 5590,
+                            "amountDisplay": "55.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5590,
+                            "amountDisplay": "55.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223323882940/photo/menueditor_item_f0910ad6141644079295e4114800f940_1770950640787376170.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223323882940/detail/menueditor_item_f0910ad6141644079295e4114800f940_1770950640787376170.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223311646490",
+                        "name": "Dark Chocolate Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 6590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223311646490/photo/menueditor_item_715bc4de400c477385d309efedf09aaf_1770950657192578587.avif",
+                        "description": "Dark Chocolate\n*Delivered frozen",
+                        "discountedPriceInMin": 6590,
+                        "priceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223311646490/photo/menueditor_item_715bc4de400c477385d309efedf09aaf_1770950657192578587.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223311646490/detail/menueditor_item_715bc4de400c477385d309efedf09aaf_1770950657192578587.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223301250275",
+                        "name": "Classic New York Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 5290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223301250275/photo/menueditor_item_62b68215b34d401d8c2f015076503734_1770950668787877314.avif",
+                        "description": "Classic New York continental cheesecake with rich cream cheese and vanilla beans.\n*Delivered frozen",
+                        "discountedPriceInMin": 5290,
+                        "priceV2": {
+                            "amountInMinor": 5290,
+                            "amountDisplay": "52.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5290,
+                            "amountDisplay": "52.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223301250275/photo/menueditor_item_62b68215b34d401d8c2f015076503734_1770950668787877314.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223301250275/detail/menueditor_item_62b68215b34d401d8c2f015076503734_1770950668787877314.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223292918410",
+                        "name": "OREO® Cookies & Cream Cheesecake (Whole)",
+                        "available": true,
+                        "priceInMinorUnit": 5590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223292918410/photo/menueditor_item_6086002ebae949af9bfc976579e8ee87_1770950680017747129.avif",
+                        "description": "Smooth and creamy cheesecake with crunchy bits of oreo cookie crumble.\n*Delivered frozen",
+                        "discountedPriceInMin": 5590,
+                        "priceV2": {
+                            "amountInMinor": 5590,
+                            "amountDisplay": "55.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5590,
+                            "amountDisplay": "55.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223292918410/photo/menueditor_item_6086002ebae949af9bfc976579e8ee87_1770950680017747129.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223292918410/detail/menueditor_item_6086002ebae949af9bfc976579e8ee87_1770950680017747129.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223434598762",
+                        "name": "Mao Shan Wang Durian Cheesecake (Whole)",
+                        "priceInMinorUnit": 6590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223434598762/photo/menueditor_item_edbd09515dcb43c980741dffae966fe9_1770950399625319485.avif",
+                        "description": "Creamy mao shan wang durian brings the cheesecake.\n*Delivered frozen",
+                        "discountedPriceInMin": 6590,
+                        "priceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223434598762/photo/menueditor_item_edbd09515dcb43c980741dffae966fe9_1770950399625319485.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223434598762/detail/menueditor_item_edbd09515dcb43c980741dffae966fe9_1770950399625319485.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223384199532",
+                        "name": "Strawberry Cheesecake (Whole)",
+                        "priceInMinorUnit": 5590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223384199532/photo/menueditor_item_99fd814f50814297bb844d02fdc901de_1770950530562931825.avif",
+                        "description": "Strawberry cheesecake swirled with sweet, and velvety strawberries.\n*Delivered frozen",
+                        "discountedPriceInMin": 5590,
+                        "priceV2": {
+                            "amountInMinor": 5590,
+                            "amountDisplay": "55.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5590,
+                            "amountDisplay": "55.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223384199532/photo/menueditor_item_99fd814f50814297bb844d02fdc901de_1770950530562931825.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223384199532/detail/menueditor_item_99fd814f50814297bb844d02fdc901de_1770950530562931825.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021223354656260",
+                        "name": "Triple Fromage Cheesecake (Whole)",
+                        "priceInMinorUnit": 5990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223354656260/photo/menueditor_item_18f1008bef864f009f9c2adce18edc83_1770950585574080752.avif",
+                        "description": "classic. triple fromage\n*Delivered frozen",
+                        "discountedPriceInMin": 5990,
+                        "priceV2": {
+                            "amountInMinor": 5990,
+                            "amountDisplay": "59.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 5990,
+                            "amountDisplay": "59.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223354656260/photo/menueditor_item_18f1008bef864f009f9c2adce18edc83_1770950585574080752.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021223354656260/detail/menueditor_item_18f1008bef864f009f9c2adce18edc83_1770950585574080752.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026021302445258732",
+                "name": "Petite Cheesecakes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026021302475960086",
+                        "name": "Classic New York Cheesecake (Petite)",
+                        "available": true,
+                        "priceInMinorUnit": 4090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302475960086/photo/menueditor_item_51ab1efe233c4accbfcd0e7d913b723e_1770950831230832619.avif",
+                        "description": "Classic New York continental cheesecake with rich cream cheese and vanilla beans.\n*Delivered frozen",
+                        "discountedPriceInMin": 4090,
+                        "priceV2": {
+                            "amountInMinor": 4090,
+                            "amountDisplay": "40.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4090,
+                            "amountDisplay": "40.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302475960086/photo/menueditor_item_51ab1efe233c4accbfcd0e7d913b723e_1770950831230832619.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302475960086/detail/menueditor_item_51ab1efe233c4accbfcd0e7d913b723e_1770950831230832619.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021302483392337",
+                        "name": "OREO® Cookies & Cream Cheesecake (Petite)",
+                        "available": true,
+                        "priceInMinorUnit": 4090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302483392337/photo/menueditor_item_bc919ba8ce6c44e9b9192e2f00ea12ae_1770950902024188108.avif",
+                        "description": "Smooth and creamy cheesecake with crunchy bits of oreo cookie crumble.\n*Delivered frozen",
+                        "discountedPriceInMin": 4090,
+                        "priceV2": {
+                            "amountInMinor": 4090,
+                            "amountDisplay": "40.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4090,
+                            "amountDisplay": "40.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302483392337/photo/menueditor_item_bc919ba8ce6c44e9b9192e2f00ea12ae_1770950902024188108.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302483392337/detail/menueditor_item_bc919ba8ce6c44e9b9192e2f00ea12ae_1770950902024188108.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021302491555687",
+                        "name": "Strawberry Cheesecake (Petite)",
+                        "available": true,
+                        "priceInMinorUnit": 4090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302491555687/photo/menueditor_item_f69ac12bef574d2db2c98b420a4b8e35_1770950940457059056.avif",
+                        "description": "Strawberry cheesecake swirled with sweet, and velvety strawberries.\n*Delivered frozen",
+                        "discountedPriceInMin": 4090,
+                        "priceV2": {
+                            "amountInMinor": 4090,
+                            "amountDisplay": "40.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4090,
+                            "amountDisplay": "40.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302491555687/photo/menueditor_item_f69ac12bef574d2db2c98b420a4b8e35_1770950940457059056.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302491555687/detail/menueditor_item_f69ac12bef574d2db2c98b420a4b8e35_1770950940457059056.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021302515235399",
+                        "name": "Tiramisu Cheesecake (Petite)",
+                        "priceInMinorUnit": 4290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302515235399/photo/menueditor_item_744c8c9651f0493fbd61a35ec5a38bfc_1770951109472213799.avif",
+                        "description": "local delights. Tiramisu cheesecake\n*Delivered frozen",
+                        "discountedPriceInMin": 4290,
+                        "priceV2": {
+                            "amountInMinor": 4290,
+                            "amountDisplay": "42.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4290,
+                            "amountDisplay": "42.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-05-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302515235399/photo/menueditor_item_744c8c9651f0493fbd61a35ec5a38bfc_1770951109472213799.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021302515235399/detail/menueditor_item_744c8c9651f0493fbd61a35ec5a38bfc_1770951109472213799.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026021300161329622",
+                "name": "Sliced Cakes",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026070114213216110",
+                        "name": "Ice Kacang Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026070114213216110/photo/menueditor_item_71b8721b82c74a69b9d17ff58ebfd080_1782915674247121421.avif",
+                        "description": "A Singapore-inspired cheesecake featuring luscious gula melaka cheese mousse with red beans, pandan jelly cubes, sweet corn jelly, and a soft rose-infused sponge centre. Finished with smooth red bean topping and red-and-white Chantilly cream for a nostalgic local treat.",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026070114213216110/photo/menueditor_item_71b8721b82c74a69b9d17ff58ebfd080_1782915674247121421.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026070114213216110/detail/menueditor_item_71b8721b82c74a69b9d17ff58ebfd080_1782915674247121421.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026041609425015151",
+                        "name": "Strawberry Cookies & Cream Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026041609425015151/photo/menueditor_item_a04d5725251e4ec4bc5a34f152301c9e_1777866018164847255.avif",
+                        "description": "Our Strawberry Cookies & Cream Cheesecake brings together the comforting richness of strawberry-infused cream cheese and the familiar crunch of Oreo chocolate biscuit. \n\n*Our Strawberry Cookies & Cream Cheesecake is Halal-Certified",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026041609425015151/photo/menueditor_item_a04d5725251e4ec4bc5a34f152301c9e_1777866018164847255.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026041609425015151/detail/menueditor_item_a04d5725251e4ec4bc5a34f152301c9e_1777866018164847255.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023819035773",
+                        "name": "Mao Shan Wang Durian (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819035773/photo/menueditor_item_d94b8f785f1c477383fbb9786695df08_1770970617796688250.avif",
+                        "description": "Creamy mao shan wang durian brings the cheesecake.\n*Delivered frozen",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819035773/photo/menueditor_item_d94b8f785f1c477383fbb9786695df08_1770970617796688250.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819035773/detail/menueditor_item_d94b8f785f1c477383fbb9786695df08_1770970617796688250.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023819045463",
+                        "name": "Milo Dinosaur Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819045463/photo/menueditor_item_7f9ccc2c65f04b96a717ddbb9c661762_1770970630470888815.avif",
+                        "description": "Local Delights. Milo dinosaur (slice). \n\nDelivered Frozen.",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819045463/photo/menueditor_item_7f9ccc2c65f04b96a717ddbb9c661762_1770970630470888815.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819045463/detail/menueditor_item_7f9ccc2c65f04b96a717ddbb9c661762_1770970630470888815.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023820017295",
+                        "name": "Tangy Yuzu Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820017295/photo/menueditor_item_8b9641f890d0485c845411f7d7f2ceb0_1770970645156800620.avif",
+                        "description": "local delights. yuzu\n*Delivered frozen",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820017295/photo/menueditor_item_8b9641f890d0485c845411f7d7f2ceb0_1770970645156800620.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820017295/detail/menueditor_item_8b9641f890d0485c845411f7d7f2ceb0_1770970645156800620.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023820029739",
+                        "name": "Mango Passionfruit Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820029739/photo/menueditor_item_6f050965f76a457892f62397b4f9cdc5_1770970659719062650.avif",
+                        "description": "Delivered frozen. Please thaw before consumption. Additional details can be found on the packaging.",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820029739/photo/menueditor_item_6f050965f76a457892f62397b4f9cdc5_1770970659719062650.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820029739/detail/menueditor_item_6f050965f76a457892f62397b4f9cdc5_1770970659719062650.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023820030712",
+                        "name": "Blissful Blueberry Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820030712/photo/menueditor_item_4a8d084e96714057ae840df4922e64f2_1770970671593714601.avif",
+                        "description": "Blueberry cheesecake with luscious Canadian blueberries.\n*Delivered frozen",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820030712/photo/menueditor_item_4a8d084e96714057ae840df4922e64f2_1770970671593714601.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820030712/detail/menueditor_item_4a8d084e96714057ae840df4922e64f2_1770970671593714601.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023820049216",
+                        "name": "Lychee Rose Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820049216/photo/menueditor_item_4b388ae8e7ab4192905e0adf9d0e494e_1770970684375866323.avif",
+                        "description": "classic. lychee raspberry rose\n*Delivered frozen",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820049216/photo/menueditor_item_4b388ae8e7ab4192905e0adf9d0e494e_1770970684375866323.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820049216/detail/menueditor_item_4b388ae8e7ab4192905e0adf9d0e494e_1770970684375866323.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023820059158",
+                        "name": "Devil’s Chocolate Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820059158/photo/menueditor_item_20e6b6b5421c4e6a8f76a9e5cfe4dff8_1770970698493682923.avif",
+                        "description": "A devilishly decadent chocolate cheesecake with premium couverture chocolate.\n*Delivered frozen",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820059158/photo/menueditor_item_20e6b6b5421c4e6a8f76a9e5cfe4dff8_1770970698493682923.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820059158/detail/menueditor_item_20e6b6b5421c4e6a8f76a9e5cfe4dff8_1770970698493682923.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023820060739",
+                        "name": "Sweet Strawberry Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820060739/photo/menueditor_item_558c066a077f47d9bc75506ed90687cc_1770970711492165503.avif",
+                        "description": "Strawberry cheesecake swirled with sweet, and velvety strawberries.\n*Delivered frozen",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820060739/photo/menueditor_item_558c066a077f47d9bc75506ed90687cc_1770970711492165503.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023820060739/detail/menueditor_item_558c066a077f47d9bc75506ed90687cc_1770970711492165503.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023821013155",
+                        "name": "Apple Crumble Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821013155/photo/menueditor_item_8e35be5525314594a86928319fd8806a_1770970725523632454.avif",
+                        "description": "Refreshing and fragrant apple crumble cheesecake invigorated with cinnamon, and lemon.\n*Delivered frozen",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821013155/photo/menueditor_item_8e35be5525314594a86928319fd8806a_1770970725523632454.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821013155/detail/menueditor_item_8e35be5525314594a86928319fd8806a_1770970725523632454.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023821022177",
+                        "name": "Red Velvet Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821022177/photo/menueditor_item_01f42eca7e68400f8c8ea26eb37b1a75_1770970737666098795.avif",
+                        "description": "Decadent Red Velvet with rich cocoa and buttermilk.\n*Delivered frozen",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821022177/photo/menueditor_item_01f42eca7e68400f8c8ea26eb37b1a75_1770970737666098795.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821022177/detail/menueditor_item_01f42eca7e68400f8c8ea26eb37b1a75_1770970737666098795.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023821035445",
+                        "name": "Toasty Burnt Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821035445/photo/menueditor_item_2261497d756e4401b0063c1b95ef2365_1770970749813475194.avif",
+                        "description": "classic. burnt cheesecake*Delivered frozen",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821035445/photo/menueditor_item_2261497d756e4401b0063c1b95ef2365_1770970749813475194.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821035445/detail/menueditor_item_2261497d756e4401b0063c1b95ef2365_1770970749813475194.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023821047180",
+                        "name": "Triple Fromage Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821047180/photo/menueditor_item_3b1a28d1e3d84b76901f6e359a5846aa_1770970765765958128.avif",
+                        "description": "classic. triple fromage\n*Delivered frozen",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821047180/photo/menueditor_item_3b1a28d1e3d84b76901f6e359a5846aa_1770970765765958128.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821047180/detail/menueditor_item_3b1a28d1e3d84b76901f6e359a5846aa_1770970765765958128.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023821050430",
+                        "name": "Tiramisu Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821050430/photo/menueditor_item_c04739a363a046ba96c314fb84f7d6a9_1770970777644810564.avif",
+                        "description": "local delights. tiramisu.\n*Delivered frozen",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821050430/photo/menueditor_item_c04739a363a046ba96c314fb84f7d6a9_1770970777644810564.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821050430/detail/menueditor_item_c04739a363a046ba96c314fb84f7d6a9_1770970777644810564.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023821066351",
+                        "name": "Pistachio Raspberry Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821066351/photo/menueditor_item_b828be42baf6405282a7717b989075a8_1770970789561330445.avif",
+                        "description": "Pistachio Raspberry Cheesecake\n*Delivered frozen",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821066351/photo/menueditor_item_b828be42baf6405282a7717b989075a8_1770970789561330445.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821066351/detail/menueditor_item_b828be42baf6405282a7717b989075a8_1770970789561330445.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023821074519",
+                        "name": "Hazelnut Chocolate Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821074519/photo/menueditor_item_db853439fa3748a6987ac4f2c6fc625a_1770970805483262834.avif",
+                        "description": "*Delivered frozen\n\nThis ultimate cheesecake masterpiece starts with a heavenly Sacher Sponge base, providing a delicate and light foundation.",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821074519/photo/menueditor_item_db853439fa3748a6987ac4f2c6fc625a_1770970805483262834.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023821074519/detail/menueditor_item_db853439fa3748a6987ac4f2c6fc625a_1770970805483262834.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023822015647",
+                        "name": "Salted Caramel Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822015647/photo/menueditor_item_09b4cb8e66224de7899aec854dc72540_1770970816084801190.avif",
+                        "description": "A toffee sweet and salty perfection of salted caramel cheesecake on an oreo biscuit crust.\n*Delivered frozen",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822015647/photo/menueditor_item_09b4cb8e66224de7899aec854dc72540_1770970816084801190.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822015647/detail/menueditor_item_09b4cb8e66224de7899aec854dc72540_1770970816084801190.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023822029312",
+                        "name": "Dark Chocolate Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822029312/photo/menueditor_item_5b76ae0c0e354957adb77a343949ee23_1770970829162895503.avif",
+                        "description": "Dark Chocolate\n*Delivered frozen",
+                        "discountedPriceInMin": 890,
+                        "priceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 890,
+                            "amountDisplay": "8.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822029312/photo/menueditor_item_5b76ae0c0e354957adb77a343949ee23_1770970829162895503.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822029312/detail/menueditor_item_5b76ae0c0e354957adb77a343949ee23_1770970829162895503.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023822033247",
+                        "name": "Classic New York Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822033247/photo/menueditor_item_aed5922e45364ee197d8e467adddcd0f_1770970843049439545.avif",
+                        "description": "Classic New York continental cheesecake with rich cream cheese and vanilla beans.\n*Delivered frozen",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822033247/photo/menueditor_item_aed5922e45364ee197d8e467adddcd0f_1770970843049439545.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822033247/detail/menueditor_item_aed5922e45364ee197d8e467adddcd0f_1770970843049439545.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023822045476",
+                        "name": "OREO® Cookies & Cream Cheesecake (Slice)",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822045476/photo/menueditor_item_b447338007f347e6b90a8f3627fdcda8_1770970854546195731.avif",
+                        "description": "Smooth and creamy cheesecake with crunchy bits of oreo cookie crumble.\n*Delivered frozen",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822045476/photo/menueditor_item_b447338007f347e6b90a8f3627fdcda8_1770970854546195731.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023822045476/detail/menueditor_item_b447338007f347e6b90a8f3627fdcda8_1770970854546195731.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026021301445636590",
+                "name": "Eclairs",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026021301452073736",
+                        "name": "Strawberry Eclair",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301452073736/photo/menueditor_item_3542da6deb9a4d20a4936aaf69d5d031_1770948390509427194.avif",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301452073736/photo/menueditor_item_3542da6deb9a4d20a4936aaf69d5d031_1770948390509427194.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301452073736/detail/menueditor_item_3542da6deb9a4d20a4936aaf69d5d031_1770948390509427194.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021301454642625",
+                        "name": "Mango Passionfruit Eclair",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301454642625/photo/menueditor_item_2f16610fbdc14636ad84f77531e4120d_1770948403845660493.avif",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301454642625/photo/menueditor_item_2f16610fbdc14636ad84f77531e4120d_1770948403845660493.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301454642625/detail/menueditor_item_2f16610fbdc14636ad84f77531e4120d_1770948403845660493.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021301462086181",
+                        "name": "Eclairs Set (5-pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 3050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301462086181/photo/menueditor_item_85ce8dbba33f48f9a4afed8055503ffb_1770948415160251722.avif",
+                        "description": "(Set of eclairs: Including Dark Chocolate Eclair, Mango Passionfruit Eclair, Strawberry Eclair, Tiramisu Eclair, Pistachio Eclair)",
+                        "discountedPriceInMin": 3050,
+                        "priceV2": {
+                            "amountInMinor": 3050,
+                            "amountDisplay": "30.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3050,
+                            "amountDisplay": "30.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301462086181/photo/menueditor_item_85ce8dbba33f48f9a4afed8055503ffb_1770948415160251722.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301462086181/detail/menueditor_item_85ce8dbba33f48f9a4afed8055503ffb_1770948415160251722.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021301463926148",
+                        "name": "Pistachio Eclair",
+                        "available": true,
+                        "priceInMinorUnit": 790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301463926148/photo/menueditor_item_aaeff2cfc2704d6e9089e38fe7e3a204_1770948426151524167.avif",
+                        "discountedPriceInMin": 790,
+                        "priceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 790,
+                            "amountDisplay": "7.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301463926148/photo/menueditor_item_aaeff2cfc2704d6e9089e38fe7e3a204_1770948426151524167.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301463926148/detail/menueditor_item_aaeff2cfc2704d6e9089e38fe7e3a204_1770948426151524167.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021301465927544",
+                        "name": "Tiramisu Eclair",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301465927544/photo/menueditor_item_f960ab26fbb349629a83f1b82f18a38e_1770948442644213200.avif",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301465927544/photo/menueditor_item_f960ab26fbb349629a83f1b82f18a38e_1770948442644213200.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301465927544/detail/menueditor_item_f960ab26fbb349629a83f1b82f18a38e_1770948442644213200.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021301471605789",
+                        "name": "Dark Chocolate Eclair",
+                        "available": true,
+                        "priceInMinorUnit": 690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301471605789/photo/menueditor_item_8c13a677e06942ddafcff3327a77389c_1770948452174419460.avif",
+                        "discountedPriceInMin": 690,
+                        "priceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 690,
+                            "amountDisplay": "6.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301471605789/photo/menueditor_item_8c13a677e06942ddafcff3327a77389c_1770948452174419460.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301471605789/detail/menueditor_item_8c13a677e06942ddafcff3327a77389c_1770948452174419460.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026021301482155834",
+                "name": "Macarons",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026021301485823387",
+                        "name": "Macaron Feline 1.0",
+                        "available": true,
+                        "priceInMinorUnit": 2000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301485823387/photo/menueditor_item_d4a74d9d558b4a92af249857fe555bf5_1770947840862964996.avif",
+                        "description": "Try all 6 flavours today: Lychee Rose, Tiramisu, Blueberry, Caramel, Pistachio, Chocolate",
+                        "discountedPriceInMin": 2000,
+                        "priceV2": {
+                            "amountInMinor": 2000,
+                            "amountDisplay": "20.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2000,
+                            "amountDisplay": "20.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301485823387/photo/menueditor_item_d4a74d9d558b4a92af249857fe555bf5_1770947840862964996.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301485823387/detail/menueditor_item_d4a74d9d558b4a92af249857fe555bf5_1770947840862964996.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021301491517379",
+                        "name": "Macaron Feline 2.0",
+                        "available": true,
+                        "priceInMinorUnit": 2000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301491517379/photo/menueditor_item_67110aedfc1b43fab152bce5de569a35_1770947867818138487.avif",
+                        "description": "6 assorted flavours: Strawberry Cookies & Cream, Strawberry Lychee, Earl Grey Lavender, Tiramisu, Pistachio and Chocolate",
+                        "discountedPriceInMin": 2000,
+                        "priceV2": {
+                            "amountInMinor": 2000,
+                            "amountDisplay": "20.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2000,
+                            "amountDisplay": "20.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301491517379/photo/menueditor_item_67110aedfc1b43fab152bce5de569a35_1770947867818138487.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301491517379/detail/menueditor_item_67110aedfc1b43fab152bce5de569a35_1770947867818138487.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021301493257840",
+                        "name": "Macaron Feline 3.0",
+                        "priceInMinorUnit": 2000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301493257840/photo/menueditor_item_7185c48528674856a3bb4a3b2d9a6f79_1770947882558729892.avif",
+                        "description": "6 Assorted Flavours: Milk Tea, Lychee Rose, Tiramisu, Black Sesame, Pandan Coconut, Gula Melaka",
+                        "discountedPriceInMin": 2000,
+                        "priceV2": {
+                            "amountInMinor": 2000,
+                            "amountDisplay": "20.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2000,
+                            "amountDisplay": "20.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-dataservice\",\"againstFields\":{},\"streamStatus\":\"PROCESSING\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_drug_ar\"]}}},\"keep_unavailable_until\":\"2026-06-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301493257840/photo/menueditor_item_7185c48528674856a3bb4a3b2d9a6f79_1770947882558729892.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021301493257840/detail/menueditor_item_7185c48528674856a3bb4a3b2d9a6f79_1770947882558729892.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026021214475550422",
+                "name": "The Artisanal Italiano Sandwiches",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026021214500290591",
+                        "name": "Honey Baked Chicken Ham Sandwich",
+                        "available": true,
+                        "priceInMinorUnit": 1690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214500290591/photo/menueditor_item_7a69f4de4c334f03b835ed75b69732c8_1770907781244574447.avif",
+                        "description": "Allergens: Gluten, Dairy, Egg, Treenut, Soy",
+                        "discountedPriceInMin": 1690,
+                        "priceV2": {
+                            "amountInMinor": 1690,
+                            "amountDisplay": "16.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1690,
+                            "amountDisplay": "16.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214500290591/photo/menueditor_item_7a69f4de4c334f03b835ed75b69732c8_1770907781244574447.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214500290591/detail/menueditor_item_7a69f4de4c334f03b835ed75b69732c8_1770907781244574447.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021214502558501",
+                        "name": "Beef Pastrami Sandwich",
+                        "available": true,
+                        "priceInMinorUnit": 1990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214502558501/photo/menueditor_item_7ce3e4c8e4bf4f02a34986b3fcc4080d_1770907810594084626.avif",
+                        "description": "Allergens: Gluten, Dairy, Egg, Treenut, Soy",
+                        "discountedPriceInMin": 1990,
+                        "priceV2": {
+                            "amountInMinor": 1990,
+                            "amountDisplay": "19.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1990,
+                            "amountDisplay": "19.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214502558501/photo/menueditor_item_7ce3e4c8e4bf4f02a34986b3fcc4080d_1770907810594084626.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214502558501/detail/menueditor_item_7ce3e4c8e4bf4f02a34986b3fcc4080d_1770907810594084626.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021214504602630",
+                        "name": "Smoked Salmon Sandwich",
+                        "available": true,
+                        "priceInMinorUnit": 1990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214504602630/photo/menueditor_item_57de58e6dbef4deb9911a88336fe547f_1770907833309380027.avif",
+                        "description": "Allergens: Gluten, Dairy, Egg, Treenut, Fish",
+                        "discountedPriceInMin": 1990,
+                        "priceV2": {
+                            "amountInMinor": 1990,
+                            "amountDisplay": "19.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1990,
+                            "amountDisplay": "19.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214504602630/photo/menueditor_item_57de58e6dbef4deb9911a88336fe547f_1770907833309380027.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214504602630/detail/menueditor_item_57de58e6dbef4deb9911a88336fe547f_1770907833309380027.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026021214493186087",
+                        "name": "Turkey Ham Sandwich",
+                        "priceInMinorUnit": 1690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214493186087/photo/menueditor_item_86d026333d5946879da1caca8e9c9b9b_1770907737228683042.avif",
+                        "description": "Allergens: Gluten, Dairy, Egg, Treenut, Soy",
+                        "discountedPriceInMin": 1690,
+                        "priceV2": {
+                            "amountInMinor": 1690,
+                            "amountDisplay": "16.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1690,
+                            "amountDisplay": "16.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-05-07T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214493186087/photo/menueditor_item_86d026333d5946879da1caca8e9c9b9b_1770907737228683042.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026021214493186087/detail/menueditor_item_86d026333d5946879da1caca8e9c9b9b_1770907737228683042.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2026051911595770319",
+                "name": "Add-Ons",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2026052001422273184",
+                        "name": "Knife",
+                        "available": true,
+                        "priceInMinorUnit": 150,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052001422273184/photo/menueditor_item_be66de03c9a34c33877874fb1457f5e6_1779241635592760378.avif",
+                        "discountedPriceInMin": 150,
+                        "priceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 150,
+                            "amountDisplay": "1.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"MANUAL\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052001422273184/photo/menueditor_item_be66de03c9a34c33877874fb1457f5e6_1779241635592760378.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052001422273184/detail/menueditor_item_be66de03c9a34c33877874fb1457f5e6_1779241635592760378.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026052001421476997",
+                        "name": "Champagne Gold Candles",
+                        "available": true,
+                        "priceInMinorUnit": 250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052001421476997/photo/menueditor_item_796cd751d32c4d8395a51306c907672e_1779241644049271949.avif",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"MANUAL\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "specialItemType": "alcohol",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052001421476997/photo/menueditor_item_796cd751d32c4d8395a51306c907672e_1779241644049271949.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026052001421476997/detail/menueditor_item_796cd751d32c4d8395a51306c907672e_1779241644049271949.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026051912003978683",
+                        "name": "Small Candle",
+                        "available": true,
+                        "priceInMinorUnit": 20,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026051912003978683/photo/menueditor_item_dfdddbf3f36c47e78e1e2db6392bc978_1779241653912693016.avif",
+                        "discountedPriceInMin": 20,
+                        "priceV2": {
+                            "amountInMinor": 20,
+                            "amountDisplay": "0.20"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 20,
+                            "amountDisplay": "0.20"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026051912003978683/photo/menueditor_item_dfdddbf3f36c47e78e1e2db6392bc978_1779241653912693016.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026051912003978683/detail/menueditor_item_dfdddbf3f36c47e78e1e2db6392bc978_1779241653912693016.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2026051912005091096",
+                        "name": "Big Candle",
+                        "available": true,
+                        "priceInMinorUnit": 40,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026051912005091096/photo/menueditor_item_6e6df91ac94b4416a39297e6933a5422_1779241663829661176.avif",
+                        "discountedPriceInMin": 40,
+                        "priceV2": {
+                            "amountInMinor": 40,
+                            "amountDisplay": "0.40"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 40,
+                            "amountDisplay": "0.40"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026051912005091096/photo/menueditor_item_6e6df91ac94b4416a39297e6933a5422_1779241663829661176.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026051912005091096/detail/menueditor_item_6e6df91ac94b4416a39297e6933a5422_1779241663829661176.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260211023819017851",
+                "name": "Fickle Feline",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260211023819013880",
+                        "name": "Fickle Feline",
+                        "priceInMinorUnit": 6590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819013880/photo/menueditor_item_61ba9970c9e3441ca7d31949e265047d_1770951479593796584.avif",
+                        "description": "10 Assorted Flavours: Tangy Yuzu, OREO Cookies and Cream, Classic New York, Sweet Strawberry, Salted Caramel, Tiramisu, Triple Fromage, Toasty Burnt, Dark Chocolate, Luscious Lychee\n*Delivered frozen",
+                        "discountedPriceInMin": 6590,
+                        "priceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819013880/photo/menueditor_item_61ba9970c9e3441ca7d31949e265047d_1770951479593796584.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819013880/detail/menueditor_item_61ba9970c9e3441ca7d31949e265047d_1770951479593796584.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260211023819020489",
+                        "name": "Fickle Feline 2.0",
+                        "priceInMinorUnit": 6590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819020489/photo/menueditor_item_3de5c39e2d69496aafa0dae2dd821889_1770951526715101844.avif",
+                        "description": "10 Assorted Flavours: OREO® Cookies & Cream, Classic New York, Sweet Strawberry, Salted Caramel, Red Velvet, Blissful Blueberry, Apple Crumble, Devil's Chocolate, Hazelnut Chocolate (new addition), Mango Passionfruit (new addition)\n\n*Delivered frozen",
+                        "discountedPriceInMin": 6590,
+                        "priceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 6590,
+                            "amountDisplay": "65.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819020489/photo/menueditor_item_3de5c39e2d69496aafa0dae2dd821889_1770951526715101844.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20260211023819020489/detail/menueditor_item_3de5c39e2d69496aafa0dae2dd821889_1770951526715101844.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.6,
+    "voteCount": 229,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Cat & the Fiddle - Tampines 1 on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C72HEAX3EB5EWA"
+    },
+    "chainName": "Cat & The Fiddle",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C72HEAX3EB5EWA/list/92ecbbd0-a040-4e74-87b8-1c2b1de03fac__listing_photo__2026__07__07__03__20__51.avif",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 11:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T03:00:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal",
+        "non-pork",
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

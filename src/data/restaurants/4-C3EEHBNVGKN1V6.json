@@ -1,0 +1,341 @@
+{
+    "ID": "4-C3EEHBNVGKN1V6",
+    "name": "Riverside Indonesian BBQ - Tampines Mall",
+    "cuisine": "Indonesian,BBQ,Satay,Seafood Dish",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C3EEHBNVGKN1V6/hero/d65c158e13e14b6f93d67c429440a7db_1648438592439473574.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:00am-9:00pm",
+        "mon": "10:00am-9:00pm",
+        "tue": "10:00am-9:00pm",
+        "wed": "10:00am-9:00pm",
+        "thu": "10:00am-9:00pm",
+        "fri": "10:00am-9:00pm",
+        "sat": "10:00am-9:00pm"
+    },
+    "address": {
+        "name": "Riverside Indonesian BBQ - Tampines Mall",
+        "combined_address": "4 Tampines Central 5, #04-27/28/29, Tampines, 529510",
+        "combined_city": "Singapore",
+        "house": "#04-27/28/29",
+        "street": "4 Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529510",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3528585,
+        "lng": 103.9448992
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20220328072009012022",
+                "name": "Set Menu",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20220328072009012533",
+                        "name": "Set 1: Ikan Panggang Set (Grilled Fish Set)",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009012533/photo/89754e10370c433aa7fb5cda1510dec7_1648452497894145038.avif",
+                        "description": "Fish, Egg, Vegetables-Cabbage, Rice, Chilli",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009012533/photo/89754e10370c433aa7fb5cda1510dec7_1648452497894145038.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009012533/detail/89754e10370c433aa7fb5cda1510dec7_1648452497894145038.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220328072009022684",
+                        "name": "Set 2: Sotong Panggang Set (Grilled Squid Set)",
+                        "available": true,
+                        "priceInMinorUnit": 900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009022684/photo/21cfa95bdfa745b5bce0399738ea73c0_1648452529752032649.avif",
+                        "description": "Squid, Egg, Vegetables-Cabbage, Rice, Chilli",
+                        "discountedPriceInMin": 900,
+                        "priceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009022684/photo/21cfa95bdfa745b5bce0399738ea73c0_1648452529752032649.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009022684/detail/21cfa95bdfa745b5bce0399738ea73c0_1648452529752032649.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220328072009039087",
+                        "name": "Set 3: Gulai Ayam Set (Curry Chicken Set)",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009039087/photo/966f7adcb0a4417aa4c0aef20b4b071d_1648452648737693092.avif",
+                        "description": "Chicken, Egg, Vegetables-Cabbage, Rice, Chilli",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009039087/photo/966f7adcb0a4417aa4c0aef20b4b071d_1648452648737693092.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009039087/detail/966f7adcb0a4417aa4c0aef20b4b071d_1648452648737693092.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220328072009046456",
+                        "name": "Set 4: Ayam Goreng Set (Fried Chicken Set)",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009046456/photo/e02dd4b19d9848e2a9826868b1ce2290_1648452660987122381.avif",
+                        "description": "Chicken, Egg, Vegetables-Cabbage Rice, Chilli",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009046456/photo/e02dd4b19d9848e2a9826868b1ce2290_1648452660987122381.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072009046456/detail/e02dd4b19d9848e2a9826868b1ce2290_1648452660987122381.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220328072010019894",
+                        "name": "Set 5: Ayam Panggang & Ikan Panggang Set (Grilled Chicken + Fish Set)",
+                        "available": true,
+                        "priceInMinorUnit": 1000,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010019894/photo/e2659009e4f34162b244f2d08de6f78e_1648452675396923280.avif",
+                        "description": "Chicken, Fish, Egg, Vegetables-Cabbage, Rice, Chilli",
+                        "discountedPriceInMin": 1000,
+                        "priceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1000,
+                            "amountDisplay": "10.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010019894/photo/e2659009e4f34162b244f2d08de6f78e_1648452675396923280.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010019894/detail/e2659009e4f34162b244f2d08de6f78e_1648452675396923280.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220328072010024752",
+                        "name": "Set 6: Ayam Panggang & Sotong Panggang Set (Grilled Chicken + Squid Set)",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010024752/photo/f6dc2e97296a46989121ac8295eae772_1648452685991358392.avif",
+                        "description": "Chicken, Squid, Egg, Vegetables-Cabbage, Rice, Chilli",
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010024752/photo/f6dc2e97296a46989121ac8295eae772_1648452685991358392.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010024752/detail/f6dc2e97296a46989121ac8295eae772_1648452685991358392.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220328072010032017",
+                        "name": "Set 7: Ikan Panggang & Sotong Panggang Set (Grilled Fish + Squid Set)",
+                        "available": true,
+                        "priceInMinorUnit": 1050,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010032017/photo/cc4e187deb634a36a6dbac8ab6c57378_1648452698207020580.avif",
+                        "description": "Fish, Squid, Egg, Vegetables-Cabbage, Rice, Chilli",
+                        "discountedPriceInMin": 1050,
+                        "priceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1050,
+                            "amountDisplay": "10.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-upload\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010032017/photo/cc4e187deb634a36a6dbac8ab6c57378_1648452698207020580.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010032017/detail/cc4e187deb634a36a6dbac8ab6c57378_1648452698207020580.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20220328072010046973",
+                        "name": "Set 8: Ayam Panggang Set (Grilled Chicken Set)",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010046973/photo/f4b0cf7f79e348ba99a37bc374206710_1648452709702640627.avif",
+                        "description": "Chicken, Egg, Vegetables-Cabbage, Rice, Chilli",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-08-23T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010046973/photo/f4b0cf7f79e348ba99a37bc374206710_1648452709702640627.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20220328072010046973/detail/f4b0cf7f79e348ba99a37bc374206710_1648452709702640627.avif"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.6,
+    "voteCount": 1043,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Riverside Indonesian BBQ - Tampines Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C3EEHBNVGKN1V6"
+    },
+    "chainName": "Riverside Indonesian BBQ",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C3EEHBNVGKN1V6/list/aa328d9fcde440b9a036dfbc45202ebd_1779941661786457153.avif",
+    "branchName": "Tampines Mall",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#FFEC8F",
+            "text": "5-Star Eats",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200002/iconv3/d649c6d9ea9b4e87b0f3896b02f40a74_1769400755885577643.webp",
+            "labelID": "1200002",
+            "labelName": "5 Star Eats",
+            "type": "FoodAuthority",
+            "fontColor": "#005339",
+            "icon": "StarFilled",
+            "deeplink": "grab://open?screenType=GRABFOOD&campaignLandingID=16927&landingSource=foodAuthority&isNewTask=true"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:00:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

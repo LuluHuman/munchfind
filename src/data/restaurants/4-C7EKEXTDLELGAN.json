@@ -1,0 +1,1749 @@
+{
+    "ID": "4-C7EKEXTDLELGAN",
+    "name": "XW Plus Western Grill - Century Square",
+    "cuisine": "Western",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7EKEXTDLELGAN/hero/3fce77ce80384b3c839c9ef6a787c2ad_1748936219502797074.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:30am-9:00pm",
+        "mon": "11:30am-9:00pm",
+        "tue": "11:30am-9:00pm",
+        "wed": "11:30am-9:00pm",
+        "thu": "11:30am-9:00pm",
+        "fri": "11:30am-9:00pm",
+        "sat": "11:30am-9:00pm"
+    },
+    "address": {
+        "name": "XW Plus Western Grill - Century Square",
+        "combined_address": "2, Tampines Central 5, #02-20, #02-27, Tampines, 529509",
+        "combined_city": "Singapore",
+        "house": "#02-20, #02-27",
+        "street": "2, Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529509",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3523792,
+        "lng": 103.9438071
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20250825090622013324",
+                "name": "COLD BEVERAGES (D)",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250825090622028531",
+                        "name": "PW603D Coca-Cola Orginal Less Sugar",
+                        "available": true,
+                        "priceInMinorUnit": 382,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622028531/photo/2c64d796_032025103059.webp",
+                        "discountedPriceInMin": 382,
+                        "priceV2": {
+                            "amountInMinor": 382,
+                            "amountDisplay": "3.82"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 382,
+                            "amountDisplay": "3.82"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0209\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622028531/photo/2c64d796_032025103059.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622028531/detail/2c64d796_032025103059.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090622035314",
+                        "name": "PW604D Coca-Cola Zero Sugar",
+                        "available": true,
+                        "priceInMinorUnit": 382,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622035314/photo/7a2ac7da_032025103055.webp",
+                        "discountedPriceInMin": 382,
+                        "priceV2": {
+                            "amountInMinor": 382,
+                            "amountDisplay": "3.82"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 382,
+                            "amountDisplay": "3.82"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0210\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622035314/photo/7a2ac7da_032025103055.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622035314/detail/7a2ac7da_032025103055.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090622042101",
+                        "name": "PW605D Sprite",
+                        "available": true,
+                        "priceInMinorUnit": 382,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622042101/photo/1308fae5_032025103052.webp",
+                        "discountedPriceInMin": 382,
+                        "priceV2": {
+                            "amountInMinor": 382,
+                            "amountDisplay": "3.82"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 382,
+                            "amountDisplay": "3.82"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0211\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622042101/photo/1308fae5_032025103052.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622042101/detail/1308fae5_032025103052.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090623010576",
+                        "name": "PW606D A W Sarsaparilla",
+                        "available": true,
+                        "priceInMinorUnit": 382,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090623010576/photo/42dd9df1_703202510311.webp",
+                        "discountedPriceInMin": 382,
+                        "priceV2": {
+                            "amountInMinor": 382,
+                            "amountDisplay": "3.82"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 382,
+                            "amountDisplay": "3.82"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0212\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090623010576/photo/42dd9df1_703202510311.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090623010576/detail/42dd9df1_703202510311.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090623023380",
+                        "name": "PW607D Bottled Water",
+                        "available": true,
+                        "priceInMinorUnit": 251,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090623023380/photo/64c507a1_032025103347.webp",
+                        "discountedPriceInMin": 251,
+                        "priceV2": {
+                            "amountInMinor": 251,
+                            "amountDisplay": "2.51"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 251,
+                            "amountDisplay": "2.51"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0234\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090623023380/photo/64c507a1_032025103347.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090623023380/detail/64c507a1_032025103347.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250825090626018772",
+                "name": "FISHERMANS CATCH (D)",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250825090626089193",
+                        "name": "PW251D Golden Fish Fry with Tartar Sauce",
+                        "available": true,
+                        "priceInMinorUnit": 2082,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090626089193/photo/da6cf1f1_052025104059.webp",
+                        "discountedPriceInMin": 2082,
+                        "priceV2": {
+                            "amountInMinor": 2082,
+                            "amountDisplay": "20.82"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2082,
+                            "amountDisplay": "20.82"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0198\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090626089193/photo/da6cf1f1_052025104059.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090626089193/detail/da6cf1f1_052025104059.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090627015174",
+                        "name": "PW253D Chargrilled Fish with Black Peppe",
+                        "available": true,
+                        "priceInMinorUnit": 2082,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090627015174/photo/b272e2ce_052025103935.webp",
+                        "discountedPriceInMin": 2082,
+                        "priceV2": {
+                            "amountInMinor": 2082,
+                            "amountDisplay": "20.82"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2082,
+                            "amountDisplay": "20.82"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0199\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090627015174/photo/b272e2ce_052025103935.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090627015174/detail/b272e2ce_052025103935.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090626095275",
+                        "name": "PW252D Chargrilled Salmon Steak",
+                        "available": true,
+                        "priceInMinorUnit": 2605,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090626095275/photo/7cd2a83e_052025104026.webp",
+                        "discountedPriceInMin": 2605,
+                        "priceV2": {
+                            "amountInMinor": 2605,
+                            "amountDisplay": "26.05"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2605,
+                            "amountDisplay": "26.05"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0229\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090626095275/photo/7cd2a83e_052025104026.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090626095275/detail/7cd2a83e_052025104026.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090627028576",
+                        "name": "PW254D Chargrilled Fish with Lemon Butte",
+                        "available": true,
+                        "priceInMinorUnit": 2344,
+                        "discountedPriceInMin": 2344,
+                        "priceV2": {
+                            "amountInMinor": 2344,
+                            "amountDisplay": "23.44"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2344,
+                            "amountDisplay": "23.44"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0230\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250825090627010879",
+                "name": "FLAME GRILLED CHICKEN (D)",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250825090627037452",
+                        "name": "PW151D Chargrilled Chicken with Creamy M",
+                        "available": true,
+                        "priceInMinorUnit": 1951,
+                        "discountedPriceInMin": 1951,
+                        "priceV2": {
+                            "amountInMinor": 1951,
+                            "amountDisplay": "19.51"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1951,
+                            "amountDisplay": "19.51"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0193\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20250825090627047048",
+                        "name": "PW152D Chargrilled Chicken with Tom Yum",
+                        "available": true,
+                        "priceInMinorUnit": 1951,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090627047048/photo/62367e8e_505202510370.webp",
+                        "discountedPriceInMin": 1951,
+                        "priceV2": {
+                            "amountInMinor": 1951,
+                            "amountDisplay": "19.51"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1951,
+                            "amountDisplay": "19.51"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0194\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090627047048/photo/62367e8e_505202510370.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090627047048/detail/62367e8e_505202510370.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090628018620",
+                        "name": "PW154D Fried Chicken with Honey Mustard",
+                        "available": true,
+                        "priceInMinorUnit": 2082,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090628018620/photo/782f04dd_032025102017.webp",
+                        "discountedPriceInMin": 2082,
+                        "priceV2": {
+                            "amountInMinor": 2082,
+                            "amountDisplay": "20.82"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2082,
+                            "amountDisplay": "20.82"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0195\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090628018620/photo/782f04dd_032025102017.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090628018620/detail/782f04dd_032025102017.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090627052240",
+                        "name": "PW153D Chargrilled Chicken with Black Pe",
+                        "available": true,
+                        "priceInMinorUnit": 1951,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090627052240/photo/ae8cb961_052025103655.webp",
+                        "discountedPriceInMin": 1951,
+                        "priceV2": {
+                            "amountInMinor": 1951,
+                            "amountDisplay": "19.51"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1951,
+                            "amountDisplay": "19.51"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0196\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090627052240/photo/ae8cb961_052025103655.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090627052240/detail/ae8cb961_052025103655.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090628023753",
+                        "name": "PW155D Fried Chicken with Korean Spicy S",
+                        "available": true,
+                        "priceInMinorUnit": 2082,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090628023753/photo/9cdbb0db_052025114150.webp",
+                        "discountedPriceInMin": 2082,
+                        "priceV2": {
+                            "amountInMinor": 2082,
+                            "amountDisplay": "20.82"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2082,
+                            "amountDisplay": "20.82"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0197\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090628023753/photo/9cdbb0db_052025114150.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090628023753/detail/9cdbb0db_052025114150.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250825090619017750",
+                "name": "PASTA LOVERS (D)",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250825090619063345",
+                        "name": "PW301D Spicy Seafood Capellini",
+                        "available": true,
+                        "priceInMinorUnit": 2344,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090619063345/photo/d98fc798_703202510277.webp",
+                        "discountedPriceInMin": 2344,
+                        "priceV2": {
+                            "amountInMinor": 2344,
+                            "amountDisplay": "23.44"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2344,
+                            "amountDisplay": "23.44"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0200\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090619063345/photo/d98fc798_703202510277.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090619063345/detail/d98fc798_703202510277.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090619075532",
+                        "name": "PW302D Chicken Aglio Olio Capellini",
+                        "available": true,
+                        "priceInMinorUnit": 1690,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090619075532/photo/b2e89396_032025102613.webp",
+                        "discountedPriceInMin": 1690,
+                        "priceV2": {
+                            "amountInMinor": 1690,
+                            "amountDisplay": "16.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1690,
+                            "amountDisplay": "16.90"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0201\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090619075532/photo/b2e89396_032025102613.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090619075532/detail/b2e89396_032025102613.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090620016617",
+                        "name": "PW303D Creamy Chicken and Mushroom Spagh",
+                        "available": true,
+                        "priceInMinorUnit": 1951,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620016617/photo/71261e17_032025102631.webp",
+                        "discountedPriceInMin": 1951,
+                        "priceV2": {
+                            "amountInMinor": 1951,
+                            "amountDisplay": "19.51"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1951,
+                            "amountDisplay": "19.51"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0202\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620016617/photo/71261e17_032025102631.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620016617/detail/71261e17_032025102631.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090620033514",
+                        "name": "PW305D Tomato Bolognese Spaghetti",
+                        "available": true,
+                        "priceInMinorUnit": 2344,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620033514/photo/2617b710_032025102718.webp",
+                        "discountedPriceInMin": 2344,
+                        "priceV2": {
+                            "amountInMinor": 2344,
+                            "amountDisplay": "23.44"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2344,
+                            "amountDisplay": "23.44"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0203\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620033514/photo/2617b710_032025102718.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620033514/detail/2617b710_032025102718.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090620022263",
+                        "name": "PW304D Spicy Carbonara Spaghetti",
+                        "available": true,
+                        "priceInMinorUnit": 2082,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620022263/photo/7b31a3a9_032025102648.webp",
+                        "discountedPriceInMin": 2082,
+                        "priceV2": {
+                            "amountInMinor": 2082,
+                            "amountDisplay": "20.82"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2082,
+                            "amountDisplay": "20.82"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0204\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620022263/photo/7b31a3a9_032025102648.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620022263/detail/7b31a3a9_032025102648.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090620047625",
+                        "name": "PW306D Salmon Chunk and Creamy Corn Spag",
+                        "available": true,
+                        "priceInMinorUnit": 2213,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620047625/photo/c977a6ea_032025102740.webp",
+                        "discountedPriceInMin": 2213,
+                        "priceV2": {
+                            "amountInMinor": 2213,
+                            "amountDisplay": "22.13"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2213,
+                            "amountDisplay": "22.13"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0231\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620047625/photo/c977a6ea_032025102740.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090620047625/detail/c977a6ea_032025102740.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250825090624021360",
+                "name": "HOUSE STEAK (D)",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250825090624101127",
+                        "name": "PW202D Chargrilled Sirloin with Black Pe",
+                        "priceInMinorUnit": 2867,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250825090629270349",
+                                "name": "DONENESS (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202508250906291294703",
+                                        "name": "Medium Rare",
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-497\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 레어",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291349385",
+                                        "name": "Medium",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-498\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄",
+                                                    "zh": "中等"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291412574",
+                                        "name": "Medium Well",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-499\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 웰",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291481972",
+                                        "name": "Well Done",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-500\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웰던",
+                                                    "zh": "全熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "굽기 정도 (D)",
+                                            "zh": "熟度 (D)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2867,
+                        "priceV2": {
+                            "amountInMinor": 2867,
+                            "amountDisplay": "28.67"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2867,
+                            "amountDisplay": "28.67"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0188\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20250825090625015107",
+                        "name": "PW203D Chargrilled Ribeye with Creamy Mu",
+                        "priceInMinorUnit": 3259,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250825090629300775",
+                                "name": "DONENESS (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202508250906291395970",
+                                        "name": "Medium Rare",
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-528\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 레어",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291464276",
+                                        "name": "Medium",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-529\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄",
+                                                    "zh": "中等"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291547742",
+                                        "name": "Medium Well",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-530\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 웰",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291624706",
+                                        "name": "Well Done",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-531\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웰던",
+                                                    "zh": "全熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "굽기 정도 (D)",
+                                            "zh": "熟度 (D)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3259,
+                        "priceV2": {
+                            "amountInMinor": 3259,
+                            "amountDisplay": "32.59"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3259,
+                            "amountDisplay": "32.59"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0190\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20250825090625021903",
+                        "name": "PW204D Chargrilled Ribeye with Black Pep",
+                        "priceInMinorUnit": 3259,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250825090629267227",
+                                "name": "DONENESS (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202508250906291273660",
+                                        "name": "Medium Rare",
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-542\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 레어",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291309768",
+                                        "name": "Medium",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-543\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄",
+                                                    "zh": "中等"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291360433",
+                                        "name": "Medium Well",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-544\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 웰",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291424516",
+                                        "name": "Well Done",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-545\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웰던",
+                                                    "zh": "全熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "굽기 정도 (D)",
+                                            "zh": "熟度 (D)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3259,
+                        "priceV2": {
+                            "amountInMinor": 3259,
+                            "amountDisplay": "32.59"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3259,
+                            "amountDisplay": "32.59"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0191\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20250825090625036609",
+                        "name": "PW205D Chargrilled Lamb Cutlet with Blac",
+                        "priceInMinorUnit": 2605,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250825090629286032",
+                                "name": "DONENESS (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202508250906291322782",
+                                        "name": "Medium Rare",
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-556\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 레어",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291389838",
+                                        "name": "Medium",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-557\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄",
+                                                    "zh": "中等"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291451731",
+                                        "name": "Medium Well",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-558\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 웰",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291524044",
+                                        "name": "Well Done",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-559\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웰던",
+                                                    "zh": "全熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "굽기 정도 (D)",
+                                            "zh": "熟度 (D)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2605,
+                        "priceV2": {
+                            "amountInMinor": 2605,
+                            "amountDisplay": "26.05"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2605,
+                            "amountDisplay": "26.05"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0192\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20250825090624092995",
+                        "name": "PW201D Chargrilled Sirloin with Creamy M",
+                        "priceInMinorUnit": 2867,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090624092995/photo/95092357_052025104343.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250825090628105561",
+                                "name": "DONENESS (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250825090628264678",
+                                        "name": "Medium Rare",
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-653\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 레어",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628329584",
+                                        "name": "Medium",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-654\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄",
+                                                    "zh": "中等"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628368425",
+                                        "name": "Medium Well",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-655\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 웰",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628431428",
+                                        "name": "Well Done",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-656\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웰던",
+                                                    "zh": "全熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "굽기 정도 (D)",
+                                            "zh": "熟度 (D)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2867,
+                        "priceV2": {
+                            "amountInMinor": 2867,
+                            "amountDisplay": "28.67"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2867,
+                            "amountDisplay": "28.67"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0228\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090624092995/photo/95092357_052025104343.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090624092995/detail/95092357_052025104343.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20250825090621029701",
+                "name": "SUPER COMBOS (D)",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20250825090621068602",
+                        "name": "PW101D Chargrilled Chicken and Chicken S",
+                        "priceInMinorUnit": 2213,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250825090628059009",
+                                "name": "CHOICE OF SAUCE (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250825090628086500",
+                                        "name": "Black Pepper Sauce",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-454\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "블랙 페퍼 소스",
+                                                    "zh": "黑胡椒酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628123987",
+                                        "name": "Mushroom Cream Sauce",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-455\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 크림 소스",
+                                                    "zh": "蘑菇奶油酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628186693",
+                                        "name": "Lemon Cream Sauce",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-456\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레몬 크림 소스",
+                                                    "zh": "柠檬奶油酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택 (D)",
+                                            "zh": "酱料选择（D）"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2213,
+                        "priceV2": {
+                            "amountInMinor": 2213,
+                            "amountDisplay": "22.13"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2213,
+                            "amountDisplay": "22.13"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0183\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20250825090621076108",
+                        "name": "PW102D Chargrilled Chicken and Fish",
+                        "priceInMinorUnit": 2605,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090621076108/photo/976d3b00_505202510427.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250825090628017756",
+                                "name": "CHOICE OF SAUCE (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250825090628015286",
+                                        "name": "Black Pepper Sauce",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-467\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "블랙 페퍼 소스",
+                                                    "zh": "黑胡椒酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628025163",
+                                        "name": "Mushroom Cream Sauce",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-468\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 크림 소스",
+                                                    "zh": "蘑菇奶油酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628048708",
+                                        "name": "Lemon Cream Sauce",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-469\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레몬 크림 소스",
+                                                    "zh": "柠檬奶油酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택 (D)",
+                                            "zh": "酱料选择（D）"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 2605,
+                        "priceV2": {
+                            "amountInMinor": 2605,
+                            "amountDisplay": "26.05"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2605,
+                            "amountDisplay": "26.05"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0185\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090621076108/photo/976d3b00_505202510427.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090621076108/detail/976d3b00_505202510427.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090621094059",
+                        "name": "PW104D Chargrilled Sirloin Steak and Chi",
+                        "priceInMinorUnit": 3521,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090621094059/photo/b0067a33_505202510443.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250825090628038245",
+                                "name": "CHOICE OF SAUCE (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250825090628054552",
+                                        "name": "Black Pepper Sauce",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-480\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "블랙 페퍼 소스",
+                                                    "zh": "黑胡椒酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628102418",
+                                        "name": "Mushroom Cream Sauce",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-481\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 크림 소스",
+                                                    "zh": "蘑菇奶油酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628153843",
+                                        "name": "Lemon Cream Sauce",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-482\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레몬 크림 소스",
+                                                    "zh": "柠檬奶油酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택 (D)",
+                                            "zh": "酱料选择（D）"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250825090629313586",
+                                "name": "DONENESS (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202508250906291475479",
+                                        "name": "Medium Rare",
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-483\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 레어",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291555247",
+                                        "name": "Medium",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-484\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄",
+                                                    "zh": "中等"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291618057",
+                                        "name": "Medium Well",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-485\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 웰",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291686078",
+                                        "name": "Well Done",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-486\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웰던",
+                                                    "zh": "全熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "굽기 정도 (D)",
+                                            "zh": "熟度 (D)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 3521,
+                        "priceV2": {
+                            "amountInMinor": 3521,
+                            "amountDisplay": "35.21"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3521,
+                            "amountDisplay": "35.21"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0187\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090621094059/photo/b0067a33_505202510443.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090621094059/detail/b0067a33_505202510443.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090622015107",
+                        "name": "PW105D Chargrilled Sirloin Steak and Tig",
+                        "priceInMinorUnit": 4175,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622015107/photo/d987a89b_052025104353.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250825090628112174",
+                                "name": "CHOICE OF SAUCE (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250825090628286949",
+                                        "name": "Black Pepper Sauce",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-511\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "블랙 페퍼 소스",
+                                                    "zh": "黑胡椒酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628335192",
+                                        "name": "Mushroom Cream Sauce",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-512\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 크림 소스",
+                                                    "zh": "蘑菇奶油酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628380590",
+                                        "name": "Lemon Cream Sauce",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-513\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레몬 크림 소스",
+                                                    "zh": "柠檬奶油酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택 (D)",
+                                            "zh": "酱料选择（D）"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20250825090629384665",
+                                "name": "DONENESS (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD202508250906291824693",
+                                        "name": "Medium Rare",
+                                        "sortOrder": 4,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-514\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 레어",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291891603",
+                                        "name": "Medium",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-515\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄",
+                                                    "zh": "中等"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906291937951",
+                                        "name": "Medium Well",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-516\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "미디엄 웰",
+                                                    "zh": "五分熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD202508250906292026141",
+                                        "name": "Well Done",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-517\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "웰던",
+                                                    "zh": "全熟"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "굽기 정도 (D)",
+                                            "zh": "熟度 (D)"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 4175,
+                        "priceV2": {
+                            "amountInMinor": 4175,
+                            "amountDisplay": "41.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4175,
+                            "amountDisplay": "41.75"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0189\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622015107/photo/d987a89b_052025104353.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20250825090622015107/detail/d987a89b_052025104353.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20250825090621087582",
+                        "name": "PW103D Chargrilled Chicken and Tiger Pra",
+                        "priceInMinorUnit": 4175,
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20250825090628028938",
+                                "name": "CHOICE OF SAUCE (D)",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250825090628030811",
+                                        "name": "Black Pepper Sauce",
+                                        "sortOrder": 3,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-640\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "블랙 페퍼 소스",
+                                                    "zh": "黑胡椒酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628078358",
+                                        "name": "Mushroom Cream Sauce",
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-641\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "버섯 크림 소스",
+                                                    "zh": "蘑菇奶油酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20250825090628138790",
+                                        "name": "Lemon Cream Sauce",
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "metadata": "{\"external_data\":\"ADDONMODIFIER-642\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "레몬 크림 소스",
+                                                    "zh": "柠檬奶油酱"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "소스 선택 (D)",
+                                            "zh": "酱料选择（D）"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 4175,
+                        "priceV2": {
+                            "amountInMinor": 4175,
+                            "amountDisplay": "41.75"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 4175,
+                            "amountDisplay": "41.75"
+                        },
+                        "metadata": "{\"external_data\":\"ITEM-0227\",\"moderation\":{\"status\":\"PASS\",\"mode\":\"MANUAL\",\"client\":\"food-cms-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\"]}}}}",
+                        "currency": "SGD"
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1200,
+        "thresholdForDisplay": {
+            "amountInMinor": 1200,
+            "amountDisplay": "S$12.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$12.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$12.00, a small order fee of the difference between your order value & S$12.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C7EKEXTDLELGAN/photos/3fce77ce80384b3c839c9ef6a787c2ad_1748936219502797074.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out XW Plus Western Grill - Century Square on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7EKEXTDLELGAN"
+    },
+    "chainName": "XW Plus Western Grill",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7EKEXTDLELGAN/list/8d48a26a024644cab7d957498685b2df_1748936216710496339.webp",
+    "branchName": "Century Square",
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 11:30 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T03:30:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

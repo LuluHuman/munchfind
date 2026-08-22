@@ -1,0 +1,3145 @@
+{
+    "ID": "4-C7TFWATYRPN2TN",
+    "name": "Daily Zi Char 每日小炒 - Tampines Mall",
+    "cuisine": "Chinese",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7TFWATYRPN2TN/hero/759b61e2-c5f3-4835-9155-27cab9cc1807__store_cover__2026__07__13__06__10__03.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:00am-8:45pm",
+        "mon": "11:00am-8:45pm",
+        "tue": "11:00am-8:45pm",
+        "wed": "11:00am-8:45pm",
+        "thu": "11:00am-8:45pm",
+        "fri": "11:00am-8:45pm",
+        "sat": "11:00am-8:45pm",
+        "tempClosed": true
+    },
+    "address": {
+        "name": "Daily Zi Char 每日小炒 - Tampines Mall",
+        "combined_address": "4, Tampines Central 5, #B1-01/27, Tampines, 529510",
+        "combined_city": "Singapore",
+        "house": "#B1-01/27",
+        "street": "4, Tampines Central 5",
+        "suburb": "Tampines",
+        "postcode": "529510",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3526558,
+        "lng": 103.9451485
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20260716070703049475",
+                "name": "疯狂咸蛋 Yolk It Up!",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260716070703188895",
+                        "name": "咸蛋鸡饭 Salted Egg Chicken Rice",
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703188895/photo/31fa9cd3b44944509daa5f48f82fe513_1784185623913548435.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_gambling_ar\"]}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703188895/photo/31fa9cd3b44944509daa5f48f82fe513_1784185623913548435.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703188895/detail/31fa9cd3b44944509daa5f48f82fe513_1784185623913548435.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070703175883",
+                        "name": "咸蛋猪扒饭 Salted Egg Pork Chop Rice",
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703175883/photo/065ee741feee4d18b337b2c4ace2b224_1784185623713655372.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_gambling_ar\"]}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703175883/photo/065ee741feee4d18b337b2c4ace2b224_1784185623713655372.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703175883/detail/065ee741feee4d18b337b2c4ace2b224_1784185623713655372.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070703164252",
+                        "name": "咸蛋鱼片饭 Salted Egg Sliced Fish Rice",
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703164252/photo/fbd60d8a9d2141cb9e9567a3d117525e_1784185623472229026.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_gambling_ar\"]}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703164252/photo/fbd60d8a9d2141cb9e9567a3d117525e_1784185623472229026.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703164252/detail/fbd60d8a9d2141cb9e9567a3d117525e_1784185623472229026.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070703153246",
+                        "name": "咸蛋莲藕饭 Salted Egg Lotus Root Rice",
+                        "priceInMinorUnit": 980,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703153246/photo/0ee8d314446d47269e91ac9670ca711d_1784185623255304821.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 980,
+                        "priceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 980,
+                            "amountDisplay": "9.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_gambling_ar\"]}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703153246/photo/0ee8d314446d47269e91ac9670ca711d_1784185623255304821.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703153246/detail/0ee8d314446d47269e91ac9670ca711d_1784185623255304821.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260716070702037501",
+                "name": "风味饭盒 Asian Flavour Rice Box",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260716070703146803",
+                        "name": "咕咾肉饭 Sweet & Sour Pork Rice Box",
+                        "priceInMinorUnit": 1055,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703146803/photo/bbb690a9bb5c41b89a54d1453e62b595_1784185623044346148.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1055,
+                        "priceV2": {
+                            "amountInMinor": 1055,
+                            "amountDisplay": "10.55"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1055,
+                            "amountDisplay": "10.55"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":16,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7TFWATYRPN2TN-C8CEGAKWRNJGV6-45146424\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":16,\"campaign_id\":\"4-C7TFWATYRPN2TN-C8CEGAKWRNJGV6-45146424\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1793451600},\"start_time\":{\"seconds\":1784516400}},\"flags\":17,\"version\":1784516400,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_gambling_ar\"]}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703146803/photo/bbb690a9bb5c41b89a54d1453e62b595_1784185623044346148.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070703146803/detail/bbb690a9bb5c41b89a54d1453e62b595_1784185623044346148.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070702139013",
+                        "name": "姜葱鱼片饭 Ginger Spring Onion Sliced Fish Rice Box",
+                        "priceInMinorUnit": 1055,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070702139013/photo/db08df04f9244ab8b40322fda2ee27bb_1784185622762232779.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1055,
+                        "priceV2": {
+                            "amountInMinor": 1055,
+                            "amountDisplay": "10.55"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1055,
+                            "amountDisplay": "10.55"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":16,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7TFWATYRPN2TN-C8CEGAKWRNJGV6-45146424\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":16,\"campaign_id\":\"4-C7TFWATYRPN2TN-C8CEGAKWRNJGV6-45146424\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1793451600},\"start_time\":{\"seconds\":1784516400}},\"flags\":17,\"version\":1784516400,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_gambling_ar\"]}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070702139013/photo/db08df04f9244ab8b40322fda2ee27bb_1784185622762232779.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070702139013/detail/db08df04f9244ab8b40322fda2ee27bb_1784185622762232779.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070702124050",
+                        "name": "宫保鸡饭 Kung Pao Chicken Rice Box",
+                        "priceInMinorUnit": 1055,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070702124050/photo/4501c0c082d34eda9741aee0de71c4a6_1784185622326410088.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1055,
+                        "priceV2": {
+                            "amountInMinor": 1055,
+                            "amountDisplay": "10.55"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1055,
+                            "amountDisplay": "10.55"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":16,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7TFWATYRPN2TN-C8CEGAKWRNJGV6-45146424\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":16,\"campaign_id\":\"4-C7TFWATYRPN2TN-C8CEGAKWRNJGV6-45146424\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1793451600},\"start_time\":{\"seconds\":1784516400}},\"flags\":17,\"version\":1784516400,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_gambling_ar\"]}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070702124050/photo/4501c0c082d34eda9741aee0de71c4a6_1784185622326410088.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070702124050/detail/4501c0c082d34eda9741aee0de71c4a6_1784185622326410088.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070702112915",
+                        "name": "番茄炒蛋饭 Tomato Egg Rice Box",
+                        "priceInMinorUnit": 1055,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070702112915/photo/52abb9b3af2c4ae6a1851e6fa2d3c854_1784185622166345928.webp",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1055,
+                        "priceV2": {
+                            "amountInMinor": 1055,
+                            "amountDisplay": "10.55"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1055,
+                            "amountDisplay": "10.55"
+                        },
+                        "metadata": "{\"discount_meta\":{\"type\":\"percentage\",\"discount_value_in_min\":16,\"currency_code\":\"SGD\",\"campaignID\":\"4-C7TFWATYRPN2TN-C8CEGAKWRNJGV6-45146424\"},\"discounts\":{\"currency_code\":\"SGD\",\"discount_metas\":[{\"type\":\"percentage\",\"discount_value_in_min\":16,\"campaign_id\":\"4-C7TFWATYRPN2TN-C8CEGAKWRNJGV6-45146424\",\"conditions\":{\"service_types\":[0,1],\"end_time\":{\"seconds\":1793451600},\"start_time\":{\"seconds\":1784516400}},\"flags\":17,\"version\":1784516400,\"campaign_author_type\":5}]},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_gambling_ar\"]}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070702112915/photo/52abb9b3af2c4ae6a1851e6fa2d3c854_1784185622166345928.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070702112915/detail/52abb9b3af2c4ae6a1851e6fa2d3c854_1784185622166345928.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260716070701024326",
+                "name": "便当套餐 Bento Set",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260716070701106494",
+                        "name": "姜葱肉片便当 Ginger Spring Onion Sliced Pork Bento Set",
+                        "priceInMinorUnit": 1480,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701106494/photo/aaf68ad2ebc849beb1ff2a639f0cdd61_1784185621922611939.webp",
+                        "description": "Enjoy a satisfying Bento Set served with fragrant rice, selected main dish, sunny-side egg, Seasonal Vegetables, and a FREE choice of canned drink. A complete meal packed with flavour and value.\n美味便当套餐，包含香喷喷白饭、精选主菜、荷包蛋、时蔬，并附送自选罐装饮料。份量十足，美味又超值。",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701020463",
+                                "name": "免费任选汽水一罐 Choice of Free Soft Drink",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701076863",
+                                        "name": "Coke Zero",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "코크 제로",
+                                                    "zh": "零度可口可乐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701099664",
+                                        "name": "Coca Cola",
+                                        "available": true,
+                                        "sortOrder": 9998,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "코카콜라",
+                                                    "zh": "可口可乐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701085183",
+                                        "name": "Sprite",
+                                        "available": true,
+                                        "sortOrder": 9997,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스프라이트",
+                                                    "zh": "雪碧"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701114546",
+                                        "name": "Fuze Tea Jasmine Green Tea",
+                                        "available": true,
+                                        "sortOrder": 9996,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "퓨즈 티 자스민 녹차",
+                                                    "zh": "富士茶茉莉绿茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701135399",
+                                        "name": "Authentic Tea House Ayataka",
+                                        "available": true,
+                                        "sortOrder": 9995,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "정통 차 하우스 아타카자",
+                                                    "zh": "正宗茶馆绫鹰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701124245",
+                                        "name": "Authentic Tea House Da Hong Pao",
+                                        "available": true,
+                                        "sortOrder": 9994,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "정통 차 하우스 대홍포",
+                                                    "zh": "正宗茶馆大红袍"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "무료 탄산음료 1캔 선택",
+                                            "zh": "免费任选汽水一罐 任选免费软饮料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1480,
+                        "priceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701106494/photo/aaf68ad2ebc849beb1ff2a639f0cdd61_1784185621922611939.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701106494/detail/aaf68ad2ebc849beb1ff2a639f0cdd61_1784185621922611939.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070701095496",
+                        "name": "盐酥鸡排便当 Crispy Salt & Pepper Chicken Cutlet Bento Set",
+                        "priceInMinorUnit": 1480,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701095496/photo/48015ab65cd74f208343eaaefefd7356_1784185621738844949.webp",
+                        "description": "Enjoy a satisfying Bento Set served with fragrant rice, selected main dish, sunny-side egg, Seasonal Vegetables, and a FREE choice of canned drink. A complete meal packed with flavour and value.\n美味便当套餐，包含香喷喷白饭、精选主菜、荷包蛋、时蔬，并附送自选罐装饮料。份量十足，美味又超值。",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701020463",
+                                "name": "免费任选汽水一罐 Choice of Free Soft Drink",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701076863",
+                                        "name": "Coke Zero",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "코크 제로",
+                                                    "zh": "零度可口可乐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701099664",
+                                        "name": "Coca Cola",
+                                        "available": true,
+                                        "sortOrder": 9998,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "코카콜라",
+                                                    "zh": "可口可乐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701085183",
+                                        "name": "Sprite",
+                                        "available": true,
+                                        "sortOrder": 9997,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스프라이트",
+                                                    "zh": "雪碧"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701114546",
+                                        "name": "Fuze Tea Jasmine Green Tea",
+                                        "available": true,
+                                        "sortOrder": 9996,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "퓨즈 티 자스민 녹차",
+                                                    "zh": "富士茶茉莉绿茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701135399",
+                                        "name": "Authentic Tea House Ayataka",
+                                        "available": true,
+                                        "sortOrder": 9995,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "정통 차 하우스 아타카자",
+                                                    "zh": "正宗茶馆绫鹰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701124245",
+                                        "name": "Authentic Tea House Da Hong Pao",
+                                        "available": true,
+                                        "sortOrder": 9994,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "정통 차 하우스 대홍포",
+                                                    "zh": "正宗茶馆大红袍"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "무료 탄산음료 1캔 선택",
+                                            "zh": "免费任选汽水一罐 任选免费软饮料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1480,
+                        "priceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701095496/photo/48015ab65cd74f208343eaaefefd7356_1784185621738844949.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701095496/detail/48015ab65cd74f208343eaaefefd7356_1784185621738844949.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070701088693",
+                        "name": "豆豉鱼片便当 Black Bean Sauce Sliced Fish Bento Set",
+                        "priceInMinorUnit": 1480,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701088693/photo/0b4b72673e844da4a6a5adcf8b877032_1784185621537312521.webp",
+                        "description": "Enjoy a satisfying Bento Set served with fragrant rice, selected main dish, sunny-side egg, Seasonal Vegetables, and a FREE choice of canned drink. A complete meal packed with flavour and value.\n美味便当套餐，包含香喷喷白饭、精选主菜、荷包蛋、时蔬，并附送自选罐装饮料。份量十足，美味又超值。",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701020463",
+                                "name": "免费任选汽水一罐 Choice of Free Soft Drink",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701076863",
+                                        "name": "Coke Zero",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "코크 제로",
+                                                    "zh": "零度可口可乐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701099664",
+                                        "name": "Coca Cola",
+                                        "available": true,
+                                        "sortOrder": 9998,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "코카콜라",
+                                                    "zh": "可口可乐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701085183",
+                                        "name": "Sprite",
+                                        "available": true,
+                                        "sortOrder": 9997,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스프라이트",
+                                                    "zh": "雪碧"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701114546",
+                                        "name": "Fuze Tea Jasmine Green Tea",
+                                        "available": true,
+                                        "sortOrder": 9996,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "퓨즈 티 자스민 녹차",
+                                                    "zh": "富士茶茉莉绿茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701135399",
+                                        "name": "Authentic Tea House Ayataka",
+                                        "available": true,
+                                        "sortOrder": 9995,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "정통 차 하우스 아타카자",
+                                                    "zh": "正宗茶馆绫鹰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701124245",
+                                        "name": "Authentic Tea House Da Hong Pao",
+                                        "available": true,
+                                        "sortOrder": 9994,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "정통 차 하우스 대홍포",
+                                                    "zh": "正宗茶馆大红袍"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "무료 탄산음료 1캔 선택",
+                                            "zh": "免费任选汽水一罐 任选免费软饮料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1480,
+                        "priceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701088693/photo/0b4b72673e844da4a6a5adcf8b877032_1784185621537312521.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701088693/detail/0b4b72673e844da4a6a5adcf8b877032_1784185621537312521.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070701073854",
+                        "name": "鱼香茄子便当 Yu Xiang Eggplant Bento Set",
+                        "priceInMinorUnit": 1480,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701073854/photo/327d5a21ab5b4879ac7b9bbc770c9468_1784185621329873708.webp",
+                        "description": "Enjoy a satisfying Bento Set served with fragrant rice, selected main dish, sunny-side egg, Seasonal Vegetables, and a FREE choice of canned drink. A complete meal packed with flavour and value.\n美味便当套餐，包含香喷喷白饭、精选主菜、荷包蛋、时蔬，并附送自选罐装饮料。份量十足，美味又超值。",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20260716070701038431",
+                                "name": "米饭选择 Choice of Rice",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701052575",
+                                        "name": "香米饭 Steamed Rice",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "향기로운 찐밥",
+                                                    "zh": "香米饭 蒸饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701069852",
+                                        "name": "糙米饭 Brown Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "현미밥",
+                                                    "zh": "糙米饭糙米"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701018319",
+                                        "name": "南瓜饭 Pumpkin Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 50,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 50,
+                                            "amountDisplay": "0.50"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "호박밥",
+                                                    "zh": "南瓜饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701107536",
+                                        "name": "蛋炒饭 Egg Fried Rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 80,
+                                        "sortOrder": 9996,
+                                        "priceV2": {
+                                            "amountInMinor": 80,
+                                            "amountDisplay": "0.80"
+                                        },
+                                        "metadata": "{\"keep_unavailable_until\":\"2026-07-25T00:00:00+08:00\"}",
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란볶음밥",
+                                                    "zh": "鸡蛋炒饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "밥 선택",
+                                            "zh": "米饭选择"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701020463",
+                                "name": "免费任选汽水一罐 Choice of Free Soft Drink",
+                                "available": true,
+                                "selectionRangeMin": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701076863",
+                                        "name": "Coke Zero",
+                                        "available": true,
+                                        "sortOrder": 9999,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "코크 제로",
+                                                    "zh": "零度可口可乐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701099664",
+                                        "name": "Coca Cola",
+                                        "available": true,
+                                        "sortOrder": 9998,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "코카콜라",
+                                                    "zh": "可口可乐"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701085183",
+                                        "name": "Sprite",
+                                        "available": true,
+                                        "sortOrder": 9997,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "스프라이트",
+                                                    "zh": "雪碧"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701114546",
+                                        "name": "Fuze Tea Jasmine Green Tea",
+                                        "available": true,
+                                        "sortOrder": 9996,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "퓨즈 티 자스민 녹차",
+                                                    "zh": "富士茶茉莉绿茶"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701135399",
+                                        "name": "Authentic Tea House Ayataka",
+                                        "available": true,
+                                        "sortOrder": 9995,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "정통 차 하우스 아타카자",
+                                                    "zh": "正宗茶馆绫鹰"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701124245",
+                                        "name": "Authentic Tea House Da Hong Pao",
+                                        "available": true,
+                                        "sortOrder": 9994,
+                                        "priceV2": {},
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "정통 차 하우스 대홍포",
+                                                    "zh": "正宗茶馆大红袍"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "무료 탄산음료 1캔 선택",
+                                            "zh": "免费任选汽水一罐 任选免费软饮料"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "ID": "SGMOG20260716070701013551",
+                                "name": "Add On 加点",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20260716070701031593",
+                                        "name": "加荷包蛋 Add Sunny Side Up",
+                                        "available": true,
+                                        "priceInMinorUnit": 150,
+                                        "sortOrder": 9999,
+                                        "priceV2": {
+                                            "amountInMinor": 150,
+                                            "amountDisplay": "1.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "계란 프라이 추가",
+                                                    "zh": "加荷包蛋 加煎蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701049058",
+                                        "name": "加每日例汤 Add Daily Soup",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9998,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 수프 추가",
+                                                    "zh": "加每日例汤"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20260716070701026277",
+                                        "name": "加每日时蔬 Add Daily Veg",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 9997,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "데일리 채소 추가",
+                                                    "zh": "加每日时蔬"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "加点"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 1480,
+                        "priceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701073854/photo/327d5a21ab5b4879ac7b9bbc770c9468_1784185621329873708.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701073854/detail/327d5a21ab5b4879ac7b9bbc770c9468_1784185621329873708.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20260716070700014552",
+                "name": "Canned Drink",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260716070701060333",
+                        "name": "Coke Zero",
+                        "priceInMinorUnit": 380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701060333/photo/d0d5ea67aeee4078b77dbd75c1e6674d_1784185621117430545.webp",
+                        "discountedPriceInMin": 380,
+                        "priceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701060333/photo/d0d5ea67aeee4078b77dbd75c1e6674d_1784185621117430545.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070701060333/detail/d0d5ea67aeee4078b77dbd75c1e6674d_1784185621117430545.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070700057628",
+                        "name": "Coca Cola",
+                        "priceInMinorUnit": 380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700057628/photo/722f23371c1e49a988c26bb1bfb399b9_1784185620764901010.webp",
+                        "discountedPriceInMin": 380,
+                        "priceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700057628/photo/722f23371c1e49a988c26bb1bfb399b9_1784185620764901010.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700057628/detail/722f23371c1e49a988c26bb1bfb399b9_1784185620764901010.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070700047282",
+                        "name": "Sprite",
+                        "priceInMinorUnit": 380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700047282/photo/3348c2f76c1c4d568b78e2b9336518e0_1784185620619635480.webp",
+                        "discountedPriceInMin": 380,
+                        "priceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700047282/photo/3348c2f76c1c4d568b78e2b9336518e0_1784185620619635480.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700047282/detail/3348c2f76c1c4d568b78e2b9336518e0_1784185620619635480.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070700033047",
+                        "name": "Fuze Tea Jasmine Green Tea",
+                        "priceInMinorUnit": 380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700033047/photo/a69f40a8ff564c1399519d38c2d686a6_1784185620481637644.webp",
+                        "discountedPriceInMin": 380,
+                        "priceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_drug_ar\"]}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700033047/photo/a69f40a8ff564c1399519d38c2d686a6_1784185620481637644.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700033047/detail/a69f40a8ff564c1399519d38c2d686a6_1784185620481637644.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070700029370",
+                        "name": "Authentic Tea House Ayataka",
+                        "priceInMinorUnit": 380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700029370/photo/4b05e440975a42c18f2ff5c21cc61b9b_1784185620366742314.webp",
+                        "description": "No Sugar Japanese Green Tea",
+                        "discountedPriceInMin": 380,
+                        "priceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_FALSE\",\"labels\":[\"teen_alcohol_ar\"]}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700029370/photo/4b05e440975a42c18f2ff5c21cc61b9b_1784185620366742314.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700029370/detail/4b05e440975a42c18f2ff5c21cc61b9b_1784185620366742314.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260716070700011470",
+                        "name": "Authentic Tea House Da Hong Pao (Oolong Tea)",
+                        "priceInMinorUnit": 380,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700011470/photo/167a2345a8224b3792757b5bb3753205_1784185620053997642.webp",
+                        "description": "No Sugar Oolong Tea",
+                        "discountedPriceInMin": 380,
+                        "priceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 380,
+                            "amountDisplay": "3.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700011470/photo/167a2345a8224b3792757b5bb3753205_1784185620053997642.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20260716070700011470/detail/167a2345a8224b3792757b5bb3753205_1784185620053997642.webp"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 30000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 5,
+    "voteCount": 3,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1200,
+        "thresholdForDisplay": {
+            "amountInMinor": 1200,
+            "amountDisplay": "S$12.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$12.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$12.00, a small order fee of the difference between your order value & S$12.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C7TFWATYRPN2TN/photos/759b61e2-c5f3-4835-9155-27cab9cc1807__store_cover__2026__07__13__06__10__03.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Daily Zi Char 每日小炒 - Tampines Mall on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7TFWATYRPN2TN"
+    },
+    "chainName": "Daily Zi Char 每日小炒",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C7TFWATYRPN2TN/list/759b61e2-c5f3-4835-9155-27cab9cc1807__listing_photo__2026__07__13__06__10__19.webp",
+    "branchName": "Tampines Mall",
+    "roofTopBanner": {
+        "title": "Closed",
+        "type": "CLOSED"
+    },
+    "translationTags": [
+        "vegetarian"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

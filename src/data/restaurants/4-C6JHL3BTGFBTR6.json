@@ -1,0 +1,2294 @@
+{
+    "ID": "4-C6JHL3BTGFBTR6",
+    "name": "Gochi-So Shokudo x Tun Xiang - Tampines One",
+    "cuisine": "Japanese,Pork Dish,Japanese Rice Bowl",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C6JHL3BTGFBTR6/hero/597977c804ad406cbe737bca71811859_1731924151329660990.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "11:30am-8:30pm",
+        "mon": "11:30am-8:30pm",
+        "tue": "11:30am-8:30pm",
+        "wed": "11:30am-8:30pm",
+        "thu": "11:30am-8:30pm",
+        "fri": "11:30am-8:30pm",
+        "sat": "11:30am-8:30pm"
+    },
+    "address": {
+        "name": "Gochi-So Shokudo x Tun Xiang - Tampines One",
+        "combined_address": "10 Tampines Central 1, #03-10, #03-K1/K2, Tampines, 529536",
+        "combined_city": "Singapore",
+        "house": "#03-10, #03-K1/K2",
+        "street": "10 Tampines Central 1",
+        "suburb": "Tampines",
+        "postcode": "529536",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.354066,
+        "lng": 103.9451376
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20250808025531034856",
+                "name": "Special Promotions!",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20251203120803021501",
+                        "name": "Oyako Don Set",
+                        "available": true,
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120312080218222/photo/menueditor_item_49d5dc8282c9488db1b07a63bc5a02b0_1764763646308431887.avif",
+                        "description": "Chicken cooked with onions and a sweet sauce, poured over rice and topped up with an egg",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20251203120916034031",
+                                "name": "set items",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMin": 2,
+                                "selectionRangeMax": 2,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20251203120916047293",
+                                        "name": "Ice Lemon Tea",
+                                        "available": true,
+                                        "sortOrder": 2,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 2
+                                    },
+                                    {
+                                        "ID": "SGMOD20251203120916078922",
+                                        "name": "Miso Soup",
+                                        "available": true,
+                                        "sortOrder": 1,
+                                        "priceV2": {},
+                                        "maxModifierSelectionQuantity": 2
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120312080218222/photo/menueditor_item_49d5dc8282c9488db1b07a63bc5a02b0_1764763646308431887.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2025120312080218222/detail/menueditor_item_49d5dc8282c9488db1b07a63bc5a02b0_1764763646308431887.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240911091455038827",
+                "name": "Gochiso - Signature Items",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20241113112206026560",
+                        "name": "Signature Iberico Pork Jowl Don",
+                        "available": true,
+                        "priceInMinorUnit": 1900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111311220479726/photo/menueditor_item_710458e3b47e4dcfb54178d5fa0f966f_1731496884643935870.avif",
+                        "description": "Iberico Pork Jowl over rice.  Topped with Onsen Egg, Pickled Ginger, Spring Onion and drizzled with garlic Sauce",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1900,
+                        "priceV2": {
+                            "amountInMinor": 1900,
+                            "amountDisplay": "19.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1900,
+                            "amountDisplay": "19.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111311220479726/photo/menueditor_item_710458e3b47e4dcfb54178d5fa0f966f_1731496884643935870.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024111311220479726/detail/menueditor_item_710458e3b47e4dcfb54178d5fa0f966f_1731496884643935870.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240823072547179031",
+                "name": "Gochiso - Bento",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20241005194539020808",
+                        "name": "Iberico Pork Jowl & Pork Loin Katsu",
+                        "available": true,
+                        "priceInMinorUnit": 1890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519453876484/photo/menueditor_item_6ede32cd5f5345e4a738dd792117e60a_1730111146797411305.avif",
+                        "description": "Served with Rice Cabbage and some Curry Sauce",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1890,
+                        "priceV2": {
+                            "amountInMinor": 1890,
+                            "amountDisplay": "18.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1890,
+                            "amountDisplay": "18.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-09-13T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519453876484/photo/menueditor_item_6ede32cd5f5345e4a738dd792117e60a_1730111146797411305.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519453876484/detail/menueditor_item_6ede32cd5f5345e4a738dd792117e60a_1730111146797411305.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005194639029089",
+                        "name": "Teriyaki Chicken Nanban with Cheese Sauce",
+                        "available": true,
+                        "priceInMinorUnit": 1090,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519463821421/photo/menueditor_item_f4f344cf6d4e44b1aec1633d37418414_1730111097871983789.avif",
+                        "description": "Served with Rice, Cabbage and some Curry Sauce",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1090,
+                        "priceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1090,
+                            "amountDisplay": "10.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-11-26T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519463821421/photo/menueditor_item_f4f344cf6d4e44b1aec1633d37418414_1730111097871983789.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519463821421/detail/menueditor_item_f4f344cf6d4e44b1aec1633d37418414_1730111097871983789.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005194408021152",
+                        "name": "Iberico Black Char Siew & Pork Loin Katsu",
+                        "priceInMinorUnit": 1590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519440712483/photo/menueditor_item_b3c353ba6cc447b0bc4d07623e294a9d_1730111205613672094.avif",
+                        "description": "Served with Rice Cabbage and some Curry Sauce",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1590,
+                        "priceV2": {
+                            "amountInMinor": 1590,
+                            "amountDisplay": "15.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1590,
+                            "amountDisplay": "15.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-06-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519440712483/photo/menueditor_item_b3c353ba6cc447b0bc4d07623e294a9d_1730111205613672094.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519440712483/detail/menueditor_item_b3c353ba6cc447b0bc4d07623e294a9d_1730111205613672094.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005194507024779",
+                        "name": "Iberico Pork Jowl & Iberico Black Char Siew",
+                        "priceInMinorUnit": 1890,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519450732871/photo/menueditor_item_3c9f2146a9da4f1f8c0284d461040bc8_1730111284808353604.avif",
+                        "description": "Served with Rice Cabbage and some Curry Sauce",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1890,
+                        "priceV2": {
+                            "amountInMinor": 1890,
+                            "amountDisplay": "18.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1890,
+                            "amountDisplay": "18.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-06-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519450732871/photo/menueditor_item_3c9f2146a9da4f1f8c0284d461040bc8_1730111284808353604.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519450732871/detail/menueditor_item_3c9f2146a9da4f1f8c0284d461040bc8_1730111284808353604.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240823072547143833",
+                "name": "Gochiso - Tonkatsu Bento",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20241005192833026590",
+                        "name": "Pork Loin Katsu",
+                        "available": true,
+                        "priceInMinorUnit": 1490,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519283361518/photo/menueditor_item_152480d1ba8243e4980e60b3828d7fa7_1730111845297574111.avif",
+                        "description": "Served with Rice, Cabbage and Miso Soup",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1490,
+                        "priceV2": {
+                            "amountInMinor": 1490,
+                            "amountDisplay": "14.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1490,
+                            "amountDisplay": "14.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-08-14T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519283361518/photo/menueditor_item_152480d1ba8243e4980e60b3828d7fa7_1730111845297574111.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519283361518/detail/menueditor_item_152480d1ba8243e4980e60b3828d7fa7_1730111845297574111.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005193428026402",
+                        "name": "Mille Feuille Cheese Katsu",
+                        "available": true,
+                        "priceInMinorUnit": 1790,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519342893131/photo/menueditor_item_00e950a335c34ec9b05b492a94d0b16d_1730112144455325058.avif",
+                        "description": "Served with Rice, Cabbage and Miso Soup",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1790,
+                        "priceV2": {
+                            "amountInMinor": 1790,
+                            "amountDisplay": "17.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1790,
+                            "amountDisplay": "17.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519342893131/photo/menueditor_item_00e950a335c34ec9b05b492a94d0b16d_1730112144455325058.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519342893131/detail/menueditor_item_00e950a335c34ec9b05b492a94d0b16d_1730112144455325058.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005193918021320",
+                        "name": "Chicken Katsu",
+                        "available": true,
+                        "priceInMinorUnit": 1550,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519391823327/photo/menueditor_item_93472a8e54134751a4f65b9014891587_1730112415243109749.avif",
+                        "description": "Served with Rice, Cabbage and Miso Soup",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1550,
+                        "priceV2": {
+                            "amountInMinor": 1550,
+                            "amountDisplay": "15.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1550,
+                            "amountDisplay": "15.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519391823327/photo/menueditor_item_93472a8e54134751a4f65b9014891587_1730112415243109749.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519391823327/detail/menueditor_item_93472a8e54134751a4f65b9014891587_1730112415243109749.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241028113408022234",
+                        "name": "Chicken Katsu with Pork Floss Cheese",
+                        "priceInMinorUnit": 1650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024102811340790417/photo/menueditor_item_090f2ebccb494445ad5049a7ac6465f3_1730114988171568026.avif",
+                        "description": "Served with Rice, Cabbage and Miso Soup",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1650,
+                        "priceV2": {
+                            "amountInMinor": 1650,
+                            "amountDisplay": "16.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1650,
+                            "amountDisplay": "16.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-05-03T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024102811340790417/photo/menueditor_item_090f2ebccb494445ad5049a7ac6465f3_1730114988171568026.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024102811340790417/detail/menueditor_item_090f2ebccb494445ad5049a7ac6465f3_1730114988171568026.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005193054021699",
+                        "name": "Pork Loin Katsu with Pork Floss Cheese",
+                        "priceInMinorUnit": 1650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519305363688/photo/menueditor_item_bfc11ca712054ccc99e4ea1c3f2e5f2f_1730111960516568502.avif",
+                        "description": "Served with Rice, Cabbage and Miso Soup",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1650,
+                        "priceV2": {
+                            "amountInMinor": 1650,
+                            "amountDisplay": "16.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1650,
+                            "amountDisplay": "16.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-05-03T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519305363688/photo/menueditor_item_bfc11ca712054ccc99e4ea1c3f2e5f2f_1730111960516568502.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519305363688/detail/menueditor_item_bfc11ca712054ccc99e4ea1c3f2e5f2f_1730111960516568502.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005193536022668",
+                        "name": "Mille Feuille Cheese Katsu with Pork Floss Cheese",
+                        "priceInMinorUnit": 1850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519353575590/photo/menueditor_item_1435176599b04b5a92ffc932df9620cb_1730112200119415450.avif",
+                        "description": "Served with Rice, Cabbage and Miso Soup",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1850,
+                        "priceV2": {
+                            "amountInMinor": 1850,
+                            "amountDisplay": "18.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1850,
+                            "amountDisplay": "18.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-05-03T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519353575590/photo/menueditor_item_1435176599b04b5a92ffc932df9620cb_1730112200119415450.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519353575590/detail/menueditor_item_1435176599b04b5a92ffc932df9620cb_1730112200119415450.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240823072547122118",
+                "name": "Gochiso - Tonkatsu Curry",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20241005195153029861",
+                        "name": "Pork Loin Katsu Curry",
+                        "available": true,
+                        "priceInMinorUnit": 1650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519515146579/photo/menueditor_item_fabde8ab4a6f46ffa5521db9efcbfd70_1730113486971495544.avif",
+                        "description": "Served with Rice, Curry Sauce, Pickled Ginger and Cabbage",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1650,
+                        "priceV2": {
+                            "amountInMinor": 1650,
+                            "amountDisplay": "16.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1650,
+                            "amountDisplay": "16.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519515146579/photo/menueditor_item_fabde8ab4a6f46ffa5521db9efcbfd70_1730113486971495544.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519515146579/detail/menueditor_item_fabde8ab4a6f46ffa5521db9efcbfd70_1730113486971495544.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005195042025441",
+                        "name": "Mille Feuille Cheese Katsu Curry",
+                        "available": true,
+                        "priceInMinorUnit": 1850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519504022470/photo/menueditor_item_253f07fe83ae44a6943e1bcb67e43b4b_1730113645547030856.avif",
+                        "description": "Served with Rice, Curry Sauce, Pickled Ginger and Cabbage",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1850,
+                        "priceV2": {
+                            "amountInMinor": 1850,
+                            "amountDisplay": "18.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1850,
+                            "amountDisplay": "18.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519504022470/photo/menueditor_item_253f07fe83ae44a6943e1bcb67e43b4b_1730113645547030856.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519504022470/detail/menueditor_item_253f07fe83ae44a6943e1bcb67e43b4b_1730113645547030856.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005195336028218",
+                        "name": "Chicken Katsu Curry",
+                        "available": true,
+                        "priceInMinorUnit": 1590,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519533456102/photo/menueditor_item_3e02a5ee3ec44461abca0b2346b61887_1729827161777052239.avif",
+                        "description": "Served with Rice, Curry Sauce, Pickled Ginger and Cabbage",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1590,
+                        "priceV2": {
+                            "amountInMinor": 1590,
+                            "amountDisplay": "15.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1590,
+                            "amountDisplay": "15.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519533456102/photo/menueditor_item_3e02a5ee3ec44461abca0b2346b61887_1729827161777052239.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519533456102/detail/menueditor_item_3e02a5ee3ec44461abca0b2346b61887_1729827161777052239.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005195314024406",
+                        "name": "Pork Loin Katsu with Pork Floss Cheese Curry",
+                        "priceInMinorUnit": 1750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519531460400/photo/menueditor_item_2cbb86146fb1438fa6b9d8f6fcb0be8d_1729828047022949907.avif",
+                        "description": "Served with Rice, Curry Sauce, Pickled Ginger and Cabbage",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1750,
+                        "priceV2": {
+                            "amountInMinor": 1750,
+                            "amountDisplay": "17.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1750,
+                            "amountDisplay": "17.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-05-03T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519531460400/photo/menueditor_item_2cbb86146fb1438fa6b9d8f6fcb0be8d_1729828047022949907.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519531460400/detail/menueditor_item_2cbb86146fb1438fa6b9d8f6fcb0be8d_1729828047022949907.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005195113026142",
+                        "name": "Mille Feuille Cheese Katsu with Pork Floss Curry",
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519511242268/photo/menueditor_item_38367c0bd03c413ca942c2029fed8508_1730113685348112025.avif",
+                        "description": "Served with Rice, Curry Sauce, Pickled Ginger and Cabbage",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-05-03T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519511242268/photo/menueditor_item_38367c0bd03c413ca942c2029fed8508_1730113685348112025.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519511242268/detail/menueditor_item_38367c0bd03c413ca942c2029fed8508_1730113685348112025.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241005195222023516",
+                        "name": "Chicken Katsu with Pork Floss Cheese Curry",
+                        "priceInMinorUnit": 1650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519522131525/photo/menueditor_item_2447d50451e94bcfa8a4dfc93ad39b61_1730113730221141973.avif",
+                        "description": "Served with Rice, Curry Sauce, Pickled Ginger and Cabbage",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG20241113124825035753",
+                                "name": "Add ons",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 1,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20241113124825056491",
+                                        "name": "Add Cheese Roll (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 280,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 280,
+                                            "amountDisplay": "2.80"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113125324028528",
+                                        "name": "Add Ebi Prawn (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 290,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 290,
+                                            "amountDisplay": "2.90"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    },
+                                    {
+                                        "ID": "SGMOD20241113124825083009",
+                                        "name": "Add Crab Cream Croquette (1pc)",
+                                        "available": true,
+                                        "priceInMinorUnit": 250,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 250,
+                                            "amountDisplay": "2.50"
+                                        },
+                                        "maxModifierSelectionQuantity": 1
+                                    }
+                                ]
+                            }
+                        ],
+                        "discountedPriceInMin": 1650,
+                        "priceV2": {
+                            "amountInMinor": 1650,
+                            "amountDisplay": "16.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1650,
+                            "amountDisplay": "16.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-05-03T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519522131525/photo/menueditor_item_2447d50451e94bcfa8a4dfc93ad39b61_1730113730221141973.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024100519522131525/detail/menueditor_item_2447d50451e94bcfa8a4dfc93ad39b61_1730113730221141973.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240823072547109318",
+                "name": "Gochiso - Sides",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE202408230725471129258",
+                        "name": "Iberico Jowl Char Siew (6pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 1880,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149261375/photo/menueditor_item_cd268bd113964d429f4eb94383ad5002_1730114204915321182.avif",
+                        "discountedPriceInMin": 1880,
+                        "priceV2": {
+                            "amountInMinor": 1880,
+                            "amountDisplay": "18.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1880,
+                            "amountDisplay": "18.80"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149261375/photo/menueditor_item_cd268bd113964d429f4eb94383ad5002_1730114204915321182.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149261375/detail/menueditor_item_cd268bd113964d429f4eb94383ad5002_1730114204915321182.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471131156",
+                        "name": "Chese Roll Katsu (2pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354121777/photo/menueditor_item_19d52bfb429441e893f8e28b49cdc52f_1724291492585124033.avif",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354121777/photo/menueditor_item_19d52bfb429441e893f8e28b49cdc52f_1724291492585124033.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354121777/detail/menueditor_item_19d52bfb429441e893f8e28b49cdc52f_1724291492585124033.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471149242",
+                        "name": "Ebi Katsu (2pcs)",
+                        "available": true,
+                        "priceInMinorUnit": 750,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354136986/photo/menueditor_item_31f46211863d4fcda52b3dbdf4ac77d7_1724291540077560492.avif",
+                        "discountedPriceInMin": 750,
+                        "priceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 750,
+                            "amountDisplay": "7.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354136986/photo/menueditor_item_31f46211863d4fcda52b3dbdf4ac77d7_1724291540077560492.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354136986/detail/menueditor_item_31f46211863d4fcda52b3dbdf4ac77d7_1724291540077560492.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471154972",
+                        "name": "Cream Crab Croquette (2pc)",
+                        "available": true,
+                        "priceInMinorUnit": 550,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355015898/photo/menueditor_item_b32b41a0b8344127bfe862d446c6fea1_1724291566297390563.avif",
+                        "discountedPriceInMin": 550,
+                        "priceV2": {
+                            "amountInMinor": 550,
+                            "amountDisplay": "5.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 550,
+                            "amountDisplay": "5.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355015898/photo/menueditor_item_b32b41a0b8344127bfe862d446c6fea1_1724291566297390563.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355015898/detail/menueditor_item_b32b41a0b8344127bfe862d446c6fea1_1724291566297390563.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241012092828022198",
+                        "name": "French Fries and Squid Karaage",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024101209282661447/photo/menueditor_item_16269f7987ad4882872c1ba832834547_1728725273241821508.avif",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024101209282661447/photo/menueditor_item_16269f7987ad4882872c1ba832834547_1728725273241821508.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024101209282661447/detail/menueditor_item_16269f7987ad4882872c1ba832834547_1728725273241821508.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20241012092940020678",
+                        "name": "French Fries and Crispy Pork",
+                        "available": true,
+                        "priceInMinorUnit": 650,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024101209293833311/photo/menueditor_item_c784267e35504a5dbfd5a2fecd4ceaf1_1728725350740190185.avif",
+                        "discountedPriceInMin": 650,
+                        "priceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 650,
+                            "amountDisplay": "6.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-03-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024101209293833311/photo/menueditor_item_c784267e35504a5dbfd5a2fecd4ceaf1_1728725350740190185.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024101209293833311/detail/menueditor_item_c784267e35504a5dbfd5a2fecd4ceaf1_1728725350740190185.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471001368",
+                        "name": "Japanese Rice",
+                        "available": true,
+                        "priceInMinorUnit": 250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054353098439/photo/menueditor_item_2f778ce8e578406b8b719e40daef58fb_1724291796618135987.avif",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054353098439/photo/menueditor_item_2f778ce8e578406b8b719e40daef58fb_1724291796618135987.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054353098439/detail/menueditor_item_2f778ce8e578406b8b719e40daef58fb_1724291796618135987.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471025727",
+                        "name": "Cabbage Salad",
+                        "available": true,
+                        "priceInMinorUnit": 290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354014020/photo/menueditor_item_757a67f021704c0c9ab76361c2fbbf54_1724291852233910884.avif",
+                        "discountedPriceInMin": 290,
+                        "priceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354014020/photo/menueditor_item_757a67f021704c0c9ab76361c2fbbf54_1724291852233910884.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354014020/detail/menueditor_item_757a67f021704c0c9ab76361c2fbbf54_1724291852233910884.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471042180",
+                        "name": "French Fries",
+                        "available": true,
+                        "priceInMinorUnit": 390,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354033301/photo/menueditor_item_0adb2429d357462190b0d1993ee43862_1724291895702363114.avif",
+                        "discountedPriceInMin": 390,
+                        "priceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-08-11T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354033301/photo/menueditor_item_0adb2429d357462190b0d1993ee43862_1724291895702363114.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354033301/detail/menueditor_item_0adb2429d357462190b0d1993ee43862_1724291895702363114.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471068485",
+                        "name": "Crispy Pork",
+                        "available": true,
+                        "priceInMinorUnit": 580,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354051616/photo/menueditor_item_d723ae2f05f44c57a5625b3fd8608075_1724291936983846361.avif",
+                        "discountedPriceInMin": 580,
+                        "priceV2": {
+                            "amountInMinor": 580,
+                            "amountDisplay": "5.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 580,
+                            "amountDisplay": "5.80"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-03-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354051616/photo/menueditor_item_d723ae2f05f44c57a5625b3fd8608075_1724291936983846361.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354051616/detail/menueditor_item_d723ae2f05f44c57a5625b3fd8608075_1724291936983846361.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471079126",
+                        "name": "Squid Karaage",
+                        "available": true,
+                        "priceInMinorUnit": 580,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149217221/photo/menueditor_item_3e3736eb57be405ea4b54be269044cab_1728158410088303504.avif",
+                        "discountedPriceInMin": 580,
+                        "priceV2": {
+                            "amountInMinor": 580,
+                            "amountDisplay": "5.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 580,
+                            "amountDisplay": "5.80"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149217221/photo/menueditor_item_3e3736eb57be405ea4b54be269044cab_1728158410088303504.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149217221/detail/menueditor_item_3e3736eb57be405ea4b54be269044cab_1728158410088303504.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471101636",
+                        "name": "Miso Soup",
+                        "available": true,
+                        "priceInMinorUnit": 290,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354094086/photo/menueditor_item_ade45b708f8a4e6b8fcc5daa16903b50_1724291975254270779.avif",
+                        "discountedPriceInMin": 290,
+                        "priceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 290,
+                            "amountDisplay": "2.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354094086/photo/menueditor_item_ade45b708f8a4e6b8fcc5daa16903b50_1724291975254270779.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354094086/detail/menueditor_item_ade45b708f8a4e6b8fcc5daa16903b50_1724291975254270779.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471118150",
+                        "name": "Iberico Black Char Siew (6pc)",
+                        "priceInMinorUnit": 1600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149253346/photo/menueditor_item_f0269f0bad68429c844ba5ba77eb267f_1730114231420768978.avif",
+                        "discountedPriceInMin": 1600,
+                        "priceV2": {
+                            "amountInMinor": 1600,
+                            "amountDisplay": "16.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1600,
+                            "amountDisplay": "16.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-06-22T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149253346/photo/menueditor_item_f0269f0bad68429c844ba5ba77eb267f_1730114231420768978.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149253346/detail/menueditor_item_f0269f0bad68429c844ba5ba77eb267f_1730114231420768978.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471056988",
+                        "name": "Mixed Salad",
+                        "priceInMinorUnit": 390,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149193975/photo/menueditor_item_2849cc41dc6d4ff1a83e892a956cca60_1728158393182055189.avif",
+                        "discountedPriceInMin": 390,
+                        "priceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 390,
+                            "amountDisplay": "3.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-05-31T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149193975/photo/menueditor_item_2849cc41dc6d4ff1a83e892a956cca60_1728158393182055189.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149193975/detail/menueditor_item_2849cc41dc6d4ff1a83e892a956cca60_1728158393182055189.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240823072547090639",
+                "name": "Gochiso - Beverage",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE202408230725471083889",
+                        "name": "Coke",
+                        "available": true,
+                        "priceInMinorUnit": 250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354077456/photo/menueditor_item_f909d1c3cb7e4873a0006ef88e02c937_1724291607551457634.avif",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354077456/photo/menueditor_item_f909d1c3cb7e4873a0006ef88e02c937_1724291607551457634.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354077456/detail/menueditor_item_f909d1c3cb7e4873a0006ef88e02c937_1724291607551457634.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471098847",
+                        "name": "Ayataka",
+                        "priceInMinorUnit": 250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354083912/photo/menueditor_item_1297ee8e131c40e299b142f9a93a3b77_1724291652157382027.avif",
+                        "discountedPriceInMin": 250,
+                        "priceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 250,
+                            "amountDisplay": "2.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2025-09-30T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354083912/photo/menueditor_item_1297ee8e131c40e299b142f9a93a3b77_1724291652157382027.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054354083912/detail/menueditor_item_1297ee8e131c40e299b142f9a93a3b77_1724291652157382027.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240912110344033745",
+                "name": "Tun Xiang - Bundle Meals",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260728004822029058",
+                        "name": "Promotion Set",
+                        "available": true,
+                        "priceInMinorUnit": 3990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800482104287/photo/menueditor_item_4bc9fba174a64571aaf839c2fd22d24e_1785199631384258377.avif",
+                        "description": "A set menu comprising of Ginger & Spring Onion Iberico Pork, Shacha Chicken, Luffa Gourd & Fish Tofu in Golden Broth, and 2 Rice",
+                        "discountedPriceInMin": 3990,
+                        "priceV2": {
+                            "amountInMinor": 3990,
+                            "amountDisplay": "39.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 3990,
+                            "amountDisplay": "39.90"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800482104287/photo/menueditor_item_4bc9fba174a64571aaf839c2fd22d24e_1785199631384258377.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800482104287/detail/menueditor_item_4bc9fba174a64571aaf839c2fd22d24e_1785199631384258377.avif"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20240823072547085571",
+                "name": "Tun Xiang Mains",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE20260728005149026761",
+                        "name": "Shacha Chicken 沙茶奶油鸡块",
+                        "available": true,
+                        "priceInMinorUnit": 1950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800514898769/photo/menueditor_item_00485a3c38b44901a67e889e0e8ea174_1785199884703011665.avif",
+                        "description": "Shacha Chicken 沙茶奶油鸡块",
+                        "discountedPriceInMin": 1950,
+                        "priceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1950,
+                            "amountDisplay": "19.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800514898769/photo/menueditor_item_00485a3c38b44901a67e889e0e8ea174_1785199884703011665.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800514898769/detail/menueditor_item_00485a3c38b44901a67e889e0e8ea174_1785199884703011665.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260728005104021734",
+                        "name": "Luffa Gourd & Fish Tofu in Golden Broth 金汤丝瓜鱼腐",
+                        "available": true,
+                        "priceInMinorUnit": 1680,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800510428314/photo/menueditor_item_8ca4adacae13435a95d15f4d817c3595_1785199843725124718.avif",
+                        "description": "Luffa Gourd & Fish Tofu in Golden Broth 金汤丝瓜鱼腐",
+                        "discountedPriceInMin": 1680,
+                        "priceV2": {
+                            "amountInMinor": 1680,
+                            "amountDisplay": "16.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1680,
+                            "amountDisplay": "16.80"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800510428314/photo/menueditor_item_8ca4adacae13435a95d15f4d817c3595_1785199843725124718.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800510428314/detail/menueditor_item_8ca4adacae13435a95d15f4d817c3595_1785199843725124718.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20260728004954022598",
+                        "name": "Ginger & Spring Onion Iberico Pork 爆炒姜葱黑猪肉",
+                        "available": true,
+                        "priceInMinorUnit": 2250,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800495310427/photo/menueditor_item_db733dea698e4d34bfe6bd7debf0013b_1785199747195746842.avif",
+                        "description": "Ginger & Spring Onion Iberico Pork 爆炒姜葱黑猪肉",
+                        "discountedPriceInMin": 2250,
+                        "priceV2": {
+                            "amountInMinor": 2250,
+                            "amountDisplay": "22.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 2250,
+                            "amountDisplay": "22.50"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800495310427/photo/menueditor_item_db733dea698e4d34bfe6bd7debf0013b_1785199747195746842.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2026072800495310427/detail/menueditor_item_db733dea698e4d34bfe6bd7debf0013b_1785199747195746842.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20240912110716024030",
+                        "name": "Iberico Lala Bee Hoon 黑猪啦啦米粉",
+                        "available": true,
+                        "priceInMinorUnit": 1480,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024091211071460897/photo/menueditor_item_8f02ecc7f266464dbd476a804dd95cf2_1732257372238237692.avif",
+                        "description": "White Beehoon Noodles Soup with Iberico Pork and Lala clams cooked with salted vegetables and tomatoes.",
+                        "discountedPriceInMin": 1480,
+                        "priceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1480,
+                            "amountDisplay": "14.80"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024091211071460897/photo/menueditor_item_8f02ecc7f266464dbd476a804dd95cf2_1732257372238237692.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE2024091211071460897/detail/menueditor_item_8f02ecc7f266464dbd476a804dd95cf2_1732257372238237692.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471166022",
+                        "name": "1）Signature Hokkien Mee 招牌黑猪福建面",
+                        "available": true,
+                        "priceInMinorUnit": 1080,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355024159/photo/menueditor_item_80baed0130054dc39a679a03c2985117_1724292091003101824.avif",
+                        "description": "Noodles fried with a seafood soup base and bean sprouts with added Iberico Pork, Squid and Prawns.\n\nNote:  Bean Spouts is inclusive with the noodles.",
+                        "discountedPriceInMin": 1080,
+                        "priceV2": {
+                            "amountInMinor": 1080,
+                            "amountDisplay": "10.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1080,
+                            "amountDisplay": "10.80"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355024159/photo/menueditor_item_80baed0130054dc39a679a03c2985117_1724292091003101824.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355024159/detail/menueditor_item_80baed0130054dc39a679a03c2985117_1724292091003101824.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471177859",
+                        "name": "2) Crispy Nanru Iberico Pork 家乡南乳炸肉",
+                        "available": true,
+                        "priceInMinorUnit": 1700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355032992/photo/menueditor_item_04336c55d2924caa889bad400405806c_1724292140745415623.avif",
+                        "discountedPriceInMin": 1700,
+                        "priceV2": {
+                            "amountInMinor": 1700,
+                            "amountDisplay": "17.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1700,
+                            "amountDisplay": "17.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355032992/photo/menueditor_item_04336c55d2924caa889bad400405806c_1724292140745415623.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355032992/detail/menueditor_item_04336c55d2924caa889bad400405806c_1724292140745415623.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471186614",
+                        "name": "3）Wok-fry Bean Sprouts Qing Long Cai 爆炒青龙菜豆芽",
+                        "available": true,
+                        "priceInMinorUnit": 1260,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355043727/photo/menueditor_item_d1c79511f0374113a98c521053f6b285_1724292192605119572.avif",
+                        "discountedPriceInMin": 1260,
+                        "priceV2": {
+                            "amountInMinor": 1260,
+                            "amountDisplay": "12.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1260,
+                            "amountDisplay": "12.60"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-08-08T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355043727/photo/menueditor_item_d1c79511f0374113a98c521053f6b285_1724292192605119572.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355043727/detail/menueditor_item_d1c79511f0374113a98c521053f6b285_1724292192605119572.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471210357",
+                        "name": "6)Deep-fry Iberico Pork with Fried Beancurd (Tau Pok)-12pc 酥炸黑猪酿豆卜",
+                        "available": true,
+                        "priceInMinorUnit": 1260,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355075082/photo/menueditor_item_85ffb213100b4a678852f90d620af6c7_1724306847041006528.avif",
+                        "discountedPriceInMin": 1260,
+                        "priceV2": {
+                            "amountInMinor": 1260,
+                            "amountDisplay": "12.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1260,
+                            "amountDisplay": "12.60"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355075082/photo/menueditor_item_85ffb213100b4a678852f90d620af6c7_1724306847041006528.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355075082/detail/menueditor_item_85ffb213100b4a678852f90d620af6c7_1724306847041006528.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471234936",
+                        "name": "8) Oyster Sauce Baby Kailan with Iberico Jowl 蚝油芥兰炒猪颈肉",
+                        "available": true,
+                        "priceInMinorUnit": 1260,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355094560/photo/menueditor_item_8e1f07c8925646ba91850d740d208b32_1724306901571493029.avif",
+                        "discountedPriceInMin": 1260,
+                        "priceV2": {
+                            "amountInMinor": 1260,
+                            "amountDisplay": "12.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1260,
+                            "amountDisplay": "12.60"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-08-07T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355094560/photo/menueditor_item_8e1f07c8925646ba91850d740d208b32_1724306901571493029.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355094560/detail/menueditor_item_8e1f07c8925646ba91850d740d208b32_1724306901571493029.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471240475",
+                        "name": "9) Fish Maw Pig Stomach Collagen Soup 胶原胡椒鱼鳔猪肚汤",
+                        "available": true,
+                        "priceInMinorUnit": 1900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355104173/photo/menueditor_item_ff5a4e813b464ffc92a415168c75b393_1724306926106491058.avif",
+                        "discountedPriceInMin": 1900,
+                        "priceV2": {
+                            "amountInMinor": 1900,
+                            "amountDisplay": "19.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1900,
+                            "amountDisplay": "19.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355104173/photo/menueditor_item_ff5a4e813b464ffc92a415168c75b393_1724306926106491058.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355104173/detail/menueditor_item_ff5a4e813b464ffc92a415168c75b393_1724306926106491058.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471257728",
+                        "name": "10)Bitter Gourd Egg 苦瓜炒蛋",
+                        "available": true,
+                        "priceInMinorUnit": 1260,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149393994/photo/menueditor_item_8d57f9eab3ca41109c4717475b9ced62_1730114866547988229.avif",
+                        "discountedPriceInMin": 1260,
+                        "priceV2": {
+                            "amountInMinor": 1260,
+                            "amountDisplay": "12.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1260,
+                            "amountDisplay": "12.60"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149393994/photo/menueditor_item_8d57f9eab3ca41109c4717475b9ced62_1730114866547988229.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240823071149393994/detail/menueditor_item_8d57f9eab3ca41109c4717475b9ced62_1730114866547988229.avif"
+                        ],
+                        "dietary": [
+                            "dietaryPreferences_vegetarian"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471284764",
+                        "name": "13) Pork Trotter with Fish Maw 鱼鳔们猪蹄",
+                        "available": true,
+                        "priceInMinorUnit": 1900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355141929/photo/menueditor_item_90a629cf3146418c9fc12a1752a165b8_1724307020669300731.avif",
+                        "discountedPriceInMin": 1900,
+                        "priceV2": {
+                            "amountInMinor": 1900,
+                            "amountDisplay": "19.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1900,
+                            "amountDisplay": "19.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355141929/photo/menueditor_item_90a629cf3146418c9fc12a1752a165b8_1724307020669300731.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355141929/detail/menueditor_item_90a629cf3146418c9fc12a1752a165b8_1724307020669300731.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471291501",
+                        "name": "14) Satay (6pc) 沙爹",
+                        "available": true,
+                        "priceInMinorUnit": 1080,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054356018302/photo/menueditor_item_633b40896dee4a25ae8109aa432710da_1724307068295012701.avif",
+                        "description": "Pork Skewers (Satay) - 6 sticks",
+                        "discountedPriceInMin": 1080,
+                        "priceV2": {
+                            "amountInMinor": 1080,
+                            "amountDisplay": "10.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1080,
+                            "amountDisplay": "10.80"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054356018302/photo/menueditor_item_633b40896dee4a25ae8109aa432710da_1724307068295012701.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054356018302/detail/menueditor_item_633b40896dee4a25ae8109aa432710da_1724307068295012701.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471195459",
+                        "name": "4）Salted Eggs Pork Ribs 咸蛋排骨王",
+                        "priceInMinorUnit": 1700,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355058492/photo/menueditor_item_ea9f97fdae1f4ac3b8c83761d7a8c14d_1724306160155073449.avif",
+                        "discountedPriceInMin": 1700,
+                        "priceV2": {
+                            "amountInMinor": 1700,
+                            "amountDisplay": "17.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1700,
+                            "amountDisplay": "17.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"9999-12-31T23:59:59Z\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355058492/photo/menueditor_item_ea9f97fdae1f4ac3b8c83761d7a8c14d_1724306160155073449.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355058492/detail/menueditor_item_ea9f97fdae1f4ac3b8c83761d7a8c14d_1724306160155073449.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471206478",
+                        "name": "5) Crispy Nanru Chicken 香脆南乳炸鸡",
+                        "priceInMinorUnit": 1300,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355061859/photo/menueditor_item_d27d2ee5f7b24e878d59aca395b1d82d_1724306182837812757.avif",
+                        "discountedPriceInMin": 1300,
+                        "priceV2": {
+                            "amountInMinor": 1300,
+                            "amountDisplay": "13.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1300,
+                            "amountDisplay": "13.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-04-28T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355061859/photo/menueditor_item_d27d2ee5f7b24e878d59aca395b1d82d_1724306182837812757.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355061859/detail/menueditor_item_d27d2ee5f7b24e878d59aca395b1d82d_1724306182837812757.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471222116",
+                        "name": "7) Crispy Gyoza (12 Pc) 饺子",
+                        "priceInMinorUnit": 1460,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355088124/photo/menueditor_item_72c0b161d2704d3298c68a5bcd1f077a_1724306877517097380.avif",
+                        "discountedPriceInMin": 1460,
+                        "priceV2": {
+                            "amountInMinor": 1460,
+                            "amountDisplay": "14.60"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1460,
+                            "amountDisplay": "14.60"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-05-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355088124/photo/menueditor_item_72c0b161d2704d3298c68a5bcd1f077a_1724306877517097380.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355088124/detail/menueditor_item_72c0b161d2704d3298c68a5bcd1f077a_1724306877517097380.avif"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE202408230725471269474",
+                        "name": "11) Oyster Omelette 鲜蚝煎蛋",
+                        "priceInMinorUnit": 1500,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355127393/photo/menueditor_item_24490422f15f41b3a006ddbc4494f222_1724306957305893129.avif",
+                        "discountedPriceInMin": 1500,
+                        "priceV2": {
+                            "amountInMinor": 1500,
+                            "amountDisplay": "15.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 1500,
+                            "amountDisplay": "15.00"
+                        },
+                        "metadata": "{\"discounts\":{},\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}},\"keep_unavailable_until\":\"2026-05-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355127393/photo/menueditor_item_24490422f15f41b3a006ddbc4494f222_1724306957305893129.avif"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_avif/items/SGITE20240813054355127393/detail/menueditor_item_24490422f15f41b3a006ddbc4494f222_1724306957305893129.avif"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 3.9,
+    "voteCount": 91,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "announcement": [
+        {
+            "desc": "Displaying vegetarian items only",
+            "priority": 3,
+            "announcementType": 9
+        }
+    ],
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Gochi-So Shokudo x Tun Xiang - Tampines One on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C6JHL3BTGFBTR6"
+    },
+    "chainName": "Gochi-So Shokudo x Tun Xiang",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C6JHL3BTGFBTR6/list/9c825894ef1a4ce59e564cbc448c3e4a_1722998465857130767.avif",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 11:30 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T03:30:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

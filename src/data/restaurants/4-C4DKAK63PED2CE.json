@@ -1,0 +1,2362 @@
+{
+    "ID": "4-C4DKAK63PED2CE",
+    "name": "Hong Le Korean Cuisine - Changi City Point",
+    "cuisine": "Korean,Bibimbap,Ramen",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C4DKAK63PED2CE/hero/43e3d9654d5d4026938e4ec1f3fdebeb_1691745199035072415.webp",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "10:00am-8:00pm",
+        "mon": "10:00am-8:00pm",
+        "tue": "10:00am-8:00pm",
+        "wed": "10:00am-8:00pm",
+        "thu": "10:00am-8:00pm",
+        "fri": "10:00am-8:00pm",
+        "sat": "10:00am-8:00pm"
+    },
+    "address": {
+        "name": "Hong Le Korean Cuisine - Changi City Point",
+        "combined_address": "5, Changi Business Park Central 1, #02-01, Tampines, 486038",
+        "combined_city": "Singapore",
+        "house": "#02-01",
+        "street": "5, Changi Business Park Central 1",
+        "suburb": "Tampines",
+        "postcode": "486038",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3344356,
+        "lng": 103.9630524
+    },
+    "menu": {
+        "categories": [
+            {
+                "ID": "SGCAT20230616083558010781",
+                "name": "Hotplates",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025061913150231754",
+                        "name": "Teriyaki Chicken Set",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913150231754/photo/menueditor_item_c9be9cf9e64d4624ac61d88d6079cfc6_1750338876911653460.webp",
+                        "description": "Crispy fried chicken, fresh lettuce, savory dipping sauce, fragrant rice.",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913150231754/photo/menueditor_item_c9be9cf9e64d4624ac61d88d6079cfc6_1750338876911653460.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913150231754/detail/menueditor_item_c9be9cf9e64d4624ac61d88d6079cfc6_1750338876911653460.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025061913140795607",
+                        "name": "Salmon Fish Set",
+                        "available": true,
+                        "priceInMinorUnit": 900,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913140795607/photo/menueditor_item_c1db2b1a97ff45189e7b6d74b010e457_1750338828190103312.webp",
+                        "description": "Succulent salmon with savory sauce, served on a bed of fresh lettuce.",
+                        "discountedPriceInMin": 900,
+                        "priceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 900,
+                            "amountDisplay": "9.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913140795607/photo/menueditor_item_c1db2b1a97ff45189e7b6d74b010e457_1750338828190103312.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913140795607/detail/menueditor_item_c1db2b1a97ff45189e7b6d74b010e457_1750338828190103312.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025061913131319494",
+                        "name": "Teriyaki Chicken With Yakitori Set",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913131319494/photo/menueditor_item_7f27a20df8594e8bbc709ee3832d241f_1750338750537906022.webp",
+                        "description": "Juicy teriyaki chicken, flavorful yakitori, fragrant rice, zesty kimchi.",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913131319494/photo/menueditor_item_7f27a20df8594e8bbc709ee3832d241f_1750338750537906022.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913131319494/detail/menueditor_item_7f27a20df8594e8bbc709ee3832d241f_1750338750537906022.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025061912493680745",
+                        "name": "Chicken Bibimbap",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061912493680745/photo/menueditor_item_18a2540fe6624ac8b9147b7eff39a7d1_1750337295030789543.webp",
+                        "description": "Savory chicken, fresh vegetables, sunny-side egg, and flavorful rice.",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-10-29T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061912493680745/photo/menueditor_item_18a2540fe6624ac8b9147b7eff39a7d1_1750337295030789543.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061912493680745/detail/menueditor_item_18a2540fe6624ac8b9147b7eff39a7d1_1750337295030789543.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558044520",
+                        "name": "Hotplate Saba Fish & BBQ Chicken Set",
+                        "available": true,
+                        "priceInMinorUnit": 950,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558044520/photo/f7463ece96984c5294684e825775a979_1691745165262527186.webp",
+                        "description": "Grilled saba fish and BBQ chicken, a flavorful combo!",
+                        "discountedPriceInMin": 950,
+                        "priceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 950,
+                            "amountDisplay": "9.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-09-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558044520/photo/f7463ece96984c5294684e825775a979_1691745165262527186.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558044520/detail/f7463ece96984c5294684e825775a979_1691745165262527186.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558052539",
+                        "name": "Hotplate Saba Fish Set",
+                        "available": true,
+                        "priceInMinorUnit": 780,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558052539/photo/menueditor_item_2d3f8909a55b4778a1f159c18dace2c6_1750336641483635177.webp",
+                        "description": "Sizzling hotplate Saba fish with Indo-Chinese flavor explosion.",
+                        "discountedPriceInMin": 780,
+                        "priceV2": {
+                            "amountInMinor": 780,
+                            "amountDisplay": "7.80"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 780,
+                            "amountDisplay": "7.80"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-09-16T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558052539/photo/menueditor_item_2d3f8909a55b4778a1f159c18dace2c6_1750336641483635177.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558052539/detail/menueditor_item_2d3f8909a55b4778a1f159c18dace2c6_1750336641483635177.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558066060",
+                        "name": "Hotplate BBQ Chicken Set",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558066060/photo/menueditor_item_26cb1be2cad949499805371caa35872a_1750336670528489369.webp",
+                        "description": "Sizzle into juicy BBQ chicken, accompanied by fresh sides.",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558066060/photo/menueditor_item_26cb1be2cad949499805371caa35872a_1750336670528489369.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558066060/detail/menueditor_item_26cb1be2cad949499805371caa35872a_1750336670528489369.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558076915",
+                        "name": "Hotplate BBQ Beef Set",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558076915/photo/menueditor_item_e3caebe1c9034e5996f1de66955888e3_1750336690340158820.webp",
+                        "description": "Sizzling BBQ beef on hotplate with savory side dishes.",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558076915/photo/menueditor_item_e3caebe1c9034e5996f1de66955888e3_1750336690340158820.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558076915/detail/menueditor_item_e3caebe1c9034e5996f1de66955888e3_1750336690340158820.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558088983",
+                        "name": "Hotplate BBQ Chicken & Beef Set",
+                        "available": true,
+                        "priceInMinorUnit": 990,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558088983/photo/064c0d7c0be541e78f76005fe987294f_1691745124084401768.webp",
+                        "description": "Savory BBQ chicken and beef on a sizzling hotplate.",
+                        "discountedPriceInMin": 990,
+                        "priceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 990,
+                            "amountDisplay": "9.90"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558088983/photo/064c0d7c0be541e78f76005fe987294f_1691745124084401768.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558088983/detail/064c0d7c0be541e78f76005fe987294f_1691745124084401768.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558098406",
+                        "name": "Hotplate Spicy Sotong Set",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558098406/photo/menueditor_item_2c468f08445743deb98103aa4c7cf9fb_1750336711627264511.webp",
+                        "description": "Sizzling Hotplate with spicy squid delight!",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-11-05T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558098406/photo/menueditor_item_2c468f08445743deb98103aa4c7cf9fb_1750336711627264511.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558098406/detail/menueditor_item_2c468f08445743deb98103aa4c7cf9fb_1750336711627264511.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558101244",
+                        "name": "Hotplate BBQ Chicken & Beansprout Set",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558101244/photo/menueditor_item_fea42937c3ac40dd96c8b7e3516e6bc3_1750336736707387273.webp",
+                        "description": "Sizzling BBQ chicken paired with crunchy beansprouts. A savory delight!",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-12-06T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558101244/photo/menueditor_item_fea42937c3ac40dd96c8b7e3516e6bc3_1750336736707387273.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558101244/detail/menueditor_item_fea42937c3ac40dd96c8b7e3516e6bc3_1750336736707387273.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558114682",
+                        "name": "Hotplate BBQ Beef & Beansprout Set",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558114682/photo/menueditor_item_470a4fe51f814717be2eff9ab05ca27d_1750336756777787465.webp",
+                        "description": "Sizzling BBQ beef with fresh bean sprouts. A flavorful delight!",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2024-11-30T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558114682/photo/menueditor_item_470a4fe51f814717be2eff9ab05ca27d_1750336756777787465.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558114682/detail/menueditor_item_470a4fe51f814717be2eff9ab05ca27d_1750336756777787465.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083559012449",
+                        "name": "Hotplate Chicken Rice + Egg",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "description": "Sizzling hotplate chicken rice with a perfectly cooked egg. A savory delight!",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20230616083559022790",
+                        "name": "Hotplate Beef Rice + Egg",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "description": "Sizzling hotplate beef, rich flavors with a savory egg!",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20230616083559031239",
+                        "name": "Hotplate Chicken Cutlet + Deep Fried Prawn Set",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559031239/photo/menueditor_item_ebaaa1cba36e4879884f3231022ca7a8_1750336843678581957.webp",
+                        "description": "Crispy chicken cutlet, succulent deep-fried prawns, served with fluffy rice.",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559031239/photo/menueditor_item_ebaaa1cba36e4879884f3231022ca7a8_1750336843678581957.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559031239/detail/menueditor_item_ebaaa1cba36e4879884f3231022ca7a8_1750336843678581957.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083559062273",
+                        "name": "Hotplate Korean BBQ Chicken + Fried Prawn Set",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "description": "Sizzling Korean BBQ chicken with crispy fried prawns.",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"catalog-backfill\",\"againstFields\":{}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20230616083559076543",
+                        "name": "Hotplate Fish Fillet + Chicken Cutlet Set",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559076543/photo/menueditor_item_b9b645128f6945e2bdacc89bbeecdb5b_1750338691441700045.webp",
+                        "description": "Savory hotplate fish fillet and crispy chicken cutlet, served with rice and sides.",
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559076543/photo/menueditor_item_b9b645128f6945e2bdacc89bbeecdb5b_1750338691441700045.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559076543/detail/menueditor_item_b9b645128f6945e2bdacc89bbeecdb5b_1750338691441700045.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083559084907",
+                        "name": "Hotplate Korean Chicken Cutlet + Salmon Set",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559084907/photo/menueditor_item_c2bcaf2db29f48e69adeea2b8f5fd0d1_1750336953173603240.webp",
+                        "description": "Crispy chicken cutlet, tender salmon, fluffy rice, tangy sauce.",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559084907/photo/menueditor_item_c2bcaf2db29f48e69adeea2b8f5fd0d1_1750336953173603240.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559084907/detail/menueditor_item_c2bcaf2db29f48e69adeea2b8f5fd0d1_1750336953173603240.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083559093108",
+                        "name": "Hotplate Korean BBQ Chicken + Salmon Set",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559093108/photo/menueditor_item_801c880961fb427ca42db01697f0f6eb_1750336998842975348.webp",
+                        "description": "Sizzling Korean BBQ Chicken and Salmon delight.",
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559093108/photo/menueditor_item_801c880961fb427ca42db01697f0f6eb_1750336998842975348.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083559093108/detail/menueditor_item_801c880961fb427ca42db01697f0f6eb_1750336998842975348.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT20230616083557018222",
+                "name": "Soups/ Ramen/udon",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025061913064965048",
+                        "name": "Udon with fried ebi",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "description": "Savory udon noodles paired with crispy fried ebi. A flavorful delight!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-10-29T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE2025061913060490163",
+                        "name": "Udon and teriyaki Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "description": "Fresh udon noodles, tender teriyaki chicken, savory sauce.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\"},\"keep_unavailable_until\":\"2025-10-29T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20230616083557013350",
+                        "name": "Kimchi Soup Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557013350/photo/menueditor_item_d4a8dec5312b4fd19213ce5ba8b067f8_1750337022868320910.webp",
+                        "description": "Spicy kimchi broth with tender chicken and fresh chili.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557013350/photo/menueditor_item_d4a8dec5312b4fd19213ce5ba8b067f8_1750337022868320910.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557013350/detail/menueditor_item_d4a8dec5312b4fd19213ce5ba8b067f8_1750337022868320910.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083557021216",
+                        "name": "Kimchi Soup Beef",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "description": "Savory rich Kimchi Beef Soup. A Korean delight!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20230616083557035597",
+                        "name": "Kimchi Soup Seafood",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "description": "Spicy and savory seafood delight with rich kimchi flavors.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-08-11T00:00:00+08:00\"}",
+                        "currency": "SGD"
+                    },
+                    {
+                        "ID": "SGITE20230616083557046308",
+                        "name": "Korean Beancurd Soup Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557046308/photo/menueditor_item_d197fbea34b5478f960bcd0667a8075f_1750337055848676451.webp",
+                        "description": "Savory beancurd soup with tender chicken.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557046308/photo/menueditor_item_d197fbea34b5478f960bcd0667a8075f_1750337055848676451.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557046308/detail/menueditor_item_d197fbea34b5478f960bcd0667a8075f_1750337055848676451.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083557057870",
+                        "name": "Korean Beancurd Soup Beef",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557057870/photo/menueditor_item_881c23e2490f4462883f8eeba88467e3_1750338967470516237.webp",
+                        "description": "Savory beef beancurd soup with rich Korean spices.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557057870/photo/menueditor_item_881c23e2490f4462883f8eeba88467e3_1750338967470516237.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557057870/detail/menueditor_item_881c23e2490f4462883f8eeba88467e3_1750338967470516237.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083557062833",
+                        "name": "Korean Beancurd Soup Seafood",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557062833/photo/menueditor_item_321019f339c04b849828dd1138b4381c_1750338992997262993.webp",
+                        "description": "Savory stew with seafood and silky tofu, umami-rich.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557062833/photo/menueditor_item_321019f339c04b849828dd1138b4381c_1750338992997262993.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557062833/detail/menueditor_item_321019f339c04b849828dd1138b4381c_1750338992997262993.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083557084885",
+                        "name": "Kimchi Ramen Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557084885/photo/menueditor_item_5f953d32ed7940d8b42dd1d7e0d4d09a_1750337100136149869.webp",
+                        "description": "Savory kimchi ramen with tender chicken.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557084885/photo/menueditor_item_5f953d32ed7940d8b42dd1d7e0d4d09a_1750337100136149869.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557084885/detail/menueditor_item_5f953d32ed7940d8b42dd1d7e0d4d09a_1750337100136149869.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083557093156",
+                        "name": "Kimchi Ramen Beef",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557093156/photo/menueditor_item_ff39cebdf1414faab5ed17d20923cd7e_1750339015483750813.webp",
+                        "description": "Spicy kimchi beef ramen with rich broth.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557093156/photo/menueditor_item_ff39cebdf1414faab5ed17d20923cd7e_1750339015483750813.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083557093156/detail/menueditor_item_ff39cebdf1414faab5ed17d20923cd7e_1750339015483750813.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558014791",
+                        "name": "Kimchi Ramen Seafood",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558014791/photo/menueditor_item_bc066d28c0f642cbba7843abd49e4a6a_1750339037639113891.webp",
+                        "description": "Spicy Kimchi Seafood Ramen with rich broth.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2026-07-15T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558014791/photo/menueditor_item_bc066d28c0f642cbba7843abd49e4a6a_1750339037639113891.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558014791/detail/menueditor_item_bc066d28c0f642cbba7843abd49e4a6a_1750339037639113891.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558024279",
+                        "name": "Kimchi Fried Rice Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558024279/photo/menueditor_item_0bc2c0eb86e74763917abfd0f996e203_1750337124367519870.webp",
+                        "description": "Savor spicy kimchi with tender chicken in every bite!",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558024279/photo/menueditor_item_0bc2c0eb86e74763917abfd0f996e203_1750337124367519870.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE20230616083558024279/detail/menueditor_item_0bc2c0eb86e74763917abfd0f996e203_1750337124367519870.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE20230616083558039930",
+                        "name": "Kimchi Fried Rice Beef",
+                        "available": true,
+                        "priceInMinorUnit": 850,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C66XGB5VDAC1J61473.webp",
+                        "description": "Savory kimchi fried rice with tender beef.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 850,
+                        "priceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 850,
+                            "amountDisplay": "8.50"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"photo_source\":{\"STOCK\":[\"DIP-C66XGB5VDAC1J61473\"]}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/photo/DIP-C66XGB5VDAC1J61473.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/dish-photo-library/stock/detail/DIP-C66XGB5VDAC1J61473.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2025061913075481284",
+                "name": "sides",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025061913110217039",
+                        "name": "takoyaki",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913110217039/photo/menueditor_item_f5dd5c2de56e4426a8a65bd2f0b12069_1750338640742065909.webp",
+                        "description": "Delicious takoyaki with octopus, drizzled in savory sauce and topped with bonito flakes.",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-08-17T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913110217039/photo/menueditor_item_f5dd5c2de56e4426a8a65bd2f0b12069_1750338640742065909.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913110217039/detail/menueditor_item_f5dd5c2de56e4426a8a65bd2f0b12069_1750338640742065909.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025061913093606027",
+                        "name": "Yakitori",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913093606027/photo/menueditor_item_34a3abfc47064b179e094b15e3a2f3d0_1750338557824952983.webp",
+                        "description": "Grilled chicken skewers glazed with savory teriyaki sauce.",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913093606027/photo/menueditor_item_34a3abfc47064b179e094b15e3a2f3d0_1750338557824952983.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913093606027/detail/menueditor_item_34a3abfc47064b179e094b15e3a2f3d0_1750338557824952983.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025061913084828971",
+                        "name": "Fried ebi 4pcs",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913084828971/photo/menueditor_item_ccda7866242e4834ad486258dfba5724_1750338510749393570.webp",
+                        "description": "Crispy fried ebi served on fresh greens with a creamy dipping sauce.",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913084828971/photo/menueditor_item_ccda7866242e4834ad486258dfba5724_1750338510749393570.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913084828971/detail/menueditor_item_ccda7866242e4834ad486258dfba5724_1750338510749393570.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025061913080314400",
+                        "name": "Fried Gyoza Chicken",
+                        "available": true,
+                        "priceInMinorUnit": 600,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913080314400/photo/menueditor_item_0d0f69aa18e6476fb364735d03b771d4_1750338459239782909.webp",
+                        "description": "Crispy gyoza filled with succulent chicken and savory spices.",
+                        "discountedPriceInMin": 600,
+                        "priceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 600,
+                            "amountDisplay": "6.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}},\"keep_unavailable_until\":\"2025-12-30T00:00:00+08:00\"}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913080314400/photo/menueditor_item_0d0f69aa18e6476fb364735d03b771d4_1750338459239782909.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913080314400/detail/menueditor_item_0d0f69aa18e6476fb364735d03b771d4_1750338459239782909.webp"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ID": "SGCAT2025061913013279272",
+                "name": "omelete rice",
+                "available": true,
+                "items": [
+                    {
+                        "ID": "SGITE2025061913043138260",
+                        "name": "Fried ebi omelete rice",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913043138260/photo/menueditor_item_322b23a962904573adcbabecfe5fad46_1750338245759289575.webp",
+                        "description": "Savory omelette filled with tender ebi, served with fresh lettuce.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\"}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913043138260/photo/menueditor_item_322b23a962904573adcbabecfe5fad46_1750338245759289575.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913043138260/detail/menueditor_item_322b23a962904573adcbabecfe5fad46_1750338245759289575.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025061913031548295",
+                        "name": "Salmon omelete rice",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913031548295/photo/menueditor_item_311726a432e642bb9578ee354a3caf39_1750338172837038840.webp",
+                        "description": "Savory salmon paired with fluffy omelette and fresh lettuce.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913031548295/photo/menueditor_item_311726a432e642bb9578ee354a3caf39_1750338172837038840.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913031548295/detail/menueditor_item_311726a432e642bb9578ee354a3caf39_1750338172837038840.webp"
+                        ]
+                    },
+                    {
+                        "ID": "SGITE2025061913023183506",
+                        "name": "chicken cutlet omelete rice",
+                        "available": true,
+                        "priceInMinorUnit": 800,
+                        "imgHref": "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913023183506/photo/menueditor_item_ada8b23c2d2547e19e0afb0d8784604c_1750338118932877456.webp",
+                        "description": "Savory omelet filled with tender chicken cutlet, served with fresh salad.",
+                        "modifierGroups": [
+                            {
+                                "ID": "SGMOG2025061912490365132",
+                                "name": "extra",
+                                "available": true,
+                                "selectionType": 1,
+                                "selectionRangeMax": 3,
+                                "modifiers": [
+                                    {
+                                        "ID": "SGMOD20250619125100018134",
+                                        "name": "add more chicken",
+                                        "available": true,
+                                        "priceInMinorUnit": 400,
+                                        "sortOrder": 3,
+                                        "priceV2": {
+                                            "amountInMinor": 400,
+                                            "amountDisplay": "4.00"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "치킨 추가",
+                                                    "zh": "鸡肉"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619125100020010",
+                                        "name": "extra egg",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 2,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 계란",
+                                                    "zh": "鸡蛋"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    },
+                                    {
+                                        "ID": "SGMOD20250619124903011646",
+                                        "name": "extra rice",
+                                        "available": true,
+                                        "priceInMinorUnit": 130,
+                                        "sortOrder": 1,
+                                        "priceV2": {
+                                            "amountInMinor": 130,
+                                            "amountDisplay": "1.30"
+                                        },
+                                        "CustomisedData": {
+                                            "Name": {
+                                                "Value": {
+                                                    "ko": "추가 밥",
+                                                    "zh": "米饭"
+                                                }
+                                            }
+                                        },
+                                        "maxModifierSelectionQuantity": 3
+                                    }
+                                ],
+                                "CustomisedData": {
+                                    "Name": {
+                                        "Value": {
+                                            "ko": "추가",
+                                            "zh": "米饭"
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "discountedPriceInMin": 800,
+                        "priceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "discountedPriceV2": {
+                            "amountInMinor": 800,
+                            "amountDisplay": "8.00"
+                        },
+                        "metadata": "{\"moderation\":{\"status\":\"PASS\",\"mode\":\"AUTO\",\"client\":\"food-max-api\",\"againstFields\":{},\"streamStatus\":\"PASSED\",\"tagIDFields\":{\"teenCompliance\":{\"value\":\"TEEN_COMPLIANCE_STATUS_TRUE\"}}}}",
+                        "currency": "SGD",
+                        "thumbImages": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913023183506/photo/menueditor_item_ada8b23c2d2547e19e0afb0d8784604c_1750338118932877456.webp"
+                        ],
+                        "images": [
+                            "https://huawei-food-cms.grab.com/compressed_webp/items/SGITE2025061913023183506/detail/menueditor_item_ada8b23c2d2547e19e0afb0d8784604c_1750338118932877456.webp"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.2,
+    "voteCount": 41,
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "photoHrefFallback": "https://huawei-food-cms.grab.com/Merchants/4-C4DKAK63PED2CE/photos/43e3d9654d5d4026938e4ec1f3fdebeb_1691745199035072415.jpeg",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Hong Le Korean Cuisine - Changi City Point on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C4DKAK63PED2CE"
+    },
+    "chainName": "Hong Le Korean Cuisine",
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_webp/merchants/4-C4DKAK63PED2CE/list/4ab4c1a138e2463997b5368385ab92ea_1686902841855307088.webp",
+    "branchName": "Changi City Point",
+    "customLabels": [
+        {
+            "labelType": 5,
+            "backgroundColor": "#CCF2FF",
+            "text": "Good Service",
+            "url": "https://food-cms.grab.com/compressed_webp/cuisine/business_attribute_1200004/iconv3/64a94104a6e94fc1bfad156be477d61a_1769400796098174470.webp",
+            "labelID": "1200004",
+            "labelName": "Good Service",
+            "type": "FoodAuthority",
+            "fontColor": "#0B54A8",
+            "icon": "QualityHeroColoured"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 10:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T02:00:00Z"
+    },
+    "mexAttributes": [
+        {
+            "id": "dietaryPreferences_halal",
+            "name": "Halal"
+        }
+    ],
+    "translationTags": [
+        "halal",
+        "non-pork"
+    ],
+    "supportedServices": [
+        "DELIVERY",
+        "TAKEAWAY",
+        "DINEIN"
+    ]
+}

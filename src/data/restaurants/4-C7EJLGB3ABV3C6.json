@@ -1,0 +1,133 @@
+{
+    "ID": "4-C7EJLGB3ABV3C6",
+    "name": "Tampines MRT Station - Mix & Match",
+    "photoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C7EJLGB3ABV3C6/hero/3f4a5f8c65c94e2c83f000c828d4dd6a_1748851887475972467.avif",
+    "openingHours": {
+        "displayedHours": "Closed",
+        "sun": "8:00am-10:15pm",
+        "mon": "8:00am-10:15pm",
+        "tue": "8:00am-10:15pm",
+        "wed": "8:00am-10:15pm",
+        "thu": "8:00am-10:15pm",
+        "fri": "8:00am-10:15pm",
+        "sat": "8:00am-10:15pm"
+    },
+    "address": {
+        "name": "Tampines MRT Station - Mix & Match",
+        "combined_address": "20, Tampines Central 1, Tampines, 529538",
+        "combined_city": "Singapore",
+        "street": "20, Tampines Central 1",
+        "suburb": "Tampines",
+        "postcode": "529538",
+        "city": "Singapore",
+        "cityId": 6,
+        "country": "Singapore",
+        "countryID": 4,
+        "countryCode": "SG",
+        "lat": 1.3533339,
+        "lng": 103.9452211
+    },
+    "menu": {
+        "menuMeta": {
+            "orderValueLimit": 60000
+        }
+    },
+    "currency": {
+        "code": "SGD",
+        "symbol": "S$",
+        "exponent": 2
+    },
+    "rating": 4.4,
+    "voteCount": 52,
+    "specialMerchantType": "GRABKITCHENMIXMATCH",
+    "sofConfiguration": {
+        "enabled": true,
+        "thresholdInMin": 1000,
+        "thresholdForDisplay": {
+            "amountInMinor": 1000,
+            "amountDisplay": "S$10.00"
+        },
+        "calculationMode": "DifferenceToMinimum",
+        "fixFeeForDisplay": {
+            "amountDisplay": "S$0.00"
+        },
+        "tips": "For orders less than S$10.00 for this restaurant, a small order fee applies.",
+        "iconContent": {
+            "title": "Small order fee",
+            "desc": "For order less than S$10.00, a small order fee of the difference between your order value & S$10.00 applies."
+        }
+    },
+    "subMerchantIDs": [
+        "SGDD08404",
+        "SGDD09593",
+        "4-C4KKNFMJJ7NJTT",
+        "4-C4KAVA4ZJPTZGN",
+        "4-C26KJNVKJRCCSA",
+        "4-C6C3BBWKCGMWJN",
+        "4-C2KYNXCDAFCGV6",
+        "4-CZNXCXUZJ4AZGJ"
+    ],
+    "merchantClusterID": "SGMCL20250602080048019975",
+    "menuLanguageList": [
+        {
+            "languageCode": "en",
+            "content": "English",
+            "isAppliedOnMenu": true
+        },
+        {
+            "languageCode": "ko",
+            "content": "한국어",
+            "subtitle": "번역이 자동으로 생성될 수 있습니다"
+        },
+        {
+            "languageCode": "zh",
+            "content": "中文",
+            "subtitle": "翻译可能是机器生成的"
+        }
+    ],
+    "menuTranslationInfo": {
+        "menuLanguageSheet": {
+            "title": "Select menu language",
+            "menuLanguageList": [
+                {
+                    "languageCode": "en",
+                    "content": "English",
+                    "isAppliedOnMenu": true
+                },
+                {
+                    "languageCode": "ko",
+                    "content": "한국어",
+                    "subtitle": "번역이 자동으로 생성될 수 있습니다"
+                },
+                {
+                    "languageCode": "zh",
+                    "content": "中文",
+                    "subtitle": "翻译可能是机器生成的"
+                }
+            ]
+        }
+    },
+    "merchantShareLink": {
+        "shareText": "Check out Tampines MRT Station - Mix & Match on GrabFood!",
+        "shareLink": "https://r.grab.com/g/6-{sourceID}-4-C7EJLGB3ABV3C6"
+    },
+    "smallPhotoHref": "https://huawei-food-cms.grab.com/compressed_avif/merchants/4-C7EJLGB3ABV3C6/list/5aae884b519944a192c23975ba6b1cba_1748851877142322814.avif",
+    "customLabels": [
+        {
+            "labelType": 1,
+            "backgroundColor": "#00B14F",
+            "text": "Mix & Match",
+            "labelID": "SGCLID20210318094330013254",
+            "labelName": "Food Mix and Match"
+        }
+    ],
+    "roofTopBanner": {
+        "title": "Closed",
+        "message": "Opens 23 Aug, 8:00 AM",
+        "type": "CLOSED",
+        "scheduledTime": "2026-08-23T00:00:00Z"
+    },
+    "supportedServices": [
+        "DELIVERY"
+    ]
+}
