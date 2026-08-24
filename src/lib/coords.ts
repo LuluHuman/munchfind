@@ -1,7 +1,7 @@
 export type Coords = { lat: number; lng: number };
 
 export const COORDS_COOKIE_NAME = "mf_coords";
-const COORDS_COOKIE_MAX_AGE = 60 * 60 * 24; // 1 day — a stale location shouldn't linger for a year
+const COORDS_COOKIE_MAX_AGE = 60;
 
 export function parseCoordsValue(raw: string | undefined | null): Coords | null {
   if (!raw) return null;

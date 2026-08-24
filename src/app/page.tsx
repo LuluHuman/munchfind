@@ -26,7 +26,7 @@ export default function Home() {
     <PageShell>
       <Row align="center" justify="space-between">
         <Typography variant="h2">MunchFind</Typography>
-        <ToggleButtonGroup
+        {/* <ToggleButtonGroup
           value={mode}
           exclusive
           size="small"
@@ -44,7 +44,7 @@ export default function Home() {
           <ToggleButton value="group" sx={{ border: 0, borderRadius: 2.5, px: 2 }}>
             Group
           </ToggleButton>
-        </ToggleButtonGroup>
+        </ToggleButtonGroup> */}
       </Row>
 
       {mode === "solo" ? <SoloHome /> : <GroupHome />}
