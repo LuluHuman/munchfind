@@ -109,4 +109,4 @@ Claude, pergi zip sekarang
 
 # Contributors
 
-This project is was planned, written and developed by Lutfil, nurin, and .
+This project is was planned, written and developed by Lutfil, nurin, Danique and .
