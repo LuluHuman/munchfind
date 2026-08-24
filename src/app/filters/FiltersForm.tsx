@@ -14,19 +14,23 @@ import { Col } from "@/components/Flex";
 import PageShell from "@/components/PageShell";
 import SectionLabel from "@/components/SectionLabel";
 import SelectableChipGroup from "@/components/SelectableChipGroup";
+import type { Coords } from "@/lib/coords";
 import { DEFAULT_FILTERS, readFilters, writeFilters } from "@/lib/filters";
 import { BUDGET_OPTIONS, CUISINE_OPTIONS, DIETARY_OPTIONS } from "@/lib/options";
 
 export default function FiltersForm({
   distanceRange,
+  coords,
 }: {
   distanceRange: { min: number; max: number };
+  coords: Coords | null;
 }) {
   const router = useRouter();
   const [budget, setBudget] = useState<string>(DEFAULT_FILTERS.budget);
   const [cuisines, setCuisines] = useState<string[]>(DEFAULT_FILTERS.cuisines);
   const [dietary, setDietary] = useState<string>(DEFAULT_FILTERS.dietary);
   const [distance, setDistance] = useState(distanceRange.max);
+  const [dishCount, setDishCount] = useState<number | null>(null);
 
   useEffect(() => {
     const saved = readFilters();
@@ -35,6 +39,29 @@ export default function FiltersForm({
     setDietary(saved.dietary);
     setDistance(Math.min(Math.max(saved.distance, distanceRange.min), distanceRange.max));
   }, [distanceRange.min, distanceRange.max]);
+
+  useEffect(() => {
+    const params = new URLSearchParams({ budget, dietary, distance: String(distance) });
+    cuisines.forEach((cuisine) => params.append("cuisine", cuisine));
+    if (coords) {
+      params.set("lat", String(coords.lat));
+      params.set("lng", String(coords.lng));
+    }
+
+    let cancelled = false;
+    fetch(`/api/dishes/count?${params.toString()}`)
+      .then((res) => res.json())
+      .then((data: { count: number }) => {
+        if (!cancelled) setDishCount(data.count);
+      })
+      .catch(() => {
+        if (!cancelled) setDishCount(null);
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [budget, cuisines, dietary, distance, coords]);
 
   return (
     <PageShell>
@@ -105,7 +132,8 @@ export default function FiltersForm({
           router.push("/");
         }}
       >
-        Apply — 5 dishes qualify
+        Apply — {dishCount === null ? "…" : dishCount} dish
+        {dishCount === 1 ? "" : "es"} qualify
       </Button>
     </PageShell>
   );

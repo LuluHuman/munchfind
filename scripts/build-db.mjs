@@ -9,40 +9,6 @@ const dataDir = path.join(__dirname, "..", "src", "data");
 const restaurantsDir = path.join(dataDir, "restaurants");
 const dbPath = path.join(dataDir, "munchfind.sqlite");
 
-const EARTH_RADIUS_KM = 6371;
-const HOME_CLUSTER_RADIUS_KM = 5;
-
-function toRad(deg) {
-  return (deg * Math.PI) / 180;
-}
-
-function haversineKm(lat1, lng1, lat2, lng2) {
-  const dLat = toRad(lat2 - lat1);
-  const dLng = toRad(lng2 - lng1);
-  const a =
-    Math.sin(dLat / 2) ** 2 +
-    Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2;
-  return 2 * EARTH_RADIUS_KM * Math.asin(Math.sqrt(a));
-}
-
-function centroid(points) {
-  const lat = points.reduce((sum, p) => sum + p.lat, 0) / points.length;
-  const lng = points.reduce((sum, p) => sum + p.lng, 0) / points.length;
-  return { lat, lng };
-}
-
-// The scrape spans two disjoint clusters (a large Tampines/Bedok cluster and a
-// small, distant Downtown Core cluster). A plain centroid falls in the empty
-// gap between them, so recenter on the dominant cluster: take an initial
-// centroid, then refine using only the points within range of it.
-function findHomePoint(points) {
-  const initial = centroid(points);
-  const nearby = points.filter(
-    (p) => haversineKm(initial.lat, initial.lng, p.lat, p.lng) <= HOME_CLUSTER_RADIUS_KM,
-  );
-  return centroid(nearby.length > 0 ? nearby : points);
-}
-
 const files = readdirSync(restaurantsDir).filter((file) => file.endsWith(".json"));
 
 const restaurants = [];
@@ -71,8 +37,6 @@ for (const file of files) {
   });
 }
 
-const homePoint = findHomePoint(restaurants.map((r) => ({ lat: r.lat, lng: r.lng })));
-
 if (existsSync(dbPath)) unlinkSync(dbPath);
 
 const db = new DatabaseSync(dbPath);
@@ -85,7 +49,6 @@ db.exec(`
     cuisines TEXT NOT NULL,
     lat REAL NOT NULL,
     lng REAL NOT NULL,
-    distance_in_km REAL NOT NULL,
     rating REAL,
     halal INTEGER NOT NULL DEFAULT 0
   );
@@ -99,11 +62,10 @@ db.exec(`
   );
 
   CREATE INDEX idx_dishes_restaurant_id ON dishes(restaurant_id);
-  CREATE INDEX idx_restaurants_distance ON restaurants(distance_in_km);
 `);
 
 const insertRestaurant = db.prepare(
-  `INSERT INTO restaurants (id, name, address, cuisines, lat, lng, distance_in_km, rating, halal) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+  `INSERT INTO restaurants (id, name, address, cuisines, lat, lng, rating, halal) VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
 );
 const insertDish = db.prepare(
   `INSERT INTO dishes (dish_name, price, vegetarian, restaurant_id) VALUES (?, ?, ?, ?)`,
@@ -111,8 +73,6 @@ const insertDish = db.prepare(
 
 let dishCount = 0;
 for (const restaurant of restaurants) {
-  const distanceInKm = haversineKm(homePoint.lat, homePoint.lng, restaurant.lat, restaurant.lng);
-
   insertRestaurant.run(
     restaurant.id,
     restaurant.name,
@@ -120,7 +80,6 @@ for (const restaurant of restaurants) {
     restaurant.cuisines.join(","),
     restaurant.lat,
     restaurant.lng,
-    distanceInKm,
     restaurant.rating,
     restaurant.halal ? 1 : 0,
   );
@@ -151,6 +110,5 @@ for (const restaurant of restaurants) {
 db.close();
 
 console.log(`Built ${path.relative(process.cwd(), dbPath)}`);
-console.log(`  home point: ${homePoint.lat.toFixed(5)}, ${homePoint.lng.toFixed(5)}`);
 console.log(`  restaurants: ${restaurants.length}`);
 console.log(`  dishes: ${dishCount}`);

@@ -1,6 +1,12 @@
+import { cookies } from "next/headers";
 import FiltersForm from "@/app/filters/FiltersForm";
-import { DISTANCE_RANGE } from "@/lib/restaurants";
+import { COORDS_COOKIE_NAME, parseCoordsValue } from "@/lib/coords";
+import { getDistanceRange } from "@/lib/restaurants";
 
-export default function FiltersPage() {
-  return <FiltersForm distanceRange={DISTANCE_RANGE} />;
+export default async function FiltersPage() {
+  const cookieStore = await cookies();
+  const coords = parseCoordsValue(cookieStore.get(COORDS_COOKIE_NAME)?.value);
+  const distanceRange = getDistanceRange(coords);
+
+  return <FiltersForm distanceRange={distanceRange} coords={coords} />;
 }

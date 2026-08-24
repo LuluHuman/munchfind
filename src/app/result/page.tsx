@@ -22,7 +22,7 @@ type Dish = {
   restaurantName: string;
   restaurantAddress: string | null;
   cuisines: string[];
-  distanceInKm: number;
+  distanceInKm: number | null;
   rating: number | null;
   halal: boolean;
 };
@@ -109,7 +109,8 @@ export default function ResultPage() {
               </Typography>
               <Typography variant="h2">{dish.name}</Typography>
               <Typography variant="body2" color="text.secondary">
-                S${dish.price.toFixed(2)} · {dish.distanceInKm.toFixed(1)}km ·{" "}
+                S${dish.price.toFixed(2)} ·{" "}
+                {dish.distanceInKm === null ? "distance unknown" : `${dish.distanceInKm.toFixed(1)}km`} ·{" "}
                 {dish.cuisines[0] ?? "Various"}
               </Typography>
               <Row spacing={1}>
