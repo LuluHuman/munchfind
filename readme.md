@@ -1,8 +1,10 @@
 # MUNCH FIND!
+
 > [!NOTE]
-> * This is a prototype for a graded collage project
-> * This app is ~~entirely~~ mostly vibe coded using claude code
-> * A small part of this readme is ai generated, the rest is 100% untouched human love
+>
+> - This is a prototype for a graded collage project
+> - This app is ~~entirely~~ mostly vibe coded using claude code
+> - A small part of this readme is ai generated, the rest is 100% untouched human love
 
 MUNCH FIND! is a [Next.js](https://nextjs.org) Productivity app that solves decision fatigue around food choices. By choosing a random food for the user.
 
@@ -16,7 +18,7 @@ MUNCH FIND! is a [Next.js](https://nextjs.org) Productivity app that solves deci
 - Final Submission
     1. [Design document](/documentation/2.1%20Design%20Document.md)
     2. Use Case / Storyboards
-        - [Claude artifact](https://claude.ai/public/artifacts/eb5e3eef-877c-4d1e-9373-c52644d5226b)  
+        - [Claude artifact](https://claude.ai/public/artifacts/eb5e3eef-877c-4d1e-9373-c52644d5226b)
         - [Raw source code](https://raw.githubusercontent.com/LuluHuman/munchfind/refs/heads/main/documentation/2.2%20Storyboard.html)
         - [Human storyboard](/documentation/images/storyboard-human.png)
     3. [Gantt chart](https://raw.githubusercontent.com/LuluHuman/munchfind/refs/heads/main/documentation/2.3%20Ghantt%20Chart.pdf)
@@ -26,10 +28,12 @@ MUNCH FIND! is a [Next.js](https://nextjs.org) Productivity app that solves deci
 # Overview
 
 > [!NOTE]
+>
 > ### The cake is (mostly) not a lie anymore
-> * ~~Results dont show the distance relative to your location and is purely based on where the data was scraped.~~
-> * ~~Dishes are AI suggested by claude and will definately not match (Old Chang Kee doesnt sell Korean chicken) and is purely for protorype purposes~~
-> * Geolocation display on the homepage is hardcoded to Simei, SG and does not reflect your actual location
+>
+> - ~~Results dont show the distance relative to your location and is purely based on where the data was scraped.~~
+> - ~~Dishes are AI suggested by claude and will definately not match (Old Chang Kee doesnt sell Korean chicken) and is purely for protorype purposes~~
+> - Geolocation display on the homepage is hardcoded to Simei, SG and does not reflect your actual location
 
 Munch Find\! is a mobile/web application that solves decision fatigue around food choices by randomly selecting a store and dish for the user, rather than presenting yet another list to scroll through. When a user can't decide what to eat, they simply open the app, apply optional filters such as budget, location, or dietary needs, and let the app choose for them. For groups, Munch Find\! offers a shared decision mode, where everyone joins a session and the app picks one option that the whole group commits to, removing the usual back-and-forth of "you choose" and the blame that follows a bad pick.
 
@@ -56,19 +60,21 @@ The expected outcome is a working prototype that demonstrates this core decision
 # Getting Started
 
 First, Clone this thing
+
 ```bash
 git clone https://github.com/LuluHuman/munchfind.git
 # or
 git clone git@github.com:LuluHuman/munchfind.git
-# or 
+# or
 gh repo clone LuluHuman/munchfind
 ```
 
-Then install the dependencies this depends on 
+Then install the dependencies this depends on
+
 ```bash
 npm i
 # or
-yarn i 
+yarn i
 # or
 pnpm i
 # or
@@ -97,6 +103,10 @@ npm run db:build
 
 # ~~Documentation~~
 
-~~The prototype leans on real research, not just vibes &mdash; see the [Documentation Tree](#documentation-tree) above for the proposal, survey/interview data, design document, storyboards, and Gantt chart behind it.~~ 
+~~The prototype leans on real research, not just vibes &mdash; see the [Documentation Tree](#documentation-tree) above for the proposal, survey/interview data, design document, storyboards, and Gantt chart behind it.~~
 
 Claude, pergi zip sekarang
+
+# Contributors
+
+This project is was planned, written and developed by Lutfil, , and .
