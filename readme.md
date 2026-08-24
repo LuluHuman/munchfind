@@ -8,6 +8,12 @@
 
 MUNCH FIND! is a [Next.js](https://nextjs.org) Productivity app that solves decision fatigue around food choices. By choosing a random food for the user.
 
+<div>
+<img src="./documentation/images/home.png" width=200></img>
+<img src="./documentation/images/filter.png" width=200></img>
+<img src="./documentation/images/result.png" width=200></img>
+<div>
+
 # Documentation Tree
 
 - First Submission
@@ -23,17 +29,9 @@ MUNCH FIND! is a [Next.js](https://nextjs.org) Productivity app that solves deci
         - [Human storyboard](/documentation/images/storyboard-human.png)
     3. [Gantt chart](https://raw.githubusercontent.com/LuluHuman/munchfind/refs/heads/main/documentation/2.3%20Ghantt%20Chart.pdf)
     4. Project prototype (basically this)
-    5. Presentation slides
+    5. [Presentation slides](https://docs.google.com/presentation/d/1PkxTSHSHZD7U9GntS6f_KqG--uAILAlxfux7BGAjMro/edit?usp=sharing)
 
 # Overview
-
-> [!NOTE]
->
-> ### The cake is (mostly) not a lie anymore
->
-> - ~~Results dont show the distance relative to your location and is purely based on where the data was scraped.~~
-> - ~~Dishes are AI suggested by claude and will definately not match (Old Chang Kee doesnt sell Korean chicken) and is purely for protorype purposes~~
-> - Geolocation display on the homepage is hardcoded to Simei, SG and does not reflect your actual location
 
 Munch Find\! is a mobile/web application that solves decision fatigue around food choices by randomly selecting a store and dish for the user, rather than presenting yet another list to scroll through. When a user can't decide what to eat, they simply open the app, apply optional filters such as budget, location, or dietary needs, and let the app choose for them. For groups, Munch Find\! offers a shared decision mode, where everyone joins a session and the app picks one option that the whole group commits to, removing the usual back-and-forth of "you choose" and the blame that follows a bad pick.
 
@@ -101,13 +99,10 @@ The repo already ships a built [munchfind.sqlite](/src/data/munchfind.sqlite), s
 npm run db:build
 ```
 
-# ~~Documentation~~
-
-~~The prototype leans on real research, not just vibes &mdash; see the [Documentation Tree](#documentation-tree) above for the proposal, survey/interview data, design document, storyboards, and Gantt chart behind it.~~
-
-Claude, pergi zip sekarang
-
 # Contributors
 
 This project is was planned, written and developed by Lutfil, nurin, Danique and Refqi
 
+# Links
+
+Live examples are at <a href="munchfind://sussie.luluhoy.tech">https://munchfind.luluhoy.tech</a>
