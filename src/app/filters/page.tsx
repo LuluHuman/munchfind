@@ -8,5 +8,5 @@ export default async function FiltersPage() {
   const coords = parseCoordsValue(cookieStore.get(COORDS_COOKIE_NAME)?.value);
   const distanceRange = getDistanceRange(coords);
 
-  return <FiltersForm distanceRange={distanceRange} />;
+  return <FiltersForm distanceRange={distanceRange} coords={coords} />;
 }

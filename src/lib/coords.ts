@@ -25,8 +25,12 @@ export function writeCoords(coords: Coords) {
 
 export function coordsFromParams(params: URLSearchParams | Record<string, string | null | undefined>): Coords | null {
   const get = (key: string) => (params instanceof URLSearchParams ? params.get(key) : params[key]);
-  const lat = Number(get("lat"));
-  const lng = Number(get("lng"));
+  const latRaw = get("lat");
+  const lngRaw = get("lng");
+  if (latRaw == null || lngRaw == null) return null;
+
+  const lat = Number(latRaw);
+  const lng = Number(lngRaw);
   if (Number.isFinite(lat) && Number.isFinite(lng)) return { lat, lng };
   return null;
 }
