@@ -1,19 +1,33 @@
+import type { Coords } from "@/lib/coords";
 import { db } from "@/lib/db";
+import { haversineKm } from "@/lib/geo";
 
-const range = db
-  .prepare(`SELECT MIN(distance_in_km) AS min, MAX(distance_in_km) AS max FROM restaurants`)
-  .get() as { min: number; max: number };
+// Used only while the user's coordinates haven't arrived yet (permission not
+// yet granted/denied). Once we have a real fix, distances are computed live.
+const FALLBACK_DISTANCE_RANGE = { min: 0, max: 20 };
 
-export const DISTANCE_RANGE = {
-  min: Math.floor(range.min * 10) / 10,
-  max: Math.ceil(range.max * 10) / 10,
-};
+const allCoordsStatement = db.prepare(`SELECT lat, lng FROM restaurants`);
 
-const countStatement = db.prepare(
-  `SELECT COUNT(*) AS count FROM restaurants WHERE distance_in_km <= ?`,
-);
+function distancesFrom(coords: Coords): number[] {
+  const rows = allCoordsStatement.all() as { lat: number; lng: number }[];
+  return rows.map((row) => haversineKm(coords.lat, coords.lng, row.lat, row.lng));
+}
 
-export function countWithinDistance(maxKm: number): number {
-  const result = countStatement.get(maxKm) as { count: number };
-  return result.count;
+export function getDistanceRange(coords: Coords | null): { min: number; max: number } {
+  if (!coords) return FALLBACK_DISTANCE_RANGE;
+
+  const distances = distancesFrom(coords);
+  if (distances.length === 0) return FALLBACK_DISTANCE_RANGE;
+
+  const min = Math.min(...distances);
+  const max = Math.max(...distances);
+  return {
+    min: Math.floor(min * 10) / 10,
+    max: Math.ceil(max * 10) / 10,
+  };
+}
+
+export function countWithinDistance(maxKm: number, coords: Coords | null): number | null {
+  if (!coords) return null;
+  return distancesFrom(coords).filter((distance) => distance <= maxKm).length;
 }

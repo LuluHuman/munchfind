@@ -11,6 +11,7 @@ import { Col, Row } from "@/components/Flex";
 import OutlinedCard from "@/components/OutlinedCard";
 import PageShell from "@/components/PageShell";
 import SummaryRow from "@/components/SummaryRow";
+import { type Coords, writeCoords } from "@/lib/coords";
 import { cuisineLabel, DEFAULT_FILTERS, dietaryLabel, readFilters } from "@/lib/filters";
 
 type Mode = "solo" | "group";
@@ -54,6 +55,7 @@ export default function Home() {
 function SoloHome() {
   const [filters, setFilters] = useState(DEFAULT_FILTERS);
   const [location, setLocation] = useState<string | null>(null);
+  const [coords, setCoords] = useState<Coords | null>(null);
   const [inRange, setInRange] = useState<number | null>(null);
 
   useEffect(() => {
@@ -61,11 +63,13 @@ function SoloHome() {
   }, []);
 
   useEffect(() => {
-    fetch(`/api/restaurants/count?maxDistance=${filters.distance}`)
+    if (!coords) return;
+
+    fetch(`/api/restaurants/count?maxDistance=${filters.distance}&lat=${coords.lat}&lng=${coords.lng}`)
       .then((res) => res.json())
-      .then((data: { count: number }) => setInRange(data.count))
+      .then((data: { count: number | null }) => setInRange(data.count))
       .catch(() => setInRange(null));
-  }, [filters.distance]);
+  }, [filters.distance, coords]);
 
   useEffect(() => {
     if (!("geolocation" in navigator)) {
@@ -74,8 +78,12 @@ function SoloHome() {
     }
 
     navigator.geolocation.getCurrentPosition(
-      ({ coords }) => {
-        fetch(`/api/location?lat=${coords.latitude}&lon=${coords.longitude}`)
+      ({ coords: position }) => {
+        const nextCoords = { lat: position.latitude, lng: position.longitude };
+        setCoords(nextCoords);
+        writeCoords(nextCoords);
+
+        fetch(`/api/location?lat=${position.latitude}&lon=${position.longitude}`)
           .then((res) => res.json())
           .then((data: { town: string | null; countryCode: string | null }) => {
             setLocation([data.countryCode, data.town].filter(Boolean).join(" · ") || "Location unavailable");
