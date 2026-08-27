@@ -19,17 +19,15 @@ import { DEFAULT_FILTERS, readFilters, writeFilters } from "@/lib/filters";
 import { BUDGET_OPTIONS, CUISINE_OPTIONS, DIETARY_OPTIONS } from "@/lib/options";
 
 export default function FiltersForm({
-  distanceRange,
   coords,
 }: {
-  distanceRange: { min: number; max: number };
   coords: Coords | null;
 }) {
   const router = useRouter();
   const [budget, setBudget] = useState<string>(DEFAULT_FILTERS.budget);
   const [cuisines, setCuisines] = useState<string[]>(DEFAULT_FILTERS.cuisines);
   const [dietary, setDietary] = useState<string>(DEFAULT_FILTERS.dietary);
-  const [distance, setDistance] = useState(distanceRange.max);
+  const [distance, setDistance] = useState(1);
   const [dishCount, setDishCount] = useState<number | null>(null);
 
   useEffect(() => {
@@ -37,8 +35,8 @@ export default function FiltersForm({
     setBudget(saved.budget);
     setCuisines(saved.cuisines);
     setDietary(saved.dietary);
-    setDistance(Math.min(Math.max(saved.distance, distanceRange.min), distanceRange.max));
-  }, [distanceRange.min, distanceRange.max]);
+    setDistance(Math.min(Math.max(saved.distance, 2.4), 10));
+  }, []);
 
   useEffect(() => {
     const params = new URLSearchParams({ budget, dietary, distance: String(distance) });
@@ -115,8 +113,8 @@ export default function FiltersForm({
             <Slider
               value={distance}
               onChange={(_, value) => setDistance(value as number)}
-              min={distanceRange.min}
-              max={distanceRange.max}
+              min={0.1}
+              max={10}
               step={0.5}
               color="primary"
             />

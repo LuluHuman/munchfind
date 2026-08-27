@@ -6,7 +6,6 @@ import { getDistanceRange } from "@/lib/restaurants";
 export default async function FiltersPage() {
   const cookieStore = await cookies();
   const coords = parseCoordsValue(cookieStore.get(COORDS_COOKIE_NAME)?.value);
-  const distanceRange = getDistanceRange(coords);
 
-  return <FiltersForm distanceRange={distanceRange} coords={coords} />;
+  return <FiltersForm coords={coords} />;
 }
