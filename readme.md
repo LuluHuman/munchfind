@@ -45,7 +45,7 @@ The expected outcome is a working prototype that demonstrates this core decision
 - **Optional filters** &mdash; narrow the pool by budget, cuisine, dietary restriction, and distance (`/filters`) before rolling. Filter choices persist in a cookie (`mf_filters`) so they stick between visits.
 - **Reroll cap** &mdash; rerolling a result is capped at 10 rolls per hour (tracked client-side via `localStorage`), so the app still nudges you toward committing instead of re-rolling forever. See [rolls.ts](/src/lib/rolls.ts).
 - **Result page** &mdash; `/result` calls the result API, shows the picked dish/restaurant, and lets you reroll within the cap.
-- **Seeded local dataset** &mdash; real restaurant + full menu data scraped from Grab, one JSON file per restaurant under [src/data/restaurants/](/src/data/restaurants/), built into a local SQLite database ([munchfind.sqlite](/src/data/munchfind.sqlite)) via `npm run db:build` ([build-db.mjs](/scripts/build-db.mjs)). See [disclosure.md](/src/data/disclosure.md).
+- **Seeded local dataset** &mdash; real restaurant + full menu data scraped from Grab, shipped as a prebuilt local SQLite database ([munchfind.sqlite](/src/data/munchfind.sqlite)). Scraping and building the database happens in a separate repo, [munchfind-grab-scraper](https://github.com/LuluHuman/munchfind-grab-scraper). See [disclosure.md](/src/data/disclosure.md).
 - **Small API surface** &mdash; `/api/result` (pick a dish given current filters), `/api/restaurants/count` (pool size for the current filters), `/api/location` (currently hardcoded to Simei, SG &mdash; see the disclaimer above).
 
 # Tech Stack
@@ -53,7 +53,7 @@ The expected outcome is a working prototype that demonstrates this core decision
 - [Next.js](https://nextjs.org) 16 (App Router) + React 19 + TypeScript
 - [MUI](https://mui.com/material-ui/) with a custom Material 3 theme ([src/theme/](/src/theme/)) for the UI
 - Tailwind CSS 4 for the odds and ends
-- Node's built-in `node:sqlite` for the local restaurant/dish database, built from scraped JSON source data via a script, not an ORM
+- Node's built-in `node:sqlite` for the local restaurant/dish database, built from scraped Grab data by [munchfind-grab-scraper](https://github.com/LuluHuman/munchfind-grab-scraper), not an ORM
 
 # Getting Started
 
@@ -93,11 +93,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see this monstrosity.
 
-The repo already ships a built [munchfind.sqlite](/src/data/munchfind.sqlite), so this is optional, but if you touch the source data under [src/data/restaurants/](/src/data/restaurants/) you'll want to regenerate the database:
-
-```bash
-npm run db:build
-```
+The repo already ships a built [munchfind.sqlite](/src/data/munchfind.sqlite), so no scraping or database build step is needed to run this app. If you want to regenerate or extend the dataset, that happens in the separate [munchfind-grab-scraper](https://github.com/LuluHuman/munchfind-grab-scraper) repo.
 
 # Contributors
 
