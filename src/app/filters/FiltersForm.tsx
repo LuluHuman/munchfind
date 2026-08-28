@@ -35,7 +35,7 @@ export default function FiltersForm({
     setBudget(saved.budget);
     setCuisines(saved.cuisines);
     setDietary(saved.dietary);
-    setDistance(Math.min(Math.max(saved.distance, 2.4), 10));
+    setDistance(saved.distance);
   }, []);
 
   useEffect(() => {
@@ -113,7 +113,7 @@ export default function FiltersForm({
             <Slider
               value={distance}
               onChange={(_, value) => setDistance(value as number)}
-              min={0.1}
+              min={0}
               max={10}
               step={0.5}
               color="primary"

@@ -9,7 +9,7 @@ export const DEFAULT_FILTERS: FilterState = {
   budget: "Any",
   cuisines: [],
   dietary: "None",
-  distance: 5,
+  distance: 0.1,
 };
 
 export const COOKIE_NAME = "mf_filters";
